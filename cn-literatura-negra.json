@@ -3137,10 +3137,13 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Estudio en escarlata",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1887\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1887</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Estudio en escarlata</h3>\n    <p><strong>Novela:</strong> Arthur Conan Doyle introduce a Sherlock Holmes, detective que aplica deducción lógica, observación y métodos científicos a la investigación literaria. En su primera aventura, Sherlock Holmes investiga un asesinato mediante observaciones y deducciones que desconciertan a Scotland Yard. La obra también presenta al doctor Watson, su futuro narrador inseparable.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1887\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1887</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Estudio en escarlata</h3>\n    <p><strong>Novela:</strong> Arthur Conan Doyle introduce a Sherlock Holmes, detective que aplica deducción lógica, observación y métodos científicos a la investigación literaria. En su primera aventura, Sherlock Holmes investiga un asesinato mediante observaciones y deducciones que desconciertan a Scotland Yard. La obra también presenta al doctor Watson, su futuro narrador inseparable. La segunda parte de la novela sitúa el origen de los homicidios en Utah y presenta una comunidad mormona ficticia con mecanismos de vigilancia y coerción. Esa representación literaria, marcada por prejuicios de su época, no debe confundirse con una descripción histórica de los creyentes mormones ni con una organización delictiva real.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://www.britannica.com/topic/A-Study-in-Scarlet"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1683
+    "orden": 1683,
+    "tema": "SECTAS CRIMINALES"
   },
   {
     "yr": 1890,
@@ -4429,5 +4432,132 @@
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
     "orden": 51005,
     "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
+  },
+  {
+    "yr": 1967,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Ritual: un policía investiga la muerte de una niña en una comunidad cerrada",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1967\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1967</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Ritual: un policía investiga la muerte de una niña en una comunidad cerrada</h3>\n    <p><strong>Novela de investigación y horror · David Pinner:</strong> Publicada originalmente en 1967, <em>Ritual</em> sigue a David Hanlin, un policía de convicciones rígidas que debe esclarecer la muerte de una niña en una localidad rural de Cornualles. La hostilidad de los habitantes, las prácticas rituales y una nueva muerte convierten su pesquisa en un relato de sospecha colectiva y posible violencia comunitaria. Su estructura de investigación criminal sirvió de punto de partida, transformado posteriormente, para <em>El hombre de mimbre</em> (1973).</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.casadellibro.com/libro-ritual/9788492837694/2276232",
+      "https://books.google.com/books/about/Ritual.html?id=W6rXoAEACAAJ"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52001,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 1981,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los sin nombre: Ramsey Campbell sigue la pista de una niña desaparecida",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1981\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1981</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los sin nombre: Ramsey Campbell sigue la pista de una niña desaparecida</h3>\n    <p><strong>Thriller criminal y horror · Ramsey Campbell:</strong> Ramsey Campbell publica <em>The Nameless</em> en 1981, traducida como <em>Los sin nombre</em>. Una madre cuyo pasado está marcado por la desaparición de su hija empieza a sospechar que la verdad oficial no explica lo sucedido. Su búsqueda conduce hacia una organización clandestina que utiliza el sufrimiento y la obediencia para ejercer violencia. La novela combina pistas, desapariciones y una secta criminal dentro del terror psicológico, y fue adaptada por Jaume Balagueró en 1999.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://books.google.com/books/about/The_Nameless.html?id=b6QOAQAAMAAJ",
+      "https://www.uniliber.com/ficha/los-sin-nombre_117365025/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52002,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 1982,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Religion: asesinatos rituales e investigación en Nueva York",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1982\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1982</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Religion: asesinatos rituales e investigación en Nueva York</h3>\n    <p><strong>Thriller criminal y horror · Nicholas Condé:</strong> En <em>The Religion</em> (1982), Nicholas Condé sitúa a un psicólogo vinculado al ámbito policial ante una serie de asesinatos y desapariciones de menores en Nueva York. La trama conduce a un grupo clandestino que justifica sus crímenes mediante rituales imaginados. La novela, adaptada como <em>Los creyentes</em> (1987), interesa por su investigación de homicidios organizados. Sus asociaciones ficticias entre sacrificios humanos y religiones afroamericanas no deben presentarse como una descripción fiable de la santería.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.kirkusreviews.com/book-reviews/a/nicholas-conda/the-religion-3/",
+      "https://catalog.afi.com/Film/57550-THE-BELIEVERS"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52003,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 2009,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los últimos días: un detective forzado a investigar dentro de una secta",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los últimos días: un detective forzado a investigar dentro de una secta</h3>\n    <p><strong>Novela detectivesca y terror · Brian Evenson:</strong> Brian Evenson publica <em>Last Days</em> en 2009, editada en español como <em>Los últimos días</em>. Kline, un investigador que ha sufrido una mutilación, es obligado a esclarecer la muerte de un dirigente de una comunidad clandestina que considera la amputación un signo de elevación espiritual. El detective debe descifrar una estructura de obediencia extrema mientras se convierte él mismo en prisionero. Combina el enigma clásico del asesinato con la violencia y el encierro de una organización coercitiva.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://coffeehousepress.org/products/last-days",
+      "https://dilatandomenteseditorial.com/inicio/88-los-ultimos-dias-de-brian-evenson.html",
+      "https://catalogue.bnf.fr/ark:/12148/cb41434909g"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52004,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 2015,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Sekten på Dimön: el encierro coercitivo en una isla sueca",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2015\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Sekten på Dimön: el encierro coercitivo en una isla sueca</h3>\n    <p><strong>Thriller psicológico · Mariette Lindstein:</strong> La escritora sueca Mariette Lindstein publica <em>Sekten på Dimön</em> en 2015, difundida en inglés como <em>Fog Island</em>. Sofia entra en una comunidad aparentemente dedicada al crecimiento personal, dirigida por un líder carismático, pero su experiencia deriva en aislamiento, vigilancia y pérdida de libertad. La novela se construye como un thriller sobre manipulación, cautiverio y resistencia. Lindstein había pertenecido durante años a una organización de alto control, experiencia que inspiró la ficción, sin que sus personajes deban identificarse automáticamente con personas reales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://enbergagency.se/mariette-lindstein/",
+      "https://www.harperreach.com/products/fog-island-a-terrifying-thriller-set-in-a-modern-day-cult-fog-island-trilogy-book-1-mariette-lindstein-9780008245344/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52005,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 2016,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Las chicas: Emma Cline reimagina la captación del entorno de Manson",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2016\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Las chicas: Emma Cline reimagina la captación del entorno de Manson</h3>\n    <p><strong>Ficción criminal · Emma Cline:</strong> Emma Cline publica <em>Las chicas</em> (<em>The Girls</em>) en 2016, novela inspirada libremente en los asesinatos asociados a Charles Manson. Una adolescente se siente atraída por la comunidad de un líder carismático, pero la historia da especial protagonismo a las relaciones entre las jóvenes que viven en ella y al proceso de captación que precede a la violencia. No reconstruye literalmente los homicidios de 1969: explora literariamente cómo se crea la obediencia en un grupo capaz de cometer crímenes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.anagrama-ed.es/libro/panorama-de-narrativas/las-chicas/9788433928078/PN_929",
+      "https://www.penguinrandomhouse.com/books/251794/the-girls-by-emma-cline/9780812988024/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52006,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 2019,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Dentro de casa: una familia sometida al control de un extraño",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Dentro de casa: una familia sometida al control de un extraño</h3>\n    <p><strong>Thriller psicológico · Lisa Jewell:</strong> Lisa Jewell publica en 2019 <em>The Family Upstairs</em>, conocida en España como <em>Dentro de casa</em>. Una joven hereda una casa de Chelsea relacionada con varias muertes antiguas y empieza a descubrir cómo un hombre carismático impuso reglas extremas y un sistema de dependencia sobre quienes vivían allí. La novela alterna pasado y presente para desvelar el destino de los ocupantes, con un misterio criminal que permite observar el sometimiento de una familia en un espacio cerrado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.planetadelibros.com/libro-dentro-de-casa/366834?soporte=373764",
+      "https://www.simonandschuster.com/books/The-Family-Upstairs/Lisa-Jewell/9781501190117"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52007,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 2019,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "In the Clearing: una desaparición revive el control de una comunidad sectaria",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>In the Clearing: una desaparición revive el control de una comunidad sectaria</h3>\n    <p><strong>Thriller de desapariciones · J. P. Pomare:</strong> El escritor neozelandés J. P. Pomare publica <em>In the Clearing</em> en 2019. Una desaparición infantil y los recuerdos de quienes crecieron bajo el dominio de una comunidad aislada sostienen una historia de secuestro, identidades condicionadas y secretos familiares. La investigación no se limita a un ambiente religioso extraño: trata de niños apartados de sus familias y del poder de quienes controlan su vida. La novela inspiró la miniserie australiana <em>The Clearing</em> (2023).</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hachettebookgroup.com/titles/jp-pomare/in-the-clearing/9781549130632/",
+      "https://www.disneyplus.com/es-es/browse/entity-12fe7300-6d54-4e95-97b4-452301e739a3"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52008,
+    "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 2022,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Last Housewife: investigar las muertes alrededor de una red coercitiva",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Last Housewife: investigar las muertes alrededor de una red coercitiva</h3>\n    <p><strong>Thriller criminal · Ashley Winstead:</strong> Ashley Winstead publica <em>The Last Housewife</em> en 2022. Shay Evans descubre noticias inquietantes sobre las mujeres con quienes compartió una experiencia universitaria marcada por un hombre manipulador. Su búsqueda la lleva a investigar una red de abuso, explotación y control psicológico que continúa activa. La novela sitúa las muertes sospechosas y la obtención de información en el centro de un thriller sobre violencia ejercida por una estructura organizada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sourcebooks.com/the-last-housewife.html",
+      "https://www.ashleywinstead.com/the-last-housewife"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 52009,
+    "tema": "SECTAS CRIMINALES"
   }
 ]
