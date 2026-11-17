@@ -128,10 +128,11 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El asesino dentro de mí: Jim Thompson narra desde la mente del homicida",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1952\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1952</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El asesino dentro de mí: Jim Thompson narra desde la mente del homicida</h3>\n    <p><strong>Novela negra · Estados Unidos:</strong> Jim Thompson publica <em>The Killer Inside Me</em>, conocida en español como <em>El asesino dentro de mí</em>. El narrador, Lou Ford, es un ayudante de sheriff de apariencia apacible cuya conducta criminal se descubre a través de su propia voz. Las muertes suceden en episodios separados, mientras el protagonista manipula a la comunidad. Su aportación no es describir un perfil clínico, sino convertir la subjetividad engañosa del asesino en motor del noir.</p>\n    <p><strong>Clave del género — Narrador criminal y normalidad aparente:</strong> Lou Ford narra desde su propia perspectiva una violencia que contrasta con su aspecto de policía corriente.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1952\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1952</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El asesino dentro de mí: Jim Thompson narra desde la mente del homicida</h3>\n    <p><strong>Novela negra · Estados Unidos:</strong> Jim Thompson publica <em>The Killer Inside Me</em>, conocida en español como <em>El asesino dentro de mí</em>. El narrador, Lou Ford, es un ayudante de sheriff de apariencia apacible cuya conducta criminal se descubre a través de su propia voz. Las muertes suceden en episodios separados, mientras el protagonista manipula a la comunidad. Su aportación no es describir un perfil clínico, sino convertir la subjetividad engañosa del asesino en motor del noir.</p>\n    <p><strong>Clave del género — Narrador criminal y normalidad aparente:</strong> Lou Ford narra desde su propia perspectiva una violencia que contrasta con su aspecto de policía corriente.</p>\n    <p><strong>Relación con el canon del noir:</strong> Lou Ford inaugura en la narrativa de Thompson un modelo de agente del orden que utiliza su autoridad como cobertura del crimen. Esa inversión reaparece, con una sátira política aún más grotesca, en <em>1280 almas</em> (1964), que no debe confundirse con esta novela.</p>\n  </div>\n</article>",
     "fuentes": [
-      "de contraste: https://www.penguinrandomhouse.com/authors/2339324/jim-thompson/",
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://www.penguinrandomhouse.com/authors/2339324/jim-thompson/",
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.rbalibros.com/serie-negra/asesino-dentro_3887"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 123
@@ -1980,8 +1981,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La novia vestía de negro: Cornell Woolrich convierte la venganza en fatalidad",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1940\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1940</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La novia vestía de negro: Cornell Woolrich convierte la venganza en fatalidad</h3>\n    <p><strong>Novela · 1940:</strong> Cornell Woolrich publica <em>The Bride Wore Black</em>, una de las obras fundamentales de su etapa negra. Una mujer misteriosa comienza a relacionarse con distintos hombres cuyas vidas terminan marcadas por la muerte. La novela sustituye buena parte del enigma detectivesco tradicional por una atmósfera de obsesión, amenaza y fatalismo. Woolrich convierte el miedo y la inevitabilidad de la tragedia en motores narrativos del suspense psicológico, anticipando algunas de las grandes constantes del noir cinematográfico. François Truffaut adaptará la obra al cine en 1968.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1940\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1940</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La novia vestía de negro: Cornell Woolrich convierte la venganza en fatalidad</h3>\n    <p><strong>Novela · 1940:</strong> Cornell Woolrich publica <em>The Bride Wore Black</em>, una de las obras fundamentales de su etapa negra. Una mujer misteriosa comienza a relacionarse con distintos hombres cuyas vidas terminan marcadas por la muerte. La novela sustituye buena parte del enigma detectivesco tradicional por una atmósfera de obsesión, amenaza y fatalismo. Woolrich convierte el miedo y la inevitabilidad de la tragedia en motores narrativos del suspense psicológico, anticipando algunas de las grandes constantes del noir cinematográfico. François Truffaut adaptará la obra al cine en 1968.</p>\n    <p><strong>En la trayectoria de Woolrich:</strong> Esta novela inaugura una etapa de suspense fatalista que continúa con <em>La mujer fantasma</em> (1942), <em>El ángel negro</em> (1943) y <em>La noche tiene mil ojos</em> (1945). Cada obra desarrolla un mecanismo diferente: venganza, coartada desaparecida, investigación desesperada y fatalidad anunciada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.delphiclassics.com/shop/cornell-woolrich/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1493
   },
@@ -3053,8 +3056,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El caso N'Gustro: Manchette inaugura una nueva etapa del polar francés",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1971\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El caso N'Gustro: Manchette inaugura una nueva etapa del polar francés</h3>\n    <p><strong>Novela · Abril:</strong> Jean-Patrick Manchette publica <em>L'Affaire N'Gustro</em> en la colección Série Noire de Gallimard. Inspirada en el secuestro y asesinato del opositor marroquí Mehdi Ben Barka, la novela utiliza la ficción criminal para explorar las conexiones entre delincuencia, servicios secretos y poder político. Su narrativa violenta, desencantada y crítica con las instituciones representa uno de los puntos de partida del <em>néo-polar</em> francés. Manchette recupera así la dimensión social y política del hardboiled y la adapta a las tensiones de la Francia contemporánea.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1971\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El caso N'Gustro: Manchette inaugura una nueva etapa del polar francés</h3>\n    <p><strong>Novela · Abril:</strong> Jean-Patrick Manchette publica <em>L'Affaire N'Gustro</em> en la colección Série Noire de Gallimard. Inspirada en el secuestro y asesinato del opositor marroquí Mehdi Ben Barka, la novela utiliza la ficción criminal para explorar las conexiones entre delincuencia, servicios secretos y poder político. Su narrativa violenta, desencantada y crítica con las instituciones representa uno de los puntos de partida del <em>néo-polar</em> francés. Manchette recupera así la dimensión social y política del hardboiled y la adapta a las tensiones de la Francia contemporánea.</p>\n    <p><strong>Continuidad histórica:</strong> La denuncia de las conexiones entre crimen y Estado que presenta esta obra se radicalizará en <em>Nada</em> (1972), <em>Fatale</em> (1977) y <em>Caza al asesino</em> (1981). Son tres novelas distintas, que permiten recorrer la evolución de Manchette y del <em>néo-polar</em> francés.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.anagrama-ed.es/autor/manchette-jean-patrick-673"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1621
   },
@@ -3502,8 +3507,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "En un lugar solitario",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1947\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1947</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>En un lugar solitario</h3>\n    <p><strong>Novela:</strong> Dorothy B. Hughes publica una obra psicológica sobre violencia, sospecha y masculinidad perturbada, anticipando el giro más oscuro del noir de posguerra. Dorothy B. Hughes presenta un relato de sospecha y amenaza que luego inspirará la película homónima de Nicholas Ray. La historia explora la violencia tras las apariencias cotidianas.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1947\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1947</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>En un lugar solitario</h3>\n    <p><strong>Novela:</strong> Dorothy B. Hughes publica una obra psicológica sobre violencia, sospecha y masculinidad perturbada, anticipando el giro más oscuro del noir de posguerra. Dorothy B. Hughes presenta un relato de sospecha y amenaza que luego inspirará la película homónima de Nicholas Ray. La historia explora la violencia tras las apariencias cotidianas.</p>\n    <p><strong>Especificidad del noir femenino:</strong> La obra de Dorothy B. Hughes aborda la violencia misógina desde una construcción de sospecha e interioridad que no debe confundirse con los cambios narrativos de la adaptación cinematográfica de Nicholas Ray. Su perspectiva constituye una alternativa crítica a la glorificación del hombre violento de parte del noir clásico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.loa.org/writers/546-dorothy-b-hughes/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1821
   },
@@ -3560,8 +3567,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Por amor a Imabelle",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Por amor a Imabelle</h3>\n    <p><strong>Novela:</strong> Chester Himes publica la primera novela de Coffin Ed Johnson y Grave Digger Jones, llevando el noir a Harlem con violencia, humor negro y crítica racial. Coffin Ed Johnson y Grave Digger Jones investigan en un Harlem retratado con ironía, tensión racial y violencia. Himes aporta una voz distinta al policial estadounidense.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Por amor a Imabelle</h3>\n    <p><strong>Novela:</strong> Chester Himes publica la primera novela de Coffin Ed Johnson y Grave Digger Jones, llevando el noir a Harlem con violencia, humor negro y crítica racial. Coffin Ed Johnson y Grave Digger Jones investigan en un Harlem retratado con ironía, tensión racial y violencia. Himes aporta una voz distinta al policial estadounidense.</p>\n    <p><strong>Hito de la serie:</strong> La primera aventura de Sepulturero Jones y Ataúd Ed Johnson inaugura el ciclo de Harlem, cuya mezcla de procedimientos policiales, violencia grotesca, racismo y humor negro evolucionará en novelas como <em>La banda de los musulmanes</em>, <em>Todos muertos</em> y <em>Algodón en Harlem</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://aquibiblioteca.uc3m.es/2017/10/19/chester-himes-me-atrapo/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1833
   },
@@ -6985,11 +6994,12 @@
     "yr": 1954,
     "tipo": "ficcion",
     "fecha": "",
-    "titulo": "A Hell of a Woman: narrador criminal y descomposición formal",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1954\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1954</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>A Hell of a Woman: narrador criminal y descomposición formal</h3>\n    <p><strong>Jim Thompson · 1954 · narrador criminal y descomposición formal.</strong> Frank «Dolly» Dillon, vendedor a domicilio y estafador, se hunde en una cadena de codicia, violencia y autojustificaciones. La primera persona no sirve para confiar en el protagonista, sino para asistir al deterioro de su conciencia. Thompson llega a fragmentar el propio discurso narrativo, un experimento que demuestra que una novela barata de crimen podía utilizar técnicas literarias extremas.</p>\n    \n  </div>\n</article>",
+    "titulo": "Una mujer endemoniada: narrador criminal y descomposición formal",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1954\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1954</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Una mujer endemoniada: narrador criminal y descomposición formal</h3>\n    <p><strong>Jim Thompson · 1954 · narrador criminal y descomposición formal.</strong> Frank «Dolly» Dillon, vendedor a domicilio y estafador, se hunde en una cadena de codicia, violencia y autojustificaciones. La primera persona no sirve para confiar en el protagonista, sino para asistir al deterioro de su conciencia. Thompson llega a fragmentar el propio discurso narrativo, un experimento que demuestra que una novela barata de crimen podía utilizar técnicas literarias extremas.</p>\n    <p><strong>Título original:</strong> <em>A Hell of a Woman</em>.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.loa.org/books/five-noir-novels-of-the-1950s-60s/",
-      "https://www.loa.org/news-and-views/dime-stores-bus-stations-robert-polito-on-the-savage-art-of-jim-thompson/"
+      "https://www.loa.org/news-and-views/dime-stores-bus-stations-robert-polito-on-the-savage-art-of-jim-thompson/",
+      "https://www.rbalibros.com/serie-negra/una-mujer-endemoniada_5391"
     ],
     "procedencia": "Ampliación de clásicos fundamentales del noir · 17 noviembre 2026",
     "orden": 61177,
