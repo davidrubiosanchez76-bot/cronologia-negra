@@ -1533,9 +1533,12 @@
     "fecha": "",
     "titulo": "Libra: Don DeLillo transforma los disparos de Dallas en una novela conspirativa",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1988\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1988</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Libra: Don DeLillo transforma los disparos de Dallas en una novela conspirativa</h3>\n    <p><strong>Novela · 1988:</strong> Don DeLillo publica <em>Libra</em>, una ficción histórica centrada en Lee Harvey Oswald y en las circunstancias que desembocaron en el asesinato del presidente John F. Kennedy en 1963. La novela combina personajes reales, documentación y conspiraciones imaginadas para explorar la identidad de Oswald, la preparación del atentado y la incertidumbre que rodea su interpretación. El arma, el lugar desde donde se efectuaron los disparos y las reconstrucciones del crimen forman parte del trasfondo histórico de la narración. Su propuesta es literaria: no constituye una prueba de ninguna hipótesis balística sobre el asesinato.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.cambridge.org/core/books/abs/cambridge-companion-to-don-delillo/libra/E6E90D8E2FD66B862C7F4879A7875AC3"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1156
+    "orden": 1156,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   },
   {
     "yr": 1993,
@@ -2459,9 +2462,12 @@
     "fecha": "",
     "titulo": "El mensajero del miedo: el asesino que no sabe que es un asesino",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1959\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1959</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El mensajero del miedo: el asesino que no sabe que es un asesino</h3>\n    <p><strong>Novela · 1959:</strong> Richard Condon publica un thriller político sobre un veterano estadounidense sometido a técnicas de manipulación mental y convertido en instrumento de una conspiración internacional. La historia combina espionaje, asesinato, Guerra Fría y desconfianza hacia las instituciones. Su principal innovación narrativa es la figura del asesino condicionado, incapaz de controlar plenamente sus actos o comprender quién lo utiliza. La novela se convierte en una referencia del thriller de conspiraciones políticas y del suspense paranoico, anticipando numerosos relatos posteriores sobre manipulación, servicios secretos y poder.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://search.worldcat.org/title/52409655"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1555
+    "orden": 1555,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   },
   {
     "yr": 1962,
@@ -2988,10 +2994,13 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El complot mongol: Rafael Bernal lleva el hardboiled a México",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El complot mongol: Rafael Bernal lleva el hardboiled a México</h3>\n    <p><strong>Novela · 1969:</strong> Rafael Bernal publica <em>El complot mongol</em>, una obra fundamental de la novela negra mexicana. Filiberto García, un veterano ejecutor al servicio de las autoridades, debe investigar una conspiración internacional que lo conduce al barrio chino de Ciudad de México. La historia combina espionaje, asesinatos, corrupción política y una violencia expresada mediante un lenguaje popular, seco y desencantado. Inspirada en la tradición estadounidense del hardboiled, la novela desarrolla una identidad propia y se convierte en una referencia decisiva para la literatura criminal latinoamericana.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El complot mongol: Rafael Bernal lleva el hardboiled a México</h3>\n    <p><strong>Novela · 1969:</strong> Rafael Bernal publica <em>El complot mongol</em>, una obra fundamental de la novela negra mexicana. Filiberto García, un veterano ejecutor al servicio de las autoridades, debe investigar una supuesta conspiración internacional para asesinar al presidente de Estados Unidos durante una visita a México, una amenaza que lo conduce al barrio chino de la capital. La historia combina espionaje, asesinatos, corrupción política y una violencia expresada mediante un lenguaje popular, seco y desencantado. Inspirada en la tradición estadounidense del hardboiled, la novela desarrolla una identidad propia y se convierte en una referencia decisiva para la literatura criminal latinoamericana.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.librosdelasteroide.com/public/libro/el-complot-mongol"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1620
+    "orden": 1620,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   },
   {
     "yr": 1971,
@@ -4350,5 +4359,75 @@
     "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
     "orden": 50019,
     "tema": "TERRORISMO Y ATENTADOS"
+  },
+  {
+    "yr": 1966,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Z: una novela investiga el asesinato de un diputado griego",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1966\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1966</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Z: una novela investiga el asesinato de un diputado griego</h3>\n    <p><strong>Novela político-criminal · Vassilis Vassilikos:</strong> Publicada originalmente en Grecia en 1966, <em>Z</em> recrea mediante procedimientos de ficción el asesinato del parlamentario y pacifista Grigoris Lambrakis, cometido en Salónica en 1963. Una investigación judicial intenta desmontar la versión oficial mientras las pistas apuntan a grupos parapoliciales y a la connivencia del poder. La novela adopta una estructura de pesquisa criminal, no de simple crónica política, y fue adaptada por Costa-Gavras en 1969.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://sevenstories.com/books/3948-z-50th-anniversary-edition",
+      "https://caponeu.ffzg.unizg.hr/cdp/novels/z-phantastiko-dokimantair-enos-englimatos"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51001,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
+  },
+  {
+    "yr": 1974,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Lágrimas de otoño: un espía investiga el asesinato de Kennedy",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1974\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1974</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Lágrimas de otoño: un espía investiga el asesinato de Kennedy</h3>\n    <p><strong>Thriller de espionaje · Charles McCarry:</strong> En <em>The Tears of Autumn</em> (1974), Charles McCarry presenta a Paul Christopher, un agente que formula una explicación ficticia del asesinato de John F. Kennedy vinculada a los conflictos políticos de Vietnam y a la caída del presidente Ngo Dinh Diem. Sus indagaciones atraviesan fronteras mientras sus superiores le ordenan abandonar la pesquisa. La trama utiliza el magnicidio como motor de una investigación de inteligencia, sin pretender ofrecer una conclusión histórica demostrada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.kirkusreviews.com/book-reviews/a/charles-mccarry-3/the-tears-of-autumn/",
+      "https://sistema-biblio.unp.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=1361"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51002,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
+  },
+  {
+    "yr": 1995,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "América: la mafia, los servicios secretos y el asesinato de Kennedy",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>América: la mafia, los servicios secretos y el asesinato de Kennedy</h3>\n    <p><strong>Novela negra · James Ellroy:</strong> James Ellroy publica <em>American Tabloid</em>, conocida en español como <em>América</em>, en 1995. Tres personajes se mueven entre la mafia, el FBI, los intereses de Howard Hughes y los círculos de poder de los Kennedy, mientras se aproxima el asesinato presidencial de Dallas en 1963. El libro fusiona crónica criminal imaginaria y violencia política en un retrato de los bajos fondos estadounidenses. La conspiración que narra es una construcción novelesca, no una versión probada de los hechos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinrandomhouse.com/books/46215/american-tabloid-by-james-ellroy/",
+      "https://www.casadellibro.com/ebook-american-tabloid-ebook/9781448108596/2903347"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51003,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
+  },
+  {
+    "yr": 2001,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El jardinero fiel: la muerte de una activista revela una conspiración",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2001\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El jardinero fiel: la muerte de una activista revela una conspiración</h3>\n    <p><strong>Thriller político · John le Carré:</strong> En <em>El jardinero fiel</em> (<em>The Constant Gardener</em>, 2001), la activista Tessa Quayle aparece asesinada en el norte de Kenia. Su marido, un diplomático británico, decide investigar las circunstancias de la muerte y encuentra vínculos con ensayos farmacéuticos, intereses económicos y encubrimientos institucionales. La novela amplía el concepto de asesinato político a quienes denuncian abusos del poder y sitúa la investigación de un homicidio en el centro de un thriller internacional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.juntadeandalucia.es/aaiicc/caletras/libros/el-jardinero-fiel",
+      "https://www.casadellibro.com/libro-el-jardinero-fiel/9788497592949/873927"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51004,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
+  },
+  {
+    "yr": 2007,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Expediente del atentado: investigar la tentativa contra Porfirio Díaz",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2007\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2007</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Expediente del atentado: investigar la tentativa contra Porfirio Díaz</h3>\n    <p><strong>Novela histórica criminal · Álvaro Uribe:</strong> Álvaro Uribe publica en 2007 una novela basada en la tentativa contra Porfirio Díaz del 16 de septiembre de 1897. La muerte posterior del agresor Arnulfo Arroyo y los relatos contrapuestos sobre su detención permiten construir una pesquisa a partir de declaraciones, documentos y versiones oficiales. Su estructura de expediente y reconstrucción convierte el magnicidio fallido en una investigación literaria sobre policía, prensa y poder. El relato ficcionaliza hechos históricos sin sustituir a la documentación primaria.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.elem.mx/obra/datos/5864",
+      "https://www.juntadeandalucia.es/aaiicc/caletras/libros/expediente-del-atentado"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51005,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   }
 ]
