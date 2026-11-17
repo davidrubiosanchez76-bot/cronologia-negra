@@ -6392,12 +6392,15 @@
   {
     "yr": 1865,
     "tipo": "crimen",
-    "fecha": "",
+    "fecha": "1865-04-14",
     "titulo": "Asesinato de Abraham Lincoln",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1865\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1865</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Asesinato de Abraham Lincoln</h3>\n    <p><strong>Crimen:</strong> El magnicidio del presidente desencadena una de las mayores operaciones de búsqueda en la historia temprana de Estados Unidos. John Wilkes Booth disparó a Lincoln en el teatro Ford de Washington y huyó. La persecución posterior movilizó a militares y detectives, mostrando la dificultad de coordinar una búsqueda de alcance nacional.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1865-04-14\" data-tipo=\"crimen\" data-yr=\"1865\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1865</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Asesinato de Abraham Lincoln</h3>\n    <p><strong>Magnicidio · Washington, Estados Unidos · 14 de abril de 1865:</strong> John Wilkes Booth dispara contra Abraham Lincoln en el teatro Ford; el presidente muere al día siguiente. El actor, simpatizante confederado, formaba parte de una conspiración que también pretendía matar a otros miembros del Gobierno. El secretario de Estado William Seward resulta herido. La fuga y persecución de Booth movilizan a militares e investigadores, y los procesos contra sus cómplices exponen el alcance del plan.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://www.loc.gov/collections/abraham-lincoln-papers/articles-and-essays/assassination-of-president-abraham-lincoln/timeline/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1670
+    "orden": 1670,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   },
   {
     "yr": 1872,
@@ -9795,6 +9798,370 @@
     "procedencia": "Ampliación TERRORISMO Y ATENTADOS · 17 noviembre 2026",
     "orden": 50089,
     "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1170,
+    "tipo": "crimen",
+    "fecha": "1170-12-29",
+    "titulo": "Tomás Becket: el asesinato del arzobispo en Canterbury",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1170\" data-fecha=\"1170-12-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1170</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Tomás Becket: el asesinato del arzobispo en Canterbury</h3>\n    <p><strong>Magnicidio o asesinato político · Canterbury, Inglaterra · 29/12:</strong> Cuatro caballeros vinculados a Enrique II asesinan en la catedral al arzobispo Tomás Becket, tras un largo enfrentamiento sobre la autoridad del monarca frente a la Iglesia. La intervención directa del rey sigue siendo materia de interpretación. El crimen provoca una crisis política y religiosa y convierte a Becket en mártir, antecedente notable de los asesinatos de figuras públicas por conflictos de poder.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/becket-henry-dover-castle/"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50090,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1584,
+    "tipo": "crimen",
+    "fecha": "1584-07-10",
+    "titulo": "Guillermo de Orange: asesinan al líder de la rebelión neerlandesa",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1584\" data-fecha=\"1584-07-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1584</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Guillermo de Orange: asesinan al líder de la rebelión neerlandesa</h3>\n    <p><strong>Magnicidio o asesinato político · Delft, Países Bajos · 10/07:</strong> Balthasar Gérard dispara y mata a Guillermo de Orange, dirigente de la rebelión de los Países Bajos contra la monarquía hispánica. El magnicidio ocurre en un contexto de guerra de independencia y profundas divisiones religiosas. Figura entre los ejemplos históricos más conocidos de asesinato de un gran dirigente político mediante un arma de fuego.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rijksmuseum.nl/en/collection/object/De-moord-op-Willem-van-Oranje-1584--ada5fb52aa6f70ef64d5b90bf3921a7d"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50091,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1610,
+    "tipo": "crimen",
+    "fecha": "1610-05-14",
+    "titulo": "Enrique IV de Francia: asesinan al rey dentro de su carroza",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1610\" data-fecha=\"1610-05-14\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1610</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Enrique IV de Francia: asesinan al rey dentro de su carroza</h3>\n    <p><strong>Magnicidio o asesinato político · París, Francia · 14/05:</strong> François Ravaillac apuñala al rey Enrique IV mientras su carruaje se encuentra detenido en una calle de París. Los conflictos religiosos del país ayudan a explicar la motivación del agresor. La investigación y el proceso posterior despiertan dudas sobre la existencia de cómplices, pero no prueban necesariamente una gran conspiración. El magnicidio abre la regencia de María de Médici.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://cour-de-france.fr/vie-quotidienne/medecine-sciences-et-savoirs/etudes-modernes/article/la-mort-du-roi-henri-iv-14-mai-1610-analyse-du-compte-rendu?lang=de"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50092,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1793,
+    "tipo": "crimen",
+    "fecha": "1793-07-13",
+    "titulo": "Charlotte Corday asesina al revolucionario Jean-Paul Marat",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1793\" data-fecha=\"1793-07-13\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1793</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Charlotte Corday asesina al revolucionario Jean-Paul Marat</h3>\n    <p><strong>Magnicidio o asesinato político · París, Francia · 13/07:</strong> Charlotte Corday, simpatizante de los girondinos, apuñala al dirigente jacobino y periodista Jean-Paul Marat mientras se baña. Creía que con su muerte frenaría la violencia revolucionaria. Es juzgada y ejecutada cuatro días más tarde. El asesinato, inmortalizado en el cuadro de Jacques-Louis David, se convierte en símbolo de la lucha mortal entre facciones políticas de la Revolución francesa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gouv.fr/actualites/actualite/proces-charlotte-corday"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50093,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1870,
+    "tipo": "crimen",
+    "fecha": "1870-12-27",
+    "titulo": "Juan Prim: una emboscada acaba con la vida del presidente español",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1870\" data-fecha=\"1870-12-27\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1870</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Juan Prim: una emboscada acaba con la vida del presidente español</h3>\n    <p><strong>Magnicidio o asesinato político · Madrid, España · 27/12:</strong> El general Juan Prim recibe disparos mientras viaja en su berlina por Madrid y fallece el 30 de diciembre. El crimen se produce durante el proceso político que había facilitado la elección de Amadeo I como monarca. Los testimonios, el carruaje conservado y sucesivas revisiones históricas de las heridas mantienen el debate sobre la autoría y las circunstancias del atentado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://ejercito.defensa.gob.es/museo/comun/EL_MUSEO_DEL_EJERCITO_ES_NOTICIA/piezas/2022.05.17_VISION_HISTORICA_BERLINA_GENERAL_PRIM.html"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50094,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1898,
+    "tipo": "crimen",
+    "fecha": "1898-09-10",
+    "titulo": "Sissi: un anarquista asesina a la emperatriz de Austria",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1898\" data-fecha=\"1898-09-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1898</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Sissi: un anarquista asesina a la emperatriz de Austria</h3>\n    <p><strong>Magnicidio o asesinato político · Ginebra, Suiza · 10/09:</strong> Luigi Lucheni ataca con una lima afilada a Isabel de Austria, conocida como Sissi, cuando se dirige a un embarcadero en Ginebra. La emperatriz muere poco después. Lucheni, de ideas anarquistas, buscaba asesinar a una figura de la aristocracia y cambió de objetivo. Es un episodio representativo de los ataques antimonárquicos de finales del siglo XIX.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://blog.nationalmuseum.ch/en/2021/09/sisi-assassin-lucheni/"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50095,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1912,
+    "tipo": "crimen",
+    "fecha": "1912-11-12",
+    "titulo": "José Canalejas: un anarquista asesina al presidente ante una librería",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1912\" data-fecha=\"1912-11-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1912</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>José Canalejas: un anarquista asesina al presidente ante una librería</h3>\n    <p><strong>Magnicidio o asesinato político · Madrid, España · 12/11:</strong> El anarquista Manuel Pardiñas dispara contra el presidente del Gobierno José Canalejas mientras este observa el escaparate de una librería en la Puerta del Sol. Pardiñas muere inmediatamente después. El magnicidio interrumpe el programa reformista de Canalejas y agrava la crisis del sistema político de la Restauración. Es uno de los asesinatos de gobernantes más relevantes de la historia española del siglo XX.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/aga/actividades-y-exposiciones/destacados/magnicidios.html"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50096,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1919,
+    "tipo": "crimen",
+    "fecha": "1919-01-15",
+    "titulo": "Rosa Luxemburg y Karl Liebknecht: el asesinato de dos revolucionarios",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1919\" data-fecha=\"1919-01-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1919</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Rosa Luxemburg y Karl Liebknecht: el asesinato de dos revolucionarios</h3>\n    <p><strong>Magnicidio o asesinato político · Berlín, Alemania · 15/01:</strong> Una formación militar contrarrevolucionaria detiene y mata a Rosa Luxemburg y Karl Liebknecht durante la crisis revolucionaria de enero de 1919. Las primeras explicaciones públicas intentan ocultar el asesinato. Los procesos posteriores muestran las dificultades para exigir responsabilidades por la violencia paramilitar. El crimen ilustra la fragilidad de la República de Weimar en sus primeros meses.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/dokumente-zur-zeitgeschichte/ermordung-von-rosa-luxemburg-und-karl-liebknecht/"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50097,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1921,
+    "tipo": "crimen",
+    "fecha": "1921-03-08",
+    "titulo": "Eduardo Dato: asesinan al presidente desde una motocicleta",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1921\" data-fecha=\"1921-03-08\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1921</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Eduardo Dato: asesinan al presidente desde una motocicleta</h3>\n    <p><strong>Magnicidio o asesinato político · Madrid, España · 08/03:</strong> Varios anarquistas tirotean el automóvil oficial del presidente Eduardo Dato desde una motocicleta con sidecar en las proximidades de la Puerta de Alcalá. El asesinato se inscribe en el clima de conflicto laboral, represión y violencia del pistolerismo. Las investigaciones y procesos judiciales identifican a los participantes en uno de los magnicidios emblemáticos de la Restauración española.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cultura.gob.es/gl/cultura/areas/archivos/mc/archivos/aga/actividades-y-exposiciones/destacados/magnicidios.html"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50098,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1922,
+    "tipo": "crimen",
+    "fecha": "1922-06-24",
+    "titulo": "Walther Rathenau: la ultraderecha asesina al ministro alemán",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1922\" data-fecha=\"1922-06-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1922</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Walther Rathenau: la ultraderecha asesina al ministro alemán</h3>\n    <p><strong>Magnicidio o asesinato político · Berlín, Alemania · 24/06:</strong> Miembros de la organización ultraderechista Consul matan al ministro de Exteriores Walther Rathenau cuando se dirige al trabajo. El atentado provoca protestas multitudinarias y acelera la aprobación de medidas de protección de la República de Weimar. Las pesquisas relacionan el crimen con redes clandestinas que perseguían destruir el orden democrático mediante asesinatos políticos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/ermordung-rathenaus-1922"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50099,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1924,
+    "tipo": "crimen",
+    "fecha": "1924-06-10",
+    "titulo": "Giacomo Matteotti: un secuestro y asesinato sacuden al fascismo",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1924\" data-fecha=\"1924-06-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1924</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Giacomo Matteotti: un secuestro y asesinato sacuden al fascismo</h3>\n    <p><strong>Magnicidio o asesinato político · Roma, Italia · 10/06:</strong> El diputado socialista Giacomo Matteotti es secuestrado y asesinado por una banda fascista después de denunciar las prácticas violentas y las irregularidades electorales del régimen de Mussolini. La investigación señala vínculos entre los agresores y el entorno del poder. La crisis política posterior contribuye al paso hacia una dictadura abierta y convierte el caso en referencia de crimen político de Estado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://museovirtualematteotti.it/en/the-rooms/il-delitto-le-indagini-i-processi/"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50100,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1934,
+    "tipo": "crimen",
+    "fecha": "1934-07-25",
+    "titulo": "Engelbert Dollfuss: nazis austríacos matan al canciller durante un golpe",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1934\" data-fecha=\"1934-07-25\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1934</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Engelbert Dollfuss: nazis austríacos matan al canciller durante un golpe</h3>\n    <p><strong>Magnicidio o asesinato político · Viena, Austria · 25/07:</strong> Miembros del movimiento nazi austríaco irrumpen en la Cancillería Federal en un intento de golpe y hieren mortalmente al canciller Engelbert Dollfuss. Aunque dirigía un régimen autoritario, Dollfuss se oponía al control alemán de Austria. La conspiración fracasa, pero su muerte agrava la crisis del país y anticipa la lucha por su independencia frente al expansionismo nazi.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/visit-us/history/the-first-republic.html?lang=en"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50101,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1936,
+    "tipo": "crimen",
+    "fecha": "1936-07-13",
+    "titulo": "José Calvo Sotelo: un asesinato político en vísperas de la Guerra Civil",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1936\" data-fecha=\"1936-07-13\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1936</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>José Calvo Sotelo: un asesinato político en vísperas de la Guerra Civil</h3>\n    <p><strong>Magnicidio o asesinato político · Madrid, España · 13/07:</strong> El diputado monárquico José Calvo Sotelo es sacado de su casa por hombres relacionados con las fuerzas de seguridad y asesinado. El crimen sucede después del homicidio del teniente José del Castillo y agudiza la polarización de la Segunda República. No fue el origen único de la sublevación militar, cuya conspiración se había preparado antes, aunque fue utilizado intensamente en su propaganda.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/6057408"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50102,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1936,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Federico García Lorca: el poeta asesinado durante la represión de 1936",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1936\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1936</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Federico García Lorca: el poeta asesinado durante la represión de 1936</h3>\n    <p><strong>Magnicidio o asesinato político · Granada, España · agosto:</strong> Federico García Lorca es detenido y fusilado durante las primeras semanas de la Guerra Civil. Su muerte simboliza la persecución política y cultural de quienes fueron considerados enemigos del nuevo poder militar. Las investigaciones sobre su muerte han discutido tanto los móviles precisos como el día exacto de la ejecución. Se conserva el año y mes, sin atribuir una fecha diaria discutida.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bne.es/es/autores/garcia-lorca-federico"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50103,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "mes"
+  },
+  {
+    "yr": 1940,
+    "tipo": "crimen",
+    "fecha": "1940-08-20",
+    "titulo": "León Trotski: un agente estalinista asesina al revolucionario en México",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1940\" data-fecha=\"1940-08-20\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1940</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>León Trotski: un agente estalinista asesina al revolucionario en México</h3>\n    <p><strong>Magnicidio o asesinato político · Coyoacán, México · 20/08:</strong> Ramón Mercader golpea con un piolet a León Trotski dentro de su residencia mexicana; el revolucionario muere al día siguiente. El agresor había logrado acercarse a su círculo mediante una identidad falsa. La investigación y condena del ejecutor revelan una operación de violencia política transnacional contra un opositor de Stalin en el exilio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/131870"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50104,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1942,
+    "tipo": "crimen",
+    "fecha": "1942-05-27",
+    "titulo": "Operación Antropoide: la resistencia ataca al dirigente nazi Heydrich",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1942\" data-fecha=\"1942-05-27\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1942</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Operación Antropoide: la resistencia ataca al dirigente nazi Heydrich</h3>\n    <p><strong>Magnicidio o asesinato político · Praga, actual Chequia · 27/05:</strong> Agentes checoslovacos vinculados a la resistencia y entrenados con ayuda británica hieren al alto dirigente nazi Reinhard Heydrich, pieza esencial del aparato represivo y genocida. Heydrich muere el 4 de junio. Las fuerzas alemanas responden con represalias masivas, incluida la destrucción de Lidice y Ležáky. La operación perseguía a un responsable de la ocupación, no a civiles indiscriminadamente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/reinhard-heydrich-in-depth"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50105,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1944,
+    "tipo": "crimen",
+    "fecha": "1944-07-20",
+    "titulo": "Stauffenberg: fracasa el atentado de la Operación Valquiria contra Hitler",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1944\" data-fecha=\"1944-07-20\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Stauffenberg: fracasa el atentado de la Operación Valquiria contra Hitler</h3>\n    <p><strong>Magnicidio o asesinato político · Prusia Oriental, Alemania de entonces · 20/07:</strong> El oficial Claus von Stauffenberg deja una bomba durante una reunión de Adolf Hitler como parte de un plan para matar al dictador y tomar el poder. Hitler sobrevive y el golpe fracasa, seguido de detenciones y ejecuciones de los conspiradores. Los participantes tenían trayectorias muy distintas y no todos habían sido enemigos del nazismo desde el principio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/the-july-20-1944-plot-to-assassinate-adolf-hitler"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50106,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1948,
+    "tipo": "crimen",
+    "fecha": "1948-01-30",
+    "titulo": "Mahatma Gandhi: un nacionalista hindú asesina al pacifista indio",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1948\" data-fecha=\"1948-01-30\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1948</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Mahatma Gandhi: un nacionalista hindú asesina al pacifista indio</h3>\n    <p><strong>Magnicidio o asesinato político · Nueva Delhi, India · 30/01:</strong> Nathuram Godse dispara contra Mohandas Gandhi durante una reunión de oración, en oposición a sus intentos de convivencia entre hindúes y musulmanes tras la partición de la India. El asesinato provoca una enorme conmoción y lleva a juzgar a los responsables. Gandhi no ocupaba entonces un cargo ejecutivo: su influencia política y moral explica la trascendencia del magnicidio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://culture.gov.in/mahatma-gandhi"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50107,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1948,
+    "tipo": "crimen",
+    "fecha": "1948-04-09",
+    "titulo": "Jorge Eliécer Gaitán: un asesinato desencadena el Bogotazo",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1948\" data-fecha=\"1948-04-09\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1948</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jorge Eliécer Gaitán: un asesinato desencadena el Bogotazo</h3>\n    <p><strong>Magnicidio o asesinato político · Bogotá, Colombia · 09/04:</strong> El dirigente liberal Jorge Eliécer Gaitán es tiroteado en el centro de Bogotá. Su muerte desencadena revueltas y enfrentamientos violentos conocidos como el Bogotazo, que agravan la etapa de violencia política colombiana. El señalado como autor muere linchado por una multitud, lo que dificulta el esclarecimiento completo del caso. Las teorías conspirativas requieren distinguir hipótesis de pruebas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://bogota.gov.co/mi-ciudad/bogota-en-historias/historia-de-el-bogotazo-y-de-la-muerte-de-jorge-eliecer-gaitan"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50108,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1948,
+    "tipo": "crimen",
+    "fecha": "1948-09-17",
+    "titulo": "Folke Bernadotte: asesinan al mediador de Naciones Unidas en Jerusalén",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1948\" data-fecha=\"1948-09-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1948</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Folke Bernadotte: asesinan al mediador de Naciones Unidas en Jerusalén</h3>\n    <p><strong>Magnicidio o asesinato político · Jerusalén · 17/09:</strong> Un grupo armado sionista asesina al conde sueco Folke Bernadotte, mediador de Naciones Unidas en Palestina, y al observador francés André Sérot durante un desplazamiento oficial. El crimen suscita condenas internacionales y genera informes sobre la protección de mediadores de paz. Constituye un ejemplo temprano de violencia contra representantes de la ONU por motivos políticos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.un.org/en/node/211674"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50109,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1951,
+    "tipo": "crimen",
+    "fecha": "1951-10-16",
+    "titulo": "Liaquat Ali Khan: asesinan al primer ministro de Pakistán en un mitin",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1951\" data-fecha=\"1951-10-16\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1951</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Liaquat Ali Khan: asesinan al primer ministro de Pakistán en un mitin</h3>\n    <p><strong>Magnicidio o asesinato político · Rawalpindi, Pakistán · 16/10:</strong> Liaquat Ali Khan, primer jefe del Gobierno de Pakistán tras la independencia, es asesinado a tiros cuando habla ante un público. La policía mata al atacante y persisten preguntas históricas sobre sus motivos. La crisis política resultante revela la fragilidad de la seguridad de los gobernantes y de la sucesión institucional en un Estado recién creado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://nehruarchive.in/documents/liaquat-ali-khans-assassination-16-october-1951-dx9pd4"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50110,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1960,
+    "tipo": "crimen",
+    "fecha": "1960-10-12",
+    "titulo": "Inejiro Asanuma: un ultranacionalista mata al líder socialista japonés",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1960\" data-fecha=\"1960-10-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1960</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Inejiro Asanuma: un ultranacionalista mata al líder socialista japonés</h3>\n    <p><strong>Magnicidio o asesinato político · Tokio, Japón · 12/10:</strong> El líder del Partido Socialista de Japón es apuñalado por un joven ultranacionalista durante un acto político televisado. Las imágenes del crimen se difunden mundialmente y lo convierten en un símbolo de los peligros del extremismo político en el Japón de posguerra. La acción revela los riesgos de los encuentros públicos y el poder testimonial de la fotografía periodística.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://apjjf.org/2022/16/schreiber"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50111,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1961,
+    "tipo": "crimen",
+    "fecha": "1961-01-17",
+    "titulo": "Patrice Lumumba: ejecutan al dirigente del Congo recién independizado",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1961\" data-fecha=\"1961-01-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1961</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Patrice Lumumba: ejecutan al dirigente del Congo recién independizado</h3>\n    <p><strong>Magnicidio o asesinato político · Katanga, Congo · 17/01:</strong> Patrice Lumumba, primer jefe del Gobierno del Congo independiente, es trasladado a Katanga después de ser detenido durante una grave crisis política y termina ejecutado junto con dos colaboradores. Documentos y posteriores investigaciones revisan la intervención de actores congoleños y extranjeros. No debe atribuirse sin pruebas toda la organización del asesinato a un único gobierno exterior.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://history.state.gov/historicaldocuments/frus1964-68v23/d1"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50112,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1962,
+    "tipo": "crimen",
+    "fecha": "1962-08-22",
+    "titulo": "De Gaulle: el presidente francés sobrevive a la emboscada de Petit-Clamart",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1962\" data-fecha=\"1962-08-22\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1962</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>De Gaulle: el presidente francés sobrevive a la emboscada de Petit-Clamart</h3>\n    <p><strong>Magnicidio o asesinato político · Petit-Clamart, Francia · 22/08:</strong> Un grupo clandestino relacionado con la oposición a la independencia de Argelia tirotea el automóvil de Charles de Gaulle y su esposa. Ambos sobreviven por la actuación del conductor y de su protección. El atentado es un caso destacado de ataque contra desplazamientos oficiales y muestra el vínculo entre la violencia política y el final de la guerra de Argelia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gendarmerie.interieur.gouv.fr/gendinfo/histoire/adjudant-francis-marroux-le-destin-d-un-gendarme-de-la-resistance-a-l-elysee"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50113,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1963,
+    "tipo": "crimen",
+    "fecha": "1963-06-12",
+    "titulo": "Medgar Evers: asesinan al dirigente de derechos civiles en Mississippi",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1963\" data-fecha=\"1963-06-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1963</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Medgar Evers: asesinan al dirigente de derechos civiles en Mississippi</h3>\n    <p><strong>Magnicidio o asesinato político · Jackson, Estados Unidos · 12/06:</strong> Medgar Evers, representante de la NAACP y activista contra la segregación, recibe un disparo frente a su casa. La investigación se desarrolla en un ambiente de violencia supremacista y durante décadas no consigue una condena definitiva. Byron De La Beckwith termina declarado culpable en 1994. El caso muestra cómo el racismo institucional puede dificultar el esclarecimiento de un asesinato político.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/medgar-evers"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50114,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1965,
+    "tipo": "crimen",
+    "fecha": "1965-02-21",
+    "titulo": "Malcolm X: asesinan al dirigente afroamericano durante un discurso",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1965\" data-fecha=\"1965-02-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1965</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Malcolm X: asesinan al dirigente afroamericano durante un discurso</h3>\n    <p><strong>Magnicidio o asesinato político · Nueva York, Estados Unidos · 21/02:</strong> Malcolm X muere tiroteado cuando va a hablar en el Audubon Ballroom. Los juicios y las condenas iniciales se convierten en materia de una larga controversia judicial. En 2021 se anulan dos condenas tras una revisión que encuentra graves problemas probatorios. Su expediente demuestra que la investigación de un asesinato político puede exigir décadas de revisión y acceso a archivos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://a860-collectionguides.nyc.gov/repositories/2/resources/27"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
+    "orden": 50115,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
     "precision_fecha": "día"
   }
 ]
