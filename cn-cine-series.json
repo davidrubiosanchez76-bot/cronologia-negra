@@ -4036,9 +4036,12 @@
     "fecha": "",
     "titulo": "El mensajero del miedo",
     "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1962\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1962</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El mensajero del miedo</h3>\n    <p><strong>Cine:</strong> John Frankenheimer estrena un thriller político paranoico sobre manipulación, conspiración y asesinato, clave para entender la sombra criminal de la Guerra Fría. La adaptación de una novela de Richard Condon une asesinato político y condicionamiento psicológico. Sus temores reflejan la cultura de espionaje y paranoia de la Guerra Fría.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.criterion.com/films/28784-the-manchurian-candidate"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1838
+    "orden": 1838,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   },
   {
     "yr": 1967,
@@ -5275,6 +5278,20 @@
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
     "orden": 51010,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
+  },
+  {
+    "yr": 2005,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El jardinero fiel: investigar el asesinato de una activista en Kenia",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El jardinero fiel: investigar el asesinato de una activista en Kenia</h3>\n    <p><strong>Thriller político · Fernando Meirelles:</strong> Fernando Meirelles adapta en 2005 la novela de John le Carré. Tessa Quayle, una activista que indagaba en prácticas farmacéuticas en Kenia, es asesinada y su marido diplomático empieza a seguir la información que ella había reunido. La investigación conecta violencia selectiva, corrupción y protección de intereses empresariales. Su perspectiva noir nace de la búsqueda de los responsables del crimen y de la resistencia institucional a esclarecerlo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://moreliafilmfest.com/peliculas/el-jardinero-fiel",
+      "https://www.movistarplus.es/cine/el-jardinero-fiel/ficha?id=484106&tipo=E"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51011,
     "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   }
 ]
