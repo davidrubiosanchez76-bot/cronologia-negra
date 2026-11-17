@@ -5600,10 +5600,11 @@
     "yr": 1984,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "The Burning Bed: el maltrato doméstico termina en juicio por homicidio",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Burning Bed: el maltrato doméstico termina en juicio por homicidio</h3>\n    <p><strong>Telefilme judicial · Robert Greenwald · Estados Unidos:</strong> Protagonizada por Farrah Fawcett, The Burning Bed (1984) dramatiza el caso de Francine Hughes, una mujer que sufrió años de violencia conyugal y terminó matando a su marido. El proceso penal exige examinar el historial de maltrato, el miedo y la responsabilidad por el homicidio. La historia es un caso judicial concreto y no una doctrina general sobre legítima defensa.</p>\n  </div>\n</article>",
+    "titulo": "La cama ardiente (The Burning Bed): el maltrato termina en un juicio por homicidio",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La cama ardiente (The Burning Bed): el maltrato termina en un juicio por homicidio</h3>\n    <p><strong>Telefilme judicial · Robert Greenwald · Estados Unidos:</strong> Protagonizada por Farrah Fawcett, La cama ardiente (<em>The Burning Bed</em>, 1984) dramatiza el caso de Francine Hughes, una mujer que sufrió años de violencia conyugal y terminó matando a su marido. El proceso penal exige examinar el historial de maltrato, el miedo y la responsabilidad por el homicidio. La historia es un caso judicial concreto y no una doctrina general sobre legítima defensa.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.netflix.com/title/70002497"
+      "https://elpais.com/diario/1994/02/23/radiotv/761958003_850215.html",
+      "https://tv.apple.com/us/movie/the-burning-bed/umc.cmc.3g1gn6111nzwsop908umugbn2"
     ],
     "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
     "orden": 62009,
@@ -5691,10 +5692,11 @@
     "yr": 2022,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "The Staircase: una muerte doméstica enfrenta versiones forenses",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Staircase: una muerte doméstica enfrenta versiones forenses</h3>\n    <p><strong>Miniserie judicial y familiar · Estados Unidos:</strong> La miniserie dramatizada The Staircase, estrenada en 2022, reconstruye la muerte de Kathleen Peterson y el proceso contra su esposo, Michael Peterson. La investigación de las lesiones, la escena y los testimonios da lugar a interpretaciones opuestas sobre una caída o un asesinato. La ficción no debe confundirse con el documental anterior del mismo título ni considerarse prueba definitiva de una versión.</p>\n  </div>\n</article>",
+    "titulo": "La escalera (The Staircase): una muerte doméstica enfrenta versiones forenses",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La escalera (The Staircase): una muerte doméstica enfrenta versiones forenses</h3>\n    <p><strong>Miniserie judicial y familiar · Estados Unidos:</strong> La miniserie dramatizada <em>The Staircase</em> (<em>La escalera</em>), estrenada en 2022, reconstruye la muerte de Kathleen Peterson y el proceso contra su esposo, Michael Peterson. La investigación de las lesiones, la escena y los testimonios da lugar a interpretaciones opuestas sobre una caída o un asesinato. La ficción no debe confundirse con el documental anterior del mismo título ni considerarse prueba definitiva de una versión.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.netflix.com/tudum/articles/the-staircase-drama-series-release-date-news"
+      "https://press.wbd.com/ca/media-release/max-original-limited-series-staircase-debuts-may-5?language_content_entity=en",
+      "https://www.hbomax.com/show/8c932746-e770-4da5-80d9-a1b6ceb53cc5"
     ],
     "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
     "orden": 62016,
