@@ -6976,5 +6976,51 @@
     "orden": 52007,
     "tema": "SECTAS CRIMINALES",
     "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1987,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "The Family: un testimonio permite rescatar a menores de una comunidad cerrada",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>The Family: un testimonio permite rescatar a menores de una comunidad cerrada</h3>\n    <p><strong>Investigación y protección de menores · Victoria, Australia:</strong> En 1987, los testimonios de antiguos integrantes impulsan la actuación policial contra <em>The Family</em>, comunidad dirigida por Anne Hamilton-Byrne. Una operación en la propiedad del lago Eildon permite sacar de allí a varios menores sometidos a aislamiento y violencia psicológica y física. Los investigadores deben reconstruir sus identidades y los vínculos familiares, afectados por adopciones irregulares y documentos manipulados. La ficha destaca el papel de las denuncias de supervivientes y el rescate policial de víctimas, distinto de la representación ficticia del grupo en el audiovisual.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.abc.net.au/news/2019-06-14/anne-hamilton-byrne-the-family-cult-founder-dies/11210142",
+      "https://www.cifs.org.au/archive/legacy.php"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 53001,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2005,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Colonia Dignidad: la justicia descubre un archivo secreto de inteligencia",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Colonia Dignidad: la justicia descubre un archivo secreto de inteligencia</h3>\n    <p><strong>Prueba documental y análisis de archivos · Chile:</strong> Durante las diligencias judiciales sobre Colonia Dignidad, en 2005 se recupera en el antiguo enclave un voluminoso archivo de inteligencia con fichas, fotografías y registros sobre personas y redes vinculadas a la represión. La Policía de Investigaciones chilena custodia el fondo y lo utiliza en tareas de análisis y reconstrucción de hechos, mientras la justicia investiga delitos y desapariciones. En 2016 los documentos son declarados Monumento Histórico y a finales de 2017 pasan al Archivo Nacional. El hito es la recuperación y tratamiento de prueba documental oculta, no la captura de Paul Schäfer, que tiene tarjeta propia en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://mmdh.cl/recursos-e-investigacion/fichas-chile-colonia-dignidad",
+      "https://www.archivonacional.gob.cl/noticias/pone-disposicion-de-la-ciudadania-archivos-de-colonia-dignidad",
+      "https://www.bcn.cl/leychile/navegar?idNorma=1097576"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 53002,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2018,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "NXIVM: las pruebas de chantaje revelan el mecanismo de sometimiento",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>NXIVM: las pruebas de chantaje revelan el mecanismo de sometimiento</h3>\n    <p><strong>Evidencia documental y declaraciones de víctimas · Estados Unidos:</strong> La investigación federal que conduce a la detención de Keith Raniere en marzo de 2018 documenta el funcionamiento de DOS, subgrupo de NXIVM en el que las mujeres eran obligadas a entregar material comprometedor para impedir que abandonaran la organización. Fotografías íntimas, declaraciones escritas, información patrimonial y los testimonios de víctimas permiten reconstruir una red de coerción y explotación que no era evidente en los cursos públicos de superación personal. La ficha trata los indicios y la metodología investigadora; la condena de 2019 permanece recogida separadamente en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-edny/pr/founder-nxivm-purported-self-help-organization-based-albany-ny-arrested-sex-trafficking",
+      "https://www.justice.gov/usao-edny/pr/jury-finds-nxivm-leader-keith-raniere-guilty-all-counts"
+    ],
+    "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
+    "orden": 53003,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
   }
 ]
