@@ -6845,11 +6845,12 @@
     "yr": 2006,
     "tipo": "policia-cientifica",
     "fecha": "",
-    "titulo": "Litvinenko: el rastro del polonio-210 reconstruye un asesinato político",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Litvinenko: el rastro del polonio-210 reconstruye un asesinato político</h3>\n    <p><strong>Toxicología y rastreo radiológico · Londres:</strong> Alexander Litvinenko muere en Londres el 23 de noviembre de 2006 después de ingerir polonio-210. La identificación del isótopo radiactivo en muestras biológicas transforma un cuadro clínico de origen desconocido en una investigación criminal. Los equipos rastrean contaminación en numerosos lugares y reconstruyen desplazamientos y contactos anteriores. El caso ilustra cómo la detección radiológica y el análisis forense especializado pueden establecer una cadena de indicios en un envenenamiento dirigido.</p>\n  </div>\n</article>",
+    "titulo": "Litvinenko: la policía inspecciona decenas de escenarios contaminados",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Litvinenko: la policía inspecciona decenas de escenarios contaminados</h3>\n    <p><strong>Inspección radiológica de escenas · Londres:</strong> Una vez identificada la presencia de polonio-210 en el envenenamiento de Aleksandr Litvinenko, la Policía Metropolitana debe examinar numerosos escenarios potencialmente contaminados. La búsqueda de trazas radiactivas alcanza hoteles, locales y otros lugares vinculados a los desplazamientos investigados, con intervención coordinada de especialistas en radioprotección, sanidad y descontaminación. Esta tarjeta destaca la inspección técnica de múltiples escenas y la protección de terceros durante una investigación criminal, no vuelve a narrar el asesinato ni el diagnóstico toxicológico ya tratados en TRUE CRIME.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.gov.uk/government/publications/the-litvinenko-inquiry-report-into-the-death-of-alexander-litvinenko",
-      "https://www.gov.uk/government/case-studies/radiological-incident-london-england"
+      "https://www.gov.uk/government/case-studies/radiological-incident-london-england",
+      "https://www.judiciary.uk/wp-content/uploads/JCO/Documents/Judgments/r-litvinenko-v-sshd-1102014.pdf"
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
     "orden": 51002,
