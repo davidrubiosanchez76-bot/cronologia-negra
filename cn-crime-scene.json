@@ -6871,5 +6871,110 @@
     "orden": 51003,
     "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1835,
+    "tipo": "policia-cientifica",
+    "fecha": "1835-01-10",
+    "titulo": "India colonial: Sleeman coordina la persecución de los grupos llamados «thuggee»",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1835\" data-fecha=\"1835-01-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1835</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>India colonial: Sleeman coordina la persecución de los grupos llamados «thuggee»</h3>\n    <p><strong>Historia de la investigación criminal · India:</strong> La administración británica encarga en enero de 1835 a William Henry Sleeman coordinar operaciones contra bandas acusadas de robos y asesinatos por estrangulamiento, conocidas como <em>thuggee</em>. Las autoridades reúnen delaciones, registros de integrantes y redes de informadores para perseguir una criminalidad móvil y transregional. La imagen colonial de una única secta religiosa secreta dedicada a matar en honor a la diosa Kali es objeto de revisión historiográfica: la ficha documenta el nacimiento de una investigación policial organizada y sus sesgos, sin dar por verdaderas todas las narraciones imperiales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://southasia.ucla.edu/history-politics/colonial-epistemologies/william-henry-thugee-sleeman/",
+      "https://www.nature.com/articles/s41599-020-0458-8"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52001,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1978,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Jonestown: el FBI moviliza su equipo de identificación de víctimas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1978\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Jonestown: el FBI moviliza su equipo de identificación de víctimas</h3>\n    <p><strong>Identificación de fallecidos · Guyana y Estados Unidos:</strong> Tras los asesinatos y muertes masivas del 18 de noviembre de 1978 en Jonestown, el FBI colabora con las autoridades de Guyana y despliega especialistas de su <em>Disaster Squad</em>. Se utilizan registros dactiloscópicos, documentos y exámenes forenses para identificar a gran número de víctimas en circunstancias difíciles. Es un hito de cooperación y de identificación humana tras una catástrofe criminal colectiva, distinto del relato de los hechos y de las responsabilidades de Jim Jones incluido en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/jonestown",
+      "https://jonestown.sdsu.edu/?page_id=71075"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52002,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1985,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El brote de Oregón se investiga como contaminación alimentaria deliberada",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1985\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1985</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El brote de Oregón se investiga como contaminación alimentaria deliberada</h3>\n    <p><strong>Epidemiología y pesquisa policial · Estados Unidos:</strong> El brote de salmonelosis de septiembre y octubre de 1984 en restaurantes de The Dalles afecta a 751 personas. Los epidemiólogos reconstruyen las exposiciones alimentarias y comparan los locales afectados; inicialmente se estudia como intoxicación habitual. En 1985, tras informaciones que vinculan el caso con personas de Rajneeshpuram, las pesquisas del FBI y de la policía de Oregón encuentran muestras y otras pruebas de la contaminación intencionada. El episodio demuestra la importancia de unir métodos epidemiológicos y prueba criminal para detectar un ataque biológico encubierto.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/field-office-histories/portland",
+      "https://pubmed.ncbi.nlm.nih.gov/9244330/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52003,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1995,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Los laboratorios japoneses rastrean la fabricación del sarín de Aum Shinrikyo",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Los laboratorios japoneses rastrean la fabricación del sarín de Aum Shinrikyo</h3>\n    <p><strong>Química forense y registro de instalaciones · Japón:</strong> Después del atentado químico del metro de Tokio de marzo de 1995, investigadores japoneses registran instalaciones de Aum Shinrikyo y recuperan equipos, restos de reactivos y materiales vinculados a la fabricación de sarín. Los laboratorios del Instituto Nacional de Investigación de Ciencias Policiales examinan las muestras de recipientes y estructuras productivas para reconstruir la capacidad química del grupo. La tarjeta se centra en los análisis y registros que permitieron relacionar al grupo con la producción del agente, no repite las víctimas del atentado ya recogido en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.opcw.org/media-centre/news/2001/06/sarin-gas-attack-japan-and-related-forensic-investigation",
+      "https://www.nippon.com/en/articles/-/17310"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52004,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2001,
+    "tipo": "policia-cientifica",
+    "fecha": "2001-06-12",
+    "titulo": "Francia tipifica el abuso de vulnerabilidad por sometimiento psicológico",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2001\" data-fecha=\"2001-06-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Francia tipifica el abuso de vulnerabilidad por sometimiento psicológico</h3>\n    <p><strong>Derecho penal y protección frente a la coerción · Francia:</strong> Francia aprueba la ley n.º 2001-504, conocida como <em>About-Picard</em>, que refuerza la respuesta contra prácticas sectarias lesivas y crea una vía penal específica para perseguir el aprovechamiento fraudulento de la debilidad o el sometimiento psicológico o físico de una persona. El objetivo no es prohibir creencias religiosas, sino investigar conductas y presiones que dañan gravemente la libertad individual. Representa un cambio jurídico importante en el tratamiento de delitos de control coercitivo y explotación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.miviludes.interieur.gouv.fr/comprendre-et-prevenir/que-dit-loi",
+      "https://www.miviludes.interieur.gouv.fr/nous-connaitre/historique"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52005,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2002,
+    "tipo": "policia-cientifica",
+    "fecha": "2002-11-28",
+    "titulo": "MIVILUDES: Francia organiza la vigilancia institucional de las derivas sectarias",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2002\" data-fecha=\"2002-11-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>MIVILUDES: Francia organiza la vigilancia institucional de las derivas sectarias</h3>\n    <p><strong>Coordinación interadministrativa · Francia:</strong> El decreto francés n.º 2002-1392, de 28 de noviembre de 2002, establece la MIVILUDES, misión interministerial encargada de observar y prevenir comportamientos sectarios perjudiciales, formar a los servicios públicos y facilitar la circulación de información entre administraciones. Su actividad se orienta a detectar abusos y colaborar con la respuesta institucional y judicial. No identifica por definición como delincuente a toda comunidad religiosa minoritaria: el foco se coloca en conductas, víctimas y pruebas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.legifrance.gouv.fr/eli/decret/2002/11/28/2002-1392/jo/texte",
+      "https://www.miviludes.interieur.gouv.fr/nous-connaitre/historique"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52006,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2023,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Shakahola: exhumaciones y autopsias sustentan la investigación de muertes masivas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Shakahola: exhumaciones y autopsias sustentan la investigación de muertes masivas</h3>\n    <p><strong>Arqueología y patología forense · Kenia:</strong> A partir de abril de 2023, investigadores kenianos localizan y exhuman cuerpos de fosas dispersas por el bosque de Shakahola. La documentación de los enterramientos y las autopsias aportan indicios sobre desnutrición prolongada y otras causas de muerte, y se combinan con testimonios de supervivientes para identificar víctimas y determinar responsabilidades individuales. Las pesquisas constituyen un trabajo prolongado de recuperación e identificación de víctimas en un escenario extenso, diferente de la condena judicial posterior y del propio descubrimiento narrados en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.dci.go.ke/index.php/dci-welcomes-conviction-paul-mackenzie-and-28-co-accused-shakahola-massacre",
+      "https://www.kenyanews.go.ke/mackenzie-28-others-guilty-of-shakahola-deaths/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52007,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
   }
 ]
