@@ -1441,9 +1441,10 @@
     "tipo": "crimen",
     "fecha": "1872-09-04",
     "titulo": "Crédit Mobilier: acciones ferroviarias para comprar influencia en el Congreso",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1872\" data-fecha=\"1872-09-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1872</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Crédit Mobilier: acciones ferroviarias para comprar influencia en el Congreso</h3>\n    <p><strong>Estados Unidos · 4 de septiembre:</strong> <em>The New York Sun</em> destapa que responsables de la constructora Crédit Mobilier, beneficiaria del ferrocarril transcontinental, habían ofrecido acciones en condiciones ventajosas a congresistas. La investigación de la Cámara revela cómo una empresa favorecida por contratos públicos intenta asegurar apoyo político mediante beneficios privados. En 1873 dos representantes son censurados. Es un antecedente decisivo de corrupción en grandes infraestructuras, aunque la censura parlamentaria no equivale a una condena penal por soborno.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1872\" data-fecha=\"1872-09-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1872</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Crédit Mobilier: acciones ferroviarias para comprar influencia en el Congreso</h3>\n    <p><strong>Estados Unidos · 4 de septiembre:</strong> <em>The New York Sun</em> destapa que responsables de la constructora Crédit Mobilier, beneficiaria del ferrocarril transcontinental, habían ofrecido acciones en condiciones ventajosas a congresistas. La investigación de la Cámara revela cómo una empresa favorecida por contratos públicos intenta asegurar apoyo político mediante beneficios privados. En 1873 dos representantes son censurados. Los contratos y beneficios del negocio ferroviario también ilustran el riesgo de utilizar sociedades interpuestas para canalizar rentas y favores comerciales. Es un antecedente decisivo de corrupción en grandes infraestructuras, aunque la censura parlamentaria no equivale a una condena penal por soborno.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://history.house.gov/Historical-Highlights/1851-1900/The-Credit-Mobilier-scandal/"
+      "https://history.house.gov/Historical-Highlights/1851-1900/The-Credit-Mobilier-scandal/",
+      "https://guides.loc.gov/this-month-in-business-history/september/Credit-Mobilier-Scandal"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 232
@@ -1659,9 +1660,10 @@
     "tipo": "crimen",
     "fecha": "2016-12-21",
     "titulo": "Odebrecht admite una red internacional de sobornos por contratos públicos",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2016\" data-fecha=\"2016-12-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Odebrecht admite una red internacional de sobornos por contratos públicos</h3>\n    <p><strong>Brasil y otros países · 21 de diciembre:</strong> Odebrecht y Braskem reconocen ante autoridades estadounidenses su participación en sistemas de pagos corruptos a funcionarios y dirigentes, con repercusiones en varios países latinoamericanos y africanos. Las compañías acuerdan sanciones conjuntas por miles de millones de dólares con Estados Unidos, Brasil y Suiza. El caso aporta una mirada transnacional: sociedades pantalla, cuentas en el extranjero y una estructura dedicada a gestionar pagos clandestinos permiten enlazar adjudicaciones y beneficios empresariales. No implica que cualquier dirigente mencionado haya sido condenado.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2016\" data-fecha=\"2016-12-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Odebrecht admite una red internacional de sobornos por contratos públicos</h3>\n    <p><strong>Brasil y otros países · 21 de diciembre:</strong> Odebrecht y Braskem reconocen ante autoridades estadounidenses su participación en sistemas de pagos corruptos a funcionarios y dirigentes, con repercusiones en varios países latinoamericanos y africanos. Las compañías acuerdan sanciones conjuntas por miles de millones de dólares con Estados Unidos, Brasil y Suiza. El sistema clandestino de pagos se organizó desde empresas y registros paralelos, lo que convierte esta causa en un ejemplo de delincuencia económica empresarial además de corrupción política. El caso aporta una mirada transnacional: sociedades pantalla, cuentas en el extranjero y una estructura dedicada a gestionar pagos clandestinos permiten enlazar adjudicaciones y beneficios empresariales. No implica que cualquier dirigente mencionado haya sido condenado.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.justice.gov/usao-edny/pr/odebrecht-and-braskem-plead-guilty-and-agree-pay-least-35-billion-global-criminal"
+      "https://www.justice.gov/usao-edny/pr/odebrecht-and-braskem-plead-guilty-and-agree-pay-least-35-billion-global-criminal",
+      "https://www.justice.gov/archives/opa/pr/odebrecht-and-braskem-plead-guilty-and-agree-pay-least-35-billion-global-penalties-resolve"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 271
@@ -4546,12 +4548,14 @@
     "tipo": "crimen",
     "fecha": "",
     "titulo": "Albania: el derrumbe de las pirámides financieras desata el caos",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1997\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1997</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Albania: el derrumbe de las pirámides financieras desata el caos</h3>\n    <p><strong>Crisis económica y criminal · 1997:</strong> El hundimiento de los sistemas piramidales de inversión provoca disturbios, pérdida de control estatal y saqueos de arsenales militares. Parte de las armas termina en manos de civiles y grupos criminales. El colapso genera condiciones favorables para el contrabando, aunque no debe confundirse a todos los participantes de las protestas con delincuentes organizados.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1997\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1997</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Albania: el derrumbe de las pirámides financieras desata el caos</h3>\n    <p><strong>Crisis económica y criminal · 1997:</strong> Compañías captadoras habían prometido intereses mensuales exorbitantes sin inversiones capaces de sostenerlos. Al derrumbarse en 1997 sus sistemas piramidales, los ahorradores sufren pérdidas masivas y comienzan disturbios, pérdida de control estatal y saqueos de arsenales militares. Parte de las armas termina en manos de civiles y grupos criminales. El colapso genera condiciones favorables para el contrabando, aunque no debe confundirse a todos los participantes de las protestas con delincuentes organizados.</p>\n  </div>\n</article>",
     "fuentes": [
-      "editorial: https://www.elibrary.imf.org/view/journals/022/0037/001/article-A012-en.xml"
+      "https://www.elibrary.imf.org/view/journals/022/0037/001/article-A012-en.xml",
+      "https://www.imf.org/external/pubs/ft/fandd/2000/03/jarvis.htm"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 783
+    "orden": 783,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
   },
   {
     "yr": 2000,
@@ -11397,6 +11401,470 @@
     "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
     "orden": 54040,
     "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1720,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "La Burbuja de los Mares del Sur: inversión especulativa y favores políticos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1720\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1720</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La Burbuja de los Mares del Sur: inversión especulativa y favores políticos</h3>\n    <p><strong>Escándalo financiero · Reino Unido:</strong> La South Sea Company alimenta en 1720 una fiebre inversora vinculada a la conversión de deuda pública británica en acciones. Tras el derrumbe bursátil, una investigación parlamentaria examina la actividad de la compañía y encuentra indicios de información privilegiada y sobornos a altos cargos. No toda inversión fallida fue fraudulenta, pero el caso muestra cómo pueden combinarse promoción engañosa, decisiones financieras opacas e intereses políticos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://newtonandthemint.history.ox.ac.uk/global-financial-world/newton-and-the-south-sea-bubble",
+      "https://historyofparliament.com/2020/01/09/south-sea-company-and-peerage/"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64001,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1822,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Poyais: Gregor MacGregor promociona un país ficticio ante inversores",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1822\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1822</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Poyais: Gregor MacGregor promociona un país ficticio ante inversores</h3>\n    <p><strong>Fraude de inversión · Reino Unido y Centroamérica:</strong> Gregor MacGregor se presenta como gobernante de Poyais, supuesto territorio próspero en la costa centroamericana, y ofrece bonos, tierras y oportunidades de colonización. En 1822 parte una expedición de colonos engañados por las promesas. La venta de una realidad territorial y económica muy distinta de la anunciada se convierte en uno de los ejemplos más recordados de fraude comercial transatlántico; la historiografía examina con matices las pretensiones políticas del promotor.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cambridge.org/core/journals/enterprise-and-society/article/whats-in-a-fraud-the-many-worlds-of-gregor-macgregor-18171824/18C69E0C9D7E0878A96E17E2B0B9E12F",
+      "https://www.history.com/articles/the-con-man-who-invented-his-own-country"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64002,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1880,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Sarah Howe: el banco de mujeres de Boston pagaba intereses imposibles",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1880\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1880</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Sarah Howe: el banco de mujeres de Boston pagaba intereses imposibles</h3>\n    <p><strong>Estafa de ahorro · Estados Unidos:</strong> La Ladies’ Deposit Company de Sarah Howe capta depósitos de mujeres mediante la promesa de beneficios extraordinarios. Cuando el negocio se derrumba hacia 1880 se revela que las cantidades percibidas no se sostenían mediante una actividad capaz de generar la rentabilidad prometida. El fraude, que alcanza a numerosas ahorradoras, es anterior al caso Ponzi y ayuda a comprender el funcionamiento de los esquemas de inversión que dependen del dinero de nuevos participantes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://americanhistory.si.edu/explore/exhibitions/american-enterprise/online/corporate-era/biographies-1860s%E2%80%931930s",
+      "https://www.tandfonline.com/doi/full/10.1080/08905495.2012.738086"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64003,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1889,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Canal de Panamá: la quiebra de la compañía francesa desencadena un escándalo",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1889\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1889</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Canal de Panamá: la quiebra de la compañía francesa desencadena un escándalo</h3>\n    <p><strong>Fraude financiero y empresarial · Francia y Panamá:</strong> La compañía francesa promovida para construir el canal interoceánico cesa su actividad y entra en quiebra en 1889 después de sucesivas captaciones de inversión y previsiones de costes y plazos que no se cumplen. El proceso expone a numerosos suscriptores y conduce a posteriores investigaciones por engaños y por pagos destinados a conseguir apoyos políticos y mediáticos, hechos que estallan públicamente en 1892. Se distingue la dificultad técnica del proyecto de las actuaciones financieras delictivas investigadas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.larousse.fr/encyclopedie/divers/wd/136916",
+      "https://www.pmi.org/learning/library/2022/07/12/21/04/es-fracaso-proyecto-canal-frances-de-panama-8153"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64004,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1920,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Charles Ponzi: un fraude con cupones postales da nombre a todo un sistema",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1920\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1920</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Charles Ponzi: un fraude con cupones postales da nombre a todo un sistema</h3>\n    <p><strong>Estafa de inversión · Boston, Estados Unidos:</strong> Charles Ponzi promete ganancias enormes aprovechando supuestas diferencias internacionales en los valores de cupones de respuesta postal. Miles de inversores le entregan dinero, pero los pagos a los primeros clientes dependen fundamentalmente de aportaciones posteriores, no de los beneficios de arbitraje anunciados. La prensa y los inspectores postales investigan el negocio en 1920 y Ponzi termina condenado. Su nombre se convierte en sinónimo del esquema, aunque existían antecedentes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.archives.gov/publications/prologue/2010/summer/ponzi-inmate-case-file",
+      "https://postalmuseum.si.edu/scams-schemes-and-mail-fraud"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64005,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1932,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Ivar Kreuger: el imperio de las cerillas descubre sus cuentas irreales",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1932\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1932</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Ivar Kreuger: el imperio de las cerillas descubre sus cuentas irreales</h3>\n    <p><strong>Fraude financiero internacional · Suecia:</strong> Tras la muerte de Ivar Kreuger en marzo de 1932, el entramado mundial de empresas, deudas y participaciones que había construido entra en crisis. Las revisiones de las cuentas dejan al descubierto documentos y representaciones financieras falsas junto a una estructura difícil de fiscalizar. El escándalo contribuye al debate sobre transparencia y supervisión societaria internacional. Kreuger falleció antes de la investigación decisiva y no debe atribuírsele una condena inexistente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/the-kreuger-crash/",
+      "https://store.hbr.org/product/ivar-kreuger-and-the-swedish-match-empire/804078"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64006,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1982,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Banco Ambrosiano: el colapso revela créditos opacos y conexiones internacionales",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1982\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1982</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Banco Ambrosiano: el colapso revela créditos opacos y conexiones internacionales</h3>\n    <p><strong>Crisis bancaria e investigación · Italia:</strong> En 1982 el Banco de Italia descubre una situación crítica en Banco Ambrosiano y grandes operaciones de préstamo realizadas mediante sociedades y bancos extranjeros. Las relaciones con el Instituto para las Obras de Religión, la logia P2 y otros intereses llevan las investigaciones más allá de un simple problema de liquidez. El presidente Roberto Calvi aparece muerto en Londres. La ficha se centra en el negocio y la investigación financiera, sin dar por resueltas las controversias sobre su muerte.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://elischolar.library.yale.edu/journal-of-financial-crises/vol7/iss1/12/",
+      "https://www.imprese.san.beniculturali.it/web/imprese/protagonisti/scheda-protagonista?articleId=127517&groupId=18701&p_p_id=56_INSTANCE_6uZ0&p_p_lifecycle=1&p_p_state=normal&viewMode=normal"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64007,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1991,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "BCCI: el cierre de un banco global destapa una estructura financiera opaca",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1991\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>BCCI: el cierre de un banco global destapa una estructura financiera opaca</h3>\n    <p><strong>Escándalo bancario · Reino Unido y otros países:</strong> El Bank of Credit and Commerce International es cerrado por autoridades supervisoras en julio de 1991 tras una acumulación de investigaciones y evidencias de irregularidades. Su actividad internacional había utilizado complejas estructuras y relaciones entre jurisdicciones que dificultaban el control y la reconstrucción patrimonial. El caso se convierte en una referencia para estudiar fraude bancario transnacional, supervisión insuficiente y consecuencias de las operaciones encubiertas de una entidad financiera.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://publications.parliament.uk/pa/ld200001/ldjudgmt/jd010322/three-1.htm",
+      "https://www.britannica.com/money/Bank-of-Credit-and-Commerce-International"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64008,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1992,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Harshad Mehta: una trama de valores y recibos bancarios sacude India",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1992\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1992</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Harshad Mehta: una trama de valores y recibos bancarios sacude India</h3>\n    <p><strong>Fraude bursátil y bancario · India:</strong> Durante 1992 el banco central indio detecta irregularidades en operaciones con valores públicos que implican a corredores, bancos y documentación utilizada al margen de los cauces previstos. Harshad Mehta se convierte en el rostro más conocido del escándalo, pero no es el único participante investigado. El caso revela cómo los fondos y avales bancarios podían canalizarse hacia especulación en bolsa y provocar pérdidas institucionales. Los resultados procesales posteriores varían según cada conducta y acusado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://indiankanoon.org/doc/729673/",
+      "https://economictimes.indiatimes.com/stocks/roguish-recollections-stock-market-scam-of-1992/articleshow/2128371380.cms"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64009,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1993,
+    "tipo": "crimen",
+    "fecha": "1993-04-29",
+    "titulo": "CLAE: Perú interviene una captadora ilegal de grandes ahorros",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-04-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>CLAE: Perú interviene una captadora ilegal de grandes ahorros</h3>\n    <p><strong>Fraude de inversión · Perú:</strong> El 29 de abril de 1993 las autoridades intervienen el Centro Latinoamericano de Asesoramiento Empresarial (CLAE), organización de Carlos Manrique Carreño que había obtenido fondos de numerosos ciudadanos mediante ofertas de beneficios extraordinarios. Tras años de captación, el sistema se revela insostenible y deja a miles de afectados. El responsable huye, es detenido posteriormente y recibe una condena por delitos vinculados a la estafa. Es una referencia latinoamericana de captación masiva al margen de controles bancarios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://elcomercio.pe/economia/peru/20-anos-clae-estafa-economica-mas-grande-que-se-perpetro-peru-noticia-1570159/",
+      "https://gestion.pe/tendencias/carlos-manrique-el-peruano-detras-de-clae-una-de-las-estafas-piramidales-mas-emblematicas-de-america-latina-noticia/"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64010,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1993,
+    "tipo": "crimen",
+    "fecha": "1993-12-28",
+    "titulo": "Banesto: la intervención bancaria desencadena investigaciones de la gestión",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-12-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Banesto: la intervención bancaria desencadena investigaciones de la gestión</h3>\n    <p><strong>Delincuencia económica y crisis bancaria · España:</strong> El Banco de España interviene Banesto el 28 de diciembre de 1993 y sustituye a su consejo de administración ante una grave situación patrimonial. Aunque una intervención administrativa no equivale a una condena, las posteriores investigaciones sobre determinadas operaciones de la entidad dirigidas por Mario Conde terminan en procesos y resoluciones penales, con sentencia del Supremo en 2002. El expediente muestra el tránsito desde el control de un banco en dificultades hasta la comprobación judicial de apropiaciones y actuaciones irregulares.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20231228/30-anos-intervencion-banesto-espana-mario-conde-banca/2470027.shtml",
+      "https://cincodias.elpais.com/cincodias/2002/05/06/empresas/1020851965_850215.html"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64011,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1995,
+    "tipo": "crimen",
+    "fecha": "1995-02-26",
+    "titulo": "Barings: operaciones ocultas de un operador hunden un banco histórico",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1995\" data-fecha=\"1995-02-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Barings: operaciones ocultas de un operador hunden un banco histórico</h3>\n    <p><strong>Fraude de control y operaciones no autorizadas · Reino Unido y Singapur:</strong> Barings se declara insolvente en febrero de 1995 después de que salgan a la luz grandes pérdidas por operaciones financieras no autorizadas dirigidas por Nick Leeson desde Singapur. Para encubrirlas se manipularon cuentas y comunicaciones internas, mientras fallaban las verificaciones y la separación de funciones. Los informes oficiales posteriores demuestran que el peligro no radicaba solamente en el riesgo bursátil asumido, sino en los controles que permitieron mantenerlo oculto.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rba.gov.au/publications/bulletin/1995/nov/1.html",
+      "https://api.parliament.uk/historic-hansard/commons/1995/feb/27/barings"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64012,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2001,
+    "tipo": "crimen",
+    "fecha": "2001-12-02",
+    "titulo": "Enron: la bancarrota desvela un gran entramado de engaño contable",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2001\" data-fecha=\"2001-12-02\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Enron: la bancarrota desvela un gran entramado de engaño contable</h3>\n    <p><strong>Fraude empresarial · Estados Unidos:</strong> Enron solicita protección por bancarrota en diciembre de 2001, al tiempo que sus operaciones y cuentas quedan bajo una amplia investigación federal. Las pesquisas descubren el uso de estructuras empresariales y operaciones destinadas a ocultar deuda y ofrecer una imagen engañosa de su rentabilidad. Directivos son sometidos a procesos penales que terminan en condenas. El caso muestra cómo la información falsa de una gran compañía puede perjudicar a trabajadores, accionistas y acreedores.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/enron"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64013,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2002,
+    "tipo": "crimen",
+    "fecha": "2002-06-26",
+    "titulo": "WorldCom: el gigante de telecomunicaciones admite manipulación contable",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2002\" data-fecha=\"2002-06-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>WorldCom: el gigante de telecomunicaciones admite manipulación contable</h3>\n    <p><strong>Falseamiento de cuentas · Estados Unidos:</strong> En junio de 2002 WorldCom reconoce irregularidades de gran magnitud en su contabilidad, especialmente la capitalización de gastos corrientes para aparentar beneficios superiores. La SEC presenta una acción civil por un fraude estimado inicialmente en más de 3.800 millones de dólares, cifra ampliada por revisiones posteriores. Las investigaciones también alcanzan a antiguos directivos y responsables contables. El caso demuestra que anotaciones en libros y estados financieros pueden constituir el núcleo de una operación delictiva organizada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-17588",
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-17829"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64014,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2003,
+    "tipo": "crimen",
+    "fecha": "2003-12-19",
+    "titulo": "Parmalat: una cuenta millonaria que no existía derriba a una multinacional",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2003\" data-fecha=\"2003-12-19\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2003</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Parmalat: una cuenta millonaria que no existía derriba a una multinacional</h3>\n    <p><strong>Fraude societario · Italia:</strong> Parmalat revela en diciembre de 2003 que no puede justificar una supuesta cuenta de casi 4.000 millones de euros atribuida a una filial extranjera. La investigación detecta deuda ocultada, documentos falsos y operaciones entre sociedades destinadas a simular solvencia. La crisis conduce a la insolvencia del grupo y a actuaciones judiciales. El caso convierte la verificación externa de saldos, filiales y garantías en una cuestión esencial de criminalística económica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18527",
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-18803"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64015,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2006,
+    "tipo": "crimen",
+    "fecha": "2006-05-09",
+    "titulo": "Afinsa y Fórum Filatélico: la justicia interviene dos negocios de sellos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2006\" data-fecha=\"2006-05-09\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Afinsa y Fórum Filatélico: la justicia interviene dos negocios de sellos</h3>\n    <p><strong>Estafa masiva de inversión · España:</strong> El 9 de mayo de 2006 la Audiencia Nacional ordena la intervención de Afinsa y Fórum Filatélico por las sospechas de una captación fraudulenta de ahorro mediante contratos sobre sellos filatélicos y ofertas de recompra. El precio asignado a los sellos y la sostenibilidad de los pagos quedan bajo examen judicial. Las causas se tramitan separadamente y resultan en condenas de directivos, con sentencias de Afinsa en 2016 y Fórum en 2018 y posteriores recursos. La intervención conjunta merece una única tarjeta, sin confundir ambos procedimientos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://elpais.com/economia/2017/09/15/actualidad/1505467735_287671.html",
+      "https://www.rtve.es/noticias/20171123/tribunal-supremo-rebaja-condenas-a-directivos-afinsa-por-estafa-sellos/1638041.shtml",
+      "https://www.rtve.es/noticias/20180713/juez-condena-a-12-anos-cuatro-meses-carcel-expresidente-forum-filatelico-por-estafa/1764446.shtml"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64016,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2008,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "DMG: Colombia actúa contra una gigantesca captación irregular de fondos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2008\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2008</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>DMG: Colombia actúa contra una gigantesca captación irregular de fondos</h3>\n    <p><strong>Pirámides de inversión · Colombia:</strong> En noviembre de 2008 Colombia interviene organizaciones que habían captado dinero de particulares mediante fórmulas comerciales y beneficios prometidos, entre ellas DMG, vinculada a David Murcia Guzmán. Las autoridades investigan la estructura real del negocio y se abren procesos penales que desembocan en condenas posteriores. La repercusión demuestra que las estafas de inversión pueden extenderse por redes comerciales y de confianza sin adoptar la apariencia de una institución bancaria tradicional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://apps.procuraduria.gov.co/guia/gd_734/docs/sc136_09.html",
+      "https://apps.procuraduria.gov.co/portal/Procuraduria-General_de_la_Nacion_design__comisi_n_para_intervenir_como_agentes_especiales_en_nuevo_caso_de_las__piramides__conocidas_como_DMG.news"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64017,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2008,
+    "tipo": "crimen",
+    "fecha": "2008-12-11",
+    "titulo": "Bernard Madoff: se descubre una estafa de inversión de alcance mundial",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2008\" data-fecha=\"2008-12-11\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2008</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Bernard Madoff: se descubre una estafa de inversión de alcance mundial</h3>\n    <p><strong>Esquema Ponzi · Estados Unidos:</strong> Madoff es detenido en diciembre de 2008 después de quedar al descubierto que su gestoría de inversiones suministraba a clientes rentabilidades y movimientos que no respondían a operaciones reales. Durante años se utilizaron fondos nuevos para atender pagos a antiguos inversores y se emitieron extractos engañosos. El 12 de marzo de 2009 reconoce once delitos federales y el 29 de junio recibe una pena de 150 años. El fraude demuestra el poder de la reputación y la insuficiencia de determinadas inspecciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/bernie-madoff",
+      "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-distribution-more-695-million-victims-madoff-ponzi"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64018,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2009,
+    "tipo": "crimen",
+    "fecha": "2009-02-17",
+    "titulo": "Allen Stanford: certificados de depósito sostienen una estafa transnacional",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2009\" data-fecha=\"2009-02-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Allen Stanford: certificados de depósito sostienen una estafa transnacional</h3>\n    <p><strong>Fraude de inversión bancaria · Estados Unidos y Antigua:</strong> La SEC acusa en febrero de 2009 a Allen Stanford y entidades vinculadas de captar miles de millones de dólares mediante supuestos depósitos seguros de un banco de Antigua y declaraciones engañosas sobre inversiones y rendimientos. El uso de una entidad con apariencia bancaria y de sociedades situadas en distintas jurisdicciones dificulta la comprobación de los fondos. Las investigaciones terminan en condenas y actuaciones de recuperación patrimonial. El caso es distinto del de Madoff pese a la coincidencia temporal y al funcionamiento Ponzi.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/newsroom/press-releases/2009-26-sec-charges-r-allen-stanford-stanford-international-bank-multi-billion-dollar-investment-scheme",
+      "https://www.sec.gov/newsroom/press-releases/2009-140-sec-charges-two-accountants-antiguan-regulator-roles-stanford-ponzi-scheme"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64019,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2009,
+    "tipo": "crimen",
+    "fecha": "2009-01-07",
+    "titulo": "Satyam: el presidente de una tecnológica reconoce cifras ficticias",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2009\" data-fecha=\"2009-01-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Satyam: el presidente de una tecnológica reconoce cifras ficticias</h3>\n    <p><strong>Fraude contable · India:</strong> El 7 de enero de 2009 Ramalinga Raju comunica que las cuentas de Satyam incluyen efectivo inexistente y otros saldos y resultados distorsionados. La confesión pone bajo investigación a directivos y sistemas de auditoría de una gran empresa tecnológica india. En 2015 se dictan condenas por delitos relacionados con el falseamiento contable. El escándalo muestra cómo una compañía con clientes internacionales puede simular durante años un rendimiento financiero muy diferente del real.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.scirp.org/journal/paperinformation?paperid=28376",
+      "https://indiankanoon.org/doc/49455743/"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64020,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2012,
+    "tipo": "crimen",
+    "fecha": "2012-11-07",
+    "titulo": "Interbolsa: Colombia liquida una comisionista de bolsa investigada",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2012\" data-fecha=\"2012-11-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Interbolsa: Colombia liquida una comisionista de bolsa investigada</h3>\n    <p><strong>Fraude bursátil y control financiero · Colombia:</strong> En noviembre de 2012 la Superintendencia Financiera colombiana ordena la liquidación forzosa de Interbolsa tras graves problemas con sus obligaciones. Las investigaciones se concentran en financiación, operaciones con valores y actuación de gestores e intermediarios. Las responsabilidades judiciales y administrativas se determinan por separado; el cierre no constituye automáticamente prueba de delito para cualquier empleado. El episodio resulta significativo para estudiar riesgos de manipulación y falta de control en el mercado de valores.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.superfinanciera.gov.co/publicaciones/10081708/sala-de-prensacomunicados-de-prensa-historico-comunicados-de-prensacomunicados-de-prensa-10081708/",
+      "https://www.superfinanciera.gov.co/publicaciones/10082489/superfinanciera-deja-en-firme-sancion-a-alvaro-tirado-exdirectivo-de-interbolsa-sa-comisionista-de-bolsa-hoy-en-liquidacion-10082489/"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64021,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2013,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Pescanova: la crisis financiera destapa el falseamiento de balances",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2013\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Pescanova: la crisis financiera destapa el falseamiento de balances</h3>\n    <p><strong>Fraude de información financiera · España:</strong> La crisis de Pescanova en 2013 permite investigar prácticas que alteraban la información financiera del grupo y operaciones de financiación que no reflejaban fielmente su situación. El procedimiento da lugar a condenas penales, revisadas por el Tribunal Supremo en febrero de 2023. El expresidente Manuel Fernández de Sousa-Faro queda condenado a seis años por delitos contables y alzamiento de bienes, pero resulta absuelto de estafa agravada y falsedad documental mercantil. La ficha distingue expresamente delitos confirmados y delitos descartados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20230215/supremo-condena-a-seis-anos-carcel-expresidente-pescanova-por-manipular-cuentas/2425024.shtml",
+      "https://efe.com/portada-espana/2023-02-15/supremo-condena-seis-anos-de-carcel-expresidente-pescanova/"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64022,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2014,
+    "tipo": "crimen",
+    "fecha": "2014-07-06",
+    "titulo": "Gowex: el fundador reconoce la falsedad de las cuentas de una empresa de wifi",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2014\" data-fecha=\"2014-07-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Gowex: el fundador reconoce la falsedad de las cuentas de una empresa de wifi</h3>\n    <p><strong>Fraude bursátil · España:</strong> En julio de 2014 un análisis externo cuestiona las cifras de ventas de Gowex y provoca una grave caída de sus acciones. Jenaro García, fundador de la compañía, reconoce que se falsearon las cuentas, situación que abre investigaciones judiciales y acciones de inversores perjudicados. El caso refleja el papel de informes independientes y la necesidad de comprobar ingresos, clientes y certificaciones de las sociedades cotizadas. La confesión no permite dar por cerrada cada responsabilidad judicial posterior.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://elpais.com/economia/2014/07/06/actualidad/1404630095_948453.html",
+      "https://elpais.com/economia/2023-04-25/el-supremo-condena-a-ey-a-indemnizar-a-cuatro-inversores-de-gowex-por-falta-de-supervision.html"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64023,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "crimen",
+    "fecha": "2017-03-10",
+    "titulo": "Volkswagen admite en Estados Unidos el engaño de sus motores diésel",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2017\" data-fecha=\"2017-03-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Volkswagen admite en Estados Unidos el engaño de sus motores diésel</h3>\n    <p><strong>Fraude industrial y comercial · Alemania y Estados Unidos:</strong> Volkswagen se declara culpable en Estados Unidos de delitos derivados de la utilización de programas destinados a alterar los resultados de ensayos oficiales de emisiones de automóviles. La investigación pública había comenzado en 2015. La empresa reconoce haber engañado a reguladores y consumidores y obstruido la investigación. El caso muestra que el crimen económico empresarial incluye también la certificación falsa de productos y servicios, no solo el desfalco o la manipulación de balances.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/volkswagen-ag-pleads-guilty-connection-conspiracy-cheat-us-emissions-tests"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64024,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "crimen",
+    "fecha": "2017-12-06",
+    "titulo": "Steinhoff: una multinacional sudafricana descubre irregularidades en sus cuentas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2017\" data-fecha=\"2017-12-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Steinhoff: una multinacional sudafricana descubre irregularidades en sus cuentas</h3>\n    <p><strong>Fraude corporativo · Sudáfrica y Europa:</strong> El grupo comercial Steinhoff anuncia en diciembre de 2017 una investigación independiente de sus estados financieros, con efectos inmediatos sobre el mercado y los accionistas. Una revisión posterior examina transacciones irregulares por miles de millones de euros realizadas durante años. Las investigaciones reguladoras también alcanzan a antiguos directivos. El caso revela los riesgos que presenta un entramado empresarial internacional cuando los documentos de las sociedades no reflejan negocios y activos reales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www3.saflii.org/za/cases/ZASCA/2024/166.html",
+      "https://www.investing.com/news/stock-market-news/pwc-investigation-finds-74-billion-accounting-fraud-at-steinhoff-company-says-1809133"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64025,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2019,
+    "tipo": "crimen",
+    "fecha": "2019-03-08",
+    "titulo": "OneCoin: la justicia persigue una falsa criptomoneda comercializada como inversión",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-03-08\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>OneCoin: la justicia persigue una falsa criptomoneda comercializada como inversión</h3>\n    <p><strong>Estafa piramidal digital · Internacional:</strong> La justicia estadounidense anuncia en marzo de 2019 cargos relacionados con OneCoin, una organización creada en 2014 que vendía paquetes de inversión bajo la apariencia de una criptomoneda propia. Las investigaciones revelan afirmaciones falsas sobre la tecnología, el valor y las operaciones y una red de captación de compradores y promotores. Karl Sebastian Greenwood acaba condenado a veinte años en 2023, mientras que Ruja Ignatova figura como prófuga en las actuaciones citadas. No se identifica el fraude con las criptomonedas legítimas en general.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charges-against-leaders-onecoin-multibillion-dollar",
+      "https://www.justice.gov/usao-sdny/pr/co-founder-multibillion-dollar-cryptocurrency-scheme-onecoin-sentenced-20-years-prison"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64026,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2020,
+    "tipo": "crimen",
+    "fecha": "2020-06-25",
+    "titulo": "Wirecard: desaparecen 1.900 millones de euros y la empresa cae",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2020\" data-fecha=\"2020-06-25\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Wirecard: desaparecen 1.900 millones de euros y la empresa cae</h3>\n    <p><strong>Fraude contable y bancario · Alemania:</strong> Wirecard solicita su insolvencia en junio de 2020 después de que su auditor se negara a aprobar cuentas que incluían unos 1.900 millones de euros en saldos no acreditados. Las autoridades abren investigaciones sobre el funcionamiento del grupo de pagos electrónicos y la información facilitada a los mercados. El derrumbe impulsa también el examen de la supervisión de empresas cotizadas. Se diferencia la evidencia del agujero contable de las acusaciones individuales, cuya responsabilidad debe determinar la justicia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.investing.com/news/technology-news/wirecard-files-for-insolvency-2211917",
+      "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-deficiencies-in-german-supervision-wirecard%E2%80%99s-financial"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64027,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2020,
+    "tipo": "crimen",
+    "fecha": "2020-12-16",
+    "titulo": "Luckin Coffee: ventas ficticias alimentan la imagen de una cadena china",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2020\" data-fecha=\"2020-12-16\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Luckin Coffee: ventas ficticias alimentan la imagen de una cadena china</h3>\n    <p><strong>Manipulación de ingresos · China y Estados Unidos:</strong> La SEC anuncia en diciembre de 2020 un acuerdo sancionador con Luckin Coffee por la fabricación de operaciones comerciales que inflaban artificialmente las ventas declaradas en sus estados financieros. Los investigadores identifican registros y gastos manipulados para simular una expansión de actividad en 2019 y 2020. La compañía acepta pagar una sanción civil; este acuerdo no equivale a una condena penal de todos sus directivos. El caso representa un fraude comercial basado en transacciones aparentes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/newsroom/press-releases/2020-319",
+      "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24987"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64028,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2020,
+    "tipo": "crimen",
+    "fecha": "2020-11-24",
+    "titulo": "Purdue Pharma admite conspiraciones fraudulentas en el negocio de opioides",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2020\" data-fecha=\"2020-11-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Purdue Pharma admite conspiraciones fraudulentas en el negocio de opioides</h3>\n    <p><strong>Responsabilidad penal corporativa · Estados Unidos:</strong> Purdue Pharma, fabricante de OxyContin, se declara culpable de conspiraciones federales vinculadas a su actividad comercial con opioides, entre ellas defraudar a las autoridades dificultando funciones legales de la DEA y facilitar prácticas ilícitas de distribución. El caso documenta cómo decisiones de una empresa pueden constituir delitos aunque se trate de un producto legalmente comercializado. La declaración de culpabilidad de la sociedad no significa una condena penal automática de cada integrante de la familia propietaria o de su personal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/opioid-manufacturer-purdue-pharma-pleads-guilty-fraud-and-kickback-conspiracies",
+      "https://www.justice.gov/criminal/criminal-vns/case/united-states-v-purdue-pharma-lp"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64029,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2022,
+    "tipo": "crimen",
+    "fecha": "2022-01-03",
+    "titulo": "Theranos: Elizabeth Holmes es declarada culpable de engañar a inversores",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2022\" data-fecha=\"2022-01-03\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Theranos: Elizabeth Holmes es declarada culpable de engañar a inversores</h3>\n    <p><strong>Fraude tecnológico y financiero · Estados Unidos:</strong> Un jurado declara a Elizabeth Holmes, fundadora de Theranos, culpable de conspiración y tres delitos de fraude electrónico relativos a los inversores de una empresa de análisis sanguíneos. Las pruebas revelan que las capacidades tecnológicas y comerciales prometidas no se correspondían con la realidad conocida por la dirección. La sentencia de noviembre de 2022 impone una pena de once años y tres meses. Debe distinguirse de los cargos relativos a pacientes por los que Holmes no resultó condenada en ese juicio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-ndca/pr/theranos-founder-elizabeth-holmes-found-guilty-investor-fraud",
+      "https://www.justice.gov/usao-ndca/pr/elizabeth-holmes-sentenced-more-11-years-defrauding-theranos-investors-hundreds"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64030,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2022,
+    "tipo": "crimen",
+    "fecha": "2022-11-11",
+    "titulo": "FTX: el colapso de una plataforma cripto revela desvíos de dinero de clientes",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2022\" data-fecha=\"2022-11-11\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>FTX: el colapso de una plataforma cripto revela desvíos de dinero de clientes</h3>\n    <p><strong>Fraude financiero digital · Estados Unidos y Bahamas:</strong> La plataforma de criptoactivos FTX se acoge a un procedimiento de insolvencia en noviembre de 2022 mientras afloran pruebas de que fondos de sus clientes se utilizaron indebidamente para financiar operaciones de Alameda Research y otros fines. La investigación criminal determina engaños a clientes, inversores y prestamistas. Sam Bankman-Fried es declarado culpable en 2023 y condenado a veinticinco años en marzo de 2024. La ficha se centra en el fraude y no presenta la insolvencia como delito por sí misma.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-sdny/pr/samuel-bankman-fried-sentenced-25-years-prison",
+      "https://www.justice.gov/archives/opa/pr/samuel-bankman-fried-sentenced-25-years-his-orchestration-multiple-fraudulent-schemes"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 64031,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
     "precision_fecha": "día"
   }
 ]
