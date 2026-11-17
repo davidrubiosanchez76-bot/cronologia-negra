@@ -8521,10 +8521,11 @@
     "yr": 1898,
     "tipo": "crimen",
     "fecha": "1898-11-10",
-    "titulo": "Wilmington: los supremacistas blancos dan un golpe de Estado y asesinan a vecinos negros",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1898\" data-fecha=\"1898-11-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1898</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Wilmington: los supremacistas blancos dan un golpe de Estado y asesinan a vecinos negros</h3>\n    <p><strong>Masacre y golpe racista · Carolina del Norte, Estados Unidos · 10 de noviembre de 1898:</strong> Un movimiento de supremacistas blancos utiliza una campaña de propaganda racial y una ofensiva armada para expulsar a representantes negros y aliados blancos del gobierno municipal de Wilmington. Una multitud incendia un periódico afroamericano, mata a numerosos habitantes y obliga a otros a abandonar la ciudad. Es un golpe político inseparable del terror racial que pretendía revertir la participación democrática de la población negra. El número de víctimas mortales no está establecido con certeza.</p>\n  </div>\n</article>",
+    "titulo": "Wilmington: un golpe armado derroca al gobierno municipal y mata a vecinos negros",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1898\" data-fecha=\"1898-11-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1898</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Wilmington: un golpe armado derroca al gobierno municipal y mata a vecinos negros</h3>\n    <p><strong>Violencia racial y golpe de Estado local · Carolina del Norte, Estados Unidos · 10 de noviembre de 1898:</strong> Dirigentes demócratas blancos, entre ellos Alfred Moore Waddell, y grupos armados derrocan al gobierno municipal de Wilmington, elegido mediante una coalición birracial. Incendian el periódico de un editor afroamericano, asesinan a habitantes negros y fuerzan la huida de otros. La campaña supremacista blanca buscaba restaurar el control político mediante amenazas y violencia. El número total de muertos sigue siendo incierto.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.neh.gov/article/wilmington-1898-unsupressed-history-massacre"
+      "https://www.neh.gov/article/wilmington-1898-unsupressed-history-massacre",
+      "https://www.dncr.nc.gov/1898-wilmington-coup"
     ],
     "procedencia": "Ampliación de base histórica · VIOLENCIA RACIAL · 16 noviembre 2026",
     "orden": 40008,
@@ -8593,8 +8594,8 @@
     "yr": 1919,
     "tipo": "crimen",
     "fecha": "",
-    "titulo": "Verano Rojo: oleadas de violencia supremacista contra comunidades negras",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1919\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1919</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Verano Rojo: oleadas de violencia supremacista contra comunidades negras</h3>\n    <p><strong>Violencia racial colectiva · Estados Unidos · verano de 1919:</strong> Tras la Primera Guerra Mundial, ataques y disturbios raciales sacuden numerosas ciudades estadounidenses, entre ellas Chicago y Washington. Multitudes blancas agreden a ciudadanos negros, incendian viviendas y tratan de mantener jerarquías sociales amenazadas por la migración y la participación política afroamericana. La violencia tiene múltiples detonantes locales, pero forma un patrón histórico de terror racista y resistencia de las comunidades atacadas. James Weldon Johnson populariza su denominación como «Verano Rojo».</p>\n  </div>\n</article>",
+    "titulo": "Verano Rojo: oleadas de ataques y asesinatos contra comunidades negras",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1919\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1919</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Verano Rojo: oleadas de ataques y asesinatos contra comunidades negras</h3>\n    <p><strong>Violencia racial colectiva · Estados Unidos · verano de 1919:</strong> Tras la Primera Guerra Mundial, ataques racistas y disturbios sacuden numerosas ciudades, entre ellas Chicago y Washington. Multitudes blancas agreden a ciudadanos negros e incendian viviendas; también se producen enfrentamientos y resistencia de las víctimas. No hubo una sola organización responsable de todos los episodios, cuyas circunstancias locales varían. La violencia se enmarca en la segregación y la defensa de jerarquías raciales.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.archives.gov/research/african-americans/wwi/red-summer",
       "https://www.loc.gov/exhibits/naacp/founding-and-early-years.html"
@@ -8849,10 +8850,11 @@
     "yr": 1993,
     "tipo": "crimen",
     "fecha": "1993-05-29",
-    "titulo": "Solingen: un incendio provocado por ultraderechistas mata a cinco miembros de una familia turca",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-05-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Solingen: un incendio provocado por ultraderechistas mata a cinco miembros de una familia turca</h3>\n    <p><strong>Atentado racista · Solingen, Alemania · 29 de mayo de 1993:</strong> Extremistas de derecha incendian una vivienda ocupada por la familia Genç y asesinan a cinco mujeres y niñas de origen turco. El ataque forma parte de una oleada de violencia xenófoba que afecta a la Alemania reunificada, con episodios anteriores en Hoyerswerda, Rostock-Lichtenhagen y Mölln. La investigación y los procesos penales posteriores no borran el contexto de hostilidad hacia inmigrantes. La tarjeta registra el atentado original y su importancia en la historia del neonazismo europeo.</p>\n  </div>\n</article>",
+    "titulo": "Solingen: cuatro jóvenes incendian una casa y matan a cinco personas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-05-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Solingen: cuatro jóvenes incendian una casa y matan a cinco personas</h3>\n    <p><strong>Atentado racista · Solingen, Alemania · 29 de mayo de 1993:</strong> Cuatro jóvenes provocan un incendio en la vivienda de la familia Genç y matan a cinco mujeres y niñas de origen turco. Los cuatro son condenados en 1995. Las pesquisas establecen la motivación xenófoba del ataque, vinculado a ambientes de extrema derecha. El hecho se produce durante una oleada de violencia racista en la Alemania reunificada.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/544876/unvollstaendige-erinnerung/"
+      "https://www.bpb.de/themen/rechtsextremismus/dossier-rechtsextremismus/544876/unvollstaendige-erinnerung/",
+      "https://www.bpb.de/shop/zeitschriften/izpb/548477/zwischen-euphorie-und-ernuechterung-das-vereinte-deutschland-anfang-der-1990er-jahre/"
     ],
     "procedencia": "Ampliación de base histórica · VIOLENCIA RACIAL · 16 noviembre 2026",
     "orden": 40035,
@@ -8921,8 +8923,8 @@
     "yr": 2015,
     "tipo": "crimen",
     "fecha": "2015-06-17",
-    "titulo": "Charleston: un supremacista blanco asesina a nueve fieles negros en una iglesia",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2015\" data-fecha=\"2015-06-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Charleston: un supremacista blanco asesina a nueve fieles negros en una iglesia</h3>\n    <p><strong>Atentado racista · Carolina del Sur, Estados Unidos · 17 de junio de 2015:</strong> Dylann Roof entra en la iglesia histórica Emanuel AME de Charleston durante una reunión religiosa y mata a nueve feligreses afroamericanos. Las investigaciones y el proceso federal acreditan que buscaba a sus víctimas por motivos raciales y pretendía alimentar el conflicto entre comunidades. El lugar elegido no era casual: la iglesia tenía una larga vinculación con la historia de la población negra. El caso ejemplifica el terrorismo supremacista contemporáneo y su persecución como crimen de odio.</p>\n  </div>\n</article>",
+    "titulo": "Charleston: Dylann Roof asesina a nueve fieles negros en una iglesia",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2015\" data-fecha=\"2015-06-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Charleston: Dylann Roof asesina a nueve fieles negros en una iglesia</h3>\n    <p><strong>Atentado racista · Carolina del Sur, Estados Unidos · 17 de junio de 2015:</strong> Dylann Roof entra en la iglesia Emanuel AME de Charleston y asesina a nueve feligreses afroamericanos durante una reunión religiosa. Las investigaciones federales acreditan que seleccionó a las víctimas por motivos raciales. Sus escritos evidencian una ideología supremacista blanca. Es declarado culpable de delitos de odio y otros cargos federales vinculados con los asesinatos.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.justice.gov/archives/opa/pr/statement-attorney-general-loretta-e-lynch-sentencing-dylann-roof"
     ],
@@ -8949,11 +8951,12 @@
     "yr": 2019,
     "tipo": "crimen",
     "fecha": "2019-03-15",
-    "titulo": "Christchurch: un terrorista supremacista asesina a 51 fieles musulmanes",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-03-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Christchurch: un terrorista supremacista asesina a 51 fieles musulmanes</h3>\n    <p><strong>Atentado terrorista racista e islamófobo · Christchurch, Nueva Zelanda · 15 de marzo de 2019:</strong> Un atacante supremacista asalta dos mezquitas durante la oración y asesina a 51 personas, además de causar numerosos heridos. Difunde deliberadamente parte del ataque en directo para multiplicar su efecto propagandístico; sus escritos expresan ideología racista, antiinmigración e islamófoba. El proceso judicial conduce a una condena de prisión perpetua sin libertad condicional y una comisión independiente investiga las oportunidades de prevención y los fallos de seguridad. La motivación combina racismo y hostilidad religiosa, categorías relacionadas pero no idénticas.</p>\n  </div>\n</article>",
+    "titulo": "Christchurch: Brenton Tarrant asesina a 51 personas en dos mezquitas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-03-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Christchurch: Brenton Tarrant asesina a 51 personas en dos mezquitas</h3>\n    <p><strong>Atentado terrorista racista e islamófobo · Nueva Zelanda · 15 de marzo de 2019:</strong> Brenton Tarrant ataca dos mezquitas de Christchurch durante la oración y asesina a 51 personas. Sus escritos y declaraciones revelan una ideología supremacista blanca y antiinmigración. Es condenado a cadena perpetua sin libertad condicional por los asesinatos, las tentativas y el delito de terrorismo. Las investigaciones examinan la radicalización y la respuesta institucional.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://coronerscourt.govt.nz/masjidain-attacks-coronial-process/",
-      "https://christchurchattack.royalcommission.nz/publications/what-we-heard-from-the-whanau-of-the-51-shuhada-survivors-and-witnesses-of-the-christchurch-terrorist-attack/context"
+      "https://christchurchattack.royalcommission.nz/publications/what-we-heard-from-the-whanau-of-the-51-shuhada-survivors-and-witnesses-of-the-christchurch-terrorist-attack/context",
+      "https://www.courtsofnz.govt.nz/assets/cases/R-v-Tarrant-sentencing-remarks-20200827.pdf"
     ],
     "procedencia": "Ampliación de base histórica · VIOLENCIA RACIAL · 16 noviembre 2026",
     "orden": 40047,
@@ -9152,10 +9155,12 @@
     "yr": 1969,
     "tipo": "crimen",
     "fecha": "1969-12-12",
-    "titulo": "Piazza Fontana y el comienzo de los «años de plomo» italianos",
-    "html": "<article class=\"item-evento\" data-fecha=\"1969-12-12\" data-tipo=\"crimen\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Piazza Fontana y el comienzo de los «años de plomo» italianos</h3>\n    <p><strong>Terrorismo y atentados · 12 de diciembre de 1969:</strong> Una bomba colocada en la sede de la Banca Nazionale dell’Agricoltura de Milán mata a 17 personas. El ataque y su compleja investigación se convierten en símbolo de la violencia de extrema derecha, las falsas pistas iniciales y las sospechas de complicidad de sectores estatales. Inicia una etapa de atentados y polarización política en Italia.</p>\n  </div>\n</article>",
+    "titulo": "Piazza Fontana: una bomba mata a 17 personas en Milán",
+    "html": "<article class=\"item-evento\" data-fecha=\"1969-12-12\" data-tipo=\"crimen\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Piazza Fontana: una bomba mata a 17 personas en Milán</h3>\n    <p><strong>Terrorismo y atentados · Milán, Italia · 12 de diciembre de 1969:</strong> Una bomba colocada en la Banca Nazionale dell’Agricoltura mata a 17 personas. Las investigaciones y sucesivas resoluciones judiciales relacionan el atentado con círculos de Ordine Nuovo, organización neofascista; sin embargo, tras décadas de procesos no hubo condenados definitivos por la matanza. Las primeras acusaciones contra anarquistas y las sospechas de encubrimientos estatales agravan la controversia del caso. El crimen marca el comienzo de los llamados «años de plomo».</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://memoria.cultura.gov.it/w/scheda-sul-processo-per-la-strage-di-piazza-fontana-procura-"
+      "https://memoria.cultura.gov.it/w/scheda-sul-processo-per-la-strage-di-piazza-fontana-procura-",
+      "https://memoria.cultura.gov.it/alle-origini-dello-stragismo",
+      "https://memoria.cultura.gov.it/documents/37629/142238/I%2Bterrorismi%2Bpolitici%2Bin%2BItalia.pdf/2d9deacc-6117-5072-cfc2-e0044b4fe5c8?t=1686919891828"
     ],
     "procedencia": "Ampliación TERRORISMO Y ATENTADOS · 17 noviembre 2026",
     "orden": 50039,
@@ -9250,10 +9255,12 @@
     "yr": 1977,
     "tipo": "crimen",
     "fecha": "1977-01-24",
-    "titulo": "La matanza de Atocha: violencia ultraderechista contra abogados laboralistas",
-    "html": "<article class=\"item-evento\" data-fecha=\"1977-01-24\" data-tipo=\"crimen\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La matanza de Atocha: violencia ultraderechista contra abogados laboralistas</h3>\n    <p><strong>Terrorismo y atentados · 24 de enero de 1977:</strong> Un comando de extrema derecha asalta un despacho de abogados laboralistas vinculado a Comisiones Obreras en Madrid y mata a cinco personas. El crimen busca intimidar a sectores de la oposición democrática en plena Transición. Su impacto en la movilización cívica convierte a Atocha en un hito de la violencia política y terrorista de la época.</p>\n  </div>\n</article>",
+    "titulo": "Atocha: Fernández Cerrá y García Juliá asesinan a cinco personas",
+    "html": "<article class=\"item-evento\" data-fecha=\"1977-01-24\" data-tipo=\"crimen\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Atocha: Fernández Cerrá y García Juliá asesinan a cinco personas</h3>\n    <p><strong>Terrorismo y atentados · Madrid, España · 24 de enero de 1977:</strong> José Fernández Cerrá y Carlos García Juliá irrumpen armados en un despacho de abogados laboralistas de la calle Atocha y asesinan a cinco personas, además de herir a otras cuatro. Ambos son condenados como ejecutores; Francisco Albaladejo lo es por su intervención en la organización del ataque. La sentencia documenta un grupo de ideología radical y totalitaria contrario a la democratización, vinculado a ambientes de extrema derecha. La matanza conmociona la Transición.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://boe.es/diario_boe/txt.php?id=BOE-A-2025-1297&lang=es"
+      "https://boe.es/diario_boe/txt.php?id=BOE-A-2025-1297&lang=es",
+      "https://fundacionabogadosdeatocha.es/Conoce_La_Fundacion/Historia_de_los_Abogados_de_Atocha/El_juicio",
+      "https://elpais.com/diario/1980/03/05/espana/321058812_850215.html"
     ],
     "procedencia": "Ampliación TERRORISMO Y ATENTADOS · 17 noviembre 2026",
     "orden": 50046,
@@ -9264,10 +9271,12 @@
     "yr": 1977,
     "tipo": "crimen",
     "fecha": "1977-09-20",
-    "titulo": "La revista El Papus sufre un atentado de extrema derecha",
-    "html": "<article class=\"item-evento\" data-fecha=\"1977-09-20\" data-tipo=\"crimen\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La revista El Papus sufre un atentado de extrema derecha</h3>\n    <p><strong>Terrorismo y atentados · 20 de septiembre de 1977:</strong> Una bomba dirigida contra la redacción de la revista satírica barcelonesa <em>El Papus</em> mata al conserje Joan Peñalver. El ataque, reivindicado por la Triple A, pretende intimidar a una publicación crítica durante la Transición. Permite incorporar a la cronología el terrorismo ultra y la violencia contra la prensa, además de ETA y los GRAPO.</p>\n  </div>\n</article>",
+    "titulo": "El Papus: un maletín bomba mata al conserje de la revista",
+    "html": "<article class=\"item-evento\" data-fecha=\"1977-09-20\" data-tipo=\"crimen\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El Papus: un maletín bomba mata al conserje de la revista</h3>\n    <p><strong>Terrorismo y atentados · Barcelona, España · 20 de septiembre de 1977:</strong> Un maletín bomba dirigido a la redacción de la revista satírica <em>El Papus</em> mata al conserje Juan Peñalver y causa heridas a otras personas. La organización Triple A reivindica el ataque, pero la autoría material no queda establecida judicialmente: los acusados fueron absueltos del atentado. Se investigó a personas de ambientes de extrema derecha, sin que ello equivalga a una condena por el crimen.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/Documents/Terrorismo_en_Espan%CC%83a_RESUMEN.pdf"
+      "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/Documents/Terrorismo_en_Espan%CC%83a_RESUMEN.pdf",
+      "https://www.rtve.es/rtve/20110218/las-incognitas-del-atentado-contra-la-revista-el-papus-este-domingo-en-el-documental-de-la-2/409277.shtml",
+      "https://elpais.com/diario/1984/02/17/sociedad/445820408_850215.html"
     ],
     "procedencia": "Ampliación TERRORISMO Y ATENTADOS · 17 noviembre 2026",
     "orden": 50047,
@@ -9306,10 +9315,11 @@
     "yr": 1980,
     "tipo": "crimen",
     "fecha": "1980-08-02",
-    "titulo": "Bolonia: un atentado neofascista mata a 85 personas",
-    "html": "<article class=\"item-evento\" data-fecha=\"1980-08-02\" data-tipo=\"crimen\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Bolonia: un atentado neofascista mata a 85 personas</h3>\n    <p><strong>Terrorismo y atentados · 2 de agosto de 1980:</strong> Una bomba estalla en la estación ferroviaria de Bolonia y causa 85 muertos. La investigación y los procesos judiciales vinculan el crimen con terroristas neofascistas y con redes de encubrimiento. Es uno de los ejemplos más graves de los «años de plomo» italianos y de la larga búsqueda judicial de responsabilidades.</p>\n  </div>\n</article>",
+    "titulo": "Bolonia: una bomba mata a 85 personas en la estación ferroviaria",
+    "html": "<article class=\"item-evento\" data-fecha=\"1980-08-02\" data-tipo=\"crimen\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Bolonia: una bomba mata a 85 personas en la estación ferroviaria</h3>\n    <p><strong>Terrorismo y atentados · Bolonia, Italia · 2 de agosto de 1980:</strong> Una bomba estalla en la estación ferroviaria y causa 85 muertos y numerosos heridos. Los procesos judiciales concluyen con condenas de integrantes de organizaciones neofascistas, entre ellos Valerio Fioravanti, Francesca Mambro, Luigi Ciavardini, Gilberto Cavallini y Paolo Bellini. La investigación identifica también actuaciones de encubrimiento. Se distinguen las responsabilidades judicialmente establecidas de las hipótesis históricas.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.vigilfuoco.it/chi-siamo/memoria-storica/notizie-storiche/la-strage-della-stazione-di-bologna"
+      "https://www.vigilfuoco.it/chi-siamo/memoria-storica/notizie-storiche/la-strage-della-stazione-di-bologna",
+      "https://www.ansa.it/amp/sito/notizie/cronaca/2026/08/02/la-strage-di-bologna-dopo-46-anni-i-processi-sono-conclusi_b63031b1-a952-4823-bc25-bd83cca23958.html"
     ],
     "procedencia": "Ampliación TERRORISMO Y ATENTADOS · 17 noviembre 2026",
     "orden": 50050,
@@ -9614,8 +9624,8 @@
     "yr": 2011,
     "tipo": "crimen",
     "fecha": "2011-07-22",
-    "titulo": "Noruega: un terrorista ultraderechista mata a 77 personas",
-    "html": "<article class=\"item-evento\" data-fecha=\"2011-07-22\" data-tipo=\"crimen\" data-yr=\"2011\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Noruega: un terrorista ultraderechista mata a 77 personas</h3>\n    <p><strong>Terrorismo y atentados · 22 de julio de 2011:</strong> Anders Behring Breivik coloca una bomba en Oslo y después dispara contra jóvenes reunidos en un campamento político en la isla de Utøya. Mata a 77 personas. El caso muestra el terrorismo individual de extrema derecha y obliga a examinar fallos de prevención, radicalización ideológica y capacidad de respuesta policial.</p>\n  </div>\n</article>",
+    "titulo": "Noruega: Anders Breivik asesina a 77 personas en Oslo y Utøya",
+    "html": "<article class=\"item-evento\" data-fecha=\"2011-07-22\" data-tipo=\"crimen\" data-yr=\"2011\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Noruega: Anders Breivik asesina a 77 personas en Oslo y Utøya</h3>\n    <p><strong>Terrorismo y atentados · Noruega · 22 de julio de 2011:</strong> Anders Behring Breivik coloca una bomba en el distrito gubernamental de Oslo y luego dispara contra los asistentes a un campamento político juvenil en la isla de Utøya. Los dos atentados causan 77 muertos. Su motivación de extrema derecha, antiinmigración y antimusulmana está acreditada por sus declaraciones y escritos. El caso revela fallos de prevención y respuesta policial ante ataques sucesivos.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.22julisenteret.no/en/"
     ],
@@ -9936,10 +9946,12 @@
     "yr": 1922,
     "tipo": "crimen",
     "fecha": "1922-06-24",
-    "titulo": "Walther Rathenau: la ultraderecha asesina al ministro alemán",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1922\" data-fecha=\"1922-06-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1922</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Walther Rathenau: la ultraderecha asesina al ministro alemán</h3>\n    <p><strong>Magnicidio o asesinato político · Berlín, Alemania · 24/06:</strong> Miembros de la organización ultraderechista Consul matan al ministro de Exteriores Walther Rathenau cuando se dirige al trabajo. El atentado provoca protestas multitudinarias y acelera la aprobación de medidas de protección de la República de Weimar. Las pesquisas relacionan el crimen con redes clandestinas que perseguían destruir el orden democrático mediante asesinatos políticos.</p>\n  </div>\n</article>",
+    "titulo": "Walther Rathenau: miembros de Organización Consul asesinan al ministro",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1922\" data-fecha=\"1922-06-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1922</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Walther Rathenau: miembros de Organización Consul asesinan al ministro</h3>\n    <p><strong>Magnicidio · Berlín, Alemania · 24 de junio de 1922:</strong> Erwin Kern y Hermann Fischer disparan contra el ministro de Exteriores Walther Rathenau desde un automóvil conducido por Ernst-Werner Techow. Los tres pertenecen a Organización Consul, grupo clandestino de extrema derecha, nacionalista y antisemita, opuesto a la República de Weimar. El atentado provoca protestas multitudinarias y acelera la aprobación de legislación para proteger el régimen republicano.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/ermordung-rathenaus-1922"
+      "https://www.dhm.de/lemo/kapitel/weimarer-republik/innenpolitik/ermordung-rathenaus-1922",
+      "https://www.bundestag.de/dokumente/textarchiv/1922-06-24-rathenau-899360",
+      "https://lha.sachsen-anhalt.de/aktuelles/archivalien-im-blick/fahndung-nach-den-moerdern-von-walther-rathenau"
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
     "orden": 50099,
@@ -10216,10 +10228,11 @@
     "yr": 1980,
     "tipo": "crimen",
     "fecha": "1980-03-24",
-    "titulo": "Óscar Romero: asesinan al arzobispo salvadoreño mientras celebra misa",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1980\" data-fecha=\"1980-03-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Óscar Romero: asesinan al arzobispo salvadoreño mientras celebra misa</h3>\n    <p><strong>Magnicidio, asesinato político o tentativa · San Salvador, El Salvador · 24/03/1980:</strong> Un francotirador asesina a Óscar Arnulfo Romero durante la celebración de una misa, después de sus denuncias públicas de las violaciones de derechos humanos. Investigaciones posteriores relacionan el crimen con los escuadrones de la muerte vinculados a la extrema derecha. El caso simboliza la violencia contra quienes denuncian la represión política y da origen al reconocimiento internacional del derecho a la verdad.</p>\n  </div>\n</article>",
+    "titulo": "Óscar Romero: asesinan al arzobispo salvadoreño durante una misa",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1980\" data-fecha=\"1980-03-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Óscar Romero: asesinan al arzobispo salvadoreño durante una misa</h3>\n    <p><strong>Asesinato político · San Salvador, El Salvador · 24 de marzo de 1980:</strong> Un tirador cuya identidad no quedó establecida judicialmente asesina al arzobispo Óscar Arnulfo Romero mientras celebra misa, después de sus denuncias de violaciones de derechos humanos. La Comisión de la Verdad de Naciones Unidas atribuye la orden de asesinarlo a Roberto d’Aubuisson y la organización del crimen a integrantes de su entorno de seguridad, que actuaban como escuadrón de la muerte vinculado a la extrema derecha. Esa conclusión no identifica al ejecutor material.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.un.org/en/observances/right-to-truth-day"
+      "https://www.un.org/en/observances/right-to-truth-day",
+      "https://digitallibrary.un.org/record/168913/files/S_25500-ES.pdf"
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
     "orden": 50119,
@@ -10314,10 +10327,11 @@
     "yr": 1993,
     "tipo": "crimen",
     "fecha": "1993-04-10",
-    "titulo": "Chris Hani: un asesinato ultraderechista amenaza la transición sudafricana",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-04-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Chris Hani: un asesinato ultraderechista amenaza la transición sudafricana</h3>\n    <p><strong>Magnicidio, asesinato político o tentativa · Boksburg, Sudáfrica · 10/04/1993:</strong> Janusz Waluś asesina al dirigente comunista y referente de la lucha contra el apartheid Chris Hani frente a su vivienda. El crimen, preparado con apoyo de un político ultraderechista, pone en peligro unas negociaciones democráticas especialmente frágiles. La detención de los responsables y los llamamientos a la calma ayudan a evitar que la violencia frustre la transición política.</p>\n  </div>\n</article>",
+    "titulo": "Chris Hani: Janusz Waluś asesina al dirigente antiapartheid",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-04-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Chris Hani: Janusz Waluś asesina al dirigente antiapartheid</h3>\n    <p><strong>Asesinato político · Boksburg, Sudáfrica · 10 de abril de 1993:</strong> Janusz Waluś dispara contra Chris Hani, dirigente del Partido Comunista Sudafricano y referente de la lucha contra el apartheid. El asesinato había sido planeado con Clive Derby-Lewis, dirigente político de extrema derecha. Ambos fueron condenados. La Comisión de la Verdad y Reconciliación examinó las responsabilidades y motivaciones del crimen, que amenazó con desestabilizar la transición democrática.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://sahistory.org.za/people/chris-hani"
+      "https://sahistory.org.za/people/chris-hani",
+      "https://sabctrc.saha.org.za/documents/decisions/58681.htm"
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
     "orden": 50126,
@@ -10370,10 +10384,11 @@
     "yr": 1995,
     "tipo": "crimen",
     "fecha": "1995-11-04",
-    "titulo": "Isaac Rabin: un extremista israelí asesina al primer ministro tras un acto por la paz",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1995\" data-fecha=\"1995-11-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Isaac Rabin: un extremista israelí asesina al primer ministro tras un acto por la paz</h3>\n    <p><strong>Magnicidio, asesinato político o tentativa · Tel Aviv, Israel · 04/11/1995:</strong> Yigal Amir, contrario a los acuerdos de paz con los palestinos, dispara al primer ministro Isaac Rabin cuando termina una concentración a favor del proceso de paz. El crimen conmociona al país, provoca la revisión de los protocolos de seguridad e influye profundamente en el desarrollo de las negociaciones. Es un ejemplo de asesinato político dirigido contra un gobernante por sus decisiones diplomáticas.</p>\n  </div>\n</article>",
+    "titulo": "Isaac Rabin: Yigal Amir asesina al primer ministro tras un acto por la paz",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1995\" data-fecha=\"1995-11-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Isaac Rabin: Yigal Amir asesina al primer ministro tras un acto por la paz</h3>\n    <p><strong>Asesinato político · Tel Aviv, Israel · 4 de noviembre de 1995:</strong> Yigal Amir dispara contra el primer ministro Isaac Rabin al finalizar una concentración a favor del proceso de paz. El asesino, contrario a los Acuerdos de Oslo y vinculado al ultranacionalismo religioso israelí, es condenado a cadena perpetua. El magnicidio provoca la revisión de los protocolos de seguridad e influye profundamente en las negociaciones políticas.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.rabincenter.org.il/en/years/1995/"
+      "https://www.rabincenter.org.il/en/years/1995/",
+      "https://elpais.com/diario/1996/03/28/internacional/827967613_850215.html"
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
     "orden": 50130,
