@@ -7022,5 +7022,80 @@
     "orden": 53003,
     "tema": "SECTAS CRIMINALES",
     "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1978,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Martha Goddard normaliza un kit para recoger pruebas en agresiones sexuales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1978\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Martha Goddard normaliza un kit para recoger pruebas en agresiones sexuales</h3>\n    <p><strong>Criminalística de agresiones sexuales · Chicago:</strong> Entre 1972 y 1978, la activista Martha «Marty» Goddard desarrolla en Chicago el concepto y el diseño de un kit sistemático de recogida de muestras que llegaría a conocerse como Vitullo Evidence Collection Kit. Sus instrucciones y materiales ayudan a preservar rastros corporales y prendas para su análisis posterior, cuando muchas investigaciones carecían de procedimientos homogéneos. No supone el descubrimiento del ADN ni garantiza una identificación por sí solo: mejora la calidad y continuidad de la prueba forense.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://americanhistory.si.edu/collections/object/nmah_2009657",
+      "https://americanhistory.si.edu/press/releases/recognition-sexual-assault-awareness-month-smithsonian-acquires-pathbreaking"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54041,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1986,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Danger Assessment: evaluar el riesgo de homicidio en relaciones violentas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1986\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1986</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Danger Assessment: evaluar el riesgo de homicidio en relaciones violentas</h3>\n    <p><strong>Criminología preventiva · Estados Unidos:</strong> Jacquelyn C. Campbell desarrolla un cuestionario de evaluación del peligro de homicidio o lesiones muy graves en relaciones de violencia de pareja, a partir de estudios de muertes, experiencia clínica y testimonios de mujeres maltratadas. La herramienta será objeto de ampliaciones y validaciones posteriores, especialmente en 2009. No predice con certeza el comportamiento de una persona concreta: aporta criterios estructurados para orientar protección e intervención.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7878014/",
+      "https://vawnet.org/material/danger-assessment"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54042,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2007,
+    "tipo": "policia-cientifica",
+    "fecha": "2007-07-26",
+    "titulo": "Nace VioGén: una base compartida para valorar y seguir el riesgo de violencia de pareja",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2007\" data-fecha=\"2007-07-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2007</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace VioGén: una base compartida para valorar y seguir el riesgo de violencia de pareja</h3>\n    <p><strong>Coordinación policial y evaluación del riesgo · España:</strong> El Ministerio del Interior pone en funcionamiento el Sistema de Seguimiento Integral en los Casos de Violencia de Género, conocido como VioGén. Integra información para facilitar la coordinación institucional, las valoraciones policiales del riesgo y el seguimiento de medidas de protección. Supone un avance operativo en lugar de un nuevo delito. Su alcance y sus herramientas evolucionarán después, incluido VioGén 2, sin que el sistema pueda garantizar por sí solo la ausencia de nuevos ataques.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://sistemaviogen.ses.mir.es/publico/viogen/sistemaViogen.html",
+      "https://www.interior.gob.es/opencms/gl/servicios-al-ciudadano/violencia-contra-la-mujer/sistema-viogen-2/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54043,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2012,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Caso Bretón: una segunda pericia corrige la identificación de restos óseos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2012\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Caso Bretón: una segunda pericia corrige la identificación de restos óseos</h3>\n    <p><strong>Antropología forense · Córdoba, España:</strong> En la investigación por la desaparición de Ruth y José Bretón, nuevas evaluaciones forenses concluyen en 2012 que los fragmentos calcinados recuperados en una hoguera eran restos humanos infantiles y no animales, como se había informado inicialmente. La revisión del material resulta determinante para reconstruir el crimen. Esta tarjeta se refiere al cambio pericial y al control de calidad de una identificación difícil; el asesinato de 2011 se documenta separadamente en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20120905/policia-destituye-a-forense-hizo-informe-ninos-cordoba-abre-investigacion-interna/561644.shtml",
+      "https://amp.rtve.es/noticias/20120906/forenses-del-ultimo-informe-sobre-ruth-jose-confirman-huesos-son-dos-ninos/561753.shtml"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54044,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2014,
+    "tipo": "policia-cientifica",
+    "fecha": "2014-08-25",
+    "titulo": "La ONU publica un protocolo latinoamericano para investigar feminicidios",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2014\" data-fecha=\"2014-08-25\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La ONU publica un protocolo latinoamericano para investigar feminicidios</h3>\n    <p><strong>Metodología de investigación · América Latina:</strong> La Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos y ONU Mujeres presentan un modelo de protocolo para investigar muertes violentas de mujeres por razones de género. Propone examinar escena, antecedentes de amenazas y control, indicios sexuales, contexto relacional y posibles fallos de actuación institucional para evitar que un feminicidio se trate sin fundamento como accidente o hecho aislado. Es una herramienta técnica orientativa que requiere adaptación a las leyes de cada país.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://acnudh.org/modelo-de-protocolo-de-investigacion-de-las-muertes-violentas-de-mujeres-ya-esta-disponible/",
+      "https://www.mpf.gob.ar/ufem/herramientas/onu-modelo-de-protocolo-regional-femicidio-2014/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54045,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
   }
 ]
