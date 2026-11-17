@@ -1373,10 +1373,11 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La red púrpura: la investigación criminal desciende a los espacios ocultos de internet",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La red púrpura: la investigación criminal desciende a los espacios ocultos de internet</h3>\n    <p><strong>Novela · 2019:</strong> Carmen Mola publica <em>La red púrpura</em>, segunda novela protagonizada por la inspectora Elena Blanco. Una investigación sobre la difusión clandestina de vídeos extremadamente violentos conduce a la Brigada de Análisis de Casos hacia circuitos de la <em>deep web</em> y una organización difícil de identificar. El trabajo policial requiere comprender identidades digitales, emisiones en línea y conexiones entre hechos reales y materiales difundidos por internet. La novela utiliza la tecnología para ampliar el territorio de la investigación criminal, aunque conviene no confundir todos los servicios de la red profunda con actividades delictivas.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La red púrpura: la investigación criminal desciende a los espacios ocultos de internet</h3>\n    <p><strong>Novela · 2019:</strong> Carmen Mola publica <em>La red púrpura</em>, segunda novela protagonizada por la inspectora Elena Blanco. Una investigación sobre la difusión clandestina de vídeos extremadamente violentos conduce a la Brigada de Análisis de Casos hacia circuitos de la <em>deep web</em> y una organización difícil de identificar. El trabajo policial requiere comprender identidades digitales, emisiones en línea y conexiones entre hechos reales y materiales difundidos por internet. La investigación alcanza también secuestros, trata, explotación sexual y asesinatos vinculados a la organización. La novela utiliza la tecnología para ampliar el territorio de la investigación criminal, aunque conviene no confundir todos los servicios de la red profunda con actividades delictivas.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://aladi.diba.cat/record%3Db1918531~S171",
-      "https://www.penguinrandomhouse.com/books/622751/la-red-purpura%2D%2Dthe-purple-network-by-carmen-mola/"
+      "https://www.penguinrandomhouse.com/books/622751/la-red-purpura%2D%2Dthe-purple-network-by-carmen-mola/",
+      "https://www.casadellibro.com/libro-la-red-purpura-serie-inspectora-elena-blanco-2/9788420435572/9083578"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 985
@@ -4559,5 +4560,154 @@
     "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
     "orden": 52009,
     "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 1977,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Las muertas: Ibargüengoitia recrea el caso de las Poquianchis",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Las muertas: Ibargüengoitia recrea el caso de las Poquianchis</h3>\n    <p><strong>Novela negra satírica · Jorge Ibargüengoitia · México:</strong> A partir del caso real de las Poquianchis, Las muertas construye un relato coral próximo al expediente criminal. Aparecen una organización de explotación de mujeres, homicidios, desapariciones y encubrimientos. Las hermanas Baladro son personajes ficticios y no una transcripción documental de las acusadas reales. Publicada en 1977, la novela utiliza el humor negro para examinar las relaciones entre explotación sexual, corrupción de autoridades e impunidad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.elem.mx/obra/datos/2537",
+      "https://www.scielo.org.mx/scielo.php?pid=S2448-65582021000200711&script=sci_arttext"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 61001,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2001,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El tratamiento: Jack Caffery investiga el secuestro de un menor",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2001\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El tratamiento: Jack Caffery investiga el secuestro de un menor</h3>\n    <p><strong>Novela policial · Mo Hayder · Reino Unido:</strong> En The Treatment, publicada en 2001 y traducida como El tratamiento, el detective Jack Caffery investiga la desaparición de un niño y posibles abusos sexuales. Las pistas devuelven al protagonista a la desaparición de su propio hermano y a viejas sospechas sobre un agresor de menores. El caso se articula mediante entrevistas, testimonios y pruebas contradictorias; la trama delictiva y su investigación son el núcleo del relato.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.digitaliapublishing.com/a/31777/el-tratamiento",
+      "https://www.siruela.com/archivos/fragmentos/ElTratamiento.pdf"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 61002,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2001,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Mystic River: el abuso infantil condiciona una investigación por asesinato",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2001\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Mystic River: el abuso infantil condiciona una investigación por asesinato</h3>\n    <p><strong>Novela negra · Dennis Lehane · Estados Unidos:</strong> La infancia de Dave Boyle queda marcada por un secuestro y abusos sexuales. Muchos años después, el asesinato de la hija de Jimmy Marcus reúne a tres antiguos amigos: un sospechoso traumatizado, un padre sediento de venganza y el detective Sean Devine. La novela muestra cómo el pasado y las relaciones personales pueden desviar la búsqueda de pruebas y generar acusaciones injustas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://dennislehane.com/books/mystic/",
+      "https://www.publishersweekly.com/9780688163167"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 61003,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2005,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La pregunta de sus ojos: un crimen sexual bajo la sombra de la impunidad",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La pregunta de sus ojos: un crimen sexual bajo la sombra de la impunidad</h3>\n    <p><strong>Novela policiaca y judicial · Eduardo Sacheri · Argentina:</strong> Un empleado judicial retirado decide reconstruir una investigación por la violación y el asesinato de una joven en los años setenta. La novela, publicada en 2005, cruza diligencias judiciales, búsqueda del responsable y redes de poder en Argentina. La película de 2009 El secreto de sus ojos adapta esta historia con diferencias propias y constituye otro hito. Algunas ediciones españolas adoptaron también el título cinematográfico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://sedici.unlp.edu.ar/handle/10915/70347",
+      "https://www.penguinrandomhouse.com/books/211886/the-secret-in-the-eyes-by-eduardo-sacheri/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 61004,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 1867,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Thérèse Raquin: un homicidio conyugal anticipa el thriller psicológico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1867\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1867</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Thérèse Raquin: un homicidio conyugal anticipa el thriller psicológico</h3>\n    <p><strong>Antecedente de ficción criminal · Émile Zola · Francia:</strong> Zola narra la conspiración de Thérèse y Laurent para matar al esposo de ella y ocultar el asesinato bajo la apariencia de un accidente. Publicada en 1867, la novela examina el móvil, el encubrimiento y la descomposición psicológica de quienes han cometido un homicidio dentro de la familia. Es anterior a la estructura detectivesca moderna, pero aporta un precedente relevante de crimen íntimo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.albaeditorial.es/clasicos/alba-clasica/therese-raquin/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61005,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 1880,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los hermanos Karamázov: un parricidio provoca un juicio revelador",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1880\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1880</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los hermanos Karamázov: un parricidio provoca un juicio revelador</h3>\n    <p><strong>Fiódor Dostoievski · novela criminal y judicial · Rusia:</strong> Publicada en 1880, la última novela de Dostoievski sitúa el asesinato de Fiódor Karamázov en una familia dividida por conflictos personales y económicos. La sospecha sobre sus hijos y el proceso judicial permiten analizar motivos, testimonios e interpretaciones contradictorias. Su importancia radica en el parricidio como núcleo de una gran novela de investigación moral y judicial, no en una categoría contemporánea de violencia machista.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinrandomhouse.com/books/579458/los-hermanos-karamazov--the-brothers-karamazov-by-fiodor-m-dostoievski/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61006,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2004,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "2666: los feminicidios de Santa Teresa como relato de investigación criminal",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2004\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2004</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>2666: los feminicidios de Santa Teresa como relato de investigación criminal</h3>\n    <p><strong>Roberto Bolaño · novela de investigación · México ficticio:</strong> La ciudad imaginaria de Santa Teresa evoca Ciudad Juárez. En La parte de los crímenes, Bolaño encadena hallazgos de cadáveres de mujeres, informes forenses, interrogatorios e investigaciones inconclusas. Publicada póstumamente en 2004, 2666 convierte la violencia sexual y las deficiencias institucionales en una historia de procedimientos criminales y desapariciones, sin atribuir las muertes a un único autor imaginario.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.anagrama-ed.es/libro/narrativas-hispanicas/2666/9788433968678/NH_366",
+      "https://www.scielo.org.pe/scielo.php?pid=S2071-50722021000100006&script=sci_arttext"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61007,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2006,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Heridas abiertas: investigar asesinatos y enfrentarse al abuso familiar",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Heridas abiertas: investigar asesinatos y enfrentarse al abuso familiar</h3>\n    <p><strong>Gillian Flynn · thriller psicológico · Estados Unidos:</strong> La periodista Camille Preaker vuelve a su ciudad natal para investigar los asesinatos de dos niñas. Allí debe convivir con el recuerdo de su hermana muerta y con una madre dominante. Publicada como Sharp Objects en 2006, la novela combina la pesquisa criminal con dinámicas de manipulación y daño psicológico dentro de una familia aparentemente respetable.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/34875-libro-heridas-abiertas-9788490627273"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61008,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2009,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Lugares oscuros: una superviviente revisa los asesinatos de su familia",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Lugares oscuros: una superviviente revisa los asesinatos de su familia</h3>\n    <p><strong>Gillian Flynn · thriller de investigación · Estados Unidos:</strong> Libby Day sobrevivió de niña al asesinato de su madre y sus dos hermanas en una granja de Kansas. Décadas después, personas interesadas en el caso cuestionan la condena de su hermano y ella comienza a revisar los testimonios y recuerdos de aquella noche. Dark Places, publicada en 2009, utiliza un crimen familiar para explorar las dificultades de reconstruir hechos antiguos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinrandomhouse.com/books/617356/lugares-oscuros--dark-places-by-gillian-flynn/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61009,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2014,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Pequeñas mentiras: un homicidio destapa la violencia conyugal",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2014\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Pequeñas mentiras: un homicidio destapa la violencia conyugal</h3>\n    <p><strong>Liane Moriarty · misterio criminal · Australia:</strong> Big Little Lies, publicada en 2014 y conocida como Pequeñas mentiras, construye una intriga alrededor de una muerte en una celebración escolar. La investigación revela control en la pareja, violencia doméstica y episodios de violencia sexual que permanecían ocultos entre familias acomodadas. La serie de televisión estrenada en 2017 se registra aparte.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinrandomhouse.com/books/315150/big-little-lies-by-liane-moriarty/",
+      "https://www.penguinrandomhouse.com/books/577474/pequenas-mentiras--big-little-lies-by-liane-moriarty/9788466333115/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61010,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2019,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La paciente silenciosa: la muerte del esposo y el enigma del móvil",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La paciente silenciosa: la muerte del esposo y el enigma del móvil</h3>\n    <p><strong>Alex Michaelides · thriller psicológico y criminal · Reino Unido:</strong> En The Silent Patient, novela de 2019 publicada en español como La paciente silenciosa, Alicia Berenson es acusada de disparar contra su marido y deja de hablar. Un psicoterapeuta intenta reconstruir las circunstancias y el móvil del homicidio, examinando testimonios y relaciones de pareja. La intriga gira en torno a un crimen en el ámbito matrimonial, sin considerar el silencio una prueba automática de culpabilidad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinrandomhouse.com/books/635323/la-paciente-silenciosa--the-silent-patient-by-alex-michaelides/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 61011,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
   }
 ]
