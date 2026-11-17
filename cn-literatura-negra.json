@@ -371,10 +371,11 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La máscara de Dimitrios: Eric Ambler convierte el tráfico de armas en noir europeo",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La máscara de Dimitrios: Eric Ambler convierte el tráfico de armas en noir europeo</h3>\n    <p><strong>Novela · 1939:</strong> Eric Ambler publica <em>The Mask of Dimitrios</em>, conocida en español como <em>La máscara de Dimitrios</em>. Un escritor reconstruye la trayectoria de un delincuente internacional que se mueve por el espionaje, el contrabando y las redes clandestinas entre países europeos. El tráfico de armas forma parte de ese universo de intermediarios sin escrúpulos. La obra introduce en la ficción de intriga un mundo criminal transnacional en el que las fronteras políticas no detienen los negocios privados.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La máscara de Dimitrios: Eric Ambler convierte el tráfico de armas en noir europeo</h3>\n    <p><strong>Novela · 1939:</strong> Eric Ambler publica <em>The Mask of Dimitrios</em>, conocida en español como <em>La máscara de Dimitrios</em>. Un escritor reconstruye la trayectoria de un delincuente internacional que se mueve por el espionaje, el contrabando y las redes clandestinas entre países europeos. El tráfico de armas forma parte de ese universo de intermediarios sin escrúpulos. La obra introduce en la ficción de intriga un mundo criminal transnacional en el que las fronteras políticas no detienen los negocios privados.</p>\n    <p><strong>Clave del género — Pesquisa criminal transfronteriza:</strong> Seguir la pista de un delincuente dado por muerto revela una red continental de contrabando e intereses políticos.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://search.worldcat.org/search?q=La+m%C3%A1scara+de+Dimitrios+Eric+Ambler",
-      "https://catalog.afi.com/Film/24064-THE-MASK-OF-DIMITRIOS"
+      "https://catalog.afi.com/Film/24064-THE-MASK-OF-DIMITRIOS",
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 290
@@ -1080,8 +1081,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Parque Gorki: Arkadi Renko investiga en la URSS de las sombras",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1981\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1981</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Parque Gorki: Arkadi Renko investiga en la URSS de las sombras</h3>\n    <p><strong>Novela · Martin Cruz Smith:</strong> Martin Cruz Smith publica <em>Gorky Park</em>, primera novela del investigador Arkadi Renko. Su Moscú policial, atravesada por corrupción, contrabando y privilegios, retrata el entorno del que surgirán nuevas redes criminales. Es un antecedente literario, no una novela sobre la mafia postsoviética ya constituida.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1981\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1981</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Parque Gorki: Arkadi Renko investiga en la URSS de las sombras</h3>\n    <p><strong>Novela · Martin Cruz Smith:</strong> Martin Cruz Smith publica <em>Gorky Park</em>, primera novela del investigador Arkadi Renko. Su Moscú policial, atravesada por corrupción, contrabando y privilegios, retrata el entorno del que surgirán nuevas redes criminales. Es un antecedente literario, no una novela sobre la mafia postsoviética ya constituida.</p>\n    <p><strong>Clave del género — Policial en un Estado autoritario:</strong> Renko investiga entre controles y opacidades que condicionan el acceso a la verdad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 687
   },
@@ -1453,8 +1456,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El topo: John le Carré convierte la contrainteligencia en un rompecabezas",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1974\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1974</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El topo: John le Carré convierte la contrainteligencia en un rompecabezas</h3>\n    <p><strong>Novela · 1974:</strong> John le Carré publica <em>Tinker Tailor Soldier Spy</em>. George Smiley debe identificar a un agente soviético infiltrado en la cúspide de los servicios secretos británicos. La novela reemplaza las persecuciones espectaculares por vigilancia discreta, revisión de expedientes, control de fuentes y análisis de contradicciones. Será adaptada a televisión en 1979 y al cine como <em>El topo</em> en 2011.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1974\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1974</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El topo: John le Carré convierte la contrainteligencia en un rompecabezas</h3>\n    <p><strong>Novela · 1974:</strong> John le Carré publica <em>Tinker Tailor Soldier Spy</em>. George Smiley debe identificar a un agente soviético infiltrado en la cúspide de los servicios secretos británicos. La novela reemplaza las persecuciones espectaculares por vigilancia discreta, revisión de expedientes, control de fuentes y análisis de contradicciones. Será adaptada a televisión en 1979 y al cine como <em>El topo</em> en 2011.</p>\n    <p><strong>Clave del género — Traidor interno y rompecabezas de inteligencia:</strong> Smiley reconstruye una red de deslealtades a partir de pequeñas incongruencias y documentos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1054
   },
@@ -2002,8 +2007,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Premeditación: el lector conoce al asesino desde el principio",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1931\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1931</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Premeditación: el lector conoce al asesino desde el principio</h3>\n    <p><strong>Novela · 1931:</strong> Anthony Berkeley Cox publica bajo el seudónimo Francis Iles <em>Malice Aforethought</em>, una de las grandes obras del misterio invertido. Desde las primeras líneas conocemos la intención criminal del doctor Edmund Bickleigh, un hombre aparentemente respetable que planea asesinar a su esposa. La intriga no consiste en descubrir al culpable, sino en observar cómo prepara el crimen y cómo las circunstancias amenazan sus planes. Aunque este recurso ya tenía antecedentes, la novela contribuye decisivamente a desarrollar una narrativa centrada en la psicología del asesino y en la tensión previa al delito.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1931\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1931</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Premeditación: el lector conoce al asesino desde el principio</h3>\n    <p><strong>Novela · 1931:</strong> Anthony Berkeley Cox publica bajo el seudónimo Francis Iles <em>Malice Aforethought</em>, una de las grandes obras del misterio invertido. Desde las primeras líneas conocemos la intención criminal del doctor Edmund Bickleigh, un hombre aparentemente respetable que planea asesinar a su esposa. La intriga no consiste en descubrir al culpable, sino en observar cómo prepara el crimen y cómo las circunstancias amenazan sus planes. Aunque este recurso ya tenía antecedentes, la novela contribuye decisivamente a desarrollar una narrativa centrada en la psicología del asesino y en la tensión previa al delito.</p>\n    <p><strong>Clave del género — Asesino conocido y suspense invertido:</strong> El lector sabe quién quiere matar; la tensión recae en cómo, por qué y si acabará impune.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1497
   },
@@ -2362,8 +2369,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El caso de los bombones envenenados: seis soluciones para un mismo asesinato",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El caso de los bombones envenenados: seis soluciones para un mismo asesinato</h3>\n    <p><strong>Novela · 1929:</strong> Anthony Berkeley lleva el misterio deductivo a un experimento literario extraordinario. Seis integrantes de un círculo de aficionados a la criminología examinan un asesinato cometido mediante bombones envenenados y ofrecen interpretaciones distintas de las mismas pistas. Cada explicación parece convincente hasta que otra revela sus debilidades. La novela se convierte en un referente del <em>whodunit</em> experimental y del misterio de soluciones múltiples, cuestionando la supuesta infalibilidad de las deducciones detectivescas.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El caso de los bombones envenenados: seis soluciones para un mismo asesinato</h3>\n    <p><strong>Novela · 1929:</strong> Anthony Berkeley lleva el misterio deductivo a un experimento literario extraordinario. Seis integrantes de un círculo de aficionados a la criminología examinan un asesinato cometido mediante bombones envenenados y ofrecen interpretaciones distintas de las mismas pistas. Cada explicación parece convincente hasta que otra revela sus debilidades. La novela se convierte en un referente del <em>whodunit</em> experimental y del misterio de soluciones múltiples, cuestionando la supuesta infalibilidad de las deducciones detectivescas.</p>\n    <p><strong>Clave del género — Seis soluciones y sesgos del investigador:</strong> Las interpretaciones incompatibles de un mismo asesinato revelan las limitaciones del razonamiento basado en supuestos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1545
   },
@@ -2392,8 +2401,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El hombre hueco: la biblia del asesinato imposible",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1935\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1935</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El hombre hueco: la biblia del asesinato imposible</h3>\n    <p><strong>Novela · 1935:</strong> John Dickson Carr publica <em>The Hollow Man</em>, conocida en Estados Unidos como <em>The Three Coffins</em>. El doctor Gideon Fell investiga asesinatos aparentemente imposibles, cometidos en circunstancias que desafían cualquier explicación racional. La obra incluye una célebre exposición de los procedimientos utilizados para construir misterios de habitación cerrada. Sin inventar este subgénero, que ya contaba con importantes antecedentes, Carr lo lleva a una de sus expresiones más elaboradas y establece una referencia fundamental para los escritores del crimen imposible.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1935\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1935</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El hombre hueco: la biblia del asesinato imposible</h3>\n    <p><strong>Novela · 1935:</strong> John Dickson Carr publica <em>The Hollow Man</em>, conocida en Estados Unidos como <em>The Three Coffins</em>. El doctor Gideon Fell investiga asesinatos aparentemente imposibles, cometidos en circunstancias que desafían cualquier explicación racional. La obra incluye una célebre exposición de los procedimientos utilizados para construir misterios de habitación cerrada. Sin inventar este subgénero, que ya contaba con importantes antecedentes, Carr lo lleva a una de sus expresiones más elaboradas y establece una referencia fundamental para los escritores del crimen imposible.</p>\n    <p><strong>Clave del género — Crimen imposible y cuarto cerrado:</strong> La explicación de las familias de trucos de habitación cerrada hizo de esta novela un texto de referencia del subgénero.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1548
   },
@@ -2412,8 +2423,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Rebeca: el misterio psicológico entra en el matrimonio",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1938\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Rebeca: el misterio psicológico entra en el matrimonio</h3>\n    <p><strong>Novela · 1938:</strong> Daphne du Maurier publica <em>Rebecca</em>, historia de una joven que se casa con un viudo adinerado y descubre que el recuerdo de su primera esposa domina cada rincón de la mansión familiar. La inseguridad de la narradora, los secretos del pasado y una muerte rodeada de sospechas convierten el matrimonio en un territorio amenazador. Heredera de la tradición gótica, la novela establece un modelo especialmente influyente del suspense psicológico doméstico, donde el peligro procede de las relaciones íntimas, las apariencias y los secretos familiares.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1938\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Rebeca: el misterio psicológico entra en el matrimonio</h3>\n    <p><strong>Novela · 1938:</strong> Daphne du Maurier publica <em>Rebecca</em>, historia de una joven que se casa con un viudo adinerado y descubre que el recuerdo de su primera esposa domina cada rincón de la mansión familiar. La inseguridad de la narradora, los secretos del pasado y una muerte rodeada de sospechas convierten el matrimonio en un territorio amenazador. Heredera de la tradición gótica, la novela establece un modelo especialmente influyente del suspense psicológico doméstico, donde el peligro procede de las relaciones íntimas, las apariencias y los secretos familiares.</p>\n    <p><strong>Clave del género — Noir gótico y ausencia amenazante:</strong> La sombra de la primera esposa de Maxim de Winter envenena una relación y transforma el matrimonio en espacio de sospecha.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1550
   },
@@ -2442,8 +2455,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Last Seen Wearing: el trabajo policial sustituye al detective genial",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1952\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1952</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Last Seen Wearing: el trabajo policial sustituye al detective genial</h3>\n    <p><strong>Novela · 1952:</strong> Hillary Waugh publica <em>Last Seen Wearing</em>, considerada una de las grandes obras pioneras del <em>police procedural</em> moderno. La desaparición de una estudiante universitaria desencadena una investigación desarrollada mediante interrogatorios, comprobaciones, análisis de indicios y numerosas pistas fallidas. Frente al detective extraordinario que resuelve el crimen por intuición, Waugh muestra a policías corrientes que trabajan pacientemente siguiendo procedimientos realistas. La novela consolida un modelo que después popularizarán autores como Ed McBain y numerosas series policiales.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1952\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1952</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Last Seen Wearing: el trabajo policial sustituye al detective genial</h3>\n    <p><strong>Novela · 1952:</strong> Hillary Waugh publica <em>Last Seen Wearing</em>, considerada una de las grandes obras pioneras del <em>police procedural</em> moderno. La desaparición de una estudiante universitaria desencadena una investigación desarrollada mediante interrogatorios, comprobaciones, análisis de indicios y numerosas pistas fallidas. Frente al detective extraordinario que resuelve el crimen por intuición, Waugh muestra a policías corrientes que trabajan pacientemente siguiendo procedimientos realistas. La novela consolida un modelo que después popularizarán autores como Ed McBain y numerosas series policiales.</p>\n    <p><strong>Clave del género — Procedimental policial:</strong> La desaparición de una estudiante se investiga con entrevistas, búsquedas y comprobaciones sistemáticas, no con intuiciones prodigiosas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1553
   },
@@ -2462,9 +2477,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El mensajero del miedo: el asesino que no sabe que es un asesino",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1959\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1959</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El mensajero del miedo: el asesino que no sabe que es un asesino</h3>\n    <p><strong>Novela · 1959:</strong> Richard Condon publica un thriller político sobre un veterano estadounidense sometido a técnicas de manipulación mental y convertido en instrumento de una conspiración internacional. La historia combina espionaje, asesinato, Guerra Fría y desconfianza hacia las instituciones. Su principal innovación narrativa es la figura del asesino condicionado, incapaz de controlar plenamente sus actos o comprender quién lo utiliza. La novela se convierte en una referencia del thriller de conspiraciones políticas y del suspense paranoico, anticipando numerosos relatos posteriores sobre manipulación, servicios secretos y poder.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1959\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1959</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El mensajero del miedo: el asesino que no sabe que es un asesino</h3>\n    <p><strong>Novela · 1959:</strong> Richard Condon publica un thriller político sobre un veterano estadounidense sometido a técnicas de manipulación mental y convertido en instrumento de una conspiración internacional. La historia combina espionaje, asesinato, Guerra Fría y desconfianza hacia las instituciones. Su principal innovación narrativa es la figura del asesino condicionado, incapaz de controlar plenamente sus actos o comprender quién lo utiliza. La novela se convierte en una referencia del thriller de conspiraciones políticas y del suspense paranoico, anticipando numerosos relatos posteriores sobre manipulación, servicios secretos y poder.</p>\n    <p><strong>Clave del género — Manipulación y conspiración política:</strong> El asesino convertido en instrumento ajeno encarna la paranoia de la Guerra Fría.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://search.worldcat.org/title/52409655"
+      "https://search.worldcat.org/title/52409655",
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1555,
@@ -2485,8 +2501,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El coleccionista: el secuestro narrado por el captor y su víctima",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1963\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1963</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El coleccionista: el secuestro narrado por el captor y su víctima</h3>\n    <p><strong>Novela · 1963:</strong> John Fowles publica <em>The Collector</em>, protagonizada por un joven obsesionado con una estudiante de arte a la que decide secuestrar. La historia contrapone la perspectiva del captor con la experiencia de la mujer encerrada, permitiendo examinar dos visiones radicalmente diferentes de unos mismos acontecimientos. La novela se convierte en un antecedente esencial del thriller psicológico de cautiverio, donde el suspense no depende tanto de descubrir al criminal como de comprender los mecanismos de dominación, obsesión y resistencia entre víctima y agresor.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1963\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1963</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El coleccionista: el secuestro narrado por el captor y su víctima</h3>\n    <p><strong>Novela · 1963:</strong> John Fowles publica <em>The Collector</em>, protagonizada por un joven obsesionado con una estudiante de arte a la que decide secuestrar. La historia contrapone la perspectiva del captor con la experiencia de la mujer encerrada, permitiendo examinar dos visiones radicalmente diferentes de unos mismos acontecimientos. La novela se convierte en un antecedente esencial del thriller psicológico de cautiverio, donde el suspense no depende tanto de descubrir al criminal como de comprender los mecanismos de dominación, obsesión y resistencia entre víctima y agresor.</p>\n    <p><strong>Clave del género — Secuestro y voces contrapuestas:</strong> Las miradas de captor y cautiva muestran la distancia entre fantasía del agresor y experiencia de la víctima.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1557
   },
@@ -2705,8 +2723,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La hija del tiempo: un detective investiga un crimen de siglos atrás",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1951\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1951</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La hija del tiempo: un detective investiga un crimen de siglos atrás</h3>\n    <p><strong>Novela · 1951:</strong> Josephine Tey publica <em>The Daughter of Time</em>, protagonizada por el inspector Alan Grant, de Scotland Yard. Obligado a permanecer hospitalizado, Grant decide investigar desde su cama la responsabilidad del rey Ricardo III en la desaparición de los príncipes de la Torre de Londres. Mediante documentos históricos, testimonios y análisis de contradicciones, la novela convierte un episodio del pasado en un enigma detectivesco contemporáneo. Su originalidad reside en demostrar que una investigación criminal puede desarrollarse sin escena del crimen actual, utilizando únicamente el examen crítico de las fuentes.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1951\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1951</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La hija del tiempo: un detective investiga un crimen de siglos atrás</h3>\n    <p><strong>Novela · 1951:</strong> Josephine Tey publica <em>The Daughter of Time</em>, protagonizada por el inspector Alan Grant, de Scotland Yard. Obligado a permanecer hospitalizado, Grant decide investigar desde su cama la responsabilidad del rey Ricardo III en la desaparición de los príncipes de la Torre de Londres. Mediante documentos históricos, testimonios y análisis de contradicciones, la novela convierte un episodio del pasado en un enigma detectivesco contemporáneo. Su originalidad reside en demostrar que una investigación criminal puede desarrollarse sin escena del crimen actual, utilizando únicamente el examen crítico de las fuentes.</p>\n    <p><strong>Clave del género — Investigación histórica y detective inmovilizado:</strong> Alan Grant investiga desde la cama la acusación contra Ricardo III mediante documentos y testimonios del pasado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1591
   },
@@ -2725,8 +2745,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "The IPCRESS File: Len Deighton desmitifica al espía de la Guerra Fría",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1962\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1962</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The IPCRESS File: Len Deighton desmitifica al espía de la Guerra Fría</h3>\n    <p><strong>Novela · 1962:</strong> Len Deighton publica <em>The IPCRESS File</em>, su primera novela y una referencia fundamental del espionaje británico contemporáneo. Su narrador, un agente de inteligencia sin nombre, investiga la desaparición de científicos en un mundo de burocracia, rivalidades institucionales y operaciones encubiertas. Frente al heroísmo espectacular de James Bond, Deighton presenta un protagonista irónico, vulnerable y sometido a las contradicciones de los servicios secretos. La obra contribuye a consolidar una vertiente más realista y desencantada del thriller de espionaje durante la Guerra Fría.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1962\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1962</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The IPCRESS File: Len Deighton desmitifica al espía de la Guerra Fría</h3>\n    <p><strong>Novela · 1962:</strong> Len Deighton publica <em>The IPCRESS File</em>, su primera novela y una referencia fundamental del espionaje británico contemporáneo. Su narrador, un agente de inteligencia sin nombre, investiga la desaparición de científicos en un mundo de burocracia, rivalidades institucionales y operaciones encubiertas. Frente al heroísmo espectacular de James Bond, Deighton presenta un protagonista irónico, vulnerable y sometido a las contradicciones de los servicios secretos. La obra contribuye a consolidar una vertiente más realista y desencantada del thriller de espionaje durante la Guerra Fría.</p>\n    <p><strong>Clave del género — Contraespionaje burocrático:</strong> Deighton sustituye el glamour de Bond por sospechas institucionales y la rutina del trabajo clandestino.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1593
   },
@@ -2735,8 +2757,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El día del Chacal: Frederick Forsyth redefine el thriller político",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1971\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El día del Chacal: Frederick Forsyth redefine el thriller político</h3>\n    <p><strong>Novela · 1971:</strong> Frederick Forsyth publica <em>The Day of the Jackal</em>, su primera novela, centrada en los preparativos de un asesino profesional contratado para matar al presidente francés Charles de Gaulle. Aunque el lector conoce desde el principio el objetivo del criminal, la tensión procede de la planificación del atentado y de los esfuerzos policiales para impedirlo. Forsyth combina acontecimientos históricos, documentación minuciosa y una narración de gran precisión procedimental. La obra se convierte en un modelo del thriller político contemporáneo y consolida una fórmula basada en el enfrentamiento entre conspiración e investigación.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1971\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El día del Chacal: Frederick Forsyth redefine el thriller político</h3>\n    <p><strong>Novela · 1971:</strong> Frederick Forsyth publica <em>The Day of the Jackal</em>, su primera novela, centrada en los preparativos de un asesino profesional contratado para matar al presidente francés Charles de Gaulle. Aunque el lector conoce desde el principio el objetivo del criminal, la tensión procede de la planificación del atentado y de los esfuerzos policiales para impedirlo. Forsyth combina acontecimientos históricos, documentación minuciosa y una narración de gran precisión procedimental. La obra se convierte en un modelo del thriller político contemporáneo y consolida una fórmula basada en el enfrentamiento entre conspiración e investigación.</p>\n    <p><strong>Clave del género — Cuenta atrás de atentado político:</strong> La planificación del magnicidio y el trabajo metódico para impedirlo popularizaron el thriller documental.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1594
   },
@@ -3118,8 +3142,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La piedra lunar",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1868\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1868</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La piedra lunar</h3>\n    <p><strong>Novela:</strong> Wilkie Collins escribe una de las primeras grandes novelas de detectives modernas, con múltiples narradores, giros de guion e investigación metódica. La desaparición de una gema lleva a reconstruir movimientos, testimonios y conductas. Sus narradores no siempre conocen o comprenden lo ocurrido, un recurso que influirá en generaciones de novelistas policiales.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1868\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1868</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La piedra lunar</h3>\n    <p><strong>Novela:</strong> Wilkie Collins escribe una de las primeras grandes novelas de detectives modernas, con múltiples narradores, giros de guion e investigación metódica. La desaparición de una gema lleva a reconstruir movimientos, testimonios y conductas. Sus narradores no siempre conocen o comprenden lo ocurrido, un recurso que influirá en generaciones de novelistas policiales.</p>\n    <p><strong>Clave del género — Enigma coral y testigos parciales:</strong> La reconstrucción de un robo mediante diversas voces anticipa técnicas del policial de perspectivas cruzadas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1672
   },
@@ -3161,8 +3187,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Las aventuras de Sherlock Holmes",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1892\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1892</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Las aventuras de Sherlock Holmes</h3>\n    <p><strong>Relatos:</strong> La recopilación de cuentos populariza definitivamente el modelo de detective analítico y su estructura narrativa episódica. La colección reúne relatos que habían alcanzado gran difusión en la revista The Strand Magazine. Su éxito consolida la investigación por deducción como entretenimiento literario de masas.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1892\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1892</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Las aventuras de Sherlock Holmes</h3>\n    <p><strong>Relatos:</strong> La recopilación de cuentos populariza definitivamente el modelo de detective analítico y su estructura narrativa episódica. La colección reúne relatos que habían alcanzado gran difusión en la revista The Strand Magazine. Su éxito consolida la investigación por deducción como entretenimiento literario de masas.</p>\n    <p><strong>Clave del género — Detective recurrente de relato breve:</strong> Las entregas seriadas consolidaron una fórmula de observación y deducción reconocible entre historias autónomas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1689
   },
@@ -3181,8 +3209,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El sabueso de los Baskerville",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El sabueso de los Baskerville</h3>\n    <p><strong>Novela:</strong> Arthur Conan Doyle mezcla investigación racional, atmósfera gótica y leyenda popular en una de las aventuras más famosas de Sherlock Holmes. Su estructura parte de una leyenda familiar y de una muerte aparentemente sobrenatural. Holmes demuestra que la investigación racional puede imponerse a la superstición dentro del relato criminal.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El sabueso de los Baskerville</h3>\n    <p><strong>Novela:</strong> Arthur Conan Doyle mezcla investigación racional, atmósfera gótica y leyenda popular en una de las aventuras más famosas de Sherlock Holmes. Su estructura parte de una leyenda familiar y de una muerte aparentemente sobrenatural. Holmes demuestra que la investigación racional puede imponerse a la superstición dentro del relato criminal.</p>\n    <p><strong>Clave del género — Terror aparente y explicación racional:</strong> Holmes somete una leyenda sobrenatural y un paisaje amenazante a la investigación racional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1697
   },
@@ -3191,8 +3221,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El enigma de las arenas",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1903\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1903</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El enigma de las arenas</h3>\n    <p><strong>Novela:</strong> Erskine Childers publica una obra de espionaje e investigación en clave geopolítica, antecedente decisivo del thriller de espías moderno. El relato de Erskine Childers combina navegación, reconocimiento de costas y sospechas de espionaje. Es uno de los antecedentes del thriller de inteligencia que florecerá durante el siglo XX.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1903\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1903</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El enigma de las arenas</h3>\n    <p><strong>Novela:</strong> Erskine Childers publica una obra de espionaje e investigación en clave geopolítica, antecedente decisivo del thriller de espías moderno. El relato de Erskine Childers combina navegación, reconocimiento de costas y sospechas de espionaje. Es uno de los antecedentes del thriller de inteligencia que florecerá durante el siglo XX.</p>\n    <p><strong>Clave del género — Espionaje geográfico y conocimiento técnico:</strong> Cartografía y navegación dan credibilidad a la percepción de una amenaza militar clandestina.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1699
   },
@@ -3231,8 +3263,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El último caso de Philip Trent",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1913\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1913</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El último caso de Philip Trent</h3>\n    <p><strong>Novela:</strong> E. C. Bentley rompe con el detective infalible y plantea errores de interpretación, anticipando una narrativa más moderna del crimen. E. C. Bentley introduce a Philip Trent y juega con la idea de que incluso una deducción brillante puede fallar. Es un antecedente importante del detective imperfecto y de la crítica al investigador infalible.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1913\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1913</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El último caso de Philip Trent</h3>\n    <p><strong>Novela:</strong> E. C. Bentley rompe con el detective infalible y plantea errores de interpretación, anticipando una narrativa más moderna del crimen. E. C. Bentley introduce a Philip Trent y juega con la idea de que incluso una deducción brillante puede fallar. Es un antecedente importante del detective imperfecto y de la crítica al investigador infalible.</p>\n    <p><strong>Clave del género — Falibilidad de la deducción:</strong> La novela cuestiona la infalibilidad del héroe deductivo y la seguridad de las soluciones aparentes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1710
   },
@@ -3281,8 +3315,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El asesinato de Roger Ackroyd",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1926\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1926</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El asesinato de Roger Ackroyd</h3>\n    <p><strong>Novela:</strong> Agatha Christie revoluciona el género con uno de los giros narrativos más influyentes de la historia del crimen literario. El desenlace de esta novela de Agatha Christie alteró las convenciones del narrador y del sospechoso. Su repercusión mostró que incluso las reglas del enigma clásico podían ponerse en cuestión.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1926\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1926</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El asesinato de Roger Ackroyd</h3>\n    <p><strong>Novela:</strong> Agatha Christie revoluciona el género con uno de los giros narrativos más influyentes de la historia del crimen literario. El desenlace de esta novela de Agatha Christie alteró las convenciones del narrador y del sospechoso. Su repercusión mostró que incluso las reglas del enigma clásico podían ponerse en cuestión.</p>\n    <p><strong>Clave del género — Narrador no fiable y forma del misterio:</strong> El modo de contar los hechos es parte del mecanismo detectivesco y cuestiona las expectativas del lector.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1721
   },
@@ -3291,8 +3327,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Cosecha roja: Hammett lleva el hardboiled a la novela",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Cosecha roja: Hammett lleva el hardboiled a la novela</h3>\n    <p><strong>Novela:</strong> Se publica por primera vez en tomo único la novela negra fundacional de Dashiell Hammett, base del hardboiled. El agente de la Continental regresa para desmantelar una red de poder criminal. Hammett sustituye al detective infalible por un investigador duro que también provoca violencia y caos. La historia había comenzado a aparecer por entregas en <em>Black Mask</em> en 1927, bajo títulos que incluían <em>The Cleansing of Poisonville</em>; su edición en libro de 1929 fija la versión de referencia.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Cosecha roja: Hammett lleva el hardboiled a la novela</h3>\n    <p><strong>Novela:</strong> Se publica por primera vez en tomo único la novela negra fundacional de Dashiell Hammett, base del hardboiled. El agente de la Continental regresa para desmantelar una red de poder criminal. Hammett sustituye al detective infalible por un investigador duro que también provoca violencia y caos. La historia había comenzado a aparecer por entregas en <em>Black Mask</em> en 1927, bajo títulos que incluían <em>The Cleansing of Poisonville</em>; su edición en libro de 1929 fija la versión de referencia.</p>\n    <p><strong>Clave del género — Guerra de bandas y corrupción sistémica:</strong> La ciudad dominada por empresarios y criminales muestra cómo el detective puede actuar dentro del mismo sistema corrupto.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1722
   },
@@ -3311,8 +3349,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El halcón maltés",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1930\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1930</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El halcón maltés</h3>\n    <p><strong>Novela:</strong> Hammett consolida a Sam Spade y el código moral ambiguo del detective hardboiled: diálogos secos, traiciones y femme fatale. Sam Spade, detective creado por Dashiell Hammett, investiga la búsqueda de una estatuilla codiciada por delincuentes. Su escepticismo y su ambigüedad moral serán decisivos para el noir estadounidense.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1930\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1930</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El halcón maltés</h3>\n    <p><strong>Novela:</strong> Hammett consolida a Sam Spade y el código moral ambiguo del detective hardboiled: diálogos secos, traiciones y femme fatale. Sam Spade, detective creado por Dashiell Hammett, investiga la búsqueda de una estatuilla codiciada por delincuentes. Su escepticismo y su ambigüedad moral serán decisivos para el noir estadounidense.</p>\n    <p><strong>Clave del género — MacGuffin y detective duro:</strong> La estatuilla perseguida por todos desencadena asesinatos, pero el verdadero interés está en los pactos y traiciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1725
   },
@@ -3341,8 +3381,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El cartero siempre llama dos veces",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1934\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1934</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El cartero siempre llama dos veces</h3>\n    <p><strong>Novela:</strong> James M. Cain consolida el noir literario con una historia de pasión, crimen y fatalismo. James M. Cain narra la relación criminal entre un hombre y una mujer que planean matar al marido de ella. La novela será una de las bases narrativas del cine negro clásico.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1934\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1934</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El cartero siempre llama dos veces</h3>\n    <p><strong>Novela:</strong> James M. Cain consolida el noir literario con una historia de pasión, crimen y fatalismo. James M. Cain narra la relación criminal entre un hombre y una mujer que planean matar al marido de ella. La novela será una de las bases narrativas del cine negro clásico.</p>\n    <p><strong>Clave del género — Pareja criminal y fatalismo:</strong> El deseo y el plan homicida arrastran a los amantes a una cadena de consecuencias fuera de su control.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1731
   },
@@ -3371,8 +3413,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El sueño eterno",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El sueño eterno</h3>\n    <p><strong>Novela:</strong> Raymond Chandler introduce a Philip Marlowe, detective privado cínico y moralmente obstinado frente a la corrupción sistémica. Raymond Chandler introduce a Philip Marlowe en una investigación que revela chantajes, violencia y corrupción en Los Ángeles. La novela es un pilar del detective privado hardboiled.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El sueño eterno</h3>\n    <p><strong>Novela:</strong> Raymond Chandler introduce a Philip Marlowe, detective privado cínico y moralmente obstinado frente a la corrupción sistémica. Raymond Chandler introduce a Philip Marlowe en una investigación que revela chantajes, violencia y corrupción en Los Ángeles. La novela es un pilar del detective privado hardboiled.</p>\n    <p><strong>Clave del género — Hardboiled y corrupción urbana:</strong> Marlowe convierte un chantaje privado en una exploración del poder, el dinero y la violencia de Los Ángeles.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1804
   },
@@ -3381,8 +3425,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Diez negritos",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Diez negritos</h3>\n    <p><strong>Novela:</strong> Agatha Christie perfecciona la estructura de “muerte progresiva” en espacio cerrado. Agatha Christie reúne a diez personas aisladas y construye una sucesión de muertes aparentemente imposible de detener. Las ediciones recientes suelen publicarse en español como Y no quedó ninguno.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Diez negritos</h3>\n    <p><strong>Novela:</strong> Agatha Christie perfecciona la estructura de “muerte progresiva” en espacio cerrado. Agatha Christie reúne a diez personas aisladas y construye una sucesión de muertes aparentemente imposible de detener. Las ediciones recientes suelen publicarse en español como Y no quedó ninguno.</p>\n    <p><strong>Clave del género — Círculo cerrado y eliminación de sospechosos:</strong> El aislamiento de diez personas en una isla convierte la sucesión de muertes en modelo del enigma de sospechosos agotados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1805
   },
@@ -3441,8 +3487,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Extraños en un tren",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1950\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1950</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Extraños en un tren</h3>\n    <p><strong>Novela:</strong> Patricia Highsmith explora la idea del crimen perfecto mediante dos desconocidos que intercambian víctimas para eliminar el móvil aparente. Patricia Highsmith plantea un intercambio de asesinatos entre dos desconocidos. La idea del crimen sin motivo visible para cada autor inspirará la célebre adaptación de Hitchcock.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1950\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1950</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Extraños en un tren</h3>\n    <p><strong>Novela:</strong> Patricia Highsmith explora la idea del crimen perfecto mediante dos desconocidos que intercambian víctimas para eliminar el móvil aparente. Patricia Highsmith plantea un intercambio de asesinatos entre dos desconocidos. La idea del crimen sin motivo visible para cada autor inspirará la célebre adaptación de Hitchcock.</p>\n    <p><strong>Clave del género — Intercambio de crímenes y contagio moral:</strong> El pacto de homicidios cruzados pretende eliminar el móvil, pero genera dependencia y chantaje psicológico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1822
   },
@@ -3451,8 +3499,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El largo adiós",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1953\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1953</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El largo adiós</h3>\n    <p><strong>Novela:</strong> Raymond Chandler publica una de las grandes novelas de Philip Marlowe, llevando el hardboiled hacia una forma más melancólica, moral y desencantada. Chandler escribe una investigación marcada por la lealtad, la amistad y la decepción. El tono elegíaco del libro amplía las posibilidades psicológicas y morales del hardboiled.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1953\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1953</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El largo adiós</h3>\n    <p><strong>Novela:</strong> Raymond Chandler publica una de las grandes novelas de Philip Marlowe, llevando el hardboiled hacia una forma más melancólica, moral y desencantada. Chandler escribe una investigación marcada por la lealtad, la amistad y la decepción. El tono elegíaco del libro amplía las posibilidades psicológicas y morales del hardboiled.</p>\n    <p><strong>Clave del género — Amistad y desengaño noir:</strong> La lealtad de Marlowe a Terry Lennox plantea el precio moral de descubrir la verdad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1827
   },
@@ -3461,8 +3511,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El talento de Mr. Ripley",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1955\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1955</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El talento de Mr. Ripley</h3>\n    <p><strong>Novela:</strong> Patricia Highsmith revoluciona el thriller psicológico situando a un protagonista amoral, carismático y perturbador en el centro de la narración. Tom Ripley persigue una identidad social que no posee y utiliza el engaño y el crimen para apropiársela. Highsmith desplaza el interés del detective al razonamiento del propio delincuente.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1955\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1955</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El talento de Mr. Ripley</h3>\n    <p><strong>Novela:</strong> Patricia Highsmith revoluciona el thriller psicológico situando a un protagonista amoral, carismático y perturbador en el centro de la narración. Tom Ripley persigue una identidad social que no posee y utiliza el engaño y el crimen para apropiársela. Highsmith desplaza el interés del detective al razonamiento del propio delincuente.</p>\n    <p><strong>Clave del género — Suplantación y punto de vista criminal:</strong> El relato convierte a un impostor capaz de engañar y matar en centro de identificación inquietante para el lector.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1830
   },
@@ -3471,8 +3523,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Odio",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1956\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1956</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Odio</h3>\n    <p><strong>Novela:</strong> Ed McBain inaugura la serie del distrito 87, pieza fundamental del procedural policial moderno y del trabajo coral de detectives urbanos. Ed McBain introduce el distrito 87 y un equipo cuyos casos se resuelven mediante rutinas, interrogatorios y cooperación. El protagonismo coral se convierte en un modelo para la ficción policial posterior.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1956\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1956</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Odio</h3>\n    <p><strong>Novela:</strong> Ed McBain inaugura la serie del distrito 87, pieza fundamental del procedural policial moderno y del trabajo coral de detectives urbanos. Ed McBain introduce el distrito 87 y un equipo cuyos casos se resuelven mediante rutinas, interrogatorios y cooperación. El protagonismo coral se convierte en un modelo para la ficción policial posterior.</p>\n    <p><strong>Clave del género — Equipo policial y ciudad como protagonista:</strong> La primera investigación del Distrito 87 inaugura una visión coral y cotidiana del trabajo policial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1832
   },
@@ -3491,8 +3545,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El espía que surgió del frío",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1963\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1963</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El espía que surgió del frío</h3>\n    <p><strong>Novela:</strong> John le Carré publica una obra decisiva del espionaje moderno, seca, moralmente ambigua y alejada del glamour heroico de la Guerra Fría. Le Carré presenta a Alec Leamas en una operación de inteligencia en la que la verdad y la lealtad se vuelven ambiguas. La novela contribuye a desmontar la visión romántica del espía.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1963\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1963</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El espía que surgió del frío</h3>\n    <p><strong>Novela:</strong> John le Carré publica una obra decisiva del espionaje moderno, seca, moralmente ambigua y alejada del glamour heroico de la Guerra Fría. Le Carré presenta a Alec Leamas en una operación de inteligencia en la que la verdad y la lealtad se vuelven ambiguas. La novela contribuye a desmontar la visión romántica del espía.</p>\n    <p><strong>Clave del género — Espionaje moralmente ambiguo:</strong> La operación de Leamas destruye la fantasía del agente infalible: los servicios secretos manipulan incluso las lealtades propias.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1839
   },
@@ -3541,8 +3597,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El nombre de la rosa",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El nombre de la rosa</h3>\n    <p><strong>Novela:</strong> Umberto Eco publica una obra que mezcla investigación detectivesca, semiótica, crimen monástico y tradición medieval, demostrando la elasticidad intelectual del género policial. Guillermo de Baskerville investiga muertes sucesivas en una abadía medieval, recurriendo a la observación y a la lógica. Eco combina una trama de pesquisa con debates sobre signos, poder y conocimiento.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El nombre de la rosa</h3>\n    <p><strong>Novela:</strong> Umberto Eco publica una obra que mezcla investigación detectivesca, semiótica, crimen monástico y tradición medieval, demostrando la elasticidad intelectual del género policial. Guillermo de Baskerville investiga muertes sucesivas en una abadía medieval, recurriendo a la observación y a la lógica. Eco combina una trama de pesquisa con debates sobre signos, poder y conocimiento.</p>\n    <p><strong>Clave del género — Habitación cerrada histórica y lógica detectivesca:</strong> Guillermo de Baskerville investiga mediante signos y razonamiento, mientras el misterio dialoga con la historia del conocimiento.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1859
   },
@@ -3861,8 +3919,10 @@
     "tipo": "ficcion",
     "fecha": "1859-11-26",
     "titulo": "La mujer de blanco inaugura una nueva forma de suspense",
-    "html": "<article class=\"item-evento\" data-fecha=\"1859-11-26\" data-tipo=\"ficcion\" data-yr=\"1859\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1859</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La mujer de blanco inaugura una nueva forma de suspense</h3>\n    <p><strong>Literatura · 26 de noviembre:</strong> Wilkie Collins comienza a publicar <em>La mujer de blanco</em> por entregas en <em>All the Year Round</em>, la revista de Charles Dickens. La novela combina secretos familiares, conspiraciones, identidades ocultas e investigación. Se convierte en una obra fundamental de la novela de sensación victoriana y en uno de los antecedentes del thriller psicológico moderno.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1859-11-26\" data-tipo=\"ficcion\" data-yr=\"1859\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1859</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La mujer de blanco inaugura una nueva forma de suspense</h3>\n    <p><strong>Literatura · 26 de noviembre:</strong> Wilkie Collins comienza a publicar <em>La mujer de blanco</em> por entregas en <em>All the Year Round</em>, la revista de Charles Dickens. La novela combina secretos familiares, conspiraciones, identidades ocultas e investigación. Se convierte en una obra fundamental de la novela de sensación victoriana y en uno de los antecedentes del thriller psicológico moderno.</p>\n    <p><strong>Clave del género — Conspiración doméstica e identidades suplantadas:</strong> El suspense documental y la amenaza matrimonial anticipan el thriller psicológico doméstico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1961
   },
@@ -4709,5 +4769,893 @@
     "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
     "orden": 61011,
     "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 1935,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los secretos de Oxford: misterio universitario y dilemas éticos",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1935\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1935</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los secretos de Oxford: misterio universitario y dilemas éticos</h3>\n    <p><strong>Dorothy L. Sayers · 1935 · Misterio universitario y dilemas éticos.</strong> Harriet Vane indaga una campaña de amenazas en un colegio femenino de Oxford; el enigma muestra cómo la vida académica y la autonomía de sus protagonistas pueden sostener una trama detectivesca.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61012,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1940,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Adiós, muñeca: detective duro y ciudad corrupta",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1940\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1940</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Adiós, muñeca: detective duro y ciudad corrupta</h3>\n    <p><strong>Raymond Chandler · 1940 · Detective duro y ciudad corrupta.</strong> Philip Marlowe busca a una mujer desaparecida y descubre redes de extorsión y falsas identidades. El recorrido por los bajos fondos y las élites de Los Ángeles convierte el espacio urbano en parte del crimen.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61013,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1948,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El caso de Betty Kane: acusación falsa y credibilidad testimonial",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1948\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1948</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El caso de Betty Kane: acusación falsa y credibilidad testimonial</h3>\n    <p><strong>Josephine Tey · 1948 · Acusación falsa y credibilidad testimonial.</strong> Una adolescente acusa a dos mujeres de retenerla; la pesquisa confronta relatos convincentes con pruebas verificables. El enigma gira en torno a la facilidad con que una comunidad acepta una historia aparentemente coherente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61014,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1939,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Animal acorralado: persecución y fugitivo frente al poder",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Animal acorralado: persecución y fugitivo frente al poder</h3>\n    <p><strong>Geoffrey Household · 1939 · Persecución y fugitivo frente al poder.</strong> Un deportista británico sorprendido apuntando a un dictador se convierte en objetivo de una cacería. El suspense nace del aislamiento y la supervivencia del perseguido, no de la identidad del criminal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61015,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1934,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los nueve sastres: enigma rural, campanas y conocimiento especializado",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1934\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1934</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los nueve sastres: enigma rural, campanas y conocimiento especializado</h3>\n    <p><strong>Dorothy L. Sayers · 1934 · Enigma rural, campanas y conocimiento especializado.</strong> Lord Peter Wimsey investiga un crimen entre los secretos de una parroquia inglesa; los detalles técnicos del toque de campanas son esenciales para comprender el misterio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61016,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1933,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Murder Must Advertise: detective infiltrado en la vida cotidiana",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1933\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1933</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Murder Must Advertise: detective infiltrado en la vida cotidiana</h3>\n    <p><strong>Dorothy L. Sayers · 1933 · Detective infiltrado en la vida cotidiana.</strong> Wimsey investiga una muerte en una agencia de publicidad londinense; la sátira del trabajo y las relaciones entre empleados amplía el paisaje del whodunit más allá de mansiones y herencias.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61017,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1902,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Cuentos de misterio e imaginación: antología de raciocinio y narradores criminales",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Cuentos de misterio e imaginación: antología de raciocinio y narradores criminales</h3>\n    <p><strong>Edgar Allan Poe · 1902 · Antología de raciocinio y narradores criminales.</strong> Esta recopilación póstuma, publicada bajo el título Tales of Mystery and Imagination en el siglo XX, reúne relatos cuya escritura es anterior. No es una novela nueva de Poe: su valor es reunir y difundir los modelos del detective analítico y la mente culpable.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.eapoe.org/works/editions/index.htm"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61018,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1946,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La juguetería errante: cadáver desaparecido y misterio humorístico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1946\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1946</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La juguetería errante: cadáver desaparecido y misterio humorístico</h3>\n    <p><strong>Edmund Crispin · 1946 · Cadáver desaparecido y misterio humorístico.</strong> Gervase Fen investiga un homicidio vinculado a una juguetería que parece haberse esfumado. El relato combina lógica detectivesca, ingenio e ironía sobre sus propias convenciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61019,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1952,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El tigre en la niebla: amenaza en la niebla y tensión psicológica",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1952\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1952</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El tigre en la niebla: amenaza en la niebla y tensión psicológica</h3>\n    <p><strong>Margery Allingham · 1952 · Amenaza en la niebla y tensión psicológica.</strong> Campion interviene ante indicios de que un hombre al que se creía muerto sigue con vida; la amenaza y el ambiente londinense aproximan el misterio al suspense oscuro.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61020,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1982,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El falso inspector Dew: suplantación y falso detective",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1982\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1982</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El falso inspector Dew: suplantación y falso detective</h3>\n    <p><strong>Peter Lovesey · 1982 · Suplantación y falso detective.</strong> Un hombre que adopta una identidad policial se encuentra involucrado en una investigación durante una travesía marítima. La novela utiliza la impostura para invertir el papel tradicional del investigador.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61021,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1986,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Inocencia singular: secreto familiar y crimen reconstruido",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1986\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1986</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Inocencia singular: secreto familiar y crimen reconstruido</h3>\n    <p><strong>Barbara Vine · 1986 · Secreto familiar y crimen reconstruido.</strong> Ruth Rendell, bajo su seudónimo Barbara Vine, desentraña una tragedia familiar a través de recuerdos y silencios. Es un referente del suspense psicológico retrospectivo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61022,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1931,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La llave de cristal: poder político y crimen organizado",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1931\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1931</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La llave de cristal: poder político y crimen organizado</h3>\n    <p><strong>Dashiell Hammett · 1931 · Poder político y crimen organizado.</strong> Ned Beaumont se mueve entre políticos, gánsteres y lealtades conflictivas tras un asesinato; el delito revela una estructura de poder más amplia que el enigma individual.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61023,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1957,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Desde Rusia con amor: espionaje como trampa preparada",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Desde Rusia con amor: espionaje como trampa preparada</h3>\n    <p><strong>Ian Fleming · 1957 · Espionaje como trampa preparada.</strong> Una operación soviética utiliza un señuelo para atraer a James Bond; el suspense depende del engaño estratégico, de la vigilancia y de la información que el lector conoce antes que el agente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61024,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1981,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los muertos de Jericó: detective erudito y coartadas psicológicas",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1981\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1981</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los muertos de Jericó: detective erudito y coartadas psicológicas</h3>\n    <p><strong>Colin Dexter · 1981 · Detective erudito y coartadas psicológicas.</strong> El inspector Morse investiga una muerte sospechosa vinculada a personas que había conocido. Dexter combina razonamiento, cultura académica y las contradicciones íntimas del investigador.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61025,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1977,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Un juicio de piedra: crimen conocido y explicación del móvil",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Un juicio de piedra: crimen conocido y explicación del móvil</h3>\n    <p><strong>Ruth Rendell · 1977 · Crimen conocido y explicación del móvil.</strong> La novela anticipa una tragedia doméstica y desplaza el misterio a las tensiones de clase, la psicología y los prejuicios que la hicieron posible; es un ejemplo del whydunit.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61026,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1977,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Un dulce sabor a muerte: detective monástico y enigma histórico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Un dulce sabor a muerte: detective monástico y enigma histórico</h3>\n    <p><strong>Ellis Peters · 1977 · Detective monástico y enigma histórico.</strong> El hermano Cadfael investiga una muerte durante una expedición religiosa en la Edad Media. La observación, el conocimiento de plantas y la vida comunitaria sostienen la pesquisa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61027,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1981,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El leproso de Saint-Giles: misterio medieval y exclusión social",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1981\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1981</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El leproso de Saint-Giles: misterio medieval y exclusión social</h3>\n    <p><strong>Ellis Peters · 1981 · Misterio medieval y exclusión social.</strong> Una investigación del hermano Cadfael acerca al lector a la vida de quienes eran marginados por enfermedad y condición social. El enigma se apoya en las tensiones entre honor, interés y prejuicio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61028,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1953,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Un beso antes de morir: asesino calculador y ambición social",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1953\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1953</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Un beso antes de morir: asesino calculador y ambición social</h3>\n    <p><strong>Ira Levin · 1953 · Asesino calculador y ambición social.</strong> Un joven trata el homicidio como instrumento para mejorar su posición económica; el suspense procede de la planificación y la doble cara de alguien aparentemente respetable.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61029,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1938,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Brighton Rock: gánster, culpa y conflicto religioso",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1938\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Brighton Rock: gánster, culpa y conflicto religioso</h3>\n    <p><strong>Graham Greene · 1938 · Gánster, culpa y conflicto religioso.</strong> El joven criminal Pinkie Brown se mueve entre violencia, deseo y temor al castigo; Greene combina bandas delincuenciales con un noir de conciencia y caída moral.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61030,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1943,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La dama del lago: desaparición e identidades engañosas",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1943\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1943</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La dama del lago: desaparición e identidades engañosas</h3>\n    <p><strong>Raymond Chandler · 1943 · Desaparición e identidades engañosas.</strong> Marlowe busca a una mujer desaparecida y descubre relaciones ocultas alrededor de un lago; incluso el refugio aparentemente idílico está contaminado por secretos y violencia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61031,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1987,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Presunto inocente: investigador acusado y thriller judicial",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Presunto inocente: investigador acusado y thriller judicial</h3>\n    <p><strong>Scott Turow · 1987 · Investigador acusado y thriller judicial.</strong> Un fiscal encargado de un asesinato pasa a ser sospechoso. La tensión entre búsqueda de la verdad, prueba admisible y presunción de inocencia constituye el motor de la novela.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61032,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1976,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Un demonio para mí: criminal cotidiano y aislamiento psicológico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1976\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1976</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Un demonio para mí: criminal cotidiano y aislamiento psicológico</h3>\n    <p><strong>Ruth Rendell · 1976 · Criminal cotidiano y aislamiento psicológico.</strong> El deterioro de un hombre aparentemente corriente revela la violencia que puede esconder una existencia anodina. El relato se interesa tanto por la psicología del autor como por las circunstancias sociales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61033,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1951,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El diablo en terciopelo: policial histórico con elemento fantástico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1951\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1951</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El diablo en terciopelo: policial histórico con elemento fantástico</h3>\n    <p><strong>John Dickson Carr · 1951 · Policial histórico con elemento fantástico.</strong> Un desplazamiento temporal permite explorar un misterio en el Londres del siglo XVII; la reconstrucción histórica convive con especulación sobrenatural y crimen.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61034,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1987,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El largo verano: secreto compartido y reconstrucción retrospectiva",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El largo verano: secreto compartido y reconstrucción retrospectiva</h3>\n    <p><strong>Barbara Vine · 1987 · Secreto compartido y reconstrucción retrospectiva.</strong> Un verano entre jóvenes deja tras de sí un delito cuyas consecuencias resurgen años después. Los recuerdos incompletos y la culpa colectiva sustituyen al interrogatorio convencional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61035,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1949,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "En la mañana de un lunes: persecución, identidades y humor literario",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1949\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1949</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>En la mañana de un lunes: persecución, identidades y humor literario</h3>\n    <p><strong>Michael Innes · 1949 · Persecución, identidades y humor literario.</strong> Una extraña peripecia protagonizada por un joven conduce a una intriga de identidades y pesquisas. Innes mezcla aventura detectivesca e ironía culta.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61036,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1986,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Sabor a muerte: policial de personajes y crítica social",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1986\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1986</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Sabor a muerte: policial de personajes y crítica social</h3>\n    <p><strong>P. D. James · 1986 · Policial de personajes y crítica social.</strong> Adam Dalgliesh investiga dos muertes en una iglesia londinense; los móviles íntimos y el retrato de los distintos estratos sociales amplían el alcance de la novela-enigma.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61037,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1975,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Ha llegado el águila: operación clandestina y suspense bélico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1975\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1975</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Ha llegado el águila: operación clandestina y suspense bélico</h3>\n    <p><strong>Jack Higgins · 1975 · Operación clandestina y suspense bélico.</strong> Un comando alemán intenta capturar a Churchill en una operación ficticia de la Segunda Guerra Mundial. La intriga alterna preparación, infiltración y amenaza de fracaso.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61038,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1960,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Mi hermano Michael: suspense romántico y secreto del pasado",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1960\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1960</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Mi hermano Michael: suspense romántico y secreto del pasado</h3>\n    <p><strong>Mary Stewart · 1960 · Suspense romántico y secreto del pasado.</strong> Una viajera en Grecia se implica en una investigación asociada con un hecho antiguo. Stewart une escenario extranjero, atracción sentimental y amenaza criminal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61039,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1987,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Bertie and the Tin Man: investigación histórica y deporte",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Bertie and the Tin Man: investigación histórica y deporte</h3>\n    <p><strong>Peter Lovesey · 1987 · Investigación histórica y deporte.</strong> Una pesquisa situada en la Inglaterra victoriana aprovecha el mundo de las competiciones deportivas, sus rivales e intereses. Es un ejemplo de cómo un entorno especializado construye un misterio histórico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61040,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1984,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Penny Black: misterio especializado en coleccionismo",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Penny Black: misterio especializado en coleccionismo</h3>\n    <p><strong>Susan Moody · 1984 · Misterio especializado en coleccionismo.</strong> El coleccionismo filatélico sirve de escenario a una intriga de intereses económicos y secretos personales, muestra del whodunit construido alrededor de una comunidad profesional concreta.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61041,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1984,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Juego, set y partido: trilogía de espionaje y traición",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Juego, set y partido: trilogía de espionaje y traición</h3>\n    <p><strong>Len Deighton · 1984 · Trilogía de espionaje y traición.</strong> Tres novelas publicadas entre 1984 y 1986 siguen a Bernard Samson entre sospechas de infiltración y crisis de lealtades. Se recoge la trilogía como tal, sin presentarla como un libro individual.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61042,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1983,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Danger: secuestro y negociación",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1983\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1983</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Danger: secuestro y negociación</h3>\n    <p><strong>Dick Francis · 1983 · Secuestro y negociación.</strong> Un especialista que se ocupa de secuestros se enfrenta a una situación vinculada con el ámbito hípico. Francis convierte un entorno profesional definido en mecanismo de suspense.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61043,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1989,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Intrigas y deseos: asesino de mujeres y comunidad costera",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1989\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Intrigas y deseos: asesino de mujeres y comunidad costera</h3>\n    <p><strong>P. D. James · 1989 · Asesino de mujeres y comunidad costera.</strong> Una cadena de crímenes contra mujeres preocupa a una zona litoral donde se encuentra Dalgliesh; las rivalidades locales y los secretos personales se entrelazan con el peligro.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61044,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1988,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Under World: crimen antiguo y memoria obrera",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1988\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1988</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Under World: crimen antiguo y memoria obrera</h3>\n    <p><strong>Reginald Hill · 1988 · Crimen antiguo y memoria obrera.</strong> Dalziel y Pascoe investigan una historia ligada a una comunidad minera, cuyos rencores no han desaparecido. El policial funciona también como exploración de la identidad colectiva.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61045,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1958,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Nueve carruajes esperan: institutriz en mansión amenazante",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1958\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1958</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Nueve carruajes esperan: institutriz en mansión amenazante</h3>\n    <p><strong>Mary Stewart · 1958 · Institutriz en mansión amenazante.</strong> Una joven llega a una casa francesa donde un niño heredero puede estar en peligro. El aislamiento, la dependencia y las sospechas familiares actualizan el suspense gótico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61046,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1978,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "A Running Duck: mujer perseguida y supervivencia",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1978\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>A Running Duck: mujer perseguida y supervivencia</h3>\n    <p><strong>Paula Gosling · 1978 · Mujer perseguida y supervivencia.</strong> Una mujer se convierte en objetivo de una amenaza mortal y busca protección. La tensión reside en la persecución y la confianza entre dos desconocidos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61047,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1950,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Smallbone Deceased: cadáver en despacho de abogados",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1950\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1950</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Smallbone Deceased: cadáver en despacho de abogados</h3>\n    <p><strong>Michael Gilbert · 1950 · Cadáver en despacho de abogados.</strong> Un muerto hallado en un lugar de trabajo restringido convierte a una comunidad profesional en círculo de sospechosos. El derecho y las rutinas laborales nutren un enigma de corte clásico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61048,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1962,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La rosa del Tíbet: búsqueda de desaparecido y aventura peligrosa",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1962\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1962</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La rosa del Tíbet: búsqueda de desaparecido y aventura peligrosa</h3>\n    <p><strong>Lionel Davidson · 1962 · Búsqueda de desaparecido y aventura peligrosa.</strong> Una expedición hacia una región lejana deriva en una travesía amenazada. Es una aportación al thriller de búsqueda internacional más que al misterio deductivo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61049,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1980,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Sangre inocente: identidad familiar y pasado criminal",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Sangre inocente: identidad familiar y pasado criminal</h3>\n    <p><strong>P. D. James · 1980 · Identidad familiar y pasado criminal.</strong> Una joven adoptada investiga sus orígenes y descubre una historia marcada por delitos y heridas morales; la pesquisa íntima deriva en suspense psicológico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61050,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1930,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Veneno mortal: sospechosa acusada y error judicial",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1930\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1930</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Veneno mortal: sospechosa acusada y error judicial</h3>\n    <p><strong>Dorothy L. Sayers · 1930 · Sospechosa acusada y error judicial.</strong> Lord Peter Wimsey investiga un envenenamiento por el que Harriet Vane podría ser condenada. El peligro de una sentencia injusta introduce a un personaje clave de la serie.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61051,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1937,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "¡Hamlet, venganza!: asesinato durante una representación",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1937\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1937</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>¡Hamlet, venganza!: asesinato durante una representación</h3>\n    <p><strong>Michael Innes · 1937 · Asesinato durante una representación.</strong> Un crimen en plena función de Hamlet exige reconstruir posiciones y apariencias. La escena teatral sirve de camuflaje y de comentario sobre la representación de la verdad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61052,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1989,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Ladrón de tiempo: policial indígena y expolio arqueológico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1989\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Ladrón de tiempo: policial indígena y expolio arqueológico</h3>\n    <p><strong>Tony Hillerman · 1989 · Policial indígena y expolio arqueológico.</strong> Policías navajos indagan un delito relacionado con el tráfico de patrimonio arqueológico. La investigación entrelaza territorio, conocimiento cultural e intereses mercantiles.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61053,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1937,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "A Bullet in the Ballet: teatro, ballet y humor detectivesco",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1937\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1937</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>A Bullet in the Ballet: teatro, ballet y humor detectivesco</h3>\n    <p><strong>Caryl Brahms y S. J. Simon · 1937 · Teatro, ballet y humor detectivesco.</strong> La rivalidad entre miembros de una compañía de ballet desemboca en una investigación de tono ligero; el misterio se sostiene en la observación de una comunidad artística.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61054,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1983,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Deadheads: jardinería y muertes sospechosas",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1983\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1983</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Deadheads: jardinería y muertes sospechosas</h3>\n    <p><strong>Reginald Hill · 1983 · Jardinería y muertes sospechosas.</strong> Dalziel y Pascoe estudian una secuencia de fallecimientos en torno a un aficionado a las rosas. El relato juega con coincidencias aparentemente inocentes y dobles interpretaciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61055,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1950,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El tercer hombre: ciudad ocupada y amigo sospechoso",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1950\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1950</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El tercer hombre: ciudad ocupada y amigo sospechoso</h3>\n    <p><strong>Graham Greene · 1950 · Ciudad ocupada y amigo sospechoso.</strong> En la Viena de posguerra una muerte aparentemente accidental descubre negocios clandestinos y una amistad traicionada. Esta narración breve debe distinguirse del estreno cinematográfico de 1949.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61056,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1974,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Labyrinth Makers: espionaje y secretos de guerra",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1974\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1974</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Labyrinth Makers: espionaje y secretos de guerra</h3>\n    <p><strong>Anthony Price · 1974 · Espionaje y secretos de guerra.</strong> El descubrimiento de información relacionada con la Segunda Guerra Mundial desencadena una pesquisa de inteligencia contemporánea; el pasado proporciona las piezas de la conspiración.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61057,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1965,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El memorándum de Berlín: agente solitario y red neonazi",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1965\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1965</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El memorándum de Berlín: agente solitario y red neonazi</h3>\n    <p><strong>Adam Hall · 1965 · Agente solitario y red neonazi.</strong> Quiller investiga una organización clandestina en Alemania Occidental. La observación, la vigilancia y el peligro físico distinguen el thriller de contraespionaje.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61058,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1955,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La bestia se acerca: acoso y percepción engañosa",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1955\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1955</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La bestia se acerca: acoso y percepción engañosa</h3>\n    <p><strong>Margaret Millar · 1955 · Acoso y percepción engañosa.</strong> Una mujer se siente perseguida por una amenaza de origen incierto. Millar transforma la vulnerabilidad cotidiana y la falta de certezas en suspense psicológico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61059,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1984,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Shortest Way to Hades: enigma legal y humor académico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Shortest Way to Hades: enigma legal y humor académico</h3>\n    <p><strong>Sarah Caudwell · 1984 · Enigma legal y humor académico.</strong> Un grupo de juristas analiza muertes vinculadas a intereses patrimoniales. Su conocimiento del derecho, la voz irónica y los razonamientos contradictorios sostienen el misterio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61060,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1970,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Running Blind: trampa de espionaje y persecución",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1970\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1970</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Running Blind: trampa de espionaje y persecución</h3>\n    <p><strong>Desmond Bagley · 1970 · Trampa de espionaje y persecución.</strong> Un antiguo agente acepta un trabajo que se transforma en emboscada durante un viaje por Islandia; paisaje, identidades ocultas y escape se combinan.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61061,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1981,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Twice Shy: códigos informáticos y apuestas",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1981\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1981</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Twice Shy: códigos informáticos y apuestas</h3>\n    <p><strong>Dick Francis · 1981 · Códigos informáticos y apuestas.</strong> Un material informático codificado despierta la codicia de delincuentes vinculados con apuestas ecuestres. La historia integra tempranamente tecnología y secreto comercial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61062,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1987,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los asesinatos de Badger's Drift: pueblo idílico con secretos",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los asesinatos de Badger's Drift: pueblo idílico con secretos</h3>\n    <p><strong>Caroline Graham · 1987 · Pueblo idílico con secretos.</strong> El inspector Barnaby investiga una muerte aparentemente sencilla y destapa una red de enemistades bajo la respetabilidad rural. Un ejemplo de misterio comunitario moderno.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61063,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1938,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La bestia debe morir: venganza, diario y justicia privada",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1938\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La bestia debe morir: venganza, diario y justicia privada</h3>\n    <p><strong>Nicholas Blake · 1938 · Venganza, diario y justicia privada.</strong> Un padre decide buscar al conductor que mató a su hijo. El relato aprovecha el diario íntimo y la planificación de una represalia para cuestionar lo que sabe el investigador.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.classiccrimefiction.com/blakebib.htm"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61064,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1944,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La venganza de Nofret: whodunit ambientado en el antiguo Egipto",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La venganza de Nofret: whodunit ambientado en el antiguo Egipto</h3>\n    <p><strong>Agatha Christie · 1944 · Whodunit ambientado en el antiguo Egipto.</strong> La llegada de una concubina desestabiliza a una familia egipcia y desencadena una cadena de muertes; Christie traslada las convenciones del enigma a un tiempo histórico remoto.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.agathachristie.com/en/stories/death-comes-as-the-end"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61065,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1945,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La muerte espera en Herons Park: crimen hospitalario y sospechosos cerrados",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1945\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1945</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La muerte espera en Herons Park: crimen hospitalario y sospechosos cerrados</h3>\n    <p><strong>Christianna Brand · 1945 · Crimen hospitalario y sospechosos cerrados.</strong> Una muerte en un hospital durante la Segunda Guerra Mundial obliga a examinar tensiones dentro del personal sanitario; el ambiente profesional crea el círculo de sospechosos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61066,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1942,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Tragedia en el tribunal: derecho y misterio judicial",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1942\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1942</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Tragedia en el tribunal: derecho y misterio judicial</h3>\n    <p><strong>Cyril Hare · 1942 · Derecho y misterio judicial.</strong> Una muerte relacionada con un tribunal ofrece una investigación marcada por intereses de abogados, magistrados y testigos; la cultura jurídica es parte del mecanismo del enigma.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61067,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1955,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Gideon's Day: policía coral y jornada de trabajo",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1955\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1955</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Gideon's Day: policía coral y jornada de trabajo</h3>\n    <p><strong>J. J. Marric · 1955 · Policía coral y jornada de trabajo.</strong> Una jornada en Scotland Yard reúne decisiones, delitos menores y situaciones graves. Su construcción episódica refleja el trabajo policial ordinario y no las hazañas de un único genio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61068,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1976,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Sun Chemist: secreto científico y espionaje",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1976\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1976</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Sun Chemist: secreto científico y espionaje</h3>\n    <p><strong>Lionel Davidson · 1976 · Secreto científico y espionaje.</strong> La búsqueda de una información científica de valor desencadena una intriga internacional que conecta conocimiento técnico, intereses económicos y peligro.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61069,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1957,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los cañones de Navarone: misión militar y thriller de infiltración",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los cañones de Navarone: misión militar y thriller de infiltración</h3>\n    <p><strong>Alistair MacLean · 1957 · Misión militar y thriller de infiltración.</strong> Un equipo debe llevar a cabo una arriesgada operación contra posiciones enemigas. Es un ejemplo fronterizo de suspense bélico, no una novela policial de investigación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61070,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1957,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El color del asesinato: acusado, memoria y prueba dudosa",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El color del asesinato: acusado, memoria y prueba dudosa</h3>\n    <p><strong>Julian Symons · 1957 · Acusado, memoria y prueba dudosa.</strong> Un hombre corriente afronta una acusación de homicidio mientras los recuerdos y los testimonios complican la comprensión de lo ocurrido. El suspense pone en primer plano la psicología.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61071,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1916,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Greenmantle: conspiración geopolítica y espía aventurero",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1916\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1916</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Greenmantle: conspiración geopolítica y espía aventurero</h3>\n    <p><strong>John Buchan · 1916 · Conspiración geopolítica y espía aventurero.</strong> Richard Hannay se implica en una misión clandestina durante la Primera Guerra Mundial. Buchan continúa desarrollando el thriller de espionaje de acción.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61072,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1970,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Wobble to Death: misterio en competición victoriana",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1970\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1970</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Wobble to Death: misterio en competición victoriana</h3>\n    <p><strong>Peter Lovesey · 1970 · Misterio en competición victoriana.</strong> Una muerte en una prueba de resistencia pedestre aporta un escenario cerrado de rivalidades. El deporte histórico sustituye a la mansión como espacio del crimen.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61073,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1980,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La clave está en Rebeca: espía infiltrado y descifrado de secretos",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La clave está en Rebeca: espía infiltrado y descifrado de secretos</h3>\n    <p><strong>Ken Follett · 1980 · Espía infiltrado y descifrado de secretos.</strong> Un agente alemán actúa en Egipto durante la Segunda Guerra Mundial y el contraespionaje británico intenta detenerlo. La información cifrada estructura la cuenta atrás.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61074,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1972,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Sadie When She Died: procedimental y asesinato doméstico",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1972\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1972</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Sadie When She Died: procedimental y asesinato doméstico</h3>\n    <p><strong>Ed McBain · 1972 · Procedimental y asesinato doméstico.</strong> El Distrito 87 investiga una muerte cuyas primeras apariencias no explican los conflictos de pareja y las contradicciones de los testigos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61075,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1980,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El asesinato del maharajá: inspector Ghote y jerarquías sociales",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El asesinato del maharajá: inspector Ghote y jerarquías sociales</h3>\n    <p><strong>H. R. F. Keating · 1980 · Inspector Ghote y jerarquías sociales.</strong> La pesquisa de un asesinato entre personas poderosas en la India permite observar privilegios, estatus y presiones que afectan a los testimonios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61076,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1987,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "What Bloody Man Is That?: teatro y humor de misterio",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>What Bloody Man Is That?: teatro y humor de misterio</h3>\n    <p><strong>Simon Brett · 1987 · Teatro y humor de misterio.</strong> Las rivalidades y equívocos del mundo de la interpretación desembocan en una investigación criminal. La representación funciona como fuente de coartadas y engaños.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61077,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1966,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Shooting Script: aviación, rodaje y aventura criminal",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1966\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1966</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Shooting Script: aviación, rodaje y aventura criminal</h3>\n    <p><strong>Gavin Lyall · 1966 · Aviación, rodaje y aventura criminal.</strong> Un piloto vinculado al rodaje de una película se encuentra arrastrado a una intriga peligrosa. Un thriller de acción que combina aventura internacional y engaño.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61078,
+    "tema": "TROPOS Y SUBGÉNEROS"
+  },
+  {
+    "yr": 1905,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Los cuatro hombres justos: atentado anunciado y justicieros clandestinos",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1905\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1905</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los cuatro hombres justos: atentado anunciado y justicieros clandestinos</h3>\n    <p><strong>Edgar Wallace · 1905 · Atentado anunciado y justicieros clandestinos.</strong> Un grupo amenaza con matar a un político y reta a las autoridades a impedirlo. La historia enfrenta legalidad y justicia privada, e hizo del método del crimen un desafío al lector.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://editorialverbum.es/libro/los-cuatro-hombres-justos/"
+    ],
+    "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
+    "orden": 61079,
+    "tema": "TROPOS Y SUBGÉNEROS"
   }
 ]
