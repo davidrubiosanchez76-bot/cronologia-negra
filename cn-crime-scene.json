@@ -600,9 +600,10 @@
     "tipo": "policia-cientifica",
     "fecha": "2021-06-01",
     "titulo": "Empieza a investigar la Fiscalía Europea",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2021\" data-fecha=\"2021-06-01\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Empieza a investigar la Fiscalía Europea</h3>\n    <p><strong>Cooperación judicial · 1 de junio:</strong> Entra en funcionamiento la Fiscalía Europea (EPPO), organismo independiente facultado para investigar y perseguir delitos contra los intereses financieros de la Unión, incluidos ciertos fraudes, casos de corrupción y operaciones de IVA transfronterizas. A diferencia de OLAF, puede ejercer funciones de acusación ante tribunales nacionales de los países participantes. Su creación facilita que una trama que utiliza empresas y fondos en varios Estados se investigue de forma coordinada con atribuciones procesales.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2021\" data-fecha=\"2021-06-01\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Empieza a investigar la Fiscalía Europea</h3>\n    <p><strong>Cooperación judicial · 1 de junio:</strong> Entra en funcionamiento la Fiscalía Europea (EPPO), organismo independiente facultado para investigar y perseguir delitos contra los intereses financieros de la Unión, incluidos ciertos fraudes, casos de corrupción y operaciones de IVA transfronterizas. A diferencia de OLAF, dedicada a la investigación administrativa, puede ejercer funciones de acusación ante tribunales nacionales de los países participantes, por lo que resulta especialmente útil para el seguimiento de fraudes societarios contra fondos europeos. Su creación facilita que una trama que utiliza empresas y fondos en varios Estados se investigue de forma coordinada con atribuciones procesales.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://commission.europa.eu/law/cross-border-cases/judicial-cooperation/networks-and-bodies-supporting-judicial-cooperation/european-public-prosecutors-office-eppo_en"
+      "https://commission.europa.eu/law/cross-border-cases/judicial-cooperation/networks-and-bodies-supporting-judicial-cooperation/european-public-prosecutors-office-eppo_en",
+      "https://anti-fraud.ec.europa.eu/policy/policies-prevent-and-deter-fraud/european-public-prosecutors-office_en"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 281
@@ -1706,12 +1707,14 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Albania intenta recuperar el dinero perdido en las pirámides financieras",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1997\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1997</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Albania intenta recuperar el dinero perdido en las pirámides financieras</h3>\n    <p><strong>Investigación patrimonial · 1997:</strong> La respuesta a las estafas piramidales incluye el nombramiento de administradores encargados de liquidar sociedades, localizar activos y reconstruir movimientos de fondos. El proceso ilustra la dificultad de seguir dinero cuando los responsables huyen, desaparecen documentos y los bienes han sido trasladados o consumidos.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1997\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1997</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Albania intenta recuperar el dinero perdido en las pirámides financieras</h3>\n    <p><strong>Investigación patrimonial · 1997:</strong> La investigación patrimonial de las pirámides financieras albanesas de 1997 incluye el nombramiento de administradores encargados de liquidar sociedades, localizar activos, reconstruir movimientos de fondos y tramitar reclamaciones de ahorradores en medio del desorden institucional. El proceso ilustra la dificultad de seguir dinero cuando los responsables huyen, desaparecen documentos y los bienes han sido trasladados o consumidos.</p>\n  </div>\n</article>",
     "fuentes": [
-      "editorial: https://www.elibrary.imf.org/view/journals/022/0037/001/article-A012-en.xml"
+      "https://www.elibrary.imf.org/view/journals/022/0037/001/article-A012-en.xml",
+      "https://www.elibrary.imf.org/view/journals/024/2000/002/article-A001-en.xml"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 784
+    "orden": 784,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
   },
   {
     "yr": 2002,
@@ -4156,8 +4159,11 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Sutherland lleva el crimen de cuello blanco al centro de la criminología",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1949\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1949</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Sutherland lleva el crimen de cuello blanco al centro de la criminología</h3>\n    <p><strong>Criminología económica · 1949:</strong> Edwin H. Sutherland publica <em>White Collar Crime</em>, desarrollo de un concepto que había presentado públicamente en 1939. Estudia infracciones cometidas por personas y empresas de posición social elevada en el ejercicio de su actividad profesional. La obra cuestiona la identificación del delito con la pobreza y pone el foco en los daños causados por organizaciones poderosas. Se convierte en uno de los grandes textos de referencia para investigar la delincuencia económica, corporativa y profesional.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1949\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1949</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Sutherland lleva el crimen de cuello blanco al centro de la criminología</h3>\n    <p><strong>Criminología económica · 1949:</strong> Edwin H. Sutherland publica <em>White Collar Crime</em>, desarrollo de un concepto que había presentado públicamente el 27 de diciembre de 1939 en un discurso sobre delincuencia de personas de alta posición social en el ejercicio de su profesión. Estudia infracciones cometidas por personas y empresas de posición social elevada en el ejercicio de su actividad profesional. La obra cuestiona la identificación del delito con la pobreza y pone el foco en los daños causados por organizaciones poderosas. Se convierte en uno de los grandes textos de referencia para investigar la delincuencia económica, corporativa y profesional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://archives.iu.edu/catalog/InU-Li-VAD7086",
+      "https://www.americanbarfoundation.org/resources/crime-white-collar/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1265
   },
@@ -7220,5 +7226,123 @@
     "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
     "orden": 63009,
     "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 1934,
+    "tipo": "policia-cientifica",
+    "fecha": "1934-06-06",
+    "titulo": "Estados Unidos crea la SEC para investigar fraudes en los mercados",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1934\" data-fecha=\"1934-06-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1934</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Estados Unidos crea la SEC para investigar fraudes en los mercados</h3>\n    <p><strong>Supervisión bursátil · Estados Unidos:</strong> La Securities Exchange Act de 1934 establece la Securities and Exchange Commission, organismo destinado a vigilar los mercados de valores y perseguir infracciones relacionadas con divulgación engañosa, manipulación y operaciones ilícitas. La norma complementa la Securities Act de 1933, que impuso obligaciones de información en emisiones públicas. No significa el nacimiento histórico del fraude financiero, sino un cambio decisivo en la estructura de supervisión e investigación de las empresas cotizadas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/files/about/laws.shtml",
+      "https://www.sec.gov/newsroom/speeches-statements/spch092404hjg-sec-70-lets-celebrate-its-reinvigorated-golden-years"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65001,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1953,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Donald Cressey estudia por qué se produce la apropiación de dinero confiado",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1953\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1953</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Donald Cressey estudia por qué se produce la apropiación de dinero confiado</h3>\n    <p><strong>Criminología del fraude · Estados Unidos:</strong> Donald R. Cressey publica Other People's Money en 1953 tras estudiar a personas que habían defraudado la confianza que les permitía administrar bienes o dinero ajenos. Analiza presiones, oportunidades y justificaciones de los autores; su trabajo inspirará lo que más tarde se denominará «triángulo del fraude». Este marco resulta útil para orientar investigaciones sobre desfalcos y delitos corporativos, pero no es una herramienta para demostrar culpabilidad ni permite diagnosticar a un defraudador a partir de rasgos personales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sciencedirect.com/science/article/pii/S1359079021000828",
+      "https://www.sciencedirect.com/science/article/pii/S0155998215000228"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65002,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1988,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "La ACFE organiza una profesión especializada en investigación del fraude",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1988\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1988</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La ACFE organiza una profesión especializada en investigación del fraude</h3>\n    <p><strong>Contabilidad forense · Estados Unidos:</strong> En 1988 Joseph T. Wells y colaboradores crean la Association of Certified Fraud Examiners (ACFE). La organización contribuye a sistematizar la investigación de fraudes mediante análisis de documentación, técnicas de entrevista, rastreo de operaciones, prevención de irregularidades y formación específica. Su relevancia no es la invención de la contabilidad forense, practicada anteriormente, sino la profesionalización de un campo especializado que debe distinguir la auditoría general de una investigación concreta de hechos sospechosos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.acfe.com/about-the-acfe/newsroom-for-media/press-kit",
+      "https://www.acfe.com/fraud-magazine/all-issues/issue/article?s=2008-novdec-the-association-that-generated-a-movement"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65003,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2002,
+    "tipo": "policia-cientifica",
+    "fecha": "2002-07-30",
+    "titulo": "La ley Sarbanes-Oxley refuerza el control de las cuentas empresariales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2002\" data-fecha=\"2002-07-30\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La ley Sarbanes-Oxley refuerza el control de las cuentas empresariales</h3>\n    <p><strong>Control financiero y prueba contable · Estados Unidos:</strong> Tras los fraudes de Enron y WorldCom, Estados Unidos promulga en julio de 2002 la Sarbanes-Oxley Act, que fortalece las responsabilidades de los directivos sobre estados financieros, refuerza la supervisión de auditores y establece requisitos de conservación y control de documentación. La reforma facilita detectar y sancionar conductas como la destrucción de pruebas y el falseamiento contable. Es una respuesta institucional a aquellos escándalos, diferente de las causas penales por los fraudes originales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/files/about/laws.shtml"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65004,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2009,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "La inspección de Madoff es investigada: la SEC había ignorado indicios decisivos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La inspección de Madoff es investigada: la SEC había ignorado indicios decisivos</h3>\n    <p><strong>Fallo de supervisión · Estados Unidos:</strong> La oficina del inspector general de la SEC publica en 2009 una investigación acerca de por qué el fraude de Bernard Madoff no fue detectado pese a las numerosas denuncias y advertencias recibidas. Los auditores y funcionarios no comprobaron de forma adecuada las operaciones de mercado declaradas ni siguieron inconsistencias relevantes. El informe muestra que una investigación financiera debe verificar fuentes externas y registros reales, no limitarse a aceptar documentos del propio investigado. La estafa descubierta en 2008 figura separadamente en TRUE CRIME.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/oig/oig-reports-investigation-failure-madoff-ponzi-scheme",
+      "https://www.sec.gov/newsroom/speeches-statements/ts091009hdk-testimony-us-senate-committee-banking-housing-urban-affairs"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65005,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2011,
+    "tipo": "policia-cientifica",
+    "fecha": "2011-08-12",
+    "titulo": "La SEC protege y premia las denuncias que descubren fraudes bursátiles",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2011\" data-fecha=\"2011-08-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La SEC protege y premia las denuncias que descubren fraudes bursátiles</h3>\n    <p><strong>Investigación mediante informantes · Estados Unidos:</strong> En agosto de 2011 entra en vigor un programa de la SEC previsto por la ley Dodd-Frank para recibir información original sobre infracciones financieras y, bajo determinados requisitos, recompensar a denunciantes. La herramienta puede permitir que personas con acceso directo a la actividad de una empresa aporten pruebas documentales que no aparecen en inspecciones rutinarias. El sistema exige contrastar las pistas y prevé protección frente a represalias; la mera denuncia no convierte automáticamente los hechos en delito probado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/newsroom/press-releases/2011-167-secs-new-whistleblower-program-takes-effect-today",
+      "https://www.sec.gov/enforcement-litigation/whistleblower-program"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65006,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2016,
+    "tipo": "policia-cientifica",
+    "fecha": "2016-04-03",
+    "titulo": "Papeles de Panamá: millones de documentos revelan entramados financieros opacos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2016\" data-fecha=\"2016-04-03\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Papeles de Panamá: millones de documentos revelan entramados financieros opacos</h3>\n    <p><strong>Investigación documental internacional · Panamá y otros países:</strong> Una investigación periodística liderada por el ICIJ y Süddeutsche Zeitung publica en abril de 2016 resultados del análisis de 11,5 millones de registros del bufete Mossack Fonseca. Periodistas de distintos países cruzan documentos mercantiles, correos, titulares de empresas y operaciones para identificar tramas de ocultación y relaciones con delitos financieros. Los hallazgos generan posteriores pesquisas fiscales y judiciales. La existencia de sociedades extraterritoriales no demuestra por sí misma un delito: el hito es la técnica de análisis colaborativo y la documentación revelada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.icij.org/investigations/panama-papers/about-the-investigation/",
+      "https://www.icij.org/investigations/panama-papers/data-tech-team-icij/"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65007,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2020,
+    "tipo": "policia-cientifica",
+    "fecha": "2020-11-03",
+    "titulo": "La ESMA documenta fallos de vigilancia financiera en el caso Wirecard",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2020\" data-fecha=\"2020-11-03\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La ESMA documenta fallos de vigilancia financiera en el caso Wirecard</h3>\n    <p><strong>Investigación de controles regulatorios · Alemania y Unión Europea:</strong> La Autoridad Europea de Valores y Mercados publica en noviembre de 2020 un examen de la actuación de supervisores alemanes ante la información financiera de Wirecard. Identifica deficiencias en mecanismos de verificación y coordinación que contribuyen al debate sobre cómo investigar irregularidades de sociedades cotizadas. El suceso se diferencia de la insolvencia y la ausencia de 1.900 millones de euros descubiertas en junio: aquí el acontecimiento es la revisión crítica de la supervisión y sus procedimientos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.esma.europa.eu/press-news/esma-news/esma-identifies-deficiencies-in-german-supervision-wirecard%E2%80%99s-financial"
+    ],
+    "procedencia": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL · fase histórica · 17 noviembre 2026",
+    "orden": 65008,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
   }
 ]
