@@ -3292,16 +3292,6 @@
     "orden": 1710
   },
   {
-    "yr": 1915,
-    "tipo": "ficcion",
-    "fecha": "",
-    "titulo": "39 escalones",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1915\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1915</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>39 escalones</h3>\n    <p><strong>Novela:</strong> John Buchan mezcla espionaje, persecución y conspiración, consolidando el thriller moderno de intriga política. El personaje de Richard Hannay descubre una trama de espionaje y debe huir para demostrar su inocencia. John Buchan crea un modelo de thriller de persecución que también llegará al cine de Hitchcock.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
-    "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1713
-  },
-  {
     "yr": 1920,
     "tipo": "ficcion",
     "fecha": "",
@@ -4215,7 +4205,8 @@
     "fuentes": [
       "https://elpais.com/diario/2006/06/28/agenda/1151445605_850215.html",
       "https://www.reinodecordelia.es/wordpress/wp-content/uploads/2018/02/libro_descargable_414.pdf",
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.reinodecordelia.es/autor/james-mcclure/"
     ],
     "procedencia": "Conexiones editoriales VIOLENCIA RACIAL · 17 noviembre 2026",
     "orden": 50002,
@@ -4310,7 +4301,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Los treinta y nueve escalones: un fugitivo frente a una conspiración internacional",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1915\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1915</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los treinta y nueve escalones: un fugitivo frente a una conspiración internacional</h3>\n    <p><strong>Thriller de espionaje · John Buchan:</strong> En <em>The Thirty-Nine Steps</em>, Richard Hannay descubre un asesinato relacionado con una red de agentes extranjeros y huye mientras intenta demostrar su inocencia. La intriga plantea un crimen político y una operación clandestina que amenaza la seguridad británica en vísperas de la guerra. No es una novela sobre terrorismo en el sentido contemporáneo, pero constituye un antecedente fundamental del suspense sobre conspiraciones, sabotajes y persecución policial.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1915\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1915</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los treinta y nueve escalones: un fugitivo frente a una conspiración internacional</h3>\n    <p><strong>Thriller de espionaje · John Buchan:</strong> En <em>The Thirty-Nine Steps</em>, Richard Hannay descubre un asesinato relacionado con una red de agentes extranjeros y huye mientras intenta demostrar su inocencia. La intriga plantea un crimen político y una operación clandestina que amenaza la seguridad británica en vísperas de la guerra. No es una novela sobre terrorismo en el sentido contemporáneo, pero constituye un antecedente fundamental del suspense sobre conspiraciones, sabotajes y persecución policial.</p>\n    <p><strong>Importancia para el thriller:</strong> La huida de Richard Hannay anticipa el arquetipo del inocente perseguido y dio origen a una célebre adaptación cinematográfica de Alfred Hitchcock en 1935.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.grupoclaridad.com.ar/product/los-treinta-y-nueve-escalones/"
     ],
@@ -4932,7 +4923,8 @@
     "titulo": "El falso inspector Dew: suplantación y falso detective",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1982\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1982</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El falso inspector Dew: suplantación y falso detective</h3>\n    <p><strong>Peter Lovesey · 1982 · Suplantación y falso detective.</strong> Un hombre que adopta una identidad policial se encuentra involucrado en una investigación durante una travesía marítima. La novela utiliza la impostura para invertir el papel tradicional del investigador.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.theguardian.com/books/2025/may/07/peter-lovesey-obituary"
     ],
     "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61021,
@@ -4997,7 +4989,8 @@
     "titulo": "Un juicio de piedra: crimen conocido y explicación del móvil",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Un juicio de piedra: crimen conocido y explicación del móvil</h3>\n    <p><strong>Ruth Rendell · 1977 · Crimen conocido y explicación del móvil.</strong> La novela anticipa una tragedia doméstica y desplaza el misterio a las tensiones de clase, la psicología y los prejuicios que la hicieron posible; es un ejemplo del whydunit.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://roderic.uv.es/bitstream/10550/15270/1/GORETTI.pdf"
     ],
     "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61026,
@@ -5010,7 +5003,8 @@
     "titulo": "Un dulce sabor a muerte: detective monástico y enigma histórico",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1977\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Un dulce sabor a muerte: detective monástico y enigma histórico</h3>\n    <p><strong>Ellis Peters · 1977 · Detective monástico y enigma histórico.</strong> El hermano Cadfael investiga una muerte durante una expedición religiosa en la Edad Media. La observación, el conocimiento de plantas y la vida comunitaria sostienen la pesquisa.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://edicionespamies.com/libros/un-dulce-sabor-a-muerte/"
     ],
     "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61027,
@@ -5046,10 +5040,11 @@
     "yr": 1938,
     "tipo": "ficcion",
     "fecha": "",
-    "titulo": "Brighton Rock: gánster, culpa y conflicto religioso",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1938\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Brighton Rock: gánster, culpa y conflicto religioso</h3>\n    <p><strong>Graham Greene · 1938 · Gánster, culpa y conflicto religioso.</strong> El joven criminal Pinkie Brown se mueve entre violencia, deseo y temor al castigo; Greene combina bandas delincuenciales con un noir de conciencia y caída moral.</p>\n  </div>\n</article>",
+    "titulo": "Brighton, parque de atracciones: gánster, culpa y conflicto religioso",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1938\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Brighton, parque de atracciones: gánster, culpa y conflicto religioso</h3>\n    <p><strong>Graham Greene · 1938 · Gánster, culpa y conflicto religioso.</strong> El joven criminal Pinkie Brown se mueve entre violencia, deseo y temor al castigo; Greene combina bandas delincuenciales con un noir de conciencia y caída moral.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://librosdelasteroide.com/descargar/nota-de-prensa-brighton-rock/6330"
     ],
     "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61030,
@@ -5387,7 +5382,8 @@
     "titulo": "El tercer hombre: ciudad ocupada y amigo sospechoso",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1950\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1950</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El tercer hombre: ciudad ocupada y amigo sospechoso</h3>\n    <p><strong>Graham Greene · 1950 · Ciudad ocupada y amigo sospechoso.</strong> En la Viena de posguerra una muerte aparentemente accidental descubre negocios clandestinos y una amistad traicionada. Esta narración breve debe distinguirse del estreno cinematográfico de 1949.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.thestickingplace.com/wp-content/uploads/2024/07/Mackendrick-Third-Man.pdf"
     ],
     "procedencia": "CWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61056,
@@ -5716,7 +5712,8 @@
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1925\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1925</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Testigo de cargo: relato judicial, testimonio y giro final</h3>\n    <p><strong>Agatha Christie · 1925 · Relato judicial, testimonio y giro final.</strong> Publicado primero como el relato Traitor Hands en 1925, el caso de Leonard Vole gira sobre la fiabilidad de una testigo decisiva. Christie lo transformó en obra teatral en 1953; no se trata originalmente de una novela.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
-      "https://www.agathachristie.com/en/film-and-tv/the-witness-for-the-prosecution/the-incarnations-of-the-witness-for-the-prosecution"
+      "https://www.agathachristie.com/en/film-and-tv/the-witness-for-the-prosecution/the-incarnations-of-the-witness-for-the-prosecution",
+      "https://www.agathachristie.com/en/stories/witness-for-the-prosecution"
     ],
     "procedencia": "MWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61081,
@@ -5936,10 +5933,11 @@
     "yr": 1965,
     "tipo": "ficcion",
     "fecha": "",
-    "titulo": "Llamaron a la puerta: detective privado frente al FBI",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1965\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1965</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Llamaron a la puerta: detective privado frente al FBI</h3>\n    <p><strong>Rex Stout · 1965 · Detective privado frente al FBI.</strong> Nero Wolfe acepta una investigación relacionada con las actividades de agentes federales. La intriga enfrenta el derecho del individuo y los límites de los poderes policiales.</p>\n  </div>\n</article>",
+    "titulo": "Cuando suena el timbre: detective privado frente al FBI",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1965\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1965</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Cuando suena el timbre: detective privado frente al FBI</h3>\n    <p><strong>Rex Stout · 1965 · Detective privado frente al FBI.</strong> Nero Wolfe acepta una investigación relacionada con las actividades de agentes federales. La intriga enfrenta el derecho del individuo y los límites de los poderes policiales.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://leonegra.com/serie-entrada/nero-wolfe/corpus-de-nero-wolfe/"
     ],
     "procedencia": "MWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61098,
@@ -6017,7 +6015,8 @@
     "titulo": "Mortaja para un ruiseñor: institución cerrada y crímenes en enfermería",
     "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1971\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Mortaja para un ruiseñor: institución cerrada y crímenes en enfermería</h3>\n    <p><strong>P. D. James · 1971 · Institución cerrada y crímenes en enfermería.</strong> Dalgliesh investiga muertes relacionadas con una escuela de enfermeras. La jerarquía laboral y la convivencia constituyen el círculo de sospechosos.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos"
+      "https://es.wikipedia.org/wiki/Anexo:Las_cien_mejores_novelas_polic%C3%ADacas_de_todos_los_tiempos",
+      "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/8126-libro-mortaja-para-un-ruisenor-adam-dalgliesh-4-9788490705186"
     ],
     "procedencia": "MWA · tropos y subgéneros · 17 noviembre 2026",
     "orden": 61104,
