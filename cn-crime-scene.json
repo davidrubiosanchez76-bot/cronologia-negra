@@ -7097,5 +7097,128 @@
     "orden": 54045,
     "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1974,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Burgess y Holmstrom estudian las reacciones de las víctimas de violación",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1974\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1974</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Burgess y Holmstrom estudian las reacciones de las víctimas de violación</h3>\n    <p><strong>Victimología e investigación · Estados Unidos:</strong> Ann Wolbert Burgess y Lynda Lytle Holmstrom publican en 1974 un estudio sobre respuestas psicológicas a la violación que contribuye a difundir el concepto de rape trauma syndrome. La investigación cuestiona la idea de que todas las víctimas deban reaccionar de una manera uniforme y ayuda a mejorar entrevistas y atención. No proporciona un detector de mentiras ni una prueba médica concluyente de la comisión de un delito.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pubmed.ncbi.nlm.nih.gov/4415470/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 63001,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 1987,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Tommie Lee Andrews: una condena por violación emplea ADN en Estados Unidos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Tommie Lee Andrews: una condena por violación emplea ADN en Estados Unidos</h3>\n    <p><strong>Genética forense · Florida:</strong> En 1987 el análisis de ADN de indicios biológicos procedentes de una agresión sexual se utiliza para fundamentar la condena de Tommie Lee Andrews en Florida, considerada una de las primeras, y la primera reconocida en Estados Unidos, lograda mediante esa técnica. Se diferencia del caso británico de Colin Pitchfork, que ya figura en la cronología: aquí el hito es su incorporación a la prueba penal estadounidense.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.pbs.org/wgbh/pages/frontline/shows/case/revolution/wars.html",
+      "https://nij.ojp.gov/nij-hosted-online-training-courses/dna-prosecutors-practice-notebook-inventory/preparing-cases-involving-dna/admissibility/dna-typing"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 63002,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2009,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Detroit descubre miles de kits de agresión sexual sin analizar",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Detroit descubre miles de kits de agresión sexual sin analizar</h3>\n    <p><strong>Custodia de pruebas y revisión de casos · Estados Unidos:</strong> En 2009 se descubren en dependencias policiales de Detroit miles de kits para recoger indicios de agresiones sexuales que no habían sido remitidos a análisis. Un posterior inventario registra 11.219 kits en custodia, aunque no todos estaban pendientes de examen en idénticas condiciones. La revisión revela el coste de no procesar las pruebas y abre programas para identificar autores, conectar hechos y atender a víctimas de delitos antiguos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.ojp.gov/library/publications/detroit-sexual-assault-kit-sak-action-research-project-arp-final-report",
+      "https://nij.ojp.gov/topics/articles/sexual-assault-kits-using-science-find-solutions"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 63003,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2015,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "SAKI: Estados Unidos impulsa la revisión de pruebas sexuales acumuladas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2015\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>SAKI: Estados Unidos impulsa la revisión de pruebas sexuales acumuladas</h3>\n    <p><strong>Programa de investigación criminal · Estados Unidos:</strong> La Sexual Assault Kit Initiative, puesta en marcha en 2015 por la Oficina de Asistencia Judicial estadounidense, promueve la identificación, inventario y análisis de kits de agresión sexual almacenados sin examen. Coordina laboratorios, policías, fiscalías y contacto con las víctimas para reactivar expedientes y vincular agresiones seriales. Este programa institucional es un acontecimiento diferente del hallazgo concreto de pruebas olvidadas en Detroit en 2009.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://bja.ojp.gov/program/saki/about-program",
+      "https://bja.ojp.gov/news/success-spotlight/over-47000-kits-tested-through-bjas-sexual-assault-kit-initiative-2015"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 63004,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 1962,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El síndrome del niño maltratado: la medicina reconoce lesiones familiares ocultas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1962\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1962</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El síndrome del niño maltratado: la medicina reconoce lesiones familiares ocultas</h3>\n    <p><strong>Medicina forense pediátrica · Estados Unidos:</strong> C. Henry Kempe y sus colaboradores publican en 1962 The Battered-Child Syndrome, trabajo que impulsa la identificación de patrones de fracturas y traumatismos infantiles incompatibles con ciertas explicaciones accidentales. La documentación clínica, las radiografías y las circunstancias del entorno se convierten en elementos importantes de una posible investigación penal. Ninguna lesión aislada prueba por sí sola un maltrato: deben evaluarse diagnósticos alternativos y el conjunto de indicios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pubmed.ncbi.nlm.nih.gov/14455086/",
+      "https://pubmed.ncbi.nlm.nih.gov/26516299/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 63005,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 1984,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El experimento de Minneapolis estudia las detenciones por violencia doméstica",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El experimento de Minneapolis estudia las detenciones por violencia doméstica</h3>\n    <p><strong>Criminología policial · Estados Unidos:</strong> Lawrence W. Sherman y Richard A. Berk publican en 1984 los resultados del experimento de Minneapolis, que comparaba distintas intervenciones policiales ante denuncias de maltrato de pareja. La investigación contribuye al debate sobre la detención como respuesta a delitos domésticos y estimula replicaciones posteriores. Sus conclusiones iniciales no deben presentarse como una regla infalible, pues el efecto de las medidas varía según las circunstancias.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.ojp.gov/library/publications/minneapolis-domestic-violence-experiment"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 63006,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2005,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Maryland prueba una evaluación policial del riesgo mortal de pareja",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Maryland prueba una evaluación policial del riesgo mortal de pareja</h3>\n    <p><strong>Valoración del peligro y protección · Estados Unidos:</strong> El Lethality Assessment Program comienza a aplicarse en Maryland en 2005 para orientar la respuesta policial ante incidentes de violencia doméstica. Mediante preguntas breves sobre amenazas, acceso a armas, control y antecedentes, los agentes identifican situaciones de peligro elevado y facilitan el contacto con servicios de protección. Se trata de una aplicación operativa de la evaluación de riesgo, diferenciada de los instrumentos de investigación académica creados previamente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://vawnet.org/sites/default/files/assets/files/2016-10/MNADV-LAP.pdf",
+      "https://www.innovatingjustice.org/resources/with-11-questions-officers-assess-homicide-risk/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 63007,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2011,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Reino Unido introduce revisiones institucionales tras homicidios domésticos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2011\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Reino Unido introduce revisiones institucionales tras homicidios domésticos</h3>\n    <p><strong>Evaluación de investigaciones y prevención · Inglaterra y Gales:</strong> En abril de 2011 se pone en marcha el régimen legal de domestic homicide reviews: revisiones multidisciplinares tras determinadas muertes producidas en relaciones domésticas. Las instituciones examinan intervenciones previas, riesgos identificables y oportunidades de protección perdidas para modificar procedimientos. No son un juicio penal alternativo, sino un mecanismo de aprendizaje institucional conectado con la investigación de crímenes familiares.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.legislation.gov.uk/uksi/2011/1008/made",
+      "https://www.gov.uk/government/news/domestic-homicide-reviews-take-effect"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 63008,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2022,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "ONU Mujeres y UNODC establecen criterios estadísticos para medir feminicidios",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>ONU Mujeres y UNODC establecen criterios estadísticos para medir feminicidios</h3>\n    <p><strong>Criminología y clasificación de homicidios · Internacional:</strong> ONU Mujeres y la Oficina de Naciones Unidas contra la Droga y el Delito presentan en 2022 un marco estadístico para identificar y medir los homicidios de mujeres y niñas por razones de género. Propone registrar relaciones entre víctimas y agresores y circunstancias del crimen para mejorar la comparabilidad y detectar patrones. No equipara toda víctima femenina de homicidio con un feminicidio. Complementa, pero no duplica, los protocolos de investigación forense de muertes violentas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://data.unwomen.org/publications/statistical-framework-measuring-gender-related-killings-women-and-girls-also-referred"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 63009,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
   }
 ]
