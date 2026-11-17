@@ -1928,8 +1928,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La gota de sangre: Emilia Pardo Bazán se adelanta al policial español",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1911\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1911</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La gota de sangre: Emilia Pardo Bazán se adelanta al policial español</h3>\n    <p><strong>Novela corta · 1911:</strong> Emilia Pardo Bazán publica <em>La gota de sangre</em>, una de las aportaciones pioneras a la literatura detectivesca española. Su protagonista, Ignacio Selva, es un aristócrata aburrido que termina involucrándose en la investigación de un asesinato. Lejos de limitarse a reproducir el modelo de Sherlock Holmes, la autora introduce ironía, introspección psicológica y una mirada crítica hacia la actuación de los investigadores. La obra demuestra que el género policial podía desarrollarse también en España, donde todavía carecía de una tradición literaria consolidada.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1911\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1911</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La gota de sangre: Emilia Pardo Bazán se adelanta al policial español</h3>\n    <p><strong>Novela corta · 1911:</strong> Emilia Pardo Bazán publica <em>La gota de sangre</em>, una de las aportaciones pioneras a la literatura detectivesca española. Su protagonista, Ignacio Selva, es un aristócrata aburrido que termina involucrándose en la investigación de un asesinato. Lejos de limitarse a reproducir el modelo de Sherlock Holmes, la autora introduce ironía, introspección psicológica y una mirada crítica hacia la actuación de los investigadores. La obra demuestra que el género policial podía desarrollarse también en España, donde todavía carecía de una tradición literaria consolidada.</p>\n    <p><strong>Tradición anterior:</strong> Pardo Bazán había ensayado relatos criminales como <em>El aljófar</em> y <em>De un nido</em> (1902). Además, la ficción policial en castellano contaba ya con antecedentes del siglo XIX, incluidos los trabajos de Raúl Waleis en Argentina.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/85117526/Los_primeros_pasos_de_la_novela_criminal_espa%C3%B1ola_1900_1975_"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1488
   },
@@ -2050,7 +2052,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "The Strand Magazine: la revista que convirtió a Sherlock Holmes en una celebridad",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1891\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1891</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Strand Magazine: la revista que convirtió a Sherlock Holmes en una celebridad</h3>\n    <p><strong>Revista · Enero:</strong> El editor británico George Newnes publica en Londres el primer número de <em>The Strand Magazine</em>, una revista ilustrada de gran difusión que combina relatos, artículos y reportajes. Aunque no está dedicada exclusivamente al misterio, su importancia para el género será extraordinaria. En julio de 1891 publica <em>Escándalo en Bohemia</em>, primera aventura breve de Sherlock Holmes en sus páginas, ilustrada por Sidney Paget. El éxito convierte al detective de Arthur Conan Doyle en un fenómeno de masas y consolida la publicación periódica de relatos autoconclusivos como una de las principales formas de difusión de la literatura policíaca.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1891\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1891</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Strand Magazine: la revista que convirtió a Sherlock Holmes en una celebridad</h3>\n    <p><strong>Revista · Enero:</strong> El editor británico George Newnes publica en Londres el primer número de <em>The Strand Magazine</em>, una revista ilustrada de gran difusión que combina relatos, artículos y reportajes. Aunque no está dedicada exclusivamente al misterio, su importancia para el género será extraordinaria. En julio de 1891 publica <em>Escándalo en Bohemia</em>, primera aventura breve de Sherlock Holmes en sus páginas, ilustrada por Sidney Paget. El éxito convierte al detective de Arthur Conan Doyle en un fenómeno de masas y consolida la publicación periódica de relatos autoconclusivos como una de las principales formas de difusión de la literatura policíaca.</p>\n    <p><strong>Innovación comercial:</strong> Sus casos cortos, ilustrados y legibles de manera autónoma hicieron posible fidelizar lectores a un investigador habitual, fórmula que alentó la proliferación de otros detectives en las revistas británicas.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1500
@@ -2080,7 +2082,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Shin Seinen: la revista donde nació el gran misterio japonés moderno",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1920\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1920</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Shin Seinen: la revista donde nació el gran misterio japonés moderno</h3>\n    <p><strong>Revista · Enero:</strong> La editorial japonesa Hakubunkan publica el primer número de <em>Shin Seinen</em> (<em>Nueva Juventud</em>), dirigida inicialmente por Uson Morishita. Aunque nace como una publicación cultural juvenil, pronto concede un espacio creciente a la ficción detectivesca occidental y japonesa. En abril de 1923 publica <em>La moneda de cobre de dos sen</em>, de Edogawa Ranpo, uno de los grandes acontecimientos fundacionales del policial japonés. La revista también difundirá obras de Seishi Yokomizo, Kyūsaku Yumeno y otros escritores fundamentales. Se convierte en un centro de experimentación literaria y de debate sobre el misterio deductivo, el crimen y la modernidad japonesa.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1920\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1920</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Shin Seinen: la revista donde nació el gran misterio japonés moderno</h3>\n    <p><strong>Revista · Enero:</strong> La editorial japonesa Hakubunkan publica el primer número de <em>Shin Seinen</em> (<em>Nueva Juventud</em>), dirigida inicialmente por Uson Morishita. Aunque nace como una publicación cultural juvenil, pronto concede un espacio creciente a la ficción detectivesca occidental y japonesa. En abril de 1923 publica <em>La moneda de cobre de dos sen</em>, de Edogawa Ranpo, uno de los grandes acontecimientos fundacionales del policial japonés. La revista también difundirá obras de Seishi Yokomizo, Kyūsaku Yumeno y otros escritores fundamentales. Se convierte en un centro de experimentación literaria y de debate sobre el misterio deductivo, el crimen y la modernidad japonesa.</p>\n    <p><strong>Continuidad:</strong> La fundación de la revista en 1920, el debut de Edogawa Ranpo en 1923 y la llegada de su detective Kogorō Akechi en 1925 son acontecimientos distintos que explican la aparición de una escuela japonesa de misterio.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1503
@@ -3141,8 +3143,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Revelations of a Lady Detective",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1864\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1864</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Revelations of a Lady Detective</h3>\n    <p>Relatos: W. S. Hayward publica una colección protagonizada por Mrs. Paschal, una de las primeras detectives profesionales femeninas de la literatura británica. La protagonista trabaja con una identidad profesional que desafiaba las expectativas sociales de su época. Sus pesquisas muestran que la detective femenina apareció en la literatura mucho antes de las grandes heroínas del siglo XX.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1864\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1864</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Revelations of a Lady Detective</h3>\n    <p>Relatos: W. S. Hayward publica una colección protagonizada por Mrs. Paschal, una de las primeras detectives profesionales femeninas de la literatura británica. La protagonista trabaja con una identidad profesional que desafiaba las expectativas sociales de su época. Sus pesquisas muestran que la detective femenina apareció en la literatura mucho antes de las grandes heroínas del siglo XX.</p>\n    <p><strong>Contexto:</strong> En 1864 apareció también <em>The Female Detective</em>, protagonizada por Miss Gladden. Son dos investigadoras y dos publicaciones diferentes, fundamentales para entender que la detective profesional femenina precedió en décadas a Miss Marple.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://news.library.mcgill.ca/who-were-the-first-female-detectives-in-britain/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1668
   },
@@ -3306,18 +3310,22 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Primer número de Black Mask",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1920\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1920</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Primer número de Black Mask</h3>\n    <p><strong>Pulp:</strong> Aparece el primer número de la revista <em>Black Mask</em>, que se convertirá en el principal laboratorio del relato criminal moderno y del estilo hardboiled. La revista permitirá publicar relatos que mezclan aventura criminal, investigación y violencia urbana. Desde sus páginas se desarrollará la narrativa hardboiled de Hammett y otros autores.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1920\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1920</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Primer número de Black Mask</h3>\n    <p><strong>Pulp:</strong> Aparece el primer número de la revista <em>Black Mask</em>, que se convertirá en el principal laboratorio del relato criminal moderno y del estilo hardboiled. La revista permitirá publicar relatos que mezclan aventura criminal, investigación y violencia urbana. Desde sus páginas se desarrollará la narrativa hardboiled de Hammett y otros autores.</p>\n    <p><strong>Evolución, no nacimiento instantáneo:</strong> La revista se especializó de manera progresiva. En 1923 publicaría experiencias decisivas de Carroll John Daly y Dashiell Hammett, cuyas propuestas contribuyeron a perfilar el <em>hardboiled</em> de la siguiente década.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://blackmaskmagazine.com/blog/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1716
   },
   {
-    "yr": 1923,
+    "yr": 1922,
     "tipo": "ficcion",
     "fecha": "",
-    "titulo": "Primer relato de Dashiell Hammett en Black Mask",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1923\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1923</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Primer relato de Dashiell Hammett en Black Mask</h3>\n    <p><strong>Pulp:</strong> Hammett publica en la revista <em>Black Mask</em>, marcando el nacimiento del detective hardboiled y un nuevo tono más violento y realista. Los relatos publicados por Hammett se alimentan de su experiencia como detective de Pinkerton. El estilo directo y la mirada desencantada ayudan a apartar el género de los enigmas puramente aristocráticos.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "titulo": "The Road Home: Hammett publica su primer relato en Black Mask",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1922\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1922</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Road Home: Hammett publica su primer relato en Black Mask</h3>\n    <p><strong>Relato pulp · diciembre de 1922:</strong> Dashiell Hammett publica «The Road Home» bajo el seudónimo Peter Collinson en <em>Black Mask</em>. Es su primera colaboración con esa cabecera, distinta de la primera aventura del agente de la Continental, que debutará en «Arson Plus» el 1 de octubre de 1923. La diferencia permite seguir con precisión el nacimiento del detective <em>hardboiled</em> y sus primeros ensayos narrativos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://blackmaskmagazine.com/blog/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1718
   },
@@ -3350,7 +3358,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El misterio del sombrero de copa",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El misterio del sombrero de copa</h3>\n    <p><strong>Novela:</strong> Ellery Queen debuta con una obra que combina lógica deductiva clásica con estructura de enigma puro. Ellery Queen combina un misterio de deducción con el juego limpio hacia el lector. El seudónimo de dos autores inaugurará una de las series más influyentes de la novela de enigma.</p>\n    \n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El misterio del sombrero de copa</h3>\n    <p><strong>Novela:</strong> Ellery Queen debuta con una obra que combina lógica deductiva clásica con estructura de enigma puro. Ellery Queen combina un misterio de deducción con el juego limpio hacia el lector. El seudónimo de dos autores inaugurará una de las series más influyentes de la novela de enigma.</p>\n    <p><strong>Significado literario:</strong> Los escritores Frederic Dannay y Manfred B. Lee adoptan el seudónimo Ellery Queen y convierten al detective de ese nombre en marca de una larga serie de enigmas de juego limpio.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1723
@@ -3914,8 +3922,10 @@
     "tipo": "ficcion",
     "fecha": "1860-06-09",
     "titulo": "Nace la dime novel, antecesora de la ficción pulp",
-    "html": "<article class=\"item-evento\" data-fecha=\"1860-06-09\" data-tipo=\"ficcion\" data-yr=\"1860\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1860</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Nace la dime novel, antecesora de la ficción pulp</h3>\n    <p><strong>Edición · 9 de junio:</strong> La editorial estadounidense Beadle publica <em>Malaeska: The Indian Wife of the White Hunter</em>, de Ann S. Stephens, primer título de su colección de novelas populares a diez centavos. Aunque esta obra pertenece a la narrativa de aventuras, el formato de literatura barata y masiva contribuirá posteriormente a la expansión de los relatos detectivescos y criminales, antecedentes de la cultura pulp.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1860-06-09\" data-tipo=\"ficcion\" data-yr=\"1860\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1860</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Nace la dime novel, antecesora de la ficción pulp</h3>\n    <p><strong>Edición · 9 de junio:</strong> La editorial estadounidense Beadle publica <em>Malaeska: The Indian Wife of the White Hunter</em>, de Ann S. Stephens, primer título de su colección de novelas populares a diez centavos. Aunque esta obra pertenece a la narrativa de aventuras, el formato de literatura barata y masiva contribuirá posteriormente a la expansión de los relatos detectivescos y criminales, antecedentes de la cultura pulp.</p>\n    <p><strong>De soporte editorial a ficción criminal:</strong> La <em>dime novel</em> nació comercialmente con narraciones de aventuras y solo más adelante acogió al detective especializado. La transición queda documentada en las series de Old Sleuth, Nick Carter y los cuadernillos de cinco y diez centavos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.library.kent.edu/special-collections-and-archives/dime-novels-and-penny-dreadfuls-collection"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1952
   },
@@ -6735,6 +6745,156 @@
     ],
     "procedencia": "Orígenes del relato policial, folletín y quiosco · 17 noviembre 2026",
     "orden": 61159,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1900,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Sherlock Holmes llega a las revistas españolas",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1900\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1900</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Sherlock Holmes llega a las revistas españolas</h3>\n    <p><strong>Circulación del relato policial · España:</strong> La revista barcelonesa <em>Mar y Tierra</em> publica «El Gloria Scott», una aventura de Sherlock Holmes de Arthur Conan Doyle. El catálogo de novela popular del Ibero-Amerikanisches Institut señala esta edición de 1900 como una temprana aparición del detective en la prensa española. No es una nueva obra original: el acontecimiento es su traducción y circulación local, anterior al gran mercado de colecciones especializadas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/iai_derivate_00000179/IAI_Catalogo_La-Novela-popular-espanola.pdf"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61160,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1902,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El aljófar y De un nido: cuentos criminales de Pardo Bazán",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El aljófar y De un nido: cuentos criminales de Pardo Bazán</h3>\n    <p><strong>Relato breve y precursor del policial español:</strong> Emilia Pardo Bazán cultiva en <em>El aljófar</em> y <em>De un nido</em>, situados en 1902 por la bibliografía especializada, elementos del delito y el suspense. Forman parte de una producción de cuentos de intriga que precede a <em>La gota de sangre</em> (1911). Su aportación no supone el nacimiento absoluto del policial en castellano, que cuenta con antecedentes decimonónicos, sino su entrada en la narrativa breve de una escritora consolidada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/85117526/Los_primeros_pasos_de_la_novela_criminal_espa%C3%B1ola_1900_1975_"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61161,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1909,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "¿Quién disparó?: Joaquín Belda parodia al detective",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1909\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1909</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>¿Quién disparó?: Joaquín Belda parodia al detective</h3>\n    <p><strong>Novela detectivesca y pastiche · España:</strong> Joaquín Belda publica <em>¿Quién disparó?</em>, subtitulada <em>Husmeos y pesquisas de Gapy Bermúdez</em>. El personaje investigador y las convenciones de la pesquisa aparecen tratados con humor y parodia, una vía de apropiación del modelo de Sherlock Holmes. Los estudios de la literatura policial española la sitúan entre las novelas tempranas significativas del género, mostrando que la recepción local no se redujo a reproducir traducciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/iai_derivate_00000179/IAI_Catalogo_La-Novela-popular-espanola.pdf",
+      "https://www.academia.edu/85117526/Los_primeros_pasos_de_la_novela_criminal_espa%C3%B1ola_1900_1975_"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61162,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1909,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La Novela Moderna: Sopena especializa el relato policial",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1909\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1909</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La Novela Moderna: Sopena especializa el relato policial</h3>\n    <p><strong>Colección de traducciones y cuadernillos · España:</strong> Entre 1909 y 1910, la editorial Sopena lanza la colección <em>La Novela Moderna</em>, dedicada a relatos policíacos de autores británicos, según un estudio histórico del libro popular. Su importancia reside en reunir títulos bajo una identidad comercial centrada en el misterio, cuando la lectura de delitos era todavía una mezcla de traducciones, novelas por entregas y narraciones de sucesos. El año de referencia indica el comienzo del intervalo 1909–1910.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://publicacions.iec.cat/repository/pdf/00000327/00000069.pdf"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61163,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1911,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Nick Carter llega a España en cuadernillos de Sopena",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1911\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1911</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Nick Carter llega a España en cuadernillos de Sopena</h3>\n    <p><strong>Detección de masas y traducción seriada · España:</strong> El editor barcelonés Sopena publica en castellano decenas de aventuras del detective Nick Carter, creado en Estados Unidos en 1886. Un estudio académico del mercado literario transatlántico contabiliza sesenta y tres entregas traducidas solo en 1911. Se trata de un acontecimiento editorial distinto del debut original del personaje: la circulación del héroe seriado y de su modelo industrial de relatos baratos entre lectores españoles.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/31604397/La_novela_negra_en_la_econom%C3%ADa_literaria_transatl%C3%A1ntica_2016_2006_",
+      "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/iai_derivate_00000179/IAI_Catalogo_La-Novela-popular-espanola.pdf"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61164,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1911,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El misterio del Kursaal: José Francés practica el policial breve",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1911\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1911</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El misterio del Kursaal: José Francés practica el policial breve</h3>\n    <p><strong>Novela corta en prensa y edición posterior · España:</strong> José Francés publica <em>El misterio del Kursaal</em> en <em>El Cuento Semanal</em> en 1911. La edición encuadernada aparecerá en 1916, por lo que ambas fechas pueden encontrarse en catálogos distintos. El texto forma parte de las primeras tentativas españolas de crear intrigas con los recursos del relato criminal importado. La ficha utiliza la aparición inicial en revista, no el año de su publicación posterior en libro.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://idus.us.es/server/api/core/bitstreams/e1c8ca72-03e1-4aca-a45e-46a62efdfafc/content",
+      "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/iai_derivate_00000179/IAI_Catalogo_La-Novela-popular-espanola.pdf"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61165,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1917,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Hanshichi: el investigador del viejo Edo protagoniza una serie",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1917\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1917</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Hanshichi: el investigador del viejo Edo protagoniza una serie</h3>\n    <p><strong>Relato detectivesco histórico de revista · Japón:</strong> Okamoto Kidō comienza en enero de 1917, en <em>Bungei Kurabu</em>, la publicación seriada de los casos de Hanshichi, investigador de delitos ambientados en el Edo del siglo XIX. Los relatos exploran el testimonio, los rumores y las costumbres urbanas japonesas. Constituyen una tradición autóctona de misterio histórico distinta del posterior enigma deductivo de Ranpo y muestran cómo la serie de investigador llegó a desarrollarse también en la prensa japonesa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.japantimes.co.jp/news/2008/11/29/national/the-curious-casebook-of-inspector-hanshichi/"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61166,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1923,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Three Gun Terry: Carroll John Daly endurece al detective",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1923\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1923</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Three Gun Terry: Carroll John Daly endurece al detective</h3>\n    <p><strong>Relato pulp y precursor hardboiled · Estados Unidos:</strong> El 15 de mayo de 1923 <em>Black Mask</em> publica «Three Gun Terry», de Carroll John Daly, con el detective Terry Mack, directo, violento y enfrentado al mundo criminal. Aunque la prioridad del primer relato <em>hardboiled</em> es discutida, se trata de uno de los experimentos decisivos en la formación del investigador privado duro, anterior al primer caso del agente de la Continental, de Hammett, publicado en octubre del mismo año.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.blackgate.com/2021/07/19/a-black-gat-in-the-hand-carroll-john-daly-the-birth-of-hardboiled-pulp/",
+      "https://blackmaskmagazine.com/blog/"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61167,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1923,
+    "tipo": "ficcion",
+    "fecha": "1923-10-01",
+    "titulo": "Arson Plus: nace el agente de la Continental de Hammett",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1923\" data-fecha=\"1923-10-01\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1923</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Arson Plus: nace el agente de la Continental de Hammett</h3>\n    <p><strong>Detective de serie y trabajo de campo · Estados Unidos:</strong> El 1 de octubre de 1923 <em>Black Mask</em> publica «Arson Plus», escrito por Dashiell Hammett bajo el seudónimo Peter Collinson. Debuta el detective sin nombre de la Agencia Continental, que combina observación, experiencia profesional y una mirada escéptica sobre el crimen. Es su primer relato de este personaje, no su primer relato en <em>Black Mask</em>: «The Road Home» ya había aparecido en diciembre de 1922.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://blackmaskmagazine.com/blog/",
+      "https://storyoftheweek.loa.org/2012/03/arson-plus.html"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61168,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1925,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Enigmas: se consolida el quiosco policial español",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1925\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1925</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Enigmas: se consolida el quiosco policial español</h3>\n    <p><strong>Colección barata de traducciones · España:</strong> La colección <em>Enigmas, novelas de emoción y de misterio</em>, principalmente formada por traducciones francesas, llega al mercado español en 1925. Es un hito editorial porque los lectores pueden identificar una serie de publicaciones económicas como narrativa criminal, sin depender de autores aislados. La consolidación del formato ayuda a explicar la recepción del género antes de la Guerra Civil y precede a otros sellos de finales de los años veinte.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/iai_derivate_00000179/IAI_Catalogo_La-Novela-popular-espanola.pdf",
+      "https://www.academia.edu/85117526/Los_primeros_pasos_de_la_novela_criminal_espa%C3%B1ola_1900_1975_"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61169,
+    "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
+  },
+  {
+    "yr": 1929,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El antifaz: nueva colección española de novela policíaca",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1929\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1929</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El antifaz: nueva colección española de novela policíaca</h3>\n    <p><strong>Publicaciones populares seriadas · España:</strong> La colección <em>El antifaz</em>, dedicada a aventuras de intriga y misterio, incorpora novelas policíacas a la oferta comercial española de 1929. Su relevancia reside en la continuidad de una marca editorial de ficción criminal económica, no en un único detective o novela. Forma parte de una etapa de especialización que incluye también <em>El club del crimen</em> y precede al gran desarrollo de colecciones policiales durante los años treinta.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://publications.iai.spk-berlin.de/servlets/MCRFileNodeServlet/iai_derivate_00000179/IAI_Catalogo_La-Novela-popular-espanola.pdf",
+      "https://www.academia.edu/85117526/Los_primeros_pasos_de_la_novela_criminal_espa%C3%B1ola_1900_1975_"
+    ],
+    "procedencia": "Literatura popular, revistas y origen del policial · 17 noviembre 2026",
+    "orden": 61170,
     "tema": "ORÍGENES DE LA NARRATIVA NEGROCRIMINAL"
   }
 ]
