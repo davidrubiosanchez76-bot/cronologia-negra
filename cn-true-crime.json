@@ -136,12 +136,14 @@
     "tipo": "crimen",
     "fecha": "1994-06-12",
     "titulo": "Nicole Brown y Ronald Goldman: dos homicidios que desembocan en un juicio televisado",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1994\" data-fecha=\"1994-06-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1994</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Nicole Brown y Ronald Goldman: dos homicidios que desembocan en un juicio televisado</h3>\n    <p><strong>Doble asesinato · Los Ángeles · 12 de junio:</strong> Nicole Brown Simpson y Ronald Goldman aparecen asesinados en Brentwood, Los Ángeles. La investigación dirige la atención pública hacia O. J. Simpson, cuya detención y posterior proceso se convierten en un fenómeno televisivo internacional. Las pruebas biológicas, la actuación policial y el trato mediático recibido por víctimas y acusados ocuparán el centro del debate. El juicio penal terminará en absolución en 1995; este acontecimiento es el doble homicidio de 1994, distinto de la tarjeta sobre aquel juicio que ya existe en la cronología.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1994\" data-fecha=\"1994-06-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1994</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Nicole Brown y Ronald Goldman: dos homicidios que desembocan en un juicio televisado</h3>\n    <p><strong>Doble asesinato · Los Ángeles · 12 de junio:</strong> Nicole Brown Simpson y Ronald Goldman aparecen asesinados en Brentwood, Los Ángeles. La investigación dirige la atención pública hacia O. J. Simpson, cuya detención y posterior proceso se convierten en un fenómeno televisivo internacional. Las pruebas biológicas, la actuación policial, los antecedentes de violencia doméstica atribuidos a Simpson y el trato mediático recibido por víctimas y acusados ocuparán el centro del debate. Las acusaciones sobre maltratos previos fueron tratadas en el proceso, sin sustituir la presunción de inocencia ni la absolución penal final. El juicio penal terminará en absolución en 1995; este acontecimiento es el doble homicidio de 1994, distinto de la tarjeta sobre aquel juicio que ya existe en la cronología.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.britannica.com/event/O-J-Simpson-trial"
+      "https://www.britannica.com/event/O-J-Simpson-trial",
+      "https://www.latimes.com/archives/la-xpm-1995-01-12-mn-19285-story.html"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 26
+    "orden": 26,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
   },
   {
     "yr": 1995,
@@ -10801,6 +10803,600 @@
     "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
     "orden": 52016,
     "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1822,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "El Código Penal de 1822: la violación todavía se juzga desde el honor",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1822\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1822</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El Código Penal de 1822: la violación todavía se juzga desde el honor</h3>\n    <p><strong>Antecedente jurídico · España:</strong> El primer Código Penal español sistematiza diversas figuras de violación, estupro, rapto y adulterio, pero las encuadra en una concepción de la sexualidad asociada al honor, el estado civil y la tutela masculina. La existencia de castigos no equivale al reconocimiento moderno de la autonomía sexual de todas las personas. Esta referencia permite apreciar la distancia que separa aquel modelo de las reformas de 1989 y 2022.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.unioviedo.es/historiaconstitucional/index.php/historiaconstitucional/article/view/946",
+      "https://www.newtral.es/consentimiento-sexual-codigo-penal/20230422/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54001,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1885,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Reino Unido eleva a dieciséis años la edad de consentimiento sexual de las niñas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1885\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1885</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Reino Unido eleva a dieciséis años la edad de consentimiento sexual de las niñas</h3>\n    <p><strong>Protección de menores · Londres:</strong> La Criminal Law Amendment Act, aprobada tras una campaña de denuncia de la explotación sexual infantil, eleva de trece a dieciséis años la edad de consentimiento para las niñas en Inglaterra y Gales. La norma muestra cómo las investigaciones periodísticas y la presión social pueden modificar la respuesta penal frente al abuso de menores. No debe confundirse esta reforma histórica con las edades de consentimiento vigentes en otros países o épocas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/overview/sexualbehaviour19thcentury/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54002,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1932,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "El ejército japonés inicia el sistema de las llamadas «mujeres de consuelo»",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1932\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1932</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El ejército japonés inicia el sistema de las llamadas «mujeres de consuelo»</h3>\n    <p><strong>Esclavitud sexual en conflicto · Asia oriental:</strong> Al menos desde 1932, en el contexto de la intervención japonesa en Shanghái, se documentan establecimientos vinculados a las fuerzas armadas que evolucionarán hacia un amplio sistema de explotación sexual durante la guerra en Asia y el Pacífico. Mujeres procedentes de distintos territorios sufrieron coacción y abusos. La denominación «mujeres de consuelo» es un eufemismo histórico, no una descripción de consentimiento: las investigaciones posteriores permiten estudiar esta práctica como violencia sexual organizada en tiempo de guerra.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.mofa.go.jp/a_o/rp/page25e_000344.html",
+      "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/news/japanese-mass-violence-and-its-victims-in-the-fifteen-years-war-1931-45/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54003,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1937,
+    "tipo": "crimen",
+    "fecha": "1937-12-13",
+    "titulo": "Nankín: la ocupación japonesa va acompañada de violaciones y matanzas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1937\" data-fecha=\"1937-12-13\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1937</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Nankín: la ocupación japonesa va acompañada de violaciones y matanzas</h3>\n    <p><strong>Crímenes de guerra · China:</strong> Tras la entrada del ejército imperial japonés en Nankín el 13 de diciembre de 1937, se producen durante semanas asesinatos de civiles, ejecuciones de prisioneros y violaciones. Las estimaciones globales de víctimas son objeto de discusión historiográfica, por lo que no se atribuye aquí una cifra cerrada de agresiones sexuales. La documentación de estos hechos y su examen posterior en tribunales de posguerra ilustran la dificultad de investigar la violencia sexual masiva en escenarios bélicos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/japanese-mass-violence-and-its-victims-fifteen-years-war-1931-45.html",
+      "https://www.archives.gov/publications/prologue/2009/summer/cramer.html"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54004,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1978,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "El proceso de Aix-en-Provence convierte un juicio por violación en debate público",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1978\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El proceso de Aix-en-Provence convierte un juicio por violación en debate público</h3>\n    <p><strong>Proceso judicial · Francia:</strong> La abogada Gisèle Halimi representa a Anne Tonglet y Araceli Castellano en el proceso de Aix-en-Provence contra tres acusados de violación. El juicio pone en cuestión la humillación de las denunciantes y una legislación que trataba de modo insuficiente la violencia sexual. Su repercusión contribuye al movimiento reformista que desemboca en la ley francesa de diciembre de 1980, con una definición penal ampliada de la violación. Es un proceso concreto, no el supuesto inicio de la persecución de este delito.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.lemonde.fr/societe/article/2018/03/21/le-proces-du-viol_5273942_3224.html",
+      "https://www.marseille.fr/mairie/actualites/inauguration-esplanade-gisele-halimi"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54005,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1978,
+    "tipo": "crimen",
+    "fecha": "1978-10-28",
+    "titulo": "Estados Unidos limita las preguntas sobre la vida sexual de las denunciantes",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1978\" data-fecha=\"1978-10-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Estados Unidos limita las preguntas sobre la vida sexual de las denunciantes</h3>\n    <p><strong>Protección procesal · Estados Unidos:</strong> La Privacy Protection for Rape Victims Act incorpora la Regla Federal de Prueba 412, conocida como rape shield rule. Restringe el uso de la conducta sexual anterior de una persona denunciante para desacreditarla en juicios federales por violación, aunque establece excepciones. Es una reforma de las reglas probatorias y de protección de víctimas, no una presunción automática de culpabilidad; varios estados ya habían comenzado a desarrollar normas similares.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fjc.gov/history/work-courts/rules-federal-rules-evidence",
+      "https://www.govinfo.gov/content/pkg/USCODE-2021-title28/html/USCODE-2021-title28-app-federalru-dup2.htm"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54006,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1983,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "India reforma su derecho penal tras las protestas por el caso Mathura",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1983\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1983</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>India reforma su derecho penal tras las protestas por el caso Mathura</h3>\n    <p><strong>Violación bajo custodia · India:</strong> La absolución por el Tribunal Supremo en 1979 de policías acusados de violar en 1972 a la adolescente conocida como Mathura impulsó una protesta jurídica y social de gran alcance. La reforma penal de 1983 introduce reglas específicas para las violaciones cometidas bajo custodia y otras garantías procesales, incluidas ciertas presunciones sobre la falta de consentimiento. La tarjeta se fecha por la modificación normativa, diferenciándola del hecho denunciado y del fallo de 1979.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://ijme.in/articles/legal-changes-towards-justice-for-sexual-assault-victims/?galley=html",
+      "https://www.orfonline.org/research/the-case-for-a-feminist-approach-to-gender-based-violence-policymaking-in-india"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54007,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1989,
+    "tipo": "crimen",
+    "fecha": "1989-06-21",
+    "titulo": "España sustituye los delitos «contra la honestidad» por «contra la libertad sexual»",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1989\" data-fecha=\"1989-06-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>España sustituye los delitos «contra la honestidad» por «contra la libertad sexual»</h3>\n    <p><strong>Reforma penal · España:</strong> La Ley Orgánica 3/1989 modifica la rúbrica del Código Penal y orienta la protección jurídica desde las antiguas nociones de honestidad y moralidad hacia la libertad sexual individual. También introduce cambios en las conductas y modalidades castigadas. El cambio conceptual resulta fundamental para comprender la evolución posterior del consentimiento y la persecución de las agresiones sexuales, sin atribuir a esta reforma todas las garantías desarrolladas más tarde.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-1989-14247",
+      "https://www.boe.es/buscar/doc.php?id=FIS-C-1990-00002"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54008,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1990,
+    "tipo": "crimen",
+    "fecha": "1990-09-08",
+    "titulo": "María Soledad Morales: la violación y muerte que sacude Catamarca",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1990\" data-fecha=\"1990-09-08\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1990</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>María Soledad Morales: la violación y muerte que sacude Catamarca</h3>\n    <p><strong>Homicidio y violencia sexual · Argentina:</strong> María Soledad Morales, de diecisiete años, desaparece en Catamarca y su cadáver se encuentra dos días después. La investigación de su violación y asesinato revela presiones, sospechas de encubrimiento y vínculos de los implicados con círculos de poder provincial. Las «marchas del silencio» impulsadas por su entorno se convierten en una movilización sostenida por la justicia. Tras dificultades procesales, en 1998 resultaron condenados Guillermo Luque y Luis Tula, con responsabilidades penales distintas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.comisionporlamemoria.org/project/el-femicidio-de-maria-soledad-morales/",
+      "https://www.lanacion.com.ar/sociedad/maria-soledad-morales-el-caso-que-revoluciono-catamarca-nid2156009/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54009,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1991,
+    "tipo": "crimen",
+    "fecha": "1991-08-14",
+    "titulo": "Kim Hak-sun denuncia públicamente la esclavitud sexual del ejército japonés",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1991\" data-fecha=\"1991-08-14\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Kim Hak-sun denuncia públicamente la esclavitud sexual del ejército japonés</h3>\n    <p><strong>Testimonio de una superviviente · Corea del Sur:</strong> Kim Hak-sun ofrece un testimonio público sobre la explotación sexual que sufrió durante la ocupación japonesa, convirtiéndose en una de las primeras supervivientes coreanas en romper abiertamente el silencio. Su intervención impulsa las investigaciones, las reclamaciones de reparación y la conservación de testimonios de las mujeres sometidas al sistema militar de las llamadas «mujeres de consuelo». Es un hito distinto de la implantación histórica de aquel sistema durante los años treinta.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.korea.net/NewsFocus/Opinion/view?articleId=202334",
+      "https://apjjf.org/2019/04/MackieCrozierDeRosa"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54010,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1991,
+    "tipo": "crimen",
+    "fecha": "1991-10-23",
+    "titulo": "R v R: la Cámara de los Lores rechaza la inmunidad por violación matrimonial",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1991\" data-fecha=\"1991-10-23\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>R v R: la Cámara de los Lores rechaza la inmunidad por violación matrimonial</h3>\n    <p><strong>Sentencia judicial · Reino Unido:</strong> En el asunto R v R, la Cámara de los Lores declara que el matrimonio no exime a un marido de responsabilidad penal por violar a su esposa. La sentencia rechaza una antigua construcción del common law que presumía un consentimiento conyugal irrevocable. Supone un giro decisivo en Inglaterra y Gales, aunque no debe describirse como la primera criminalización de la violación matrimonial en todo el mundo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bailii.org/uk/cases/UKHL/1990/9.html"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54011,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1996,
+    "tipo": "crimen",
+    "fecha": "1996-08-13",
+    "titulo": "Marc Dutroux: secuestros, abusos infantiles y fallos policiales en Bélgica",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1996\" data-fecha=\"1996-08-13\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1996</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Marc Dutroux: secuestros, abusos infantiles y fallos policiales en Bélgica</h3>\n    <p><strong>Criminalidad sexual y secuestros · Bélgica:</strong> La detención de Marc Dutroux permite descubrir una sucesión de secuestros, abusos sexuales y asesinatos de niñas y adolescentes. El caso expone fallos de coordinación e investigación y provoca una crisis de confianza en la justicia belga. La multitudinaria Marcha Blanca de octubre exige responsabilidades institucionales; Dutroux acabará siendo condenado en 2004. La relevancia histórica supera el carácter atroz del delito: muestra las consecuencias de no conectar denuncias y pistas disponibles.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cambridge.org/core/books/abs/governing-after-crisis/dutroux-and-dioxin-crisis-investigations-elite-accountability-and-institutional-reform-in-belgium/8EFF9C1B968032564B60C0A231D495B4",
+      "https://www.washingtonpost.com/archive/politics/1996/10/21/protest-march-underscores-belgians-rising-distrust-of-courts-state/5178828f-5e74-4438-8f42-0bbadb3f8858/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54012,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2001,
+    "tipo": "crimen",
+    "fecha": "2001-02-22",
+    "titulo": "Caso Kunarac: las violaciones de Foča se juzgan como crímenes contra la humanidad",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2001\" data-fecha=\"2001-02-22\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Caso Kunarac: las violaciones de Foča se juzgan como crímenes contra la humanidad</h3>\n    <p><strong>Justicia penal internacional · La Haya:</strong> El Tribunal Penal Internacional para la ex Yugoslavia condena a Dragoljub Kunarac, Radomir Kovač y Zoran Vuković por delitos cometidos contra mujeres y niñas bosnias durante la guerra, entre ellos violaciones, torturas y esclavitud. Son las primeras condenas del tribunal por violación como crimen contra la humanidad, y su razonamiento amplía la comprensión jurídica de la esclavitud sexual. Se trata de hechos y pronunciamientos distintos de la sentencia Akayesu de 1998, ya recogida en la cronología.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.icty.org/en/press/judgement-trial-chamber-ii-kunarac-kovac-and-vukovic-case",
+      "https://www.icty.org/en/features/crimes-sexual-violence/landmark-cases"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54013,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2012,
+    "tipo": "crimen",
+    "fecha": "2012-12-16",
+    "titulo": "Nueva Delhi: la violación colectiva de «Nirbhaya» precipita reformas penales",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2012\" data-fecha=\"2012-12-16\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Nueva Delhi: la violación colectiva de «Nirbhaya» precipita reformas penales</h3>\n    <p><strong>Agresión sexual y asesinato · India:</strong> Una joven de veintitrés años, conocida públicamente como Nirbhaya, es agredida sexualmente en un autobús de Nueva Delhi y fallece días después a causa de las lesiones. El crimen desencadena protestas multitudinarias y la creación del comité presidido por el juez J. S. Verma para revisar la legislación. La indignación social y las recomendaciones del comité influyen en la reforma penal de 2013, aunque no todas sus propuestas se incorporan al texto definitivo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hrw.org/report/2017/11/08/everyone-blames-me/barriers-justice-and-support-services-sexual-assault-survivors",
+      "https://prsindia.org/policy/report-summaries/justice-verma-committee-report-summary"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54014,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2013,
+    "tipo": "crimen",
+    "fecha": "2013-04-02",
+    "titulo": "India aprueba la reforma penal de los delitos sexuales tras el caso Nirbhaya",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2013\" data-fecha=\"2013-04-02\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>India aprueba la reforma penal de los delitos sexuales tras el caso Nirbhaya</h3>\n    <p><strong>Cambio legislativo · India:</strong> La Criminal Law (Amendment) Act de 2013, sancionada el 2 de abril, amplía la respuesta penal india frente a las agresiones sexuales y otros actos contra las mujeres. La norma se aprueba tras un debate que incluye el trabajo del comité Verma y las movilizaciones posteriores al crimen de Nueva Delhi de 2012. No soluciona por sí sola los problemas de denuncia, investigación y atención a las víctimas; documenta un cambio normativo distinto del asesinato que lo precipitó.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=3&relid=102166",
+      "https://prsindia.org/policy/report-summaries/justice-verma-committee-report-summary"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54015,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "crimen",
+    "fecha": "2017-10-05",
+    "titulo": "El caso Weinstein destapa un patrón de denuncias silenciadas en Hollywood",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2017\" data-fecha=\"2017-10-05\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El caso Weinstein destapa un patrón de denuncias silenciadas en Hollywood</h3>\n    <p><strong>Investigación periodística · Estados Unidos:</strong> Jodi Kantor y Megan Twohey publican en The New York Times una investigación sobre denuncias de acoso y conductas sexuales indebidas atribuidas al productor Harvey Weinstein; Ronan Farrow amplía después la investigación en The New Yorker. Las revelaciones impulsan el alcance internacional de #MeToo, movimiento iniciado años antes por Tarana Burke. El hito de 2017 es la exposición pública de testimonios y mecanismos de silenciamiento: no se confunden aquí denuncias, investigaciones y posteriores sentencias penales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.pulitzer.org/winners/new-york-times-reporting-led-jodi-kantor-and-megan-twohey-and-new-yorker-reporting-ronan",
+      "https://www.history.com/this-day-in-history/October-5/new-york-times-publishes-bombshell-harvey-weinstein-story"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54016,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2019,
+    "tipo": "crimen",
+    "fecha": "2019-06-21",
+    "titulo": "La Manada: el Supremo califica como violación la agresión de Pamplona",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-06-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La Manada: el Supremo califica como violación la agresión de Pamplona</h3>\n    <p><strong>Sentencia judicial · España:</strong> El Tribunal Supremo revisa la condena de cinco hombres por los hechos cometidos en los sanfermines de 2016 y aprecia un escenario intimidatorio que fundamenta la calificación de agresión sexual con violación, elevando las penas a quince años. La sentencia rectifica la valoración inicial como abuso sexual y provoca una amplia reflexión sobre intimidación, consentimiento y respuesta judicial. Es importante distinguir el delito de 2016, la sentencia firme de 2019 y la reforma legal general de 2022.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20190621/supremo-eleva-a-15-anos-condena-a-manada-por-violacion/1960181.shtml"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54017,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2020,
+    "tipo": "crimen",
+    "fecha": "2020-11-26",
+    "titulo": "Las «Nth Rooms»: condena por una red de explotación sexual digital en Corea del Sur",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2020\" data-fecha=\"2020-11-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Las «Nth Rooms»: condena por una red de explotación sexual digital en Corea del Sur</h3>\n    <p><strong>Delincuencia sexual en línea · Corea del Sur:</strong> Un tribunal surcoreano condena a Cho Ju-bin por dirigir una red que coaccionaba a mujeres y adolescentes para producir material sexual y lo distribuía mediante salas de mensajería privadas. La investigación, que había desembocado en su detención en marzo, expone cómo el chantaje, las identidades digitales y los canales de pago favorecen la explotación a distancia. La condena inicial fue de cuarenta años, con procedimientos posteriores diferenciados. El caso contribuye al endurecimiento de la respuesta legal frente a estos delitos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://en.yna.co.kr/view/AEN20200324006952315",
+      "https://www.thestar.com.my/news/world/2020/11/26/south-korea-sentences-leader-of-sexual-blackmail-ring-to-40-years-in-prison---yonhap"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54018,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2022,
+    "tipo": "crimen",
+    "fecha": "2022-09-06",
+    "titulo": "España sitúa el consentimiento en el centro de los delitos contra la libertad sexual",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2022\" data-fecha=\"2022-09-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>España sitúa el consentimiento en el centro de los delitos contra la libertad sexual</h3>\n    <p><strong>Reforma penal · España:</strong> La Ley Orgánica 10/2022 elimina la antigua separación entre abuso y agresión sexual y establece que la ausencia de consentimiento es el núcleo del delito de agresión sexual. La norma incluye otras medidas de atención integral y prevención. Su aplicación generó controversia por la revisión de penas derivada de cambios en los marcos penales; en 2023 se modificó parcialmente la regulación. La tarjeta recoge la reforma y su evolución sin identificarla exclusivamente con un caso mediático.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.boe.es/buscar/act.php?id=BOE-A-2022-14630",
+      "https://www.boe.es/eli/es/lo/2023/04/27/4"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54019,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2024,
+    "tipo": "crimen",
+    "fecha": "2024-12-19",
+    "titulo": "Caso Pelicot: las pruebas digitales revelan años de violaciones mediante sumisión química",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2024\" data-fecha=\"2024-12-19\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Caso Pelicot: las pruebas digitales revelan años de violaciones mediante sumisión química</h3>\n    <p><strong>Juicio penal · Aviñón, Francia:</strong> Un tribunal francés condena a Dominique Pelicot y a los demás acusados en el proceso por las agresiones sexuales sufridas durante años por Gisèle Pelicot, a quien su entonces marido drogaba sin su conocimiento. Los archivos de vídeo y otros indicios reunidos por los investigadores resultan fundamentales para reconstruir los episodios. La decisión de Gisèle Pelicot de que el juicio fuese público desencadena un debate internacional sobre consentimiento, sumisión química y trato a las víctimas. Los delitos se extendieron durante años; 2024 es la fecha de la sentencia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.reuters.com/world/europe/verdict-due-gisele-pelicot-rape-case-that-horrified-world-2024-12-19/",
+      "https://www.lemonde.fr/en/france/article/2024/12/20/pelicot-rape-trial-a-fair-and-independent-verdict_6736290_7.html"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54020,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2025,
+    "tipo": "crimen",
+    "fecha": "2025-11-06",
+    "titulo": "Francia incorpora expresamente la falta de consentimiento a la definición penal de violación",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2025\" data-fecha=\"2025-11-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2025</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Francia incorpora expresamente la falta de consentimiento a la definición penal de violación</h3>\n    <p><strong>Cambio legislativo · Francia:</strong> La ley francesa de 6 de noviembre de 2025 modifica la formulación de la violación y de las agresiones sexuales para definirlas a partir de actos sexuales no consentidos. La reforma responde a un debate jurídico prolongado sobre los límites de exigir prueba de violencia, amenaza, coacción o sorpresa, intensificado públicamente tras el caso Pelicot. Se trata de una modificación penal autónoma: no convierte retroactivamente en legal o ilegal hechos anteriores según la nueva redacción.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052533258",
+      "https://www.courdecassation.fr/toutes-les-actualites/2026/07/01/application-dans-le-temps-de-la-loi-de-2025-modifiant-la"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · fase histórica · 17 noviembre 2026",
+    "orden": 54021,
+    "tema": "CRÍMENES SEXUALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1878,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "La justicia británica permite separarse de maridos violentos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1878\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1878</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La justicia británica permite separarse de maridos violentos</h3>\n    <p><strong>Protección judicial histórica · Reino Unido:</strong> La Matrimonial Causes Act de 1878 permite obtener órdenes de separación a mujeres que sufrían violencia conyugal, con consecuencias para la custodia de los hijos. No elimina el sistema jurídico desigual de la época ni constituye la primera condena de un maltratador, pero marca un cambio relevante: el daño dentro del matrimonio empieza a justificar una intervención judicial protectora específica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/overview/custodyrights/",
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/keydates/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54022,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1963,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "España suprime el privilegio penal del llamado «uxoricidio por honor»",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1963\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1963</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>España suprime el privilegio penal del llamado «uxoricidio por honor»</h3>\n    <p><strong>Evolución del homicidio familiar · España:</strong> La reforma de 1963 deja sin contenido el artículo 428 del Código Penal de 1944, que imponía una pena privilegiada al marido que mataba a su esposa o al otro partícipe al sorprenderlos en adulterio. La supresión pone fin a una disposición que expresaba la desigual protección histórica de la vida de las mujeres dentro del matrimonio. No significa que desaparecieran entonces la violencia conyugal ni otros preceptos discriminatorios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://justicia.gencat.cat/ca/ambits/administracio-de-justicia/arxius-biblioteques-i-diposits-judicials/arxius/dossiers-tematics/tractament-judicial-violencia-genere/",
+      "https://www.boe.es/buscar/doc.php?id=BOE-A-1973-1715"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54023,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1971,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Chiswick Women's Aid abre un refugio pionero para mujeres maltratadas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1971\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Chiswick Women's Aid abre un refugio pionero para mujeres maltratadas</h3>\n    <p><strong>Respuesta social al maltrato · Londres:</strong> El centro de Chiswick Women's Aid, asociado a la labor de Erin Pizzey y otras activistas, comienza a acoger a mujeres que huyen de situaciones de violencia en el hogar. Su desarrollo impulsa una red de refugios y el reconocimiento político de un problema que a menudo se trataba como conflicto privado. Es un hito de organización y protección de víctimas, no el primer albergue de cualquier tipo abierto en la historia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nationalarchives.gov.uk/explore-the-collection/stories/how-the-first-women-refuge-enacted-change/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54024,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1976,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Diana E. H. Russell presenta públicamente el concepto moderno de «femicidio»",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1976\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1976</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Diana E. H. Russell presenta públicamente el concepto moderno de «femicidio»</h3>\n    <p><strong>Evolución criminológica · Bruselas:</strong> En el Tribunal Internacional sobre Crímenes contra las Mujeres celebrado en Bruselas, Diana E. H. Russell emplea públicamente el término femicide para nombrar asesinatos de mujeres vinculados a su condición de mujeres. La palabra tenía antecedentes, pero esta intervención ayuda a formular y difundir un concepto que después será desarrollado en la investigación feminista y criminológica. No implica que todos los homicidios de víctimas femeninas sean automáticamente feminicidios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.dianarussell.com/origin_of_femicide.html"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54025,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1993,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Ciudad Juárez: comienzan a documentarse patrones de asesinatos de mujeres",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Ciudad Juárez: comienzan a documentarse patrones de asesinatos de mujeres</h3>\n    <p><strong>Feminicidios · México:</strong> A partir de 1993, familiares y activistas empiezan a reunir sistemáticamente información sobre desapariciones y homicidios de mujeres en Ciudad Juárez. Los casos presentan circunstancias diversas, algunas con violencia sexual, y numerosas investigaciones sufrirán deficiencias graves. Esta ficha recoge el comienzo de la documentación pública y del reconocimiento de un patrón, no atribuye los delitos a un único asesino o grupo ni da por resueltas las desapariciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cipdh.gob.ar/memorias-situadas/en/lugar-de-memoria/las-cruces-de-ciudad-juarez/",
+      "https://secridh.cndh.org.mx/Caso_Gonzalez_Otras.aspx"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54026,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1994,
+    "tipo": "crimen",
+    "fecha": "1994-06-09",
+    "titulo": "Belém do Pará: un tratado americano reconoce la violencia contra las mujeres como problema de derechos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1994\" data-fecha=\"1994-06-09\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1994</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Belém do Pará: un tratado americano reconoce la violencia contra las mujeres como problema de derechos</h3>\n    <p><strong>Convención interamericana · Brasil:</strong> La Organización de los Estados Americanos adopta la Convención de Belém do Pará para prevenir, sancionar y erradicar la violencia contra la mujer. El tratado establece obligaciones de los Estados tanto en el espacio público como en el privado y proporciona un marco para examinar la inacción institucional ante agresiones y asesinatos. Su relevancia se observará después en casos como Maria da Penha y en procesos ante el sistema interamericano.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.oas.org/en/iachr/mandate/Basics/belemdopararat.asp",
+      "https://www.oas.org/en/iachr/jsForm/?File=%2Fen%2Fiachr%2Fmandate%2Fbasics%2Fintro.asp"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54027,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1997,
+    "tipo": "crimen",
+    "fecha": "1997-12-17",
+    "titulo": "Ana Orantes: un asesinato después de denunciar públicamente malos tratos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1997\" data-fecha=\"1997-12-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1997</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Ana Orantes: un asesinato después de denunciar públicamente malos tratos</h3>\n    <p><strong>Feminicidio de expareja · Granada, España:</strong> José Parejo mata a su exesposa Ana Orantes en Cúllar Vega, trece días después de que ella denunciara en televisión una larga historia de maltrato. El crimen provoca una fuerte reacción social y contribuye al cambio del tratamiento público y jurídico de la violencia doméstica. Las reformas de 1999 incorporan nuevas herramientas de persecución y protección; la ley integral de violencia de género llegará en 2004. No debe afirmarse que una única muerte originó por sí sola todo ese proceso legislativo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://efe.com/espana/2022-12-18/ana-orantes-la-hemeroteca-de-un-asesinato-machista-que-lo-cambio-todo/",
+      "https://www.newtral.es/quien-es-ana-orantes-ley-violencia-genero/20221122/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54028,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2001,
+    "tipo": "crimen",
+    "fecha": "2001-06-20",
+    "titulo": "Andrea Yates: cinco filicidios y el debate sobre la responsabilidad penal",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2001\" data-fecha=\"2001-06-20\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Andrea Yates: cinco filicidios y el debate sobre la responsabilidad penal</h3>\n    <p><strong>Filicidio y psiquiatría forense · Texas, Estados Unidos:</strong> Andrea Yates ahoga a sus cinco hijos en la vivienda familiar de Houston. En el proceso penal se examinan antecedentes psiquiátricos graves y la relación entre trastorno mental y capacidad de responsabilidad. Una primera condena fue anulada por problemas en una prueba pericial, y en el nuevo juicio de 2006 fue declarada no culpable por razón de enfermedad mental y trasladada a tratamiento. El caso obliga a distinguir un filicidio acreditado del juicio jurídico sobre imputabilidad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.latimes.com/archives/la-xpm-2006-jul-27-na-yates27-story.html",
+      "https://deathpenaltyinfo.org/andrea-yates-found-not-guilty-by-reason-of-insanity--prosecutors-had-originally-sought-death"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54029,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2003,
+    "tipo": "crimen",
+    "fecha": "2003-07-31",
+    "titulo": "España crea una orden de protección integral para víctimas de violencia doméstica",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2003\" data-fecha=\"2003-07-31\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2003</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>España crea una orden de protección integral para víctimas de violencia doméstica</h3>\n    <p><strong>Medida judicial de protección · España:</strong> La Ley 27/2003 regula una orden judicial que puede agrupar medidas cautelares penales y civiles cuando se aprecian indicios de delito y una situación objetiva de riesgo para la víctima. El instrumento pretende facilitar una respuesta rápida y coordinada frente al maltrato y las amenazas familiares. Es un antecedente directo del sistema posterior de protección contra la violencia de género, pero su ámbito jurídico inicial es el de la violencia doméstica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.boe.es/eli/es/l/2003/07/31/27",
+      "https://violenciagenero.igualdad.gob.es/profesionalesinvestigacion/asistenciasocial/recursos-2/orden/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54030,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2004,
+    "tipo": "crimen",
+    "fecha": "2004-12-28",
+    "titulo": "España aprueba la Ley Integral contra la Violencia de Género",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2004\" data-fecha=\"2004-12-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2004</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>España aprueba la Ley Integral contra la Violencia de Género</h3>\n    <p><strong>Reforma integral · España:</strong> La Ley Orgánica 1/2004 introduce medidas penales, judiciales, educativas y asistenciales para combatir la violencia ejercida contra las mujeres por sus parejas o exparejas masculinas. Prevé órganos especializados y mecanismos de protección y coordinación. Su definición legal es más concreta que el uso social del término «violencia de género», que puede abarcar otras formas de agresión; tampoco engloba de forma indistinta todos los parricidios y filicidios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.boe.es/eli/es/lo/2004/12/28/1"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54031,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2006,
+    "tipo": "crimen",
+    "fecha": "2006-08-07",
+    "titulo": "Brasil promulga la Ley Maria da Penha contra la violencia doméstica",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2006\" data-fecha=\"2006-08-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Brasil promulga la Ley Maria da Penha contra la violencia doméstica</h3>\n    <p><strong>Protección de víctimas · Brasil:</strong> La Ley 11.340 recibe el nombre de Maria da Penha Fernandes, superviviente de dos tentativas de asesinato cometidas por su marido en 1983. Tras años de obstáculos judiciales, la Comisión Interamericana de Derechos Humanos había responsabilizado a Brasil en 2001 por su respuesta insuficiente. La nueva ley establece medidas de protección y mecanismos judiciales específicos contra la violencia doméstica y familiar. Se distingue el ataque de 1983 de la promulgación de 2006.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gov.br/mulheres/pt-br/acesso-a-informacao/acoes-e-programas-1/acoes-e-programas-de-gestoes-anteriores/politicas-para-mulheres/arquivo/sobre/a-secretaria/legislacao-1/lei-maria-da-penha/lei-maria-da-penha",
+      "https://www12.senado.leg.br/noticias/infomaterias/2026/07/a-historia-por-tras-dos-20-anos-da-lei-maria-da-penha"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54032,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2009,
+    "tipo": "crimen",
+    "fecha": "2009-06-09",
+    "titulo": "Opuz contra Turquía: la inacción ante el maltrato vulnera los derechos humanos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2009\" data-fecha=\"2009-06-09\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Opuz contra Turquía: la inacción ante el maltrato vulnera los derechos humanos</h3>\n    <p><strong>Sentencia europea · Estrasburgo:</strong> El Tribunal Europeo de Derechos Humanos condena a Turquía por no proteger eficazmente a Nahide Opuz y a su madre frente a reiterados episodios de violencia y amenazas, que culminaron con el asesinato de la madre. La sentencia aprecia violaciones de las obligaciones de protección de la vida y una pasividad institucional discriminatoria. Es un antecedente esencial para entender que el riesgo conocido y la falta de respuesta del Estado pueden constituir por sí mismos un problema jurídico grave.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://hudoc.echr.coe.int/eng?i=002-1449",
+      "https://www.coe.int/en/web/impact-convention-human-rights/-/the-landmark-judgment-that-inspired-europe-to-act-on-violence-against-women"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54033,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2009,
+    "tipo": "crimen",
+    "fecha": "2009-11-16",
+    "titulo": "Campo Algodonero: la Corte Interamericana condena a México por fallos en la investigación",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2009\" data-fecha=\"2009-11-16\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Campo Algodonero: la Corte Interamericana condena a México por fallos en la investigación</h3>\n    <p><strong>Feminicidios y responsabilidad estatal · Ciudad Juárez:</strong> En el asunto González y otras contra México, la Corte Interamericana examina la desaparición y asesinato de Claudia Ivette González, Esmeralda Herrera y Laura Berenice Ramos, cuyos cuerpos aparecieron en Ciudad Juárez en 2001. La sentencia de 2009 reconoce graves deficiencias en la prevención y la investigación y ordena medidas de reparación y no repetición. La ficha es diferente de la relativa al inicio de la documentación de feminicidios en la ciudad desde 1993.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://secridh.cndh.org.mx/Caso_Gonzalez_Otras.aspx",
+      "https://www.cipdh.gob.ar/memorias-situadas/en/lugar-de-memoria/las-cruces-de-ciudad-juarez/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54034,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2011,
+    "tipo": "crimen",
+    "fecha": "2011-05-11",
+    "titulo": "El Convenio de Estambul articula una respuesta internacional contra la violencia doméstica",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2011\" data-fecha=\"2011-05-11\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El Convenio de Estambul articula una respuesta internacional contra la violencia doméstica</h3>\n    <p><strong>Tratado de protección · Europa:</strong> El Consejo de Europa abre a la firma el Convenio sobre prevención y lucha contra la violencia contra las mujeres y la violencia doméstica. El instrumento establece obligaciones de prevención, protección de víctimas, persecución de infracciones y políticas coordinadas, sin reducir el problema exclusivamente a los asesinatos de pareja. Entrará en vigor el 1 de agosto de 2014, una vez cumplidas las ratificaciones exigidas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.coe.int/en/web/istanbul-convention/historical-background",
+      "https://www.coe.int/en/web/gender-matters/council-of-europe-convention-on-preventing-and-combating-violence-against-women-and-domestic-violence"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54035,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2011,
+    "tipo": "crimen",
+    "fecha": "2011-10-08",
+    "titulo": "Ruth y José Bretón: dos filicidios cometidos para castigar a la madre",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2011\" data-fecha=\"2011-10-08\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Ruth y José Bretón: dos filicidios cometidos para castigar a la madre</h3>\n    <p><strong>Asesinato de menores · Córdoba, España:</strong> José Bretón mata a sus hijos Ruth y José, de seis y dos años, tras la decisión de su esposa de poner fin a la convivencia. Simula su desaparición y trata de destruir los cuerpos mediante una hoguera. Será condenado en 2013 por ambos asesinatos; el Tribunal Supremo confirma la pena de cuarenta años en 2014. El caso es un referente para explicar la violencia ejercida contra los hijos con el propósito de dañar a la pareja o expareja, sin convertir «violencia vicaria» en una calificación penal idéntica en todas las fechas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20140709/supremo-confirma-pena-40-anos-para-breton-por-asesinar-a-hijos-ruth-jose/969950.shtml",
+      "https://www.rtve.es/noticias/20261008/15-anos-caso-breton-crimen-transformo-codigo-penal-violencia-vicaria/17258386.shtml"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54036,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2012,
+    "tipo": "crimen",
+    "fecha": "2012-11-14",
+    "titulo": "Argentina incorpora el femicidio y el femicidio vinculado entre los homicidios agravados",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2012\" data-fecha=\"2012-11-14\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Argentina incorpora el femicidio y el femicidio vinculado entre los homicidios agravados</h3>\n    <p><strong>Reforma penal · Argentina:</strong> La Ley 26.791 modifica el artículo 80 del Código Penal argentino e incorpora como agravante el homicidio de una mujer cometido por un hombre cuando media violencia de género. También contempla el homicidio cometido para causar sufrimiento a una persona con la que existe o existió una relación afectiva, lo que permite abordar determinados asesinatos de terceros. La ley no crea una etiqueta automática para cualquier muerte de mujer: exige las circunstancias descritas en la norma.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.argentina.gob.ar/normativa/nacional/ley-26791-206018/texto",
+      "https://www.fiscales.gob.ar/genero/a-diez-anos-de-la-incorporacion-del-femicidio-en-el-codigo-penal/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54037,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2015,
+    "tipo": "crimen",
+    "fecha": "2015-06-03",
+    "titulo": "Ni Una Menos convierte los femicidios en una movilización masiva argentina",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2015\" data-fecha=\"2015-06-03\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Ni Una Menos convierte los femicidios en una movilización masiva argentina</h3>\n    <p><strong>Reacción social a asesinatos de mujeres · Argentina:</strong> En decenas de ciudades argentinas se celebran manifestaciones bajo la consigna Ni Una Menos, impulsadas por una acumulación de asesinatos de mujeres y, de forma inmediata, por el caso de Chiara Páez, adolescente asesinada por su novio. La convocatoria trasciende fronteras y sitúa la prevención, la investigación y el registro de los femicidios en la conversación pública. No es una ley ni un nuevo delito, sino una respuesta colectiva concreta a crímenes reales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://genero.hcdn.gob.ar/noticias/3J-A-8-ANOS-DEL-PRIMER-NI-UNA-MENOS/",
+      "https://bcn.gob.ar/ni-una-menos"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54038,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2015,
+    "tipo": "crimen",
+    "fecha": "2015-12-29",
+    "titulo": "Inglaterra y Gales tipifican el control coercitivo en la pareja y la familia",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2015\" data-fecha=\"2015-12-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Inglaterra y Gales tipifican el control coercitivo en la pareja y la familia</h3>\n    <p><strong>Violencia psicológica y control · Reino Unido:</strong> Entra en vigor el delito de conducta controladora o coercitiva en una relación íntima o familiar, regulado en el artículo 76 de la Serious Crime Act de 2015. Permite examinar pautas sostenidas de aislamiento, amenazas y dominación que pueden preceder a agresiones más visibles. El cambio ayuda a investigar el maltrato sin exigir que cada episodio consista en una lesión física aislada; la ley determina requisitos y límites concretos para la conducta punible.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.legislation.gov.uk/ukpga/2015/9/section/76",
+      "https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54039,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2018,
+    "tipo": "crimen",
+    "fecha": "2018-03-27",
+    "titulo": "Shakti Vahini: el Supremo de India ordena actuar contra los crímenes de «honor»",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2018\" data-fecha=\"2018-03-27\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Shakti Vahini: el Supremo de India ordena actuar contra los crímenes de «honor»</h3>\n    <p><strong>Protección frente a homicidios familiares · India:</strong> El Tribunal Supremo indio resuelve el asunto Shakti Vahini contra la Unión de la India y rechaza que familias, clanes o asambleas comunitarias impongan violentamente sus decisiones sobre relaciones de pareja y matrimonios de adultos. Ordena actuaciones preventivas, protectoras y sancionadoras frente a los llamados crímenes de honor. El nombre «honor» describe la justificación invocada por algunos perpetradores, no una causa que legitime el homicidio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://indiankanoon.org/doc/92846055/",
+      "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1540824&lang=2&reg=48"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · fase histórica · 17 noviembre 2026",
+    "orden": 54040,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES",
     "precision_fecha": "día"
   }
 ]
