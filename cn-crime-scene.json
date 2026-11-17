@@ -6699,5 +6699,131 @@
     "orden": 50074,
     "tema": "TERRORISMO Y ATENTADOS",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1972,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Después de Múnich nace el GSG 9, unidad policial antiterrorista alemana",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1972\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1972</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Después de Múnich nace el GSG 9, unidad policial antiterrorista alemana</h3>\n    <p><strong>Tácticas policiales · República Federal de Alemania · septiembre:</strong> Tras el fracaso de la intervención de rescate durante el atentado de los Juegos Olímpicos de Múnich, Alemania organiza una unidad especializada en intervención antiterrorista y liberación de rehenes: el GSG 9. Su creación modifica la respuesta policial a secuestros y acciones armadas de alta complejidad. Esta ficha explica el cambio operativo, mientras que la matanza de Múnich figura de manera independiente en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.deutschland.de/en/topic/politics/gsg-9-special-unit-federal-police-combating-terrorism"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50075,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1977,
+    "tipo": "policia-cientifica",
+    "fecha": "1977-10-18",
+    "titulo": "Mogadiscio: el GSG 9 libera a los rehenes de un avión secuestrado",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1977\" data-fecha=\"1977-10-18\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1977</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Mogadiscio: el GSG 9 libera a los rehenes de un avión secuestrado</h3>\n    <p><strong>Intervención antiterrorista · Somalia · 18 de octubre:</strong> El GSG 9 alemán asalta en Mogadiscio un avión de Lufthansa secuestrado por militantes armados y rescata a los rehenes supervivientes. La operación es uno de los ejemplos internacionales más conocidos de respuesta táctica a secuestros aéreos y demuestra la coordinación de una unidad especializada con la negociación y la gestión política de una crisis de rehenes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://germanhistorydocs.org/en/two-germanies-1961-1989/the-arrival-of-the-counter-terrorism-unit-of-the-german-federal-police-gsg-9-at-the-cologne-bonn-airport-october-18-1977"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50076,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1978,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "España pone en marcha el Grupo Especial de Operaciones (GEO)",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1978\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>España pone en marcha el Grupo Especial de Operaciones (GEO)</h3>\n    <p><strong>Tácticas policiales · España:</strong> Se crea el Grupo Especial de Operaciones de la Policía Nacional, preparado para afrontar incidentes de alto riesgo, liberación de rehenes y actuaciones contra organizaciones terroristas o criminales violentas. Aunque su primer curso de selección se convocó en 1977, la fundación de la unidad se sitúa en 1978. El GEO toma como referencia otras unidades de respuesta especializada, entre ellas el GSG 9 alemán.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.interior.gob.es/opencms/es/detalle/articulo/Treinta-anos-del-GEO/"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50077,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1980,
+    "tipo": "policia-cientifica",
+    "fecha": "1980-05-05",
+    "titulo": "Operación Nimrod: rescate de rehenes en la embajada iraní de Londres",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1980\" data-fecha=\"1980-05-05\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Nimrod: rescate de rehenes en la embajada iraní de Londres</h3>\n    <p><strong>Intervención especial · Reino Unido · 5 de mayo:</strong> Un grupo armado había ocupado la embajada de Irán en Londres y retenido a decenas de personas. Tras el deterioro de las negociaciones, miembros del SAS británico asaltan el edificio en la operación Nimrod. El caso se convierte en referente de cooperación entre policía y fuerzas especiales y de planificación táctica ante secuestros terroristas, sin ocultar la gravedad de la crisis ni reducirla a un mero éxito técnico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nam.ac.uk/explore/iranian-embassy-siege"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50078,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1980,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El FBI y el NYPD crean el primer equipo conjunto antiterrorista estadounidense",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1980\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1980</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El FBI y el NYPD crean el primer equipo conjunto antiterrorista estadounidense</h3>\n    <p><strong>Cooperación policial · Nueva York, Estados Unidos · primavera:</strong> Agentes del FBI y de la policía neoyorquina constituyen la primera <em>Joint Terrorism Task Force</em> (JTTF) para investigar conjuntamente organizaciones responsables de amenazas y actos terroristas. El modelo reúne competencias, información y personal de agencias distintas, en vez de mantener pesquisas aisladas. La fórmula terminará extendiéndose a otras ciudades y sirve como antecedente de la investigación antiterrorista coordinada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/field-office-histories/newyork"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50079,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1983,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El FBI estrena su equipo especializado Hostage Rescue Team",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1983\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1983</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El FBI estrena su equipo especializado Hostage Rescue Team</h3>\n    <p><strong>Rescate de rehenes · Estados Unidos:</strong> En 1983 comienza a operar el Hostage Rescue Team (HRT), una unidad civil del FBI preparada para intervenciones tácticas de alto riesgo, incluidas amenazas terroristas y crisis de rehenes. Su organización responde en parte a las lecciones del fracaso del rescate en Múnich 1972 y a la necesidad de disponer de capacidades propias antes de los Juegos Olímpicos de Los Ángeles de 1984.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/news/stories/the-hostage-rescue-team-30-years-of-service-2"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50080,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2006,
+    "tipo": "policia-cientifica",
+    "fecha": "2006-08-10",
+    "titulo": "Operación Overt: vigilancia policial para impedir atentados contra aviones",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2006\" data-fecha=\"2006-08-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Overt: vigilancia policial para impedir atentados contra aviones</h3>\n    <p><strong>Investigación preventiva · Reino Unido · agosto:</strong> Meses de trabajo coordinado entre la policía británica y el MI5 permiten identificar una conspiración para hacer estallar bombas ocultas durante vuelos transatlánticos. La operación Overt ilustra el valor de los seguimientos prolongados, las fuentes de inteligencia y las comunicaciones investigadas antes de consumarse un ataque. La notoriedad pública del caso también dio lugar a cambios de seguridad aeroportuaria relacionados con los líquidos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.theguardian.com/uk/2006/aug/11/politics.terrorism1"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50081,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2016,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Europol pone en marcha el Centro Europeo de Lucha contra el Terrorismo",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2016\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Europol pone en marcha el Centro Europeo de Lucha contra el Terrorismo</h3>\n    <p><strong>Cooperación policial · Unión Europea · enero:</strong> El Centro Europeo de Lucha contra el Terrorismo (ECTC) de Europol comienza a operar en enero de 2016 para apoyar a las autoridades nacionales en el intercambio de información, el análisis de redes terroristas y las investigaciones internacionales. Es una respuesta operativa a la necesidad de coordinación revelada por ataques en Europa, distinta de las declaraciones jurídicas y estrategias generales de Naciones Unidas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.europol.europa.eu/about-europol/european-counter-terrorism-centre-ectc/ectc-10-year-anniversary-timeline"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50082,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2018,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Operación Neptune: INTERPOL utiliza bases policiales contra desplazamientos terroristas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Neptune: INTERPOL utiliza bases policiales contra desplazamientos terroristas</h3>\n    <p><strong>Investigación transfronteriza · Mediterráneo · verano:</strong> INTERPOL coordina controles de pasajeros y documentación en rutas marítimas entre el norte de África y el sur de Europa, ante la posibilidad de desplazamientos de combatientes terroristas extranjeros. Los equipos contrastan identidades y documentos con bases policiales internacionales mediante la red segura I-24/7. Neptune demuestra una aplicación concreta de la cooperación y las búsquedas automatizadas a la prevención e investigación antiterrorista.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.interpol.int/en/News-and-Events/News/2018/INTERPOL-led-Mediterranean-operation-closes-ranks-on-foreign-terrorist-fighters"
+    ],
+    "procedencia": "TERRORISMO Y ATENTADOS · conexiones · 17 noviembre 2026",
+    "orden": 50083,
+    "tema": "TERRORISMO Y ATENTADOS",
+    "precision_fecha": "año/periodo"
   }
 ]
