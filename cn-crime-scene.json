@@ -6825,5 +6825,50 @@
     "orden": 50083,
     "tema": "TERRORISMO Y ATENTADOS",
     "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1964,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "La Comisión Warren analiza las imágenes del asesinato de Kennedy",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1964\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1964</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Comisión Warren analiza las imágenes del asesinato de Kennedy</h3>\n    <p><strong>Reconstrucción audiovisual · Estados Unidos:</strong> La Comisión Warren estudia en 1964 grabaciones del recorrido presidencial de Dallas, especialmente la filmación realizada por Abraham Zapruder el 22 de noviembre de 1963. Comparar fotogramas con posiciones, tiempos y recreaciones del trayecto ayuda a examinar la secuencia de los disparos y las reacciones de los ocupantes del automóvil. Esta tarjeta recoge el valor investigador de las imágenes tomadas por testigos y es distinta de la ficha ya existente sobre el análisis balístico de armas y proyectiles.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.archives.gov/research/jfk/warren-commission-report/chapter-3.html",
+      "https://www.archives.gov/research/jfk/warren-commission-report/inventory"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51001,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2006,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Litvinenko: el rastro del polonio-210 reconstruye un asesinato político",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Litvinenko: el rastro del polonio-210 reconstruye un asesinato político</h3>\n    <p><strong>Toxicología y rastreo radiológico · Londres:</strong> Alexander Litvinenko muere en Londres el 23 de noviembre de 2006 después de ingerir polonio-210. La identificación del isótopo radiactivo en muestras biológicas transforma un cuadro clínico de origen desconocido en una investigación criminal. Los equipos rastrean contaminación en numerosos lugares y reconstruyen desplazamientos y contactos anteriores. El caso ilustra cómo la detección radiológica y el análisis forense especializado pueden establecer una cadena de indicios en un envenenamiento dirigido.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gov.uk/government/publications/the-litvinenko-inquiry-report-into-the-death-of-alexander-litvinenko",
+      "https://www.gov.uk/government/case-studies/radiological-incident-london-england"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51002,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2020,
+    "tipo": "policia-cientifica",
+    "fecha": "2020-10-06",
+    "titulo": "Navalni: la OPAQ contrasta analíticamente un envenenamiento político",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2020\" data-fecha=\"2020-10-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Navalni: la OPAQ contrasta analíticamente un envenenamiento político</h3>\n    <p><strong>Toxicología forense · Alemania y Países Bajos:</strong> Tras el envenenamiento de Alexéi Navalni el 20 de agosto de 2020, laboratorios especializados examinan muestras de sangre y orina. El 6 de octubre, la Organización para la Prohibición de las Armas Químicas publica el resultado de su asistencia técnica: detecta biomarcadores de un inhibidor de la colinesterasa con características estructurales semejantes a agentes químicos sometidos a control internacional. El análisis demuestra la utilidad de la verificación científica independiente; por sí solo no identifica a los autores del ataque.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.opcw.org/media-centre/news/2020/10/opcw-issues-report-technical-assistance-requested-germany",
+      "https://www.opcw.org/media-centre/featured-topics/case-mr-alexei-navalny"
+    ],
+    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
+    "orden": 51003,
+    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
   }
 ]
