@@ -88,7 +88,7 @@
     "tipo": "audiovisual",
     "fecha": "",
     "titulo": "El caso Alcàsser: la televisión revisa sus propios excesos",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El caso Alcàsser: la televisión revisa sus propios excesos</h3>\n    <p><strong>Docuserie · 2019:</strong> La serie documental <em>El caso Alcàsser</em> recupera la investigación del asesinato de tres adolescentes y la cobertura televisiva que acompañó su desaparición, el hallazgo de los cuerpos y el juicio. Con entrevistas y materiales de archivo, devuelve a la discusión pública el trato dispensado a las familias y la proliferación de hipótesis no contrastadas. El interés cultural de este estreno se diferencia del triple crimen de 1992: aquí el acontecimiento es la revisión audiovisual de una de las grandes controversias del periodismo español de sucesos.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El caso Alcàsser: la televisión revisa sus propios excesos</h3>\n    <p><strong>Docuserie · 2019:</strong> La serie documental <em>El caso Alcàsser</em> recupera la investigación de los secuestros, agresiones sexuales y asesinatos de Miriam, Toñi y Desirée, y la cobertura televisiva que acompañó su desaparición, el hallazgo de los cuerpos y el juicio. Con entrevistas y materiales de archivo, devuelve a la discusión pública el trato dispensado a las familias y la proliferación de hipótesis no contrastadas. El interés cultural de este estreno se diferencia del triple crimen de 1992: aquí el acontecimiento es la revisión audiovisual de una de las grandes controversias del periodismo español de sucesos.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.netflix.com/es/title/80213115"
     ],
@@ -3665,8 +3665,10 @@
     "tipo": "audiovisual",
     "fecha": "1944-05-04",
     "titulo": "Luz que agoniza: el crimen y la manipulación psicológica",
-    "html": "<article class=\"item-evento\" data-fecha=\"1944-05-04\" data-tipo=\"audiovisual\" data-yr=\"1944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Luz que agoniza: el crimen y la manipulación psicológica</h3>\n    <p><strong>Cine · 4 de mayo:</strong> Se estrena en Nueva York <em>Gaslight</em>, dirigida por George Cukor y protagonizada por Ingrid Bergman y Charles Boyer. Una mujer comienza a dudar de su propia percepción mientras su marido manipula deliberadamente la realidad que la rodea. La película desarrolla una inquietante intriga criminal sobre el engaño, el control y la violencia psicológica. Su título dará popularidad al término <em>gaslighting</em>, utilizado para describir esta forma de manipulación.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1944-05-04\" data-tipo=\"audiovisual\" data-yr=\"1944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Luz que agoniza: el crimen y la manipulación psicológica</h3>\n    <p><strong>Cine · 4 de mayo:</strong> Se estrena en Nueva York <em>Gaslight</em>, dirigida por George Cukor y protagonizada por Ingrid Bergman y Charles Boyer. Una mujer comienza a dudar de su propia percepción mientras su marido manipula deliberadamente la realidad que la rodea. La película desarrolla una inquietante intriga criminal sobre el engaño, el control y la violencia psicológica. Un investigador de Scotland Yard relaciona los hechos con un asesinato anterior, por lo que el engaño conyugal se desarrolla dentro de una pesquisa criminal. Su título dará popularidad al término <em>gaslighting</em>, utilizado para describir esta forma de manipulación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.afi.com/afis-100-years-100-thrills/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1745
   },
@@ -5486,5 +5488,230 @@
     "procedencia": "SECTAS CRIMINALES · conexiones · 17 noviembre 2026",
     "orden": 53014,
     "tema": "SECTAS CRIMINALES"
+  },
+  {
+    "yr": 1988,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Acusados: la credibilidad de una víctima se discute ante el tribunal",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1988\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1988</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Acusados: la credibilidad de una víctima se discute ante el tribunal</h3>\n    <p><strong>Cine judicial · Jonathan Kaplan · Estados Unidos:</strong> La película The Accused (Acusados), estrenada en 1988, sigue a una joven que denuncia una violación colectiva y a la fiscal que debe investigar no solo a los agresores, sino la conducta de quienes alentaron la agresión. Examina la exposición pública de la víctima, los prejuicios sobre su credibilidad y las decisiones que condicionan una acusación penal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://catalog.afi.com/Film/55717-THE-ACCUSED"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62001,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2009,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El secreto de sus ojos: un asesinato y una violación que persiguen al investigador",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El secreto de sus ojos: un asesinato y una violación que persiguen al investigador</h3>\n    <p><strong>Thriller judicial · Juan José Campanella · Argentina:</strong> Estrenada en 2009, la película reconstruye la investigación de una violación y un asesinato cometidos en Buenos Aires en los años setenta. Benjamín Espósito vuelve décadas después sobre un expediente marcado por la impunidad. Basada en La pregunta de sus ojos, de Eduardo Sacheri (2005), esta ficha registra el estreno cinematográfico; la cronología recoge por separado el Óscar obtenido en 2010.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.casamerica.es/node/26935"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62002,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2011,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Silenced (Dogani): investigar abusos sexuales contra alumnos sordos",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2011\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Silenced (Dogani): investigar abusos sexuales contra alumnos sordos</h3>\n    <p><strong>Drama criminal y judicial · Hwang Dong-hyuk · Corea del Sur:</strong> La película surcoreana Dogani, conocida internacionalmente como Silenced, muestra a un profesor que descubre abusos sexuales contra alumnos de un centro escolar para menores sordos. La denuncia, los testimonios y la acción judicial tropiezan con mecanismos de protección de los responsables. Estrenada en 2011, adapta una novela inspirada en hechos reales y tiene en la investigación de los delitos su núcleo narrativo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20112534"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62003,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2013,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Top of the Lake: una detective investiga la desaparición de una niña embarazada",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2013\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Top of the Lake: una detective investiga la desaparición de una niña embarazada</h3>\n    <p><strong>Serie policial · Jane Campion y Gerard Lee · Nueva Zelanda:</strong> Robin Griffin investiga la desaparición de Tui, una niña de doce años embarazada, en una comunidad aislada. La pesquisa explora posibles agresiones sexuales, secretos de familia, relaciones de poder y versiones contradictorias de testigos. La miniserie, estrenada en 2013, utiliza la investigación policial para examinar la vulnerabilidad de las menores.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.screenaustralia.gov.au/screen-guide/top-of-the-lake-series-1-30216/"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62004,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2015,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Spotlight: periodistas investigan el encubrimiento de abusos sexuales",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2015\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Spotlight: periodistas investigan el encubrimiento de abusos sexuales</h3>\n    <p><strong>Thriller periodístico · Tom McCarthy · Estados Unidos:</strong> Spotlight dramatiza la investigación del equipo homónimo de The Boston Globe sobre abusos sexuales cometidos por sacerdotes y las respuestas institucionales que los silenciaron. Los periodistas reúnen testimonios, expedientes judiciales y pruebas documentales para identificar patrones y responsabilidades. La película, estrenada en 2015, pertenece al cine de investigación criminal aunque sus protagonistas no sean policías.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.britannica.com/topic/Spotlight-film-by-McCarthy",
+      "https://www.oscars.org/oscars/ceremonies/2016"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62005,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2017,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "The Keepers: abusos denunciados y un asesinato que sigue sin resolverse",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Keepers: abusos denunciados y un asesinato que sigue sin resolverse</h3>\n    <p><strong>Docuserie de investigación criminal · Ryan White · Estados Unidos:</strong> The Keepers (2017) revisa la desaparición y el asesinato de la religiosa Catherine Cesnik en Baltimore en 1969 mediante las indagaciones de antiguas alumnas. La búsqueda se vincula con denuncias de abusos sexuales en el entorno de una escuela católica. La serie examina pistas e hipótesis, pero las conexiones propuestas no deben presentarse como una resolución judicial del homicidio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/title/80122179"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62006,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2019,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Creedme: dos detectives enlazan violaciones que parecían casos aislados",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Creedme: dos detectives enlazan violaciones que parecían casos aislados</h3>\n    <p><strong>Miniserie policial · Estados Unidos:</strong> Unbelievable, difundida en España como Creedme, empieza con la denuncia de una joven cuya credibilidad es cuestionada. Dos detectives de Colorado logran relacionar varias agresiones sexuales gracias al análisis de pruebas y testimonios. La miniserie de 2019 expone el daño causado por entrevistas inadecuadas y la importancia de conectar investigaciones entre jurisdicciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/80153467",
+      "https://about.netflix.com/es_es/news/unbelievable-challenges-stigmas-and-spurs-a-conversation"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62007,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Al descubierto: el periodismo investiga las denuncias contra Weinstein",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Al descubierto: el periodismo investiga las denuncias contra Weinstein</h3>\n    <p><strong>Thriller periodístico · Maria Schrader · Estados Unidos:</strong> She Said, estrenada en 2022 y distribuida en español como Al descubierto, dramatiza la investigación de Jodi Kantor y Megan Twohey sobre denuncias de conducta sexual contra Harvey Weinstein. Testimonios y documentos permiten reconstruir mecanismos de silenciamiento y presión. Se diferencia de la publicación original de 2017 y de las sentencias posteriores: aquí se registra el estreno cinematográfico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/81608803",
+      "https://www.pulitzer.org/winners/new-york-times-reporting-led-jodi-kantor-and-megan-twohey-and-new-yorker-reporting-ronan"
+    ],
+    "procedencia": "CRÍMENES SEXUALES · conexiones · 17 noviembre 2026",
+    "orden": 62008,
+    "tema": "CRÍMENES SEXUALES"
+  },
+  {
+    "yr": 1984,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "The Burning Bed: el maltrato doméstico termina en juicio por homicidio",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Burning Bed: el maltrato doméstico termina en juicio por homicidio</h3>\n    <p><strong>Telefilme judicial · Robert Greenwald · Estados Unidos:</strong> Protagonizada por Farrah Fawcett, The Burning Bed (1984) dramatiza el caso de Francine Hughes, una mujer que sufrió años de violencia conyugal y terminó matando a su marido. El proceso penal exige examinar el historial de maltrato, el miedo y la responsabilidad por el homicidio. La historia es un caso judicial concreto y no una doctrina general sobre legítima defensa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/title/70002497"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62009,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 1991,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Durmiendo con su enemigo: una mujer escapa de una relación violenta",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1991\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Durmiendo con su enemigo: una mujer escapa de una relación violenta</h3>\n    <p><strong>Thriller de persecución · Joseph Ruben · Estados Unidos:</strong> Sleeping with the Enemy (Durmiendo con su enemigo), estrenada en 1991, narra la huida de una mujer controlada y maltratada por su marido. Ella finge morir para empezar una vida con otra identidad, pero el hombre descubre el engaño y la persigue. La historia aborda el peligro que puede continuar después de la separación mediante la estructura del thriller criminal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://watch.afi.com/movie/sleeping-with-the-enemy"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62010,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2001,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Sólo mía: el cine español retrata la escalada del maltrato conyugal",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2001\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Sólo mía: el cine español retrata la escalada del maltrato conyugal</h3>\n    <p><strong>Thriller psicológico · Javier Balaguer · España:</strong> Sólo mía, dirigida por Javier Balaguer y estrenada en 2001, presenta una relación de pareja que deriva en control, humillaciones y agresiones del marido. La amenaza sobre la protagonista y sus intentos de escapar construyen un relato de suspense criminal. La película anticipa en el cine español debates que adquirirían mayor presencia legal y social durante los años siguientes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.filmaffinity.com/es/film442969.html"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62011,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2017,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Custodia compartida: un procedimiento familiar desemboca en amenazas",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Custodia compartida: un procedimiento familiar desemboca en amenazas</h3>\n    <p><strong>Thriller judicial y familiar · Xavier Legrand · Francia:</strong> Jusqu'à la garde, estrenada en 2017 y distribuida en español como Custodia compartida, sigue a una familia separada cuando se establece un régimen de visitas pese a las advertencias sobre la conducta del padre. Los encuentros se convierten en episodios de amenaza y control. La película crea suspense a partir de los riesgos para la mujer y el hijo, y de las limitaciones de la respuesta institucional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.filmaffinity.com/es/film586107.html"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62012,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2017,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Big Little Lies: un asesinato revela violencia oculta entre familias",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Big Little Lies: un asesinato revela violencia oculta entre familias</h3>\n    <p><strong>Serie de misterio criminal · Estados Unidos:</strong> La primera temporada de Big Little Lies, estrenada en 2017, comienza con una muerte durante una fiesta escolar. La reconstrucción de los hechos descubre secretos y episodios de violencia de pareja entre varias familias acomodadas. La intriga muestra cómo el miedo y las relaciones de control condicionan a víctimas y testigos. Adapta Pequeñas mentiras (2014), de Liane Moriarty, cuya publicación tiene otra tarjeta.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hbomax.com/es/es/show/1fbc488d-c7b5-4d38-aad4-f60dcbd85d23"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62013,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2018,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Heridas abiertas: investigar asesinatos y descubrir violencia familiar",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Heridas abiertas: investigar asesinatos y descubrir violencia familiar</h3>\n    <p><strong>Miniserie de thriller psicológico · Estados Unidos:</strong> Sharp Objects, adaptación televisiva de 2018 de la novela Heridas abiertas de Gillian Flynn, sigue a una periodista que vuelve a su localidad para investigar los asesinatos de dos niñas. Su investigación la enfrenta a relaciones familiares de manipulación y daño psicológico. La serie conecta el misterio policial con la violencia que permanece oculta bajo las apariencias del hogar.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/34875-libro-heridas-abiertas-9788490627273"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62014,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2020,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El hombre invisible: el control conyugal se transforma en acoso criminal",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2020\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El hombre invisible: el control conyugal se transforma en acoso criminal</h3>\n    <p><strong>Thriller psicológico · Leigh Whannell · Australia y Estados Unidos:</strong> En The Invisible Man (2020), Cecilia escapa de una pareja dominante y violenta. Después de conocer la supuesta muerte de su agresor, empieza a sufrir amenazas que no consigue probar y que otros consideran fantasías. Pese al mecanismo fantástico de la invisibilidad, la historia se construye como un thriller de persecución, pruebas y descrédito de la víctima.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.screenaustralia.gov.au/screen-guide/invisible-manthe-38114/"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62015,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "The Staircase: una muerte doméstica enfrenta versiones forenses",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Staircase: una muerte doméstica enfrenta versiones forenses</h3>\n    <p><strong>Miniserie judicial y familiar · Estados Unidos:</strong> La miniserie dramatizada The Staircase, estrenada en 2022, reconstruye la muerte de Kathleen Peterson y el proceso contra su esposo, Michael Peterson. La investigación de las lesiones, la escena y los testimonios da lugar a interpretaciones opuestas sobre una caída o un asesinato. La ficción no debe confundirse con el documental anterior del mismo título ni considerarse prueba definitiva de una versión.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/tudum/articles/the-staircase-drama-series-release-date-news"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62016,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
+  },
+  {
+    "yr": 2023,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El cuerpo en llamas: un homicidio entre relaciones sentimentales y policías",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El cuerpo en llamas: un homicidio entre relaciones sentimentales y policías</h3>\n    <p><strong>Miniserie de ficción criminal · España:</strong> El cuerpo en llamas, estrenada en 2023, dramatiza el asesinato en 2017 del agente Pedro Rodríguez, hallado calcinado cerca de Barcelona. La investigación examina relaciones afectivas, pruebas y contradicciones de los implicados. Su conexión es el homicidio cometido en un entorno sentimental, sin atribuir automáticamente a un hombre asesinado la categoría legal española de víctima de violencia de género.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://about.netflix.com/es_es/news/burning-body-premieres-on-september-8",
+      "https://www.netflix.com/es/title/81306170"
+    ],
+    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
+    "orden": 62017,
+    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
   }
 ]
