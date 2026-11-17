@@ -6747,10 +6747,13 @@
     "tipo": "crimen",
     "fecha": "1969-08-09",
     "titulo": "Sharon Tate: los asesinatos que estremecieron Hollywood",
-    "html": "<article class=\"item-evento\" data-fecha=\"1969-08-09\" data-tipo=\"crimen\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Sharon Tate: los asesinatos que estremecieron Hollywood</h3>\n    <p><strong>Crimen · Madrugada del 9 de agosto:</strong> Cinco personas son asesinadas en una residencia de Cielo Drive, Los Ángeles, entre ellas la actriz Sharon Tate, embarazada de ocho meses. La investigación terminará vinculando los crímenes a seguidores de Charles Manson, cuya organización cometerá otros dos asesinatos la noche siguiente. El caso conmociona a Estados Unidos y se convierte en uno de los episodios más conocidos de la violencia criminal de finales de los sesenta.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1969-08-09\" data-tipo=\"crimen\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Sharon Tate: los asesinatos que estremecieron Hollywood</h3>\n    <p><strong>Crimen · Madrugada del 9 de agosto:</strong> Cinco personas son asesinadas en una residencia de Cielo Drive, Los Ángeles, entre ellas la actriz Sharon Tate, embarazada de ocho meses. La investigación terminará vinculando los crímenes a seguidores de Charles Manson. Su llamada «Familia» combinaba liderazgo carismático, aislamiento y obediencia coercitiva; Manson utilizaba cometerá otros dos asesinatos la noche siguiente. El caso conmociona a Estados Unidos y se convierte en uno de los episodios más conocidos de la violencia criminal de finales de los sesenta.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gov.ca.gov/wp-content/uploads/2020/02/Executive-Report-on-Parole-2019-signed.pdf"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1765
+    "orden": 1765,
+    "tema": "SECTAS CRIMINALES"
   },
   {
     "yr": 1973,
@@ -6827,10 +6830,13 @@
     "tipo": "crimen",
     "fecha": "1995-03-20",
     "titulo": "El metro de Tokio: un atentado con un arma química",
-    "html": "<article class=\"item-evento\" data-fecha=\"1995-03-20\" data-tipo=\"crimen\" data-yr=\"1995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El metro de Tokio: un atentado con un arma química</h3>\n    <p><strong>Atentado · 20 de marzo:</strong> Miembros de la secta japonesa Aum Shinrikyo liberan gas sarín en varios trenes del metro de Tokio durante la hora punta. El ataque provoca víctimas mortales y miles de afectados, además de una emergencia sanitaria de enormes dimensiones. La investigación permite identificar a los responsables y descubre otros delitos vinculados a la organización. El episodio revela la amenaza del terrorismo químico contra la población civil y obliga a revisar los protocolos de emergencia y seguridad del transporte.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1995-03-20\" data-tipo=\"crimen\" data-yr=\"1995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El metro de Tokio: un atentado con un arma química</h3>\n    <p><strong>Atentado · 20 de marzo:</strong> Miembros de Aum Shinrikyo, organización coercitiva dirigida por Shoko Asahara que ya había cometido asesinatos y realizado un ataque con sarín en Matsumoto en 1994, liberan gas sarín en varios trenes del metro de Tokio durante la hora punta. El ataque provoca víctimas mortales y miles de afectados, además de una emergencia sanitaria de enormes dimensiones. La investigación permite identificar a los responsables y descubre otros delitos vinculados a la organización. El episodio revela la amenaza del terrorismo químico contra la población civil y obliga a revisar los protocolos de emergencia y seguridad del transporte.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.opcw.org/media-centre/news/2001/06/sarin-gas-attack-japan-and-related-forensic-investigation"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1785
+    "orden": 1785,
+    "tema": "SECTAS CRIMINALES"
   },
   {
     "yr": 2006,
@@ -10540,6 +10546,246 @@
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · 17 noviembre 2026",
     "orden": 50142,
     "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1978,
+    "tipo": "crimen",
+    "fecha": "1978-11-18",
+    "titulo": "Jonestown: Jim Jones conduce al Templo del Pueblo a una matanza colectiva",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1978\" data-fecha=\"1978-11-18\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1978</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jonestown: Jim Jones conduce al Templo del Pueblo a una matanza colectiva</h3>\n    <p><strong>Muerte colectiva y asesinatos · Guyana:</strong> El congresista estadounidense Leo Ryan visita la comunidad de Jonestown para investigar denuncias de abusos y retención de fieles. El 18 de noviembre, varios seguidores de Jim Jones asesinan al congresista y a otras personas en una pista de aterrizaje. Después mueren más de 900 miembros del Templo del Pueblo, incluidos numerosos menores, por envenenamiento y violencia. No se trató simplemente de un suicidio voluntario: hubo víctimas forzadas o incapaces de consentir. El FBI investiga el asesinato del congresista y colabora con las autoridades guyanesas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/jonestown",
+      "https://vault.fbi.gov/jonestown/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52001,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1984,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Rajneeshees: una comuna contamina alimentos para alterar una elección local",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Rajneeshees: una comuna contamina alimentos para alterar una elección local</h3>\n    <p><strong>Bioterrorismo y manipulación electoral · Oregón, Estados Unidos:</strong> En septiembre y octubre de 1984, responsables de la comuna de Rajneeshpuram vinculados al entorno de Bhagwan Shree Rajneesh contaminan alimentos servidos en restaurantes de The Dalles con salmonela. Se documentan 751 enfermos. La acción formaba parte de intentos de influir en las elecciones locales, y inicialmente parece un brote alimentario ordinario. Las investigaciones epidemiológicas y policiales terminan relacionándolo con miembros de la organización; dos dirigentes son condenadas por su participación. No se atribuye automáticamente el delito a todos los integrantes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/field-office-histories/portland",
+      "https://pubmed.ncbi.nlm.nih.gov/9244330/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52002,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1989,
+    "tipo": "crimen",
+    "fecha": "1989-11-04",
+    "titulo": "Aum Shinrikyo asesina al abogado Sakamoto y a su familia",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1989\" data-fecha=\"1989-11-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Aum Shinrikyo asesina al abogado Sakamoto y a su familia</h3>\n    <p><strong>Asesinatos para silenciar denuncias · Japón:</strong> Miembros de Aum Shinrikyo asesinan en Yokohama al abogado Tsutsumi Sakamoto, a su esposa y a su hijo pequeño. El letrado asesoraba a familias enfrentadas con la organización dirigida por Shoko Asahara y cuestionaba sus prácticas coercitivas. Las desapariciones tardan años en esclarecerse, hasta que las pesquisas posteriores al ataque con sarín de Tokio desvelan otros delitos del grupo. Es un ejemplo de violencia selectiva contra quienes intentaban investigar y denunciar a una organización sectaria.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nippon.com/en/articles/-/17310",
+      "https://www.japantimes.co.jp/news/2003/04/25/national/cases-asahara-stands-accused-in/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52003,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1991,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Edelweiss: la justicia condena la explotación de menores por una secta española",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1991\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Edelweiss: la justicia condena la explotación de menores por una secta española</h3>\n    <p><strong>Abusos sexuales y estructura coercitiva · España:</strong> En 1991 se condena a Eduardo González Arenas, conocido como «Eddie», fundador de Edelweiss, y a colaboradores del grupo por delitos sexuales contra menores. La organización había captado a niños y adolescentes con la apariencia de un club de actividades y excursiones; utilizaba una jerarquía de inspiración paramilitar, promesas de salvación y relaciones de dependencia para ejercer control y cometer abusos. El dirigente recibe una condena acumulada de 168 años, aunque el tiempo efectivamente cumplido sería mucho menor. El caso muestra cómo una apariencia recreativa puede encubrir explotación organizada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/play/noticias/20210928/edelweiss-serie-documental-secta-cronologia/2175242.shtml",
+      "https://elpais.com/diario/1998/09/02/sociedad/904687201_850215.html"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52004,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1991,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Colonia Dignidad: Chile retira la personalidad jurídica de la comunidad de Schäfer",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1991\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Colonia Dignidad: Chile retira la personalidad jurídica de la comunidad de Schäfer</h3>\n    <p><strong>Intervención estatal · Chile:</strong> El Gobierno chileno cancela en 1991 la personalidad jurídica de la sociedad benefactora que amparaba Colonia Dignidad, enclave fundado en 1961 por el predicador alemán Paul Schäfer. Bajo una estructura cerrada y jerárquica se denunciaron y documentaron abusos sexuales, trabajos forzados, aislamiento y colaboración con la represión durante la dictadura de Pinochet. La retirada de su cobertura institucional no equivale a su desaparición inmediata: las investigaciones y capturas de sus responsables continuarían durante años.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bcn.cl/leychile/navegar?idNorma=1093487",
+      "https://ciudadano.indh.cl/colonia-dignidad/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52005,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 1993,
+    "tipo": "crimen",
+    "fecha": "1993-04-19",
+    "titulo": "Waco: el asedio a los davidianos termina en una tragedia de múltiples víctimas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-04-19\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Waco: el asedio a los davidianos termina en una tragedia de múltiples víctimas</h3>\n    <p><strong>Enfrentamiento armado e investigación institucional · Texas, Estados Unidos:</strong> El 28 de febrero, una operación federal para registrar las instalaciones de los davidianos de la Rama, dirigidos por David Koresh, desencadena un tiroteo con muertes de agentes y seguidores. Después de 51 días de asedio, el complejo de Monte Carmelo arde durante la intervención del 19 de abril; mueren decenas de personas, entre ellas menores. Las pesquisas oficiales atribuyen el inicio de los incendios a ocupantes del recinto, pero también examinan las decisiones y errores de las autoridades. No debe presentarse todo el caso como un suicidio colectivo probado ni confundir las responsabilidades del líder con las de cada miembro.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/publications/waco/report-deputy-attorney-general-events-waco-texas-executive-summary",
+      "https://www.ojp.gov/ncjrs/virtual-library/abstracts/evaluation-handling-branch-davidian-stand-waco-texas-february-28"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52006,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1994,
+    "tipo": "crimen",
+    "fecha": "1994-10-05",
+    "titulo": "Orden del Templo Solar: muertes rituales y asesinatos en Suiza y Canadá",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1994\" data-fecha=\"1994-10-05\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1994</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Orden del Templo Solar: muertes rituales y asesinatos en Suiza y Canadá</h3>\n    <p><strong>Muertes colectivas bajo control sectario · Suiza y Canadá:</strong> En octubre de 1994 se descubren decenas de cadáveres de miembros de la Orden del Templo Solar, encabezada por Joseph Di Mambro y Luc Jouret, en inmuebles de Suiza y Canadá. Las pesquisas encuentran indicios de homicidios junto a suicidios preparados y escenificados como un tránsito espiritual. Nuevos episodios mortales en Francia en 1995 y en Canadá en 1997 elevan el total a 74 fallecidos. La secuencia obliga a distinguir la muerte consentida de la violencia sobre seguidores y menores, así como a coordinar investigaciones de varios países.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.swissinfo.ch/eng/foreign-affairs/video-the-1994-solar-temple-cult-deaths-in-switzerland/40878686",
+      "https://www.swissinfo.ch/eng/demographics/suspected-cult-leader-faces-second-trial/5520438"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52007,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1994,
+    "tipo": "crimen",
+    "fecha": "1994-06-27",
+    "titulo": "Matsumoto: Aum Shinrikyo emplea sarín antes del atentado de Tokio",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1994\" data-fecha=\"1994-06-27\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1994</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Matsumoto: Aum Shinrikyo emplea sarín antes del atentado de Tokio</h3>\n    <p><strong>Ataque químico · Japón:</strong> En junio de 1994, miembros de Aum Shinrikyo liberan sarín en una zona residencial de Matsumoto, en la prefectura de Nagano. El gas causa numerosas intoxicaciones y varias muertes; la policía tarda en identificar a los autores y en relacionar el ataque con el grupo dirigido por Shoko Asahara. El episodio revela que la organización ya disponía de capacidad para producir y emplear agentes neurotóxicos antes de los atentados de marzo de 1995 en el metro de Tokio, que cuentan con una tarjeta propia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.opcw.org/media-centre/news/2001/06/sarin-gas-attack-japan-and-related-forensic-investigation",
+      "https://www.nippon.com/en/articles/-/17310"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52008,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1997,
+    "tipo": "crimen",
+    "fecha": "1997-03-26",
+    "titulo": "Heaven's Gate: encuentran 39 fallecidos en una comunidad apocalíptica",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1997\" data-fecha=\"1997-03-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1997</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Heaven's Gate: encuentran 39 fallecidos en una comunidad apocalíptica</h3>\n    <p><strong>Muerte colectiva y comprobación policial · California, Estados Unidos:</strong> El 26 de marzo de 1997, la policía del condado de San Diego descubre 39 cadáveres en una vivienda de Rancho Santa Fe. Pertenecían al grupo Heaven's Gate, dirigido por Marshall Applewhite, que interpretaba la llegada del cometa Hale-Bopp según sus creencias apocalípticas. La investigación determina que los miembros habían muerto en una acción suicida colectiva organizada durante varios días. Es fundamental precisar que no constituye, por sí mismo, un asesinato múltiple judicialmente acreditado: su relevancia aquí radica en la obediencia grupal y las muertes colectivas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case",
+      "https://www.cdamm.org/articles/heavens-gate"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52009,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2000,
+    "tipo": "crimen",
+    "fecha": "2000-03-17",
+    "titulo": "Kanungu: la muerte de cientos de seguidores revela asesinatos en una secta ugandesa",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2000\" data-fecha=\"2000-03-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Kanungu: la muerte de cientos de seguidores revela asesinatos en una secta ugandesa</h3>\n    <p><strong>Matanza colectiva y fosas clandestinas · Uganda:</strong> El 17 de marzo de 2000 arde un edificio religioso en Kanungu donde permanecían cientos de seguidores del Movimiento para la Restauración de los Diez Mandamientos de Dios. La primera hipótesis de suicidio colectivo pierde fuerza cuando la policía encuentra otras fosas con víctimas que presentan indicios de homicidio. La organización, de orientación apocalíptica y liderazgo autoritario, había aislado a miembros y menores. Los recuentos difundidos varían según las fases de búsqueda; resulta más riguroso hablar de centenares de víctimas que de una cifra definitiva indiscutida.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.washingtonpost.com/archive/politics/2000/03/25/ugandan-probers-find-mass-graves/1b461127-1546-4403-9df8-68de348bb630/",
+      "https://www.cesnur.org/testi/uganda_017.htm"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52010,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2005,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Paul Schäfer es capturado tras años de fuga de Colonia Dignidad",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Paul Schäfer es capturado tras años de fuga de Colonia Dignidad</h3>\n    <p><strong>Detención del dirigente · Argentina y Chile:</strong> En marzo de 2005, Paul Schäfer, dirigente de Colonia Dignidad, es detenido en Argentina tras haber huido de la justicia chilena. La colonia, establecida en 1961, había funcionado como comunidad cerrada con control de la vida cotidiana y había sido escenario de graves abusos sexuales contra menores y violaciones de derechos humanos. Schäfer es trasladado a Chile, donde cumple condena hasta su muerte en 2010. La captura cierra la fuga del principal dirigente, no todos los procedimientos judiciales ni la reparación de las víctimas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://ciudadano.indh.cl/colonia-dignidad/",
+      "https://www.bcn.cl/leychile/navegar?idNorma=1093487"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52011,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2012,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Antares de la Luz: el asesinato de un recién nacido en una comunidad chilena",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2012\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Antares de la Luz: el asesinato de un recién nacido en una comunidad chilena</h3>\n    <p><strong>Homicidio ritual y coerción · Colliguay, Chile:</strong> En noviembre de 2012, un grupo apocalíptico dirigido por Ramón Castillo Gaete, autodenominado Antares de la Luz, mata a un recién nacido en Colliguay, región de Valparaíso, durante un supuesto ritual de purificación. El líder huye posteriormente y muere por suicidio en Perú en 2013. La Fiscalía chilena reconstruye el escenario y los roles de los integrantes; en 2017 obtiene condenas contra partícipes y encubridores, incluyendo penas de prisión efectiva para dos responsables. Las decisiones judiciales se basaron en conductas individuales y pruebas, no en la mera pertenencia al grupo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fiscaliadechile.cl/index.php/actualidad/noticias/regionales/fiscalia-obtuvo-condena-de-la-secta-de-antares-de-la-luz",
+      "https://www.fiscaliadechile.cl/index.php/actualidad/noticias/regionales/fiscalia-logra-penas-solicitadas-contra-la-secta-de-antares-de-la"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52012,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2019,
+    "tipo": "crimen",
+    "fecha": "2019-06-19",
+    "titulo": "NXIVM: un jurado condena a Keith Raniere por una red de explotación",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-06-19\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>NXIVM: un jurado condena a Keith Raniere por una red de explotación</h3>\n    <p><strong>Explotación sexual y asociación delictiva · Nueva York:</strong> Un jurado federal de Brooklyn declara culpable en junio de 2019 a Keith Raniere, fundador de NXIVM, una organización presentada públicamente como empresa de formación y superación personal. El juicio prueba la existencia de estructuras de obediencia, chantaje y explotación dentro de un subgrupo de mujeres, junto con delitos de trata sexual, trabajo forzado, fraude y participación en una organización criminal. En octubre de 2020 Raniere es condenado a 120 años de prisión. El caso muestra cómo una estructura empresarial puede utilizarse para delitos coercitivos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-edny/pr/jury-finds-nxivm-leader-keith-raniere-guilty-all-counts",
+      "https://www.justice.gov/usao-edny/pr/nxivm-leader-keith-raniere-sentenced-120-years-prison-racketeering-and-sex-trafficking"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52013,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2022,
+    "tipo": "crimen",
+    "fecha": "2022-06-08",
+    "titulo": "La Luz del Mundo: condenan a su dirigente Naasón Joaquín García",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2022\" data-fecha=\"2022-06-08\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La Luz del Mundo: condenan a su dirigente Naasón Joaquín García</h3>\n    <p><strong>Abusos sexuales contra menores · California, Estados Unidos:</strong> Naasón Joaquín García, dirigente de la organización religiosa internacional La Luz del Mundo, es condenado en California a 16 años y ocho meses de prisión después de declararse culpable de diversos delitos sexuales contra tres menores. La investigación revela el uso de su autoridad religiosa para facilitar la victimización. La condena corresponde a hechos y personas concretas: no supone que todos los fieles o integrantes de la confesión participaran en una organización criminal. Procedimientos federales posteriores deben distinguirse de esta condena ya firme en su alcance histórico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://oag.ca.gov/news/press-releases/attorney-general-bonta-issues-statement-nearly-17-year-prison-sentence-against",
+      "https://oag.ca.gov/node/554047"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52014,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2023,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Shakahola: fosas en un bosque de Kenia revelan una red de muertes por ayuno",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Shakahola: fosas en un bosque de Kenia revelan una red de muertes por ayuno</h3>\n    <p><strong>Muertes por privación y control coercitivo · Kenia:</strong> En abril de 2023, las autoridades kenianas comienzan a descubrir centenares de cuerpos enterrados en el bosque de Shakahola, cerca de Malindi, vinculados al grupo de Paul Nthenge Mackenzie, dirigente de Good News International Church. La investigación reúne testimonios de supervivientes, enterramientos, autopsias e indicios de ayuno forzado y violencia. Entre los fallecidos hay numerosos menores. No todas las muertes investigadas quedaron englobadas en los mismos cargos: un proceso judicial posterior se centró específicamente en 191 víctimas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.kenyanews.go.ke/mackenzie-28-others-guilty-of-shakahola-deaths/",
+      "https://www.dci.go.ke/index.php/dci-welcomes-conviction-paul-mackenzie-and-28-co-accused-shakahola-massacre"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52015,
+    "tema": "SECTAS CRIMINALES",
+    "precision_fecha": "año/periodo"
+  },
+  {
+    "yr": 2026,
+    "tipo": "crimen",
+    "fecha": "2026-11-06",
+    "titulo": "Shakahola: 200 años de prisión para Paul Mackenzie por 191 asesinatos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2026\" data-fecha=\"2026-11-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2026</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Shakahola: 200 años de prisión para Paul Mackenzie por 191 asesinatos</h3>\n    <p><strong>Sentencia judicial · Mombasa, Kenia:</strong> Tras una investigación iniciada con el hallazgo de fosas en 2023, el 19 de octubre de 2026 un tribunal keniano declara culpables a Paul Nthenge Mackenzie y a 28 coacusados por los asesinatos de 191 personas, de las que 190 eran menores. El 6 de noviembre el dirigente recibe una condena de 200 años de prisión. La sentencia distingue muertes por privación deliberada de otras formas de homicidio; consta recurso frente a la resolución, por lo que no debe presentarse como cierre firme de todos los procedimientos relacionados con Shakahola.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.kenyanews.go.ke/mackenzie-jailed-for-200-years-over-shakahola-massacre/",
+      "https://www.kenyanews.go.ke/mackenzie-28-others-guilty-of-shakahola-deaths/"
+    ],
+    "procedencia": "SECTAS CRIMINALES · fase histórica · 17 noviembre 2026",
+    "orden": 52016,
+    "tema": "SECTAS CRIMINALES",
     "precision_fecha": "día"
   }
 ]
