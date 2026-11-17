@@ -380,12 +380,13 @@
     "yr": 2021,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "La serpiente: una serie revisita los crímenes atribuidos a Charles Sobhraj",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La serpiente: una serie revisita los crímenes atribuidos a Charles Sobhraj</h3>\n    <p><strong>Miniserie · Reino Unido:</strong> La BBC y Netflix difunden <em>La serpiente</em> (<em>The Serpent</em>), dramatización de los homicidios vinculados a Charles Sobhraj en rutas turísticas asiáticas de los años setenta. La ficción sigue las pesquisas de un diplomático neerlandés y la reconstrucción de desapariciones en países distintos. La importancia cultural de la miniserie no implica que diálogos, relaciones o todas las imputaciones mostradas sean hechos judicialmente comprobados.</p>\n  </div>\n</article>",
+    "titulo": "La serpiente: crímenes de Sobhraj e investigación transnacional",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La serpiente: crímenes de Sobhraj e investigación transnacional</h3>\n    <p><strong>Miniserie · BBC y Netflix · 2021:</strong> <em>The Serpent</em> dramatiza asesinatos, robos y engaños atribuidos a Charles Sobhraj contra viajeros extranjeros en Asia durante los años setenta. Las sustancias sedantes empleadas para incapacitar víctimas forman parte de la mecánica delictiva, mientras un diplomático neerlandés trata de relacionar desapariciones e identidades mediante testimonios y cooperación internacional. La ficción sirve para explorar la dificultad de investigar delitos que cruzan fronteras, pero no acredita por sí misma cada diálogo o imputación histórica ni convierte el análisis toxicológico en la única prueba.</p>\n  </div>\n</article>",
     "fuentes": [
-      "de contraste: https://www.netflix.com/es/title/80206099"
+      "https://www.netflix.com/es/title/80206099",
+      "https://www.justwatch.com/es/serie/the-serpent"
     ],
-    "procedencia": "Texto pegado(20261116-201329).txt",
+    "procedencia": "Fusión de fichas duplicadas Cine y Series · 17 noviembre 2026",
     "orden": 173
   },
   {
@@ -1853,18 +1854,6 @@
     "yr": 2009,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "Un profeta: un preso frente a la mafia corsa",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Un profeta: un preso frente a la mafia corsa</h3>\n    <p><strong>Cine · Jacques Audiard:</strong> En <em>Un prophète</em>, distribuida en España como <em>Un profeta</em>, un joven preso entra en la órbita de César Luciani, jefe de una banda corsa dentro de la cárcel. La película muestra el control penitenciario, los encargos violentos y las lealtades inestables de grupos criminales, sin representar literalmente a una organización histórica concreta.</p>\n  </div>\n</article>",
-    "fuentes": [
-      "editorial: https://www.festival-cannes.com/en/f/un-prophete/"
-    ],
-    "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 760
-  },
-  {
-    "yr": 2009,
-    "tipo": "audiovisual",
-    "fecha": "",
     "titulo": "Salve Geral: el asedio de São Paulo llega al cine",
     "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Salve Geral: el asedio de São Paulo llega al cine</h3>\n    <p><strong>Cine · Sérgio Rezende:</strong> <em>Salve Geral</em> mezcla ficción y hechos reales para recrear los ataques coordinados que sembraron el caos en São Paulo en 2006, relacionados con el PCC. El drama sigue a una madre atrapada entre el sistema penitenciario y la delincuencia organizada. Es una de las conexiones audiovisuales más directas con la trayectoria del grupo brasileño.</p>\n  </div>\n</article>",
     "fuentes": [
@@ -2256,19 +2245,6 @@
     "orden": 960
   },
   {
-    "yr": 2021,
-    "tipo": "audiovisual",
-    "fecha": "",
-    "titulo": "La serpiente: las sustancias sedantes como instrumento de un asesino",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La serpiente: las sustancias sedantes como instrumento de un asesino</h3>\n    <p><strong>Miniserie · 2021:</strong> <em>La serpiente</em> (<em>The Serpent</em>), protagonizada por Tahar Rahim, dramatiza los delitos de Charles Sobhraj contra viajeros extranjeros en Asia durante la década de 1970. El personaje utiliza engaños y sustancias que incapacitan a sus víctimas antes de robarles o atacarlas, mientras las desapariciones despiertan sospechas internacionales. La serie es una conexión narrativa con la toxicología por el papel de las drogas administradas sin consentimiento, pero su eje está en la investigación policial y consular: no presenta el análisis químico de laboratorio como la única vía de esclarecimiento de los hechos.</p>\n  </div>\n</article>",
-    "fuentes": [
-      "https://www.netflix.com/es/title/80206099",
-      "https://www.justwatch.com/es/serie/the-serpent"
-    ],
-    "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 961
-  },
-  {
     "yr": 2022,
     "tipo": "audiovisual",
     "fecha": "",
@@ -2622,10 +2598,13 @@
     "yr": 2022,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "La escalera: la ficción reconstruye las interpretaciones enfrentadas de la sangre",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La escalera: la ficción reconstruye las interpretaciones enfrentadas de la sangre</h3>\n    <p><strong>Miniserie · 2022:</strong> HBO estrena <em>La escalera</em> (<em>The Staircase</em>), creada por Antonio Campos y protagonizada por Colin Firth y Toni Collette. Inspirada en la muerte de Kathleen Peterson en 2001 y en el posterior proceso judicial, la serie dramatiza los acontecimientos familiares, la investigación y las hipótesis sobre las lesiones y los patrones de sangre hallados en la vivienda. A diferencia del documental <em>El caso de la escalera</em> (2004), reconstruye las escenas mediante actores y recursos de ficción. Su existencia completa una conexión entre hecho real, discusión científica, documental y dramatización televisiva.</p>\n  </div>\n</article>",
-    "fuentes": [],
-    "procedencia": "Texto pegado(20261116-201329).txt",
+    "titulo": "La escalera: lesiones, prueba forense y un juicio por muerte doméstica",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La escalera: lesiones, prueba forense y un juicio por muerte doméstica</h3>\n    <p><strong>Miniserie dramatizada · HBO · 2022:</strong> Basada en la muerte de Kathleen Peterson en 2001 y en el proceso contra su esposo Michael Peterson, <em>The Staircase</em> reconstruye hipótesis enfrentadas sobre las lesiones, la distribución de la sangre y la escena de una escalera doméstica. Creada por Antonio Campos y protagonizada por Colin Firth y Toni Collette, es una ficción con actores, distinta del documental anterior <em>El caso de la escalera</em>. Su relevancia reside en mostrar la controversia pericial y las interpretaciones judiciales, no en probar definitivamente una de las versiones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://press.wbd.com/ca/media-release/max-original-limited-series-staircase-debuts-may-5?language_content_entity=en",
+      "https://www.hbomax.com/show/8c932746-e770-4da5-80d9-a1b6ceb53cc5"
+    ],
+    "procedencia": "Fusión de fichas duplicadas Cine y Series · 17 noviembre 2026",
     "orden": 1118
   },
   {
@@ -2742,13 +2721,15 @@
     "yr": 1969,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "Z: una autopsia desmiente la versión oficial de un accidente",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Z: una autopsia desmiente la versión oficial de un accidente</h3>\n    <p><strong>Película · 1969:</strong> Costa-Gavras dirige <em>Z</em>, un thriller político inspirado en el asesinato del diputado griego Grigoris Lambrakis. Tras la muerte de un dirigente opositor, las autoridades intentan sostener que las lesiones proceden de un accidente de tráfico. El examen médico revela que los daños craneales son compatibles con un golpe deliberado, información que permite al magistrado investigador desmontar la explicación inicial. La película utiliza la patología forense no para identificar al culpable por sí sola, sino para establecer qué ocurrió físicamente y confrontar una versión interesada de los hechos.</p>\n  </div>\n</article>",
+    "titulo": "Z: una autopsia y un magistrado desmontan un asesinato político",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Z: una autopsia y un magistrado desmontan un asesinato político</h3>\n    <p><strong>Película · Costa-Gavras · 1969 · thriller político y judicial:</strong> Inspirada en el asesinato del diputado griego Grigoris Lambrakis y basada en la novela de Vassilis Vassilikos, <em>Z</em> sigue la pesquisa que desmiente la versión oficial de un supuesto accidente. El examen médico cuestiona las lesiones atribuidas al tráfico, mientras las declaraciones, las diligencias de un magistrado y el rastreo de responsabilidades revelan conexiones entre agresores, autoridades y estructuras parapoliciales. El filme hace del procedimiento judicial y la medicina forense instrumentos de denuncia del encubrimiento institucional, sin presentar la autopsia como prueba suficiente por sí sola.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.tcm.com/articles/359260/z-1969-z",
-      "https://www.tcm.com/watchtcm/titles/96627"
+      "https://www.tcm.com/watchtcm/titles/96627",
+      "https://www.circulobellasartes.com/ciclos-cine/peliculas/z-de-costa-gavras/",
+      "https://puedjs.unam.mx/libros-y-peliculas/z/"
     ],
-    "procedencia": "Texto pegado(20261116-201329).txt",
+    "procedencia": "Fusión de fichas duplicadas Cine y Series · 17 noviembre 2026",
     "orden": 1254
   },
   {
@@ -3866,10 +3847,12 @@
     "yr": 2009,
     "tipo": "audiovisual",
     "fecha": "2009-08-26",
-    "titulo": "Un profeta: el nacimiento de un criminal entre rejas",
-    "html": "<article class=\"item-evento\" data-fecha=\"2009-08-26\" data-tipo=\"audiovisual\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Un profeta: el nacimiento de un criminal entre rejas</h3>\n    <p><strong>Cine · 26 de agosto:</strong> Se estrena en Francia <em>Un prophète</em>, dirigida por Jacques Audiard y protagonizada por Tahar Rahim. Malik El Djebena, un joven que ingresa en prisión, comienza siendo una figura vulnerable sometida a la autoridad de otros reclusos, pero aprende progresivamente a desenvolverse entre las estructuras criminales del centro penitenciario. La película retrata la cárcel como espacio de violencia, aprendizaje y ascenso dentro del crimen organizado. Galardonada con el Gran Premio del Jurado en Cannes, se convierte en una referencia del cine criminal europeo contemporáneo.</p>\n  </div>\n</article>",
-    "fuentes": [],
-    "procedencia": "Texto pegado(20261116-201329).txt",
+    "titulo": "Un profeta: el aprendizaje criminal de Malik en una prisión francesa",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2009\" data-fecha=\"2009-08-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Un profeta: el aprendizaje criminal de Malik en una prisión francesa</h3>\n    <p><strong>Película · Jacques Audiard · estreno francés 26 de agosto de 2009:</strong> En <em>Un prophète</em>, Malik El Djebena ingresa en prisión vulnerable y sometido al poder del capo corso César Luciani. La convivencia carcelaria, las alianzas y los encargos delictivos lo convierten progresivamente en un actor de las estructuras criminales. La película no reproduce literalmente la biografía de una banda documentada: su aportación consiste en mostrar cómo la cárcel puede funcionar como entorno de socialización y ascenso en el crimen organizado. Obtuvo el Gran Premio del Jurado de Cannes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.festival-cannes.com/en/f/un-prophete/"
+    ],
+    "procedencia": "Fusión de fichas duplicadas Cine y Series · 17 noviembre 2026",
     "orden": 1794
   },
   {
@@ -4164,16 +4147,6 @@
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1889
-  },
-  {
-    "yr": 2002,
-    "tipo": "audiovisual",
-    "fecha": "",
-    "titulo": "Bajo escucha",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2002\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Bajo escucha</h3>\n    <p><strong>Televisión:</strong> David Simon estrena una serie criminal que retrata Baltimore como un sistema de policías, políticos, escuelas, prensa y narcotráfico, ampliando el alcance narrativo del procedural moderno. David Simon y Ed Burns muestran la investigación del narcotráfico mediante escuchas, confidentes y vigilancia, pero también desde sus límites burocráticos. La serie utiliza el crimen para retratar toda una ciudad.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
-    "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 1890
   },
   {
     "yr": 2003,
@@ -4823,13 +4796,13 @@
     "yr": 2002,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "Bajo escucha: el policiaco muestra las desigualdades estructurales de Baltimore",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2002\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Bajo escucha: el policiaco muestra las desigualdades estructurales de Baltimore</h3>\n    <p><strong>Serie televisiva · David Simon · Estados Unidos · 2002:</strong> <em>The Wire</em>, distribuida oficialmente en España como <em>Bajo escucha</em>, sigue investigaciones policiales sobre asesinatos, redes de narcotráfico e interceptaciones telefónicas en Baltimore. Su perspectiva coral retrata las relaciones entre policía, bandas, barrios segregados y oportunidades económicas desiguales, sin equiparar automáticamente pobreza y delincuencia. El racismo opera como parte de una estructura institucional y urbana que condiciona las decisiones de investigadores y sospechosos. La trama sigue siendo criminal, pero su alcance desborda el procedimiento de un caso aislado.</p>\n  </div>\n</article>",
+    "titulo": "Bajo escucha: la investigación de Baltimore se convierte en retrato de una ciudad",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2002\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Bajo escucha: la investigación de Baltimore se convierte en retrato de una ciudad</h3>\n    <p><strong>Serie · David Simon y Ed Burns · Estados Unidos · 2002:</strong> <em>The Wire</em>, estrenada en español como <em>Bajo escucha</em>, empieza por las pesquisas sobre narcotráfico y asesinatos en Baltimore mediante escuchas, confidentes y vigilancia. A lo largo de sus temporadas amplía la mirada a tribunales, política, barrios, escuelas, sindicatos y medios de comunicación. El enfoque coral muestra los límites del trabajo policial y las relaciones entre desigualdad, intereses económicos y delincuencia, sin reducir el crimen a un estereotipo de pobreza o raza. Constituye una de las grandes transformaciones del procedimiento policial televisivo.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.hbomax.com/ad/es/show/1bc3aff5-0d6a-4c0b-8ed0-5716ca30ab3b",
       "https://isps.yale.edu/news/2023-08-25-the-politics-of-hbos-the-wire-uncovering-urban-realities"
     ],
-    "procedencia": "Conexiones editoriales VIOLENCIA RACIAL · 17 noviembre 2026",
+    "procedencia": "Fusión de fichas duplicadas Cine y Series · 17 noviembre 2026",
     "orden": 50019,
     "tema": "VIOLENCIA RACIAL",
     "tipo_conexion": "PROCEDIMIENTO POLICIAL Y DESIGUALDAD",
@@ -5170,20 +5143,6 @@
     ],
     "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
     "orden": 51001,
-    "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
-  },
-  {
-    "yr": 1969,
-    "tipo": "audiovisual",
-    "fecha": "",
-    "titulo": "Z: un magistrado desmonta el encubrimiento de un asesinato político",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Z: un magistrado desmonta el encubrimiento de un asesinato político</h3>\n    <p><strong>Thriller judicial · Costa-Gavras:</strong> Estrenada en 1969, <em>Z</em> adapta la novela de Vassilis Vassilikos inspirada en el asesinato del diputado griego Grigoris Lambrakis en 1963. Tras una agresión presentada inicialmente como accidente, un magistrado y varios testigos investigan responsabilidades que conducen a estructuras de poder y grupos parapoliciales. El procedimiento judicial y la obtención de pruebas sostienen una de las referencias fundamentales del thriller político de investigación.</p>\n  </div>\n</article>",
-    "fuentes": [
-      "https://www.circulobellasartes.com/ciclos-cine/peliculas/z-de-costa-gavras/",
-      "https://puedjs.unam.mx/libros-y-peliculas/z/"
-    ],
-    "procedencia": "MAGNICIDIOS Y ASESINATOS POLÍTICOS · conexiones · 17 noviembre 2026",
-    "orden": 51003,
     "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS"
   },
   {
@@ -5686,20 +5645,6 @@
     ],
     "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
     "orden": 62015,
-    "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
-  },
-  {
-    "yr": 2022,
-    "tipo": "audiovisual",
-    "fecha": "",
-    "titulo": "La escalera (The Staircase): una muerte doméstica enfrenta versiones forenses",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La escalera (The Staircase): una muerte doméstica enfrenta versiones forenses</h3>\n    <p><strong>Miniserie judicial y familiar · Estados Unidos:</strong> La miniserie dramatizada <em>The Staircase</em> (<em>La escalera</em>), estrenada en 2022, reconstruye la muerte de Kathleen Peterson y el proceso contra su esposo, Michael Peterson. La investigación de las lesiones, la escena y los testimonios da lugar a interpretaciones opuestas sobre una caída o un asesinato. La ficción no debe confundirse con el documental anterior del mismo título ni considerarse prueba definitiva de una versión.</p>\n  </div>\n</article>",
-    "fuentes": [
-      "https://press.wbd.com/ca/media-release/max-original-limited-series-staircase-debuts-may-5?language_content_entity=en",
-      "https://www.hbomax.com/show/8c932746-e770-4da5-80d9-a1b6ceb53cc5"
-    ],
-    "procedencia": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES · conexiones · 17 noviembre 2026",
-    "orden": 62016,
     "tema": "VIOLENCIA DE GÉNERO Y CRÍMENES FAMILIARES"
   },
   {
