@@ -12494,5 +12494,122 @@
     "orden": 64098,
     "tema": "MAGNICIDIOS Y ASESINATOS POLÍTICOS",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 28,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "El albañil y el cofre de joyas oculto tras un muro",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">28</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El albañil y el cofre de joyas oculto tras un muro</h3>\n    <p><strong>Robo doméstico · Egipto romano · 28–29 (fecha aproximada):</strong> Orsenouphis denuncia ante Serapión, responsable policial de Euhemeria, al albañil Petesouchus: durante unas obras habría encontrado un cofre escondido por la madre del dueño y enviado sus joyas y monedas a su casa con ayuda de su hija. El albañil admite haber hallado la caja, pero sostiene que estaba vacía. Conocemos la acusación, no una condena. El papiro <em>P. Ryl. II 125</em> conserva una sorprendente descripción de objetos, sospechoso e indicios: un antecedente de la denuncia por hurto y del conflicto sobre la prueba material.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://attalus.org/docs/select2/p278.html"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66000,
+    "tema": "ROBOS Y DELITOS PATRIMONIALES"
+  },
+  {
+    "yr": 66,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Un ternero rojo desaparece: una denuncia de abigeato",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"66\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">66</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Un ternero rojo desaparece: una denuncia de abigeato</h3>\n    <p><strong>Robo de ganado · Karanis, Egipto romano:</strong> Ammonios, agricultor de tierras públicas, denuncia que unos ladrones se han llevado de noche un ternero rojizo que pastaba cerca de Kerkesoucha. Pide al estratego Tiberio Claudio Andrótimo que ordene al responsable local ayudarle en la búsqueda. El documento <em>P. Mich. IX 523</em> muestra una modalidad de delincuencia rural que reaparecerá durante siglos: el robo de ganado, la descripción del bien sustraído y la movilización de autoridades para recuperarlo. No se conoce aquí el desenlace de la investigación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://egyptianinscriptions.org/object/139630-petition-to-the-strategos-about-a-calf-stolen-near-kerkesoucha"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66001,
+    "tema": "ROBOS Y DELITOS PATRIMONIALES"
+  },
+  {
+    "yr": 246,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Una familia asaltada pide que un médico examine a los heridos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"246\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">246</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Una familia asaltada pide que un médico examine a los heridos</h3>\n    <p><strong>Robo violento · This, Egipto · 9 de febrero:</strong> Aurelia Senpatous denuncia que un grupo irrumpió en su casa, rompió las puertas, se llevó bienes e hirió con espadas a su marido y a su hijo. La petición <em>P. Oxy. LVIII 3926</em>, fechada el 9 de febrero, solicita el reconocimiento oficial de las lesiones. El estratego encarga a un asistente que actúe junto a un médico público. El núcleo del caso es el asalto doméstico; resulta igualmente revelador el enlace temprano entre denuncia penal y constatación médica del daño.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://egyptianinscriptions.org/object/143767-petition-to-the-strategos-about-a-burglary-and-assault-at-this"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66002,
+    "tema": "ROBOS Y DELITOS PATRIMONIALES"
+  },
+  {
+    "yr": 346,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Nueve ovejas esquiladas y tres robadas: una denuncia rural",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"346\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">346</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Nueve ovejas esquiladas y tres robadas: una denuncia rural</h3>\n    <p><strong>Robo de ganado y actuación de guardas · Theoxenis, Egipto · 5 de julio:</strong> Aurelia María declara que unos desconocidos esquilaron de noche nueve ovejas y se llevaron otras tres. Los guardas de los campos identificaron como sospechosos a Ioannes y Eleias; la propietaria solicita su detención y confesión ante la autoridad. El papiro <em>P. Abinn. 49</em> conserva la queja, sin acreditar por sí mismo la culpabilidad de los denunciados. El episodio ilustra la vigilancia rural, la localización de sospechosos y una práctica de interrogatorio alejada de las garantías actuales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://egyptianinscriptions.org/object/125442-petition-of-aurelia-maria-to-abinnaeus-about-stolen-and-sheared-sheep"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66003,
+    "tema": "ROBOS Y DELITOS PATRIMONIALES"
+  },
+  {
+    "yr": 581,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Prisco, comerciante judío asesinado en el París merovingio",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"581\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">581</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Prisco, comerciante judío asesinado en el París merovingio</h3>\n    <p><strong>Homicidio · Reino franco · 581–582 (fecha aproximada):</strong> Gregorio de Tours narra el asesinato de Prisco, un judío relacionado con la corte de Chilperico I, a manos de Phatir, antiguo correligionario convertido al cristianismo. La fecha se sitúa entre 581 y 582. Los motivos no están resueltos: junto a interpretaciones religiosas existe la hipótesis de rivalidades en el entorno cortesano. La ficha muestra el tratamiento narrativo de un homicidio individual y la cautela necesaria para no convertir una identidad religiosa en prueba automática de un móvil de odio.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://cris.bgu.ac.il/en/publications/revisiting-the-murder-of-the-jew-priscus-in-sixth-century-paris-2/"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66004,
+    "tema": "HOMICIDIOS HISTÓRICOS"
+  },
+  {
+    "yr": 863,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "La escritura falsa del sobrino del obispo Gladila",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"863\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">863</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La escritura falsa del sobrino del obispo Gladila</h3>\n    <p><strong>Falsificación documental y propiedad · Asturias:</strong> En un testamento de 863, Gladila, obispo de Braga, recoge la protesta de quienes atendían una iglesia de Trubia: su sobrino habría confeccionado una <em>cartam falsariam</em> para atribuirse tierras que el obispo había entregado a la institución. Gladila rechaza la escritura por falsa. Lo documentado es la denuncia y su rechazo, no una sentencia penal moderna. El episodio enlaza los fraudes patrimoniales medievales con la falsificación de títulos y la necesidad de comprobar la autenticidad de los documentos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/22387268/The_Written_and_the_World_in_Early_Medieval_Iberia"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66005,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 900,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Helmstan: un cinturón, ganado robado y un arañazo incriminatorio",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"900\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">900</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Helmstan: un cinturón, ganado robado y un arañazo incriminatorio</h3>\n    <p><strong>Robo reincidente y prueba física · Wessex · finales del IX y comienzos del X:</strong> La llamada <em>Fonthill Letter</em>, redactada entre 900 y 924, relata las dificultades legales de Helmstan. Tras un primer asunto por un cinturón, fue sorprendido en un caso de robo de ganado; el seguimiento de los animales y los arañazos de su rostro, atribuidos a su huida, sirvieron para sostener la acusación. El año 900 es solo una referencia orientativa para ordenar el relato, no la fecha exacta de ambos delitos. Su interés reside en los rastreadores, los indicios corporales, los juramentos y el castigo patrimonial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://etheses.whiterose.ac.uk/id/eprint/3657/2/489865_vol1.pdf"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66006,
+    "tema": "ROBOS Y DELITOS PATRIMONIALES"
+  },
+  {
+    "yr": 995,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Senta denuncia una transmisión de tierras obtenida bajo coacción",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Senta denuncia una transmisión de tierras obtenida bajo coacción</h3>\n    <p><strong>Coacción y documentación patrimonial · Reino de León:</strong> Una fuente documental sobre el reino asturleonés relata que Citi Lucidi forzó a Senta a otorgar una escritura relativa a sus propiedades. La afectada apeló al rey Bermudo II, que examinó el asunto e invalidó el documento en 995. No conviene proyectar automáticamente categorías penales modernas sobre el litigio, pero el episodio conecta las apropiaciones mediante presión personal con los posteriores fraudes documentales y con la intervención de la autoridad para revisar la validez de un título.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/22387268/The_Written_and_the_World_in_Early_Medieval_Iberia"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66007,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1080,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Las quejas de Guitart Isarn: hurtos y abusos de sus vasallos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1080\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1080</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Las quejas de Guitart Isarn: hurtos y abusos de sus vasallos</h3>\n    <p><strong>Conflictos, insultos y sustracciones · Cabó, Cataluña · hacia 1080:</strong> Las <em>Greuges de Guitart Isarn, senyor de Caboet</em>, fechadas aproximadamente en 1080, enumeran agravios que el señor atribuye a sus vasallos: incumplimientos, ofensas y robos. Es un memorial de reclamaciones, no la prueba de que todas las acusaciones terminaran en condena. Su valor negrocriminal está en el testimonio cotidiano de conductas denunciadas, las relaciones de poder que las rodeaban y la conservación escrita de los conflictos antes de la policía y los tribunales contemporáneos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.loc.gov/item/2021668004/"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66008,
+    "tema": "ROBOS Y DELITOS PATRIMONIALES"
   }
 ]
