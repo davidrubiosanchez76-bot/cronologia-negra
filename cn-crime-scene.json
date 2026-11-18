@@ -7344,5 +7344,76 @@
     "orden": 65008,
     "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1940,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "The Big Con: David Maurer estudia los métodos profesionales del timador",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1940\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1940</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>The Big Con: David Maurer estudia los métodos profesionales del timador</h3>\n    <p><strong>Criminología de la estafa · Estados Unidos · 1940.</strong> David W. Maurer publica <em>The Big Con: The Story of the Confidence Man</em>, un estudio de los grandes timos basado en el lenguaje, los papeles de cada participante y los procedimientos empleados por estafadores profesionales. Su interés investigativo radica en describir cómo se capta y convence a una víctima, y en distinguir las funciones dentro de una operación. No es una novela negra ni una técnica pericial concluyente, sino documentación histórica sobre la delincuencia de confianza.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.penguinrandomhouse.com/books/109418/the-big-con-by-david-maurer-introduction-by-luc-sante/9780385495387/",
+      "https://books.google.com/books?id=ALtEAQAAIAAJ"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 65009,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1970,
+    "tipo": "policia-cientifica",
+    "fecha": "1970-10-26",
+    "titulo": "Bank Secrecy Act: los registros bancarios facilitan seguir el dinero",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1970\" data-fecha=\"1970-10-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1970</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Bank Secrecy Act: los registros bancarios facilitan seguir el dinero</h3>\n    <p><strong>Investigación financiera · Estados Unidos · 26 de octubre de 1970.</strong> Se aprueba la legislación conocida como <em>Bank Secrecy Act</em>, que habilita obligaciones de conservación de documentación y notificación de determinadas operaciones financieras. El rastro generado por los bancos puede cruzarse con otras pruebas para investigar blanqueo, organizaciones criminales y fraudes complejos. Una operación comunicada no demuestra por sí misma un delito; la trascendencia del hito está en convertir transacciones previamente opacas en información contrastable.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.irs.gov/irm/part4/irm_04-026-005",
+      "https://www.fincen.gov/resources/statutes-and-regulations/bank-secrecy-act"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 65010,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1989,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Nace el GAFI: las investigaciones financieras adquieren estándares internacionales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1989\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace el GAFI: las investigaciones financieras adquieren estándares internacionales</h3>\n    <p><strong>Cooperación internacional · París · 1989.</strong> El G7 crea el Grupo de Acción Financiera Internacional (GAFI/FATF) para desarrollar medidas conjuntas contra el blanqueo de capitales. En abril de 1990 publica sus primeras cuarenta recomendaciones, que impulsan procedimientos de identificación de clientes, conservación de documentación y cooperación entre Estados. No se trata de una policía internacional ni de la resolución de un caso, sino de un marco que facilita investigar circuitos financieros transfronterizos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html",
+      "https://www.fincen.gov/resources/international/significant-international-amlcft-events"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 65011,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1990,
+    "tipo": "policia-cientifica",
+    "fecha": "1990-04-25",
+    "titulo": "FinCEN: Estados Unidos crea una red para analizar delitos financieros",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1990\" data-fecha=\"1990-04-25\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1990</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>FinCEN: Estados Unidos crea una red para analizar delitos financieros</h3>\n    <p><strong>Inteligencia financiera · Estados Unidos · 25 de abril de 1990.</strong> Una orden del Departamento del Tesoro establece la Financial Crimes Enforcement Network (FinCEN), concebida para integrar informes, bases de datos y fuentes de información útiles a las autoridades que investigan blanqueo y otros delitos financieros. Su novedad es el análisis de conexiones entre operaciones, personas y entidades mediante intercambio de información. Complementa los registros bancarios surgidos con la legislación de 1970.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fincen.gov/system/files/shared/EstablishingFinCEN.pdf",
+      "https://www.fincen.gov/resources/frequently-asked-questions"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 65012,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1996,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Ley de Benford: Nigrini explora anomalías numéricas en declaraciones fiscales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1996\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1996</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Ley de Benford: Nigrini explora anomalías numéricas en declaraciones fiscales</h3>\n    <p><strong>Análisis contable forense · Estados Unidos · 1996.</strong> Mark J. Nigrini publica un estudio sobre la aplicación de la ley de Benford a datos tributarios. El análisis de la frecuencia de ciertos dígitos puede señalar patrones atípicos y orientar revisiones de grandes conjuntos de cifras. El hallazgo no implica que toda desviación sea una falsificación ni que el procedimiento identifique por sí solo al autor: requiere examinar la naturaleza de los datos, sus límites estadísticos y pruebas contables independientes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.benfordonline.net/fullreference/426"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 65013,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
   }
 ]
