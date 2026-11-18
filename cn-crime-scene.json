@@ -8426,5 +8426,77 @@
     ],
     "procedencia": "Revisión editorial True Crime / Crime Scene, noviembre de 2026",
     "orden": 65054
+  },
+  {
+    "yr": 336,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Cuatro médicos públicos documentan las lesiones de Apis",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"336\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">336</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Cuatro médicos públicos documentan las lesiones de Apis</h3>\n    <p><strong>Reconocimiento médico-legal · Oxirrinco, Egipto · 6 de mayo:</strong> A petición de una autoridad, cuatro médicos públicos examinan a Apis, trabajador agrícola, y consignan por escrito arañazos y hematomas en cuello, hombro, codo y párpado. El informe <em>P. Oxy. LXVI 4528</em> identifica a los facultativos y describe lesiones anatómicas concretas. No se trata de medicina forense moderna, pero sí de una exploración ordenada oficialmente y destinada a dejar constancia de daños que podían tener trascendencia judicial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://egyptianinscriptions.org/object/144103-public-physicians-report-on-the-injuries-of-a-farmer"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66100
+  },
+  {
+    "yr": 653,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El Código Tang distingue robos, fraudes y procedimientos judiciales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"653\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">653</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Código Tang distingue robos, fraudes y procedimientos judiciales</h3>\n    <p><strong>Codificación penal · China · 653:</strong> La versión comentada del Código Tang, completada en 653, sistematiza delitos y respuestas jurídicas en materias tan diversas como robos, agresiones, falsificaciones, corrupción de funcionarios, arrestos y decisiones judiciales. Ayuda a comparar la evolución del tratamiento legal de los delitos cotidianos en distintas culturas. Es una norma histórica, no la descripción de un crimen concreto, y su relevancia aquí es la ordenación de categorías de infracción y reglas procesales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://escholarship.org/uc/item/6vq6808n"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66101
+  },
+  {
+    "yr": 786,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Du Ya desmonta una falsa acusación de envenenamiento",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"786\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">786</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Du Ya desmonta una falsa acusación de envenenamiento</h3>\n    <p><strong>Interrogatorio y contraste de testimonios · China Tang · década de 780 (orientativo):</strong> En un relato conservado por recopiladores chinos, un hijastro acusa a su madrastra de haberle ofrecido vino envenenado. El funcionario Du Ya, activo en la región de Huainan durante la década de 780, interroga por separado a los implicados, compara sus versiones y concluye que el hijastro y su esposa prepararon el engaño. El año es orientativo: la historia fue transmitida por textos posteriores y no tiene fecha exacta comprobada. El caso ilustra una investigación de la denuncia falsa, no una prueba química del veneno.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/poisoned-meals-toxic-food-epistemic-standards-and-retributive-justice-in-twelfthcentury-judicial-cases-and-anecdotal-narratives/53D24221B0F2DE8765D486A33DEEA0D2"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66102
+  },
+  {
+    "yr": 944,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "San Salvador de Loberuela: detectar escrituras falsificadas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">944</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>San Salvador de Loberuela: detectar escrituras falsificadas</h3>\n    <p><strong>Cotejo de documentos · Reino de León:</strong> Los miembros de San Salvador de Loberuela acusaron en 944 a Conantius de haberlos desposeído mediante documentos falsos. Según el estudio de la documentación conservada, consiguieron combatir esas escrituras al contrastarlas con el pacto monástico que el propio acusado había suscrito al ingresar en la comunidad. La importancia criminológica no es el valor de las tierras sino el procedimiento de verificación: enfrentar documentos entre sí para valorar autenticidad y derechos alegados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/22387268/The_Written_and_the_World_in_Early_Medieval_Iberia"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66103
+  },
+  {
+    "yr": 1018,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Ermessenda rechaza resolver un litigio mediante combate judicial",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Ermessenda rechaza resolver un litigio mediante combate judicial</h3>\n    <p><strong>Prueba judicial y conflicto de tierras · Cataluña · 1018:</strong> En un litigio territorial, Hug de Empúries plantea decidir la disputa mediante el enfrentamiento entre campeones. La condesa Ermessenda de Carcasona rechaza ese medio porque, según argumenta, no lo admite la ley gótica aplicada en el territorio. El conflicto termina tramitándose por otras vías y con resolución judicial favorable a la condesa. Esta referencia fechada permite observar la competencia entre prueba documental, juramento, autoridad judicial y combate como supuestos mecanismos para decidir la verdad.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.academia.edu/47628110/Libellus_de_batalla_facienda_Judicial_Combat_in_Catalonia_from_the_Eleventh_to_the_Thirteenth_Century"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66104
+  },
+  {
+    "yr": 1133,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El Zheyu guijian reúne investigaciones de robos, fraudes y homicidios",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1133\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1133</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Zheyu guijian reúne investigaciones de robos, fraudes y homicidios</h3>\n    <p><strong>Métodos de investigación y valoración de pruebas · China Song · 1133:</strong> Zheng Ke presenta en 1133 el <em>Zheyu guijian</em> (Espejo para juzgar casos), una amplia compilación de investigaciones judiciales sobre robos, fraudes y asesinatos. Los relatos explican cómo distintos funcionarios reunieron indicios, interrogaron y contrastaron declaraciones. No todos los sucesos narrados ocurrieron en 1133: esa es la fecha de la recopilación. La obra es un hito en la transmisión de técnicas de investigación y razonamiento probatorio antes de la criminalística científica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/poisoned-meals-toxic-food-epistemic-standards-and-retributive-justice-in-twelfthcentury-judicial-cases-and-anecdotal-narratives/53D24221B0F2DE8765D486A33DEEA0D2"
+    ],
+    "procedencia": "Ampliación editorial: delincuencia cotidiana e investigación antes de 1170 · 18 noviembre 2026",
+    "orden": 66105
   }
 ]
