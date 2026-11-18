@@ -3942,7 +3942,7 @@
     "titulo": "Perdición",
     "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Perdición</h3>\n    <p><strong>Película · Billy Wilder · Estados Unidos · 1944.</strong> La adaptación de la novela de James M. Cain (1936) muestra a un empleado de seguros y una mujer casada que planean un asesinato para cobrar una indemnización. La investigación del siniestro, las cláusulas de la póliza, el móvil económico y las sospechas de un experto de la aseguradora convierten el fraude en un mecanismo de suspense. Un clásico del noir donde la empresa de seguros no es decorado, sino parte esencial del crimen.</p>\n    \n  </div>\n</article>",
     "fuentes": [
-      "https://catalog.afi.com/Film/23907-DOUBLE-INDEMNITY"
+      "https://catalog.afi.com/Film/2201-DOUBLE-INDEMNITY"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1812
@@ -7402,9 +7402,10 @@
     "yr": 2022,
     "tipo": "audiovisual",
     "fecha": "",
-    "titulo": "Skandal! Bringing Down Wirecard: periodistas frente a cuentas opacas",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Skandal! Bringing Down Wirecard: periodistas frente a cuentas opacas</h3>\n    <p><strong>Documental · Alemania/Reino Unido · 2022.</strong> Reconstruye el trabajo de periodistas y denunciantes que cuestionaron durante años la información financiera de Wirecard antes del hundimiento de la compañía. Permite conectar el fraude empresarial con la verificación documental, las alertas desatendidas y la posterior revisión de los supervisores, recogida separadamente en Crime Scene en 2020.</p>\n  </div>\n</article>",
+    "titulo": "Skandal! La caída de Wirecard: periodistas frente a cuentas opacas",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Skandal! La caída de Wirecard: periodistas frente a cuentas opacas</h3>\n    <p><strong>Documental · Alemania/Reino Unido · 2022.</strong> Reconstruye el trabajo de periodistas y denunciantes que cuestionaron durante años la información financiera de Wirecard antes del hundimiento de la compañía. Permite conectar el fraude empresarial con la verificación documental, las alertas desatendidas y la posterior revisión de los supervisores, recogida separadamente en Crime Scene en 2020.</p>\n  </div>\n</article>",
     "fuentes": [
+      "https://www.netflix.com/es/title/81404807",
       "https://www.netflix.com/title/81404807/"
     ],
     "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
