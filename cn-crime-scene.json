@@ -7415,5 +7415,232 @@
     "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
     "orden": 65013,
     "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1988,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Nace el CERT/CC: coordinar la respuesta frente a gusanos informáticos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1988\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1988</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace el CERT/CC: coordinar la respuesta frente a gusanos informáticos</h3>\n    <p><strong>Respuesta a incidentes · Estados Unidos · noviembre de 1988.</strong> Tras la propagación del gusano Morris, el Departamento de Defensa estadounidense impulsa la creación de un equipo de coordinación de emergencias informáticas en el Software Engineering Institute de Carnegie Mellon. El CERT/CC articula el intercambio de avisos, análisis de vulnerabilidades y respuestas entre organizaciones afectadas. Este hito no es el ataque en sí, registrado en True Crime, sino una respuesta institucional que inaugura un modelo de colaboración técnica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/morris-worm",
+      "https://sei.cmu.edu/history-of-innovation/fostering-growth-in-professional-cyber-incident-management/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65014,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 1990,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El caso Morris: primera condena bajo la ley federal estadounidense de fraude informático",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1990\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1990</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El caso Morris: primera condena bajo la ley federal estadounidense de fraude informático</h3>\n    <p><strong>Investigación y prueba judicial · Estados Unidos · enero de 1990.</strong> Un jurado declara culpable a Robert Tappan Morris por la propagación del gusano de 1988, en la primera condena conforme a la Computer Fraud and Abuse Act de 1986. La causa obliga a probar conductas de acceso no autorizado y sus efectos en ordenadores de terceros. La sentencia posterior y el recurso sitúan un precedente sobre atribución individual y prueba en los delitos cometidos mediante redes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/morris-worm",
+      "https://law.justia.com/cases/federal/appellate-courts/F2/928/504/452673/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65015,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2000,
+    "tipo": "policia-cientifica",
+    "fecha": "2000-05-08",
+    "titulo": "El FBI abre un centro para recibir y cruzar denuncias de delitos por Internet",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2000\" data-fecha=\"2000-05-08\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El FBI abre un centro para recibir y cruzar denuncias de delitos por Internet</h3>\n    <p><strong>Recepción de denuncias e inteligencia policial · Estados Unidos · 8 de mayo de 2000.</strong> El FBI y el National White Collar Crime Center establecen el Internet Fraud Complaint Center, antecedente del Internet Crime Complaint Center (IC3). Centraliza avisos de afectados por fraudes en línea y otras conductas que hasta entonces podían denunciarse de forma dispersa. La información acumulada permite detectar patrones, relacionar operaciones entre territorios y orientar investigaciones más allá de cada víctima individual.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/news/press-releases/the-fbis-internet-crime-complaint-center-ic3-marks-its-20th-year"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65016,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2001,
+    "tipo": "policia-cientifica",
+    "fecha": "2001-11-23",
+    "titulo": "Convenio de Budapest: un marco internacional para investigar delitos informáticos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2001\" data-fecha=\"2001-11-23\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Convenio de Budapest: un marco internacional para investigar delitos informáticos</h3>\n    <p><strong>Cooperación judicial y obtención de prueba electrónica · Budapest · 23 de noviembre de 2001.</strong> El Consejo de Europa abre a la firma el Convenio sobre la Ciberdelincuencia, que aborda la tipificación de conductas informáticas, la conservación y obtención de datos electrónicos y la asistencia transfronteriza. Su entrada en vigor será en 2004. La importancia criminalística reside en proporcionar mecanismos jurídicos para investigar hechos cuya víctima, infraestructura y presuntos autores están en distintos países.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.coe.int/en/web/cybercrime/milestones",
+      "https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=185"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65017,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2009,
+    "tipo": "policia-cientifica",
+    "fecha": "2009-02-12",
+    "titulo": "Conficker Working Group: empresas e investigadores coordinan la defensa contra una botnet",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2009\" data-fecha=\"2009-02-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Conficker Working Group: empresas e investigadores coordinan la defensa contra una botnet</h3>\n    <p><strong>Investigación colaborativa de malware · internacional · 12 de febrero de 2009.</strong> Microsoft anuncia una iniciativa conjunta con investigadores académicos y entidades de Internet para estudiar y obstaculizar la propagación de Conficker. El trabajo incluye el análisis de variantes, mecanismos de propagación y dominios que el gusano podría utilizar. Frente a una amenaza distribuida, la medida inaugura una cooperación público-privada a gran escala. La infección original de 2008 figura separadamente en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://news.microsoft.com/source/2009/02/12/microsoft-collaborates-with-industry-to-disrupt-conficker-worm/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65018,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2013,
+    "tipo": "policia-cientifica",
+    "fecha": "2013-01-01",
+    "titulo": "Europol crea el EC3: un centro europeo para perseguir la delincuencia digital",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2013\" data-fecha=\"2013-01-01\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Europol crea el EC3: un centro europeo para perseguir la delincuencia digital</h3>\n    <p><strong>Cooperación policial especializada · La Haya · 1 de enero de 2013.</strong> El Centro Europeo de Ciberdelincuencia (EC3) comienza su actividad en Europol para apoyar investigaciones sobre fraude digital organizado, explotación de menores en línea y ataques graves contra sistemas de información. No sustituye a las policías nacionales: aporta coordinación, análisis y apoyo operativo cuando las redes delictivas atraviesan fronteras. Constituye un hito de institucionalización de la investigación criminal digital europea.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://op.europa.eu/en/publication-detail/-/publication/b59826cc-b077-48f0-903a-8340c2a30e84",
+      "https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65019,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2014,
+    "tipo": "policia-cientifica",
+    "fecha": "2014-06-02",
+    "titulo": "Operación Tovar: la policía desmonta la infraestructura GameOver Zeus y CryptoLocker",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2014\" data-fecha=\"2014-06-02\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Tovar: la policía desmonta la infraestructura GameOver Zeus y CryptoLocker</h3>\n    <p><strong>Desarticulación de botnets y ransomware · cooperación internacional · 2 de junio de 2014.</strong> El FBI y numerosos organismos de varios países anuncian acciones coordinadas para neutralizar servidores y comunicaciones de GameOver Zeus, utilizado para robar dinero, y alterar la infraestructura de CryptoLocker. La investigación combina análisis técnico, identificación de presuntos responsables, órdenes judiciales y cooperación con empresas de seguridad. Los ataques y sus víctimas son sucesos de True Crime; aquí el hito es el método de desmantelamiento.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/news/stories/gameover-zeus-botnet-disrupted",
+      "https://www.justice.gov/usao-wdpa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65020,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "policia-cientifica",
+    "fecha": "2017-05-12",
+    "titulo": "WannaCry: el análisis del malware revela un dominio que frena su propagación",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2017\" data-fecha=\"2017-05-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>WannaCry: el análisis del malware revela un dominio que frena su propagación</h3>\n    <p><strong>Ingeniería inversa y contención de incidentes · alcance internacional · 12 de mayo de 2017.</strong> En las primeras horas del ataque WannaCry, un investigador identifica una comprobación de dominio incorporada al código malicioso. El registro de ese dominio permite limitar la expansión de determinadas versiones del gusano. La investigación técnica muestra cómo el análisis de comportamiento de un programa puede producir una medida de contención inmediata; no eliminó todas las variantes ni sustituyó la reparación de sistemas vulnerables.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://cert.europa.eu/publications/security-advisories/2017-012/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65021,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2018,
+    "tipo": "policia-cientifica",
+    "fecha": "2018-03-26",
+    "titulo": "Carbanak: una investigación internacional lleva a la detención de su presunto dirigente en Alicante",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2018\" data-fecha=\"2018-03-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Carbanak: una investigación internacional lleva a la detención de su presunto dirigente en Alicante</h3>\n    <p><strong>Investigación de una banda de robo bancario digital · España · 26 de marzo de 2018.</strong> La Policía Nacional detiene en Alicante a un sospechoso señalado como cabecilla de la red asociada a Carbanak y Cobalt, programas usados para atacar entidades bancarias. Europol, el FBI y otras autoridades colaboran en el análisis de infraestructuras, operaciones y conexiones internacionales. El hito es la actuación policial y la atribución investigativa; la detención no implica una condena por todos los hechos atribuidos a la organización.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.ccn-cert.cni.es/gl/component/content/article/5979-detienen-el-alicante-al-lider-del-grupo-creador-del-apt-carbanak.html?Itemid=11901&catid=23"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65022,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2020,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "EncroChat: Francia y Países Bajos acceden a comunicaciones de redes criminales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2020\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>EncroChat: Francia y Países Bajos acceden a comunicaciones de redes criminales</h3>\n    <p><strong>Infiltración de comunicaciones cifradas · Europa · 2020.</strong> Una investigación conjunta francesa y neerlandesa, con apoyo de Europol y Eurojust, logra captar comunicaciones de un sistema de teléfonos cifrados muy utilizado por organizaciones criminales. El material impulsa detenciones e investigaciones de narcotráfico y otros delitos, y suscita debates judiciales sobre admisibilidad y cooperación entre países. El hito es la obtención y explotación de evidencia digital; usar cifrado, por sí mismo, no es delito.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.europol.europa.eu/how-we-work/operations/operation-emma",
+      "https://www.eurojust.europa.eu/news/dismantling-encrypted-criminal-encrochat-communications-6-500-arrests-900-eur-seized"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65023,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2021,
+    "tipo": "policia-cientifica",
+    "fecha": "2021-06-07",
+    "titulo": "Colonial Pipeline: el FBI sigue el rastro del rescate y recupera bitcoins",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2021\" data-fecha=\"2021-06-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Colonial Pipeline: el FBI sigue el rastro del rescate y recupera bitcoins</h3>\n    <p><strong>Rastreo de activos digitales · Estados Unidos · 7 de junio de 2021.</strong> Tras el ransomware contra Colonial Pipeline, el Departamento de Justicia anuncia la incautación de unos 63,7 bitcoins vinculados al pago efectuado a DarkSide. La investigación combina trazabilidad en blockchain, identificación de una dirección receptora y control judicial de los fondos incautados. No significa que todas las criptomonedas sean anónimas o que cualquier transacción permita identificar sin más a una persona. El ataque figura en True Crime con fecha de mayo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65024,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2023,
+    "tipo": "policia-cientifica",
+    "fecha": "2023-08-29",
+    "titulo": "Operación Duck Hunt: el FBI interrumpe Qakbot y redirige ordenadores infectados",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2023\" data-fecha=\"2023-08-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Duck Hunt: el FBI interrumpe Qakbot y redirige ordenadores infectados</h3>\n    <p><strong>Desarticulación técnica de una botnet · internacional · 29 de agosto de 2023.</strong> Autoridades de Estados Unidos y Europa anuncian la interrupción de Qakbot, malware utilizado para facilitar intrusiones y ataques de ransomware. Mediante acceso a infraestructura de los delincuentes y órdenes judiciales, la operación consigue dirigir equipos infectados hacia un procedimiento que elimina su conexión con la red maliciosa. El caso ejemplifica una intervención que persigue neutralizar sistemas delictivos además de detener sospechosos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-cdca/pr/qakbot-malware-disrupted-international-cyber-takedown"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65025,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2024,
+    "tipo": "policia-cientifica",
+    "fecha": "2024-02-20",
+    "titulo": "Operación Cronos: las policías toman servidores y páginas de la banda LockBit",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2024\" data-fecha=\"2024-02-20\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Cronos: las policías toman servidores y páginas de la banda LockBit</h3>\n    <p><strong>Desmantelamiento de ransomware como servicio · Reino Unido y socios internacionales · 20 de febrero de 2024.</strong> La National Crime Agency británica, el FBI y otros cuerpos policiales anuncian que han intervenido infraestructura de LockBit, una de las organizaciones de extorsión digital más activas. Se incautan servidores, se recuperan claves útiles para víctimas y se difunde información sobre la actividad del grupo. La operación no supone la desaparición definitiva de cualquier miembro o variante, pero ejemplifica la investigación contra el modelo de ransomware operado mediante afiliados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nationalcrimeagency.gov.uk/news/nca-leads-international-investigation-targeting-worlds-most-harmful-ransomware-group",
+      "https://www.justice.gov/usao-ndca/pr/us-and-uk-disrupt-lockbit-ransomware-variant"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65026,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2024,
+    "tipo": "policia-cientifica",
+    "fecha": "2024-05-30",
+    "titulo": "Operación Endgame: una red de policías interviene servidores que distribuyen malware",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2024\" data-fecha=\"2024-05-30\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Endgame: una red de policías interviene servidores que distribuyen malware</h3>\n    <p><strong>Desarticulación de infraestructura delictiva · internacional · 30 de mayo de 2024.</strong> Europol, Eurojust y cuerpos policiales de numerosos países coordinan acciones contra servicios y programas que facilitan la instalación de troyanos y ransomware. Se desmantelan o interrumpen más de cien servidores y se practican registros y detenciones. Es un cambio de enfoque: en lugar de perseguir solo el ataque final, los investigadores actúan contra los proveedores técnicos de las organizaciones criminales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/news/press-releases/operation-endgame-coordinated-worldwide-law-enforcement-action-against-network-of-cybercriminals"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65027,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2026,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Operación Synergia III: INTERPOL neutraliza decenas de miles de infraestructuras maliciosas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2026\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2026</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Synergia III: INTERPOL neutraliza decenas de miles de infraestructuras maliciosas</h3>\n    <p><strong>Cooperación policial transfronteriza · 72 países y territorios · 2026.</strong> INTERPOL comunica los resultados de la operación Synergia III, desarrollada entre julio de 2025 y enero de 2026 contra servidores y direcciones vinculadas a phishing, malware y ransomware. Las autoridades anuncian la retirada de aproximadamente 45.000 direcciones IP maliciosas y servidores, junto con detenciones e incautaciones. El hecho relevante es la identificación y neutralización conjunta de infraestructura usada por distintos grupos, no un único delito informático.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2026/Cierre-de-45-000-direcciones-IP-maliciosas-en-una-operacion-internacional-contra-la-ciberdelincuencia"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65028,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2026,
+    "tipo": "policia-cientifica",
+    "fecha": "2026-10-22",
+    "titulo": "Operación Serengeti III: investigaciones conjuntas contra redes digitales en África",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2026\" data-fecha=\"2026-10-22\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2026</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Serengeti III: investigaciones conjuntas contra redes digitales en África</h3>\n    <p><strong>Investigación criminal internacional · África · 22 de octubre de 2026.</strong> INTERPOL presenta resultados de una operación desarrollada entre junio y agosto de 2026 con autoridades de veintiún países contra fraudes digitales, extorsiones, phishing y ataques de ransomware. Se comunican 1.462 detenciones, la interrupción de miles de redes y la recuperación de más de 105 millones de dólares. La tarjeta distingue detenciones de condenas y destaca la expansión geográfica de la investigación de redes de ciberdelincuencia más allá de Europa y Estados Unidos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.interpol.int/News-and-Events/News/2026/Cybercrime-crackdown-in-Africa-nets-1-462-arrests-recovers-over-USD-105-million"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA con investigación y criminalística · 18 noviembre 2026",
+    "orden": 65029,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
   }
 ]
