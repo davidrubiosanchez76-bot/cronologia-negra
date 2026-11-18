@@ -7642,5 +7642,217 @@
     "orden": 65029,
     "tema": "CIBERDELINCUENCIA",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1945,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Hadamar: el primer gran proceso contra asesinatos de pacientes del programa nazi",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1945\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1945</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Hadamar: el primer gran proceso contra asesinatos de pacientes del programa nazi</h3>\n    <p><strong>Investigación de homicidios institucionales · Wiesbaden, Alemania · octubre de 1945.</strong> Una comisión militar estadounidense juzga a responsables del centro psiquiátrico de Hadamar, incluidos profesionales sanitarios que participaron en asesinatos de personas internadas. El proceso utiliza testimonios, registros hospitalarios y pruebas sobre la administración deliberada de sustancias y la privación de cuidados. Es un precedente temprano de imputación por asesinatos de pacientes bajo custodia institucional, y se diferencia del propio programa criminal iniciado en 1939, que figura en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/the-hadamar-trial",
+      "https://www.archives.gov/research/captured-german-records/war-crimes-trials"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65030,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1946,
+    "tipo": "policia-cientifica",
+    "fecha": "1946-12-09",
+    "titulo": "Juicio a los médicos de Núremberg: los abusos médicos llegan al tribunal",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1946\" data-fecha=\"1946-12-09\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1946</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Juicio a los médicos de Núremberg: los abusos médicos llegan al tribunal</h3>\n    <p><strong>Investigación judicial de crímenes de guerra · Núremberg, Alemania · 9 de diciembre de 1946.</strong> Un tribunal militar estadounidense abre un proceso contra 23 médicos y administradores vinculados con experimentos en prisioneros, esterilizaciones forzadas y asesinatos de pacientes. La acusación aporta documentación institucional, testimonios de supervivientes y pruebas sobre el carácter coercitivo de los procedimientos. El inicio del juicio y el código de principios desarrollado en su sentencia de 1947 son hitos distintos de la ejecución de los experimentos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/es/article/the-doctors-trial-the-medical-case-of-the-subsequent-nuremberg-proceedings"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65031,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1947,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Código de Núremberg: el consentimiento voluntario se vuelve exigencia fundamental",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1947\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1947</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Código de Núremberg: el consentimiento voluntario se vuelve exigencia fundamental</h3>\n    <p><strong>Ética de investigación y prueba de abusos · Núremberg, Alemania · agosto de 1947.</strong> La sentencia del juicio a los médicos recoge un conjunto de principios para distinguir la experimentación humana admisible de los ensayos coercitivos y lesivos. Sitúa el consentimiento voluntario como requisito central y exige evitar sufrimientos y riesgos injustificados. No constituye por sí mismo un tratado internacional que automáticamente convirtiese cualquier infracción ética posterior en delito penal, sino un hito jurídico y bioético derivado de la investigación de crímenes nazis.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/the-nuremberg-code",
+      "https://encyclopedia.ushmm.org/content/es/article/the-doctors-trial-the-medical-case-of-the-subsequent-nuremberg-proceedings"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65032,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1949,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Jabarovsk: un tribunal examina experimentos bacteriológicos de la Unidad 731",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1949\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1949</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Jabarovsk: un tribunal examina experimentos bacteriológicos de la Unidad 731</h3>\n    <p><strong>Procesamiento de experimentación criminal · Unión Soviética · diciembre de 1949.</strong> La Unión Soviética juzga en Jabarovsk a doce integrantes de las estructuras japonesas de guerra biológica, entre ellos médicos y científicos relacionados con la Unidad 731. El proceso documenta prácticas de inoculación, experimentación con prisioneros y producción de armas bacteriológicas. Sus circunstancias políticas y el modo en que fueron recibidas las pruebas exigen análisis crítico, pero la documentación del programa de abusos humanos está respaldada por investigaciones históricas posteriores.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pubmed.ncbi.nlm.nih.gov/16025597/",
+      "https://www.cambridge.org/core/journals/medical-history/article/global-research-on-unit-731-medical-atrocities-from-the-1950s-to-the-2020s/B11CE475150A557A3244BBFE7577C785"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65033,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1957,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "John Bodkin Adams: la absolución que obliga a distinguir alivio del dolor y homicidio",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>John Bodkin Adams: la absolución que obliga a distinguir alivio del dolor y homicidio</h3>\n    <p><strong>Prueba médico-legal y derecho penal · Reino Unido · 1957.</strong> El médico John Bodkin Adams es juzgado por el supuesto asesinato de una paciente a la que había administrado medicamentos en sus últimos días y resulta absuelto de ese cargo. El debate judicial contribuye a precisar la diferencia entre tratar el sufrimiento con posible acortamiento no buscado de la vida y administrar fármacos con intención homicida. La ficha no le atribuye muertes como si estuvieran judicialmente demostradas: precisamente ilustra la dificultad de probar el elemento intencional en la atención al final de la vida.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.dib.ie/index.php/biography/adams-john-bodkin-a0027",
+      "https://www.calmhosting01.com/BartsHealth/CalmView/Record.aspx?AddBasket=RLHPP%2FCAM%2F2%2F1%2F2%2F7&id=RLHPP%2FCAM%2F2%2F1%2F2%2F7&src=CalmView.Catalog"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65034,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1972,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Tuskegee: se denuncia una investigación que negó tratamiento a sus participantes",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1972\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1972</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Tuskegee: se denuncia una investigación que negó tratamiento a sus participantes</h3>\n    <p><strong>Investigación de abusos sanitarios · Estados Unidos · 1972.</strong> La difusión pública de los hechos pone fin al estudio estadounidense sobre sífilis no tratada desarrollado desde 1932 con hombres afroamericanos. Los participantes no fueron infectados deliberadamente por los investigadores: el abuso consistió en la información engañosa, la ausencia de consentimiento válido y la falta de tratamiento adecuado incluso después de disponer de terapias eficaces. El escándalo impulsa investigaciones y cambios normativos en la protección de participantes humanos; no se presenta como una serie de asesinatos penales judicialmente probados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cdc.gov/tuskegee/about/",
+      "https://www.hhs.gov/ohrp/about-ohrp/history/index.html"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65035,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1974,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "National Research Act: Estados Unidos refuerza la protección de sujetos experimentales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1974\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1974</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>National Research Act: Estados Unidos refuerza la protección de sujetos experimentales</h3>\n    <p><strong>Investigación biomédica y salvaguardas legales · Estados Unidos · 1974.</strong> Tras los escándalos de investigación con personas vulnerables, el Congreso estadounidense promulga la National Research Act, que crea una comisión nacional para evaluar problemas éticos y promover garantías de participación en estudios. El desarrollo de controles institucionales y del consentimiento informado permite examinar intervenciones realizadas sin justificación o contra la voluntad de los sujetos. Se trata de una consecuencia regulatoria de abusos documentados, no de una condena contra un investigador concreto.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hhs.gov/ohrp/about-ohrp/history/index.html",
+      "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65036,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2002,
+    "tipo": "policia-cientifica",
+    "fecha": "2002-07-19",
+    "titulo": "Investigación Shipman: revisar las muertes revela el alcance del crimen oculto",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2002\" data-fecha=\"2002-07-19\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Investigación Shipman: revisar las muertes revela el alcance del crimen oculto</h3>\n    <p><strong>Auditoría de fallecimientos y certificados médicos · Reino Unido · 19 de julio de 2002.</strong> La investigación pública presidida por Janet Smith publica un informe que atribuye al médico Harold Shipman al menos 215 asesinatos de pacientes. Examina expedientes, circunstancias de los fallecimientos, prescripciones, certificaciones y la forma en que los controles no detectaron un patrón anómalo. La conclusión es distinta de las quince condenas penales dictadas en 2000, ya registradas en True Crime. El caso impulsa la revisión de los sistemas de certificación de muerte y vigilancia de prácticas clínicas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.the-shipman-inquiry.org.uk/firstreport.asp",
+      "https://www.gov.uk/government/organisations/shipman-inquiry"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65037,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2007,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Caso Maeso: genética y virología reconstruyen el origen de 275 contagios",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2007\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2007</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Caso Maeso: genética y virología reconstruyen el origen de 275 contagios</h3>\n    <p><strong>Criminalística microbiológica · Valencia, España · mayo de 2007.</strong> La investigación de los contagios de hepatitis C vinculados al anestesista Juan Maeso combina historias clínicas, coincidencias en las intervenciones y análisis de secuencias y características del virus para relacionar a 275 pacientes con un mismo foco. La sentencia penal explica el valor conjunto de genética, microbiología y prueba indiciaria para atribuir una cadena de contagio. Se diferencia de la tarjeta de True Crime: aquí importa cómo se logró probar la transmisión, no repetir la condena.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://elpais.com/diario/2007/05/16/sociedad/1179266403_850215.html",
+      "https://www.europapress.es/nacional/noticia-ts-eleva-indemnizacion-dos-contagiados-maeso-mantiene-condena-1933-anos-carcel-anestesista-20090304150038.html"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65038,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2010,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Guatemala: una historiadora saca a la luz experimentos ocultos durante décadas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2010\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2010</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Guatemala: una historiadora saca a la luz experimentos ocultos durante décadas</h3>\n    <p><strong>Investigación histórica de abusos científicos · Estados Unidos y Guatemala · octubre de 2010.</strong> La historiadora Susan Reverby identifica documentación relativa a los ensayos de transmisión deliberada de infecciones sexuales realizados en Guatemala entre 1946 y 1948. Estados Unidos reconoce públicamente los hechos y presenta disculpas, y se abre una revisión de las garantías de investigación en seres humanos. El descubrimiento procede del examen de documentos históricos, no de una nueva causa penal con médicos condenados. El experimento original consta por separado en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://2009-2017.state.gov/secretary/20092013clinton/rm/2010/10/148464.htm",
+      "https://www.presidency.ucsb.edu/documents/memorandum-review-human-subjects-protection"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65039,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2010,
+    "tipo": "policia-cientifica",
+    "fecha": "2010-04-14",
+    "titulo": "Lucia de Berk: una enfermera absuelta revela los riesgos de interpretar mal las estadísticas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2010\" data-fecha=\"2010-04-14\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2010</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Lucia de Berk: una enfermera absuelta revela los riesgos de interpretar mal las estadísticas</h3>\n    <p><strong>Revisión de prueba médica y estadística · Países Bajos · 14 de abril de 2010.</strong> Tras años en prisión, la enfermera Lucia de Berk resulta absuelta en un nuevo juicio de acusaciones de asesinatos y tentativas contra pacientes. La revisión cuestiona la atribución de determinadas muertes a delitos y el uso de probabilidades sobre coincidencias de guardias y fallecimientos. El caso se incluye exclusivamente como un hito sobre error judicial e interpretación de evidencia: nunca debe presentarse a la enfermera como autora probada de homicidios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.registryofexonerations.eu/case_details/lucia-de-berk-attempted-murdermanslaughter-2003/",
+      "https://www.bmj.com/content/340/bmj.c2100"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65040,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Caso Högel: exhumaciones y registros hospitalarios revelan la magnitud de las muertes",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Caso Högel: exhumaciones y registros hospitalarios revelan la magnitud de las muertes</h3>\n    <p><strong>Autopsias, toxicología e investigación retrospectiva · Alemania · 2017.</strong> La policía y la fiscalía revisan centenares de historias hospitalarias y exhuman 134 cuerpos en decenas de cementerios para determinar qué muertes pudieron ser provocadas por el enfermero Niels Högel. Los resultados ayudan a reconstruir una cadena criminal que no había sido reconocida durante años, aunque la cremación de otras víctimas dificulta la comprobación de algunas sospechas. La sentencia de 85 asesinatos llegaría en 2019 y figura en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cbsnews.com/news/niels-hoegel-may-have-killed-over-100-patients-german-nurse/",
+      "https://www.cbsnews.com/news/germany-nurse-niels-hoegel-charged-killing-97-patients-oldenburg-delmenhorst/"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65041,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2017,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Besançon: bolsas de perfusión manipuladas abren una investigación por envenenamientos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Besançon: bolsas de perfusión manipuladas abren una investigación por envenenamientos</h3>\n    <p><strong>Indicios físicos y análisis de incidentes quirúrgicos · Francia · enero de 2017.</strong> Tras episodios de complicaciones inusuales durante anestesias, los sanitarios detectan bolsas de medicación aparentemente perforadas y se abre una investigación judicial sobre posibles intoxicaciones intencionadas. El examen de productos, registros de quirófano, intervenciones y relaciones entre incidentes sería central para construir un caso de envenenamientos múltiples. La condena de Frédéric Péchier en 2025 se recoge como hecho judicial distinto en True Crime y consta pendiente de apelación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.lemonde.fr/en/france/article/2025/09/08/frederic-pechier-an-anesthesiologist-accused-of-30-poisonings-goes-on-trial_6745157_7.html",
+      "https://www.lemonde.fr/societe/article/2025/09/08/a-besancon-la-vertigineuse-affaire-de-l-ex-anesthesiste-frederic-pechier-devant-la-justice_6639754_3224.html"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65042,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2021,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Caso Nassar: una auditoría federal identifica fallos graves en la investigación policial",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Caso Nassar: una auditoría federal identifica fallos graves en la investigación policial</h3>\n    <p><strong>Supervisión de actuaciones y protección de víctimas · Estados Unidos · 2021.</strong> La oficina del inspector general del Departamento de Justicia examina cómo el FBI trató las primeras denuncias contra Larry Nassar, antiguo médico de la selección estadounidense de gimnasia. El informe documenta entrevistas mal registradas, retrasos e insuficiente comunicación con otras autoridades, con consecuencias para las víctimas. La ficha se centra en responsabilidades institucionales e investigación de delitos contra pacientes, no en repetir las condenas por agresiones sexuales consignadas en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://oig.justice.gov/sites/default/files/reports/21-093.pdf",
+      "https://www.justice.gov/sites/default/files/testimonies/witnesses/attachments/2022/08/11/2021.09.15_testimony_of_ray_re_nassar_investigation.pdf"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65043,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2022,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "La Royal Statistical Society advierte contra el uso erróneo de probabilidades en muertes hospitalarias",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Royal Statistical Society advierte contra el uso erróneo de probabilidades en muertes hospitalarias</h3>\n    <p><strong>Estadística forense · Reino Unido · 2022.</strong> Un informe profesional examina los riesgos de interpretar agrupaciones de fallecimientos en determinados turnos como prueba directa de culpabilidad de un sanitario. Señala problemas de selección de casos, datos incompletos y confusión entre probabilidad de coincidencias y probabilidad de inocencia. Toma como referencia antecedentes como la absolución de Lucia de Berk. Las estadísticas son útiles para detectar alertas, pero deben contrastarse con causas médicas, pruebas toxicológicas y otras evidencias independientes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://rss.org.uk/RSS/media/File-library/News/2022/Report_Healthcare_serial_killer_or_coincidence_statistical_issues_in_investigation_of_suspected_medical_misconduct_Sept_2022_FINAL.pdf",
+      "https://www.mdpi.com/2075-471x/11/5/65"
+    ],
+    "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65044,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
   }
 ]
