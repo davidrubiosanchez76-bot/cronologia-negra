@@ -3840,7 +3840,7 @@
     "titulo": "Morgagni: la autopsia empieza a explicar por qué se produce una muerte",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1761\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1761</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Morgagni: la autopsia empieza a explicar por qué se produce una muerte</h3>\n    <p><strong>Anatomía patológica · 1761:</strong> Giovanni Battista Morgagni publica <em>De sedibus et causis morborum per anatomen indagatis</em>, una obra que reúne cerca de setecientas observaciones clínicas y exámenes de cadáveres. Relaciona síntomas anteriores al fallecimiento con lesiones visibles en órganos y tejidos, sustituyendo explicaciones especulativas por hallazgos anatómicos. Aunque no se trata exclusivamente de un manual judicial, su método aporta una base indispensable a la patología forense: para explicar una muerte hay que confrontar los antecedentes y las circunstancias con lo que revela el cuerpo. La explicación anatómica de una muerte resulta decisiva para la medicina forense, pero determinar una causa médica no demuestra por sí solo que exista homicidio.</p>\n  </div>\n</article>",
     "fuentes": [
-      "editorial: https://pubmed.ncbi.nlm.nih.gov/11789156/",
+      "https://pubmed.ncbi.nlm.nih.gov/11789156/",
       "https://wellcomecollection.org/works/jhxctd9x"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
