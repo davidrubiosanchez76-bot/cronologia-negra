@@ -7854,5 +7854,32 @@
     "procedencia": "Conexiones criminalísticas de crímenes médicos y sanitarios · 18 noviembre 2026",
     "orden": 65044,
     "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2001,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "La relación insulina/péptido C ayuda a demostrar una inyección homicida",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2001\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La relación insulina/péptido C ayuda a demostrar una inyección homicida</h3>\n    <p><strong>Toxicología forense · Japón · enero de 2001:</strong> H. Iwase y colaboradores publican en <em>Forensic Science International</em> el estudio de un homicidio por administración de insulina y aire, comparado con 18 casos de control. Analizan la relación entre insulina y péptido C, sustancia liberada con la insulina producida por el organismo, para aportar indicios de administración exógena. La metodología resulta relevante al investigar hipoglucemias inesperadas, también en entornos sanitarios. No constituye una prueba automática de asesinato: el estado y conservación de las muestras, otros hallazgos y el contexto deben valorarse conjuntamente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pubmed.ncbi.nlm.nih.gov/11056282/"
+    ],
+    "procedencia": "Conexiones crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65045,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2003,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Caso Cullen: los registros electrónicos de fármacos entran en la pesquisa",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2003\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2003</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Caso Cullen: los registros electrónicos de fármacos entran en la pesquisa</h3>\n    <p><strong>Investigación documental y farmacia hospitalaria · Estados Unidos · 2003:</strong> Durante la investigación de Charles Cullen, los detectives solicitan registros informatizados de los sistemas de dispensación de medicamentos de un hospital de Nueva Jersey. La institución sostiene que no conserva datos de cierta antigüedad, extremo que el fabricante del sistema desmiente, según la investigación periodística posterior. El caso muestra por qué las trazas de retirada de fármacos, horarios y expedientes clínicos deben preservarse y cotejarse con la evolución de los pacientes. Un registro de acceso o retirada de medicación es un indicio verificable, pero por sí solo no prueba una administración homicida.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cbsnews.com/news/detectives-on-catching-serial-killer-charles-cullen/",
+      "https://pubmed.ncbi.nlm.nih.gov/17199622/"
+    ],
+    "procedencia": "Conexiones crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 65046,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
   }
 ]
