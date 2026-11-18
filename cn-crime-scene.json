@@ -14,8 +14,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Bow Street Runners: nace la investigación organizada de delincuentes",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1749\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1749</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Bow Street Runners: nace la investigación organizada de delincuentes</h3>\n    <p><strong>Vigilancia y pesquisa · 1749:</strong> Henry Fielding reúne en Londres a un pequeño grupo de agentes de paisano que investigan denuncias, buscan fugitivos y rastrean información. Los <em>Bow Street Runners</em> no inventan la persecución criminal, pero ayudan a convertirla en una actividad continuada y organizada, frente a los antiguos cazadores de recompensas.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1749\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1749</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Bow Street Runners: nace la investigación organizada de delincuentes</h3>\n    <p><strong>Vigilancia y pesquisa · 1749:</strong> Henry Fielding reúne en Londres a un pequeño grupo de agentes de paisano que investigan denuncias, buscan fugitivos y rastrean información. Los <em>Bow Street Runners</em> no inventan la persecución criminal, pero ayudan a convertirla en una actividad continuada y organizada, frente a los antiguos cazadores de recompensas. La necesidad de agentes relativamente estables se comprende mejor tras redes ambiguas de perseguidores de ladrones como la dirigida por Jonathan Wild.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nationalarchives.gov.uk/explore-the-collection/stories/sir-john-fielding/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1
   },
@@ -3327,7 +3329,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Beccaria publica De los delitos y las penas: nace la escuela clásica",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1764\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1764</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Beccaria publica De los delitos y las penas: nace la escuela clásica</h3>\n    <p><strong>Criminología · 1764:</strong> Cesare Beccaria publica <em>De los delitos y las penas</em> (<em>Dei delitti e delle pene</em>), una obra fundamental de la Ilustración penal. Se opone a la tortura y a las penas arbitrarias, defiende la proporcionalidad de los castigos y plantea que la certeza de la sanción resulta más eficaz que su crueldad. Su concepción de las decisiones humanas como susceptibles de disuasión inaugura la llamada escuela clásica, antecedente decisivo de la criminología y de las reformas penales modernas.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1764\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1764</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Beccaria publica De los delitos y las penas: nace la escuela clásica</h3>\n    <p><strong>Criminología · 1764:</strong> Cesare Beccaria publica <em>De los delitos y las penas</em> (<em>Dei delitti e delle pene</em>), una obra fundamental de la Ilustración penal. Se opone a la tortura y a las penas arbitrarias, defiende la proporcionalidad de los castigos y plantea que la certeza de la sanción resulta más eficaz que su crueldad. Su concepción de las decisiones humanas como susceptibles de disuasión inaugura la llamada escuela clásica, antecedente decisivo de la criminología y de las reformas penales modernas. La crítica de las penas arbitrarias y desproporcionadas abre otra línea de evolución: la legitimidad del sistema penal, diferente de sus técnicas de investigación.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1165
@@ -3337,7 +3339,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Jeremy Bentham: el delito como cálculo de costes y beneficios",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1789\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1789</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Jeremy Bentham: el delito como cálculo de costes y beneficios</h3>\n    <p><strong>Teoría criminológica · 1789:</strong> Jeremy Bentham publica <em>Una introducción a los principios de la moral y la legislación</em> (<em>An Introduction to the Principles of Morals and Legislation</em>). Aplica su filosofía utilitarista al delito y al castigo: las personas pueden ponderar los beneficios esperados de una conducta frente a sus consecuencias. Sus planteamientos influyen en las teorías de la disuasión y la elección racional. Aunque la conducta delictiva no puede reducirse a un cálculo consciente, esta perspectiva tendrá una influencia duradera en la política criminal.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1789\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1789</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Jeremy Bentham: el delito como cálculo de costes y beneficios</h3>\n    <p><strong>Teoría criminológica · 1789:</strong> Jeremy Bentham publica <em>Una introducción a los principios de la moral y la legislación</em> (<em>An Introduction to the Principles of Morals and Legislation</em>). Aplica su filosofía utilitarista al delito y al castigo: las personas pueden ponderar los beneficios esperados de una conducta frente a sus consecuencias. Sus planteamientos influyen en las teorías de la disuasión y la elección racional. Aunque la conducta delictiva no puede reducirse a un cálculo consciente, esta perspectiva tendrá una influencia duradera en la política criminal. La reflexión sobre prevención y disuasión pertenece a la criminología y la política penal; no es un método de identificación de delincuentes.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1166
@@ -3830,7 +3832,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Morgagni: la autopsia empieza a explicar por qué se produce una muerte",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1761\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1761</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Morgagni: la autopsia empieza a explicar por qué se produce una muerte</h3>\n    <p><strong>Anatomía patológica · 1761:</strong> Giovanni Battista Morgagni publica <em>De sedibus et causis morborum per anatomen indagatis</em>, una obra que reúne cerca de setecientas observaciones clínicas y exámenes de cadáveres. Relaciona síntomas anteriores al fallecimiento con lesiones visibles en órganos y tejidos, sustituyendo explicaciones especulativas por hallazgos anatómicos. Aunque no se trata exclusivamente de un manual judicial, su método aporta una base indispensable a la patología forense: para explicar una muerte hay que confrontar los antecedentes y las circunstancias con lo que revela el cuerpo.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1761\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1761</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Morgagni: la autopsia empieza a explicar por qué se produce una muerte</h3>\n    <p><strong>Anatomía patológica · 1761:</strong> Giovanni Battista Morgagni publica <em>De sedibus et causis morborum per anatomen indagatis</em>, una obra que reúne cerca de setecientas observaciones clínicas y exámenes de cadáveres. Relaciona síntomas anteriores al fallecimiento con lesiones visibles en órganos y tejidos, sustituyendo explicaciones especulativas por hallazgos anatómicos. Aunque no se trata exclusivamente de un manual judicial, su método aporta una base indispensable a la patología forense: para explicar una muerte hay que confrontar los antecedentes y las circunstancias con lo que revela el cuerpo. La explicación anatómica de una muerte resulta decisiva para la medicina forense, pero determinar una causa médica no demuestra por sí solo que exista homicidio.</p>\n  </div>\n</article>",
     "fuentes": [
       "editorial: https://pubmed.ncbi.nlm.nih.gov/11789156/"
     ],
@@ -4362,8 +4364,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Song Ci: el primer gran manual para investigar una muerte sospechosa",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1247\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1247</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Song Ci: el primer gran manual para investigar una muerte sospechosa</h3>\n    <p><strong>Medicina legal · 1247:</strong> El magistrado chino Song Ci termina <em>Xi yuan ji lu</em>, conocido en español como <em>La limpieza de las injusticias</em>, uno de los primeros tratados sistemáticos de investigación forense. Describe cómo examinar cadáveres, reconocer lesiones, registrar las circunstancias del hallazgo y distinguir posibles causas de muerte. Su insistencia en la observación y en los procedimientos documentados anticipa principios esenciales de la inspección ocular moderna, aunque sus explicaciones respondían a los conocimientos de su época.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1247\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1247</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Song Ci: el primer gran manual para investigar una muerte sospechosa</h3>\n    <p><strong>Medicina legal · 1247:</strong> El magistrado chino Song Ci termina <em>Xi yuan ji lu</em>, conocido en español como <em>La limpieza de las injusticias</em>, uno de los primeros tratados sistemáticos de investigación forense. Describe cómo examinar cadáveres, reconocer lesiones, registrar las circunstancias del hallazgo y distinguir posibles causas de muerte. Su insistencia en la observación y en los procedimientos documentados anticipa principios esenciales de la inspección ocular moderna, aunque sus explicaciones respondían a los conocimientos de su época. Su tradición forense tuvo continuidad propia en China y fue reelaborada para las investigaciones judiciales de la dinastía Qing, mucho antes de los laboratorios europeos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.loc.gov/resource/gdcwdl.wdl_17865/?st=list"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1310
   },
@@ -4652,8 +4656,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Ur-Nammu: los homicidios entran en uno de los códigos jurídicos más antiguos",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-2100\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 2100<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Ur-Nammu: los homicidios entran en uno de los códigos jurídicos más antiguos</h3>\n    <p>Justicia · hacia 2100 a. C.: En Sumer se recopilan las leyes atribuidas al rey Ur-Nammu, conservadas parcialmente en tablillas cuneiformes. Incluyen disposiciones sobre homicidios, lesiones, acusaciones falsas y otros conflictos. No constituyen el nacimiento de la justicia ni el primer conjunto de reglas de la humanidad, pero figuran entre los textos legales más antiguos que han llegado hasta nosotros. Documentan el intento de fijar por escrito cómo debía responder una autoridad ante delitos y daños.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-2100\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">2100<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Ur-Nammu: los homicidios entran en uno de los códigos jurídicos más antiguos</h3>\n    <p>Justicia · hacia 2100 a. C.: En Sumer se recopilan las leyes atribuidas al rey Ur-Nammu, conservadas parcialmente en tablillas cuneiformes. Incluyen disposiciones sobre homicidios, lesiones, acusaciones falsas y otros conflictos. No constituyen el nacimiento de la justicia ni el primer conjunto de reglas de la humanidad, pero figuran entre los textos legales más antiguos que han llegado hasta nosotros. Documentan el intento de fijar por escrito cómo debía responder una autoridad ante delitos y daños. El valor de este hito está en el registro escrito de las sanciones; todavía no describe una técnica para descubrir a un homicida.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Guide_to_the_Collections_Ancient_Near_Eastern_Art.pdf"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1361
   },
@@ -4662,8 +4668,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Hammurabi: el castigo y las acusaciones quedan grabados en piedra",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-1750\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 1750<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Hammurabi: el castigo y las acusaciones quedan grabados en piedra</h3>\n    <p>Justicia · hacia 1750 a. C.: Una estela babilónica recoge 282 decisiones o disposiciones atribuidas al rey Hammurabi. Regula conflictos patrimoniales, falsas acusaciones, lesiones, responsabilidades profesionales y otras conductas punibles, con penas condicionadas por la posición social de las personas implicadas. No es el primer código de la historia ni un código penal moderno, pero constituye uno de los testimonios más completos y famosos de la justicia escrita en la Antigüedad.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-1750\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">1750<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Hammurabi: el castigo y las acusaciones quedan grabados en piedra</h3>\n    <p>Justicia · hacia 1750 a. C.: Una estela babilónica recoge 282 decisiones o disposiciones atribuidas al rey Hammurabi. Regula conflictos patrimoniales, falsas acusaciones, lesiones, responsabilidades profesionales y otras conductas punibles, con penas condicionadas por la posición social de las personas implicadas. No es el primer código de la historia ni un código penal moderno, pero constituye uno de los testimonios más completos y famosos de la justicia escrita en la Antigüedad. En relación con las leyes anteriores de Mesopotamia, ofrece un testimonio más extenso de la regulación de acusaciones, daños y castigos, no un método de policía científica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.louvre.fr/es/el-codigo-de-hammurabi"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1362
   },
@@ -4672,8 +4680,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "El Papiro Abbott: una investigación por robos de tumbas en Egipto",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-1110\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 1110<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Papiro Abbott: una investigación por robos de tumbas en Egipto</h3>\n    <p>Investigación · siglo XII a. C.: Durante el reinado de Ramsés IX se investigan denuncias de saqueos en la necrópolis tebana. El llamado Papiro Abbott conserva el relato de inspecciones de tumbas reales, comprobaciones efectuadas por una comisión y tensiones entre autoridades rivales. La pesquisa distingue sepulturas intactas de otras que habían sido expoliadas. Es uno de los documentos más sugestivos de la Antigüedad sobre inspección de lugares, examen de hechos denunciados y registro escrito de una investigación.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-1110\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">1110<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Papiro Abbott: una investigación por robos de tumbas en Egipto</h3>\n    <p>Investigación · siglo XII a. C.: Durante el reinado de Ramsés IX se investigan denuncias de saqueos en la necrópolis tebana. El llamado Papiro Abbott conserva el relato de inspecciones de tumbas reales, comprobaciones efectuadas por una comisión y tensiones entre autoridades rivales. La pesquisa distingue sepulturas intactas de otras que habían sido expoliadas. Es uno de los documentos más sugestivos de la Antigüedad sobre inspección de lugares, examen de hechos denunciados y registro escrito de una investigación. A diferencia de los códigos jurídicos, aquí se conserva una actuación ante un delito concreto: inspeccionar lugares, contrastar denuncias y dejar constancia de los resultados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://artsandculture.google.com/asset/the-abbott-papyrus/7gHCOyoaYoQdWw?hl=en"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1364
   },
@@ -4682,8 +4692,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Dracón: Atenas establece reglas escritas para juzgar homicidios",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-621\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">621<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Dracón: Atenas establece reglas escritas para juzgar homicidios</h3>\n    <p>Justicia · hacia 621 a. C.: El legislador ateniense Dracón promulga disposiciones sobre homicidios que regulan el procedimiento, la intervención de familiares de la víctima y las consecuencias de distintos supuestos de muerte. Su objetivo es encauzar jurídicamente conflictos que podían derivar en venganzas privadas. Aunque su nombre terminó asociándose a castigos extremadamente severos, la parte mejor documentada de su legislación es precisamente la relativa al homicidio, conservada mediante una reinscripción posterior.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-621\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">621<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Dracón: Atenas establece reglas escritas para juzgar homicidios</h3>\n    <p>Justicia · hacia 621 a. C.: El legislador ateniense Dracón promulga disposiciones sobre homicidios que regulan el procedimiento, la intervención de familiares de la víctima y las consecuencias de distintos supuestos de muerte. Su objetivo es encauzar jurídicamente conflictos que podían derivar en venganzas privadas. Aunque su nombre terminó asociándose a castigos extremadamente severos, la parte mejor documentada de su legislación es precisamente la relativa al homicidio, conservada mediante una reinscripción posterior. La regulación de los homicidios contribuye a desplazar parte de las venganzas privadas hacia procedimientos sometidos a autoridades.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.atticinscriptions.com/inscription/OR/183a"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1365
   },
@@ -4692,7 +4704,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Las Doce Tablas: Roma publica sus primeras reglas jurídicas fundamentales",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-450\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 450<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Las Doce Tablas: Roma publica sus primeras reglas jurídicas fundamentales</h3>\n    <p>Justicia · hacia 451–450 a. C.: La República romana pone por escrito las llamadas Leyes de las Doce Tablas. Incluyen reglas procesales, obligaciones de testigos, sanciones por robo, lesiones y falsos testimonios, así como supuestos de muerte causados sin intención. Publicarlas constituye un paso fundamental para limitar la dependencia exclusiva de tradiciones jurídicas controladas por las élites. Sus normas reflejan una sociedad desigual y muchas penas hoy inaceptables, pero serán una referencia básica del derecho romano.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-450\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">450<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Las Doce Tablas: Roma publica sus primeras reglas jurídicas fundamentales</h3>\n    <p>Justicia · hacia 451–450 a. C.: La República romana pone por escrito las llamadas Leyes de las Doce Tablas. Incluyen reglas procesales, obligaciones de testigos, sanciones por robo, lesiones y falsos testimonios, así como supuestos de muerte causados sin intención. Publicarlas constituye un paso fundamental para limitar la dependencia exclusiva de tradiciones jurídicas controladas por las élites. Sus normas reflejan una sociedad desigual y muchas penas hoy inaceptables, pero serán una referencia básica del derecho romano. La publicidad de las normas es relevante para el control del poder de juzgar, pero no supone todavía una investigación criminal científica.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1366
@@ -4702,8 +4714,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Liber Iudiciorum: un gran código de justicia en la Hispania visigoda",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"654\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">654</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Liber Iudiciorum: un gran código de justicia en la Hispania visigoda</h3>\n    <p>Justicia · 654: El rey Recesvinto promulga el <em>Liber Iudiciorum</em>, compilación legislativa que ordena materias civiles y penales del reino visigodo. Incluye disposiciones sobre lesiones, homicidios, hurtos, acusaciones y testimonios. Reformado después y transmitido durante siglos, influirá en la tradición jurídica peninsular y en el posterior <em>Fuero Juzgo</em>. Su incorporación permite rastrear la historia de la investigación y el castigo del delito en la península ibérica mucho antes de la aparición de cuerpos policiales modernos.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"654\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">654</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Liber Iudiciorum: un gran código de justicia en la Hispania visigoda</h3>\n    <p>Justicia · 654: El rey Recesvinto promulga el <em>Liber Iudiciorum</em>, compilación legislativa que ordena materias civiles y penales del reino visigodo. Incluye disposiciones sobre lesiones, homicidios, hurtos, acusaciones y testimonios. Reformado después y transmitido durante siglos, influirá en la tradición jurídica peninsular y en el posterior <em>Fuero Juzgo</em>. Su incorporación permite rastrear la historia de la investigación y el castigo del delito en la península ibérica mucho antes de la aparición de cuerpos policiales modernos. Su papel en esta cronología es la regulación del delito y la prueba, no el nacimiento de un cuerpo de investigadores.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://bibliographienumeriquedhistoiredudroit-ifg.univ-lorraine.fr/s/droit/item/145364"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1369
   },
@@ -4712,8 +4726,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "La Assize of Clarendon: vecinos juramentados señalan a sospechosos",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1166\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1166</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Assize of Clarendon: vecinos juramentados señalan a sospechosos</h3>\n    <p>Justicia · 1166: Enrique II de Inglaterra impulsa la <em>Assize of Clarendon</em>, que organiza la presentación ante las autoridades de personas sospechosas de robos y otros delitos graves mediante grupos locales bajo juramento. No equivale al jurado moderno que decide la culpabilidad, pero constituye un antecedente esencial del procedimiento de acusación pública y del sistema de jurados del derecho anglosajón. La identificación de sospechosos deja de depender exclusivamente de una denuncia privada.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1166\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1166</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Assize of Clarendon: vecinos juramentados señalan a sospechosos</h3>\n    <p>Justicia · 1166: Enrique II de Inglaterra impulsa la <em>Assize of Clarendon</em>, que organiza la presentación ante las autoridades de personas sospechosas de robos y otros delitos graves mediante grupos locales bajo juramento. No equivale al jurado moderno que decide la culpabilidad, pero constituye un antecedente esencial del procedimiento de acusación pública y del sistema de jurados del derecho anglosajón. La identificación de sospechosos deja de depender exclusivamente de una denuncia privada. El testimonio juramentado de vecinos inicia una vía de señalamiento público de sospechosos diferente de la pesquisa técnica que surgirá después.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://amesfoundation.law.harvard.edu/ELH/mats/Mats4A_B.pdf"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1370
   },
@@ -4722,8 +4738,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Inglaterra establece oficialmente el cargo de coroner",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1194\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1194</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Inglaterra establece oficialmente el cargo de coroner</h3>\n    <p>Investigación de muertes · Septiembre: La administración de Ricardo I dispone el nombramiento de funcionarios encargados de conservar registros de asuntos de interés para la Corona. Entre sus atribuciones se desarrollará la investigación de fallecimientos violentos o sospechosos. Es el origen institucional del <em>coroner</em> inglés, figura que, con importantes transformaciones, seguirá encargándose de esclarecer determinadas muertes no naturales. Sus funciones iniciales también estaban ligadas a los ingresos de la Corona.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1194\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1194</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Inglaterra establece oficialmente el cargo de coroner</h3>\n    <p>Investigación de muertes · Septiembre: La administración de Ricardo I dispone el nombramiento de funcionarios encargados de conservar registros de asuntos de interés para la Corona. Entre sus atribuciones se desarrollará la investigación de fallecimientos violentos o sospechosos. Es el origen institucional del <em>coroner</em> inglés, figura que, con importantes transformaciones, seguirá encargándose de esclarecer determinadas muertes no naturales. Sus funciones iniciales también estaban ligadas a los ingresos de la Corona. El interés para Crime Scene es la creación de un responsable público de documentar determinadas muertes, una función que concretará el Estatuto de 1276.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/death-dying/dying-and-death/investigatingdeath/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1371
   },
@@ -4742,8 +4760,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "El IV Concilio de Letrán debilita los juicios por ordalía",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1215\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1215</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El IV Concilio de Letrán debilita los juicios por ordalía</h3>\n    <p>Justicia · Noviembre: El IV Concilio de Letrán prohíbe la participación clerical en determinados rituales asociados a las pruebas judiciales por ordalía, como las del agua o el hierro candente. La retirada de ese apoyo religioso contribuye a la desaparición de tales prácticas en varias regiones europeas y a la búsqueda de procedimientos probatorios alternativos. El cambio no es instantáneo ni uniforme, pero marca un giro decisivo en la historia de los métodos empleados para decidir acusaciones criminales.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1215\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1215</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El IV Concilio de Letrán debilita los juicios por ordalía</h3>\n    <p>Justicia · Noviembre: El IV Concilio de Letrán prohíbe la participación clerical en determinados rituales asociados a las pruebas judiciales por ordalía, como las del agua o el hierro candente. La retirada de ese apoyo religioso contribuye a la desaparición de tales prácticas en varias regiones europeas y a la búsqueda de procedimientos probatorios alternativos. El cambio no es instantáneo ni uniforme, pero marca un giro decisivo en la historia de los métodos empleados para decidir acusaciones criminales. La retirada del apoyo clerical a las ordalías no produjo automáticamente una justicia basada en evidencias: sobrevivieron la tortura y otras prácticas poco fiables.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://academic.oup.com/ojls/article-abstract/26/3/473/1452002"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1373
   },
@@ -4752,8 +4772,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Las Siete Partidas: el homicidio y los delitos en el derecho castellano",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1275\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:25px\">c. 1275</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Las Siete Partidas: el homicidio y los delitos en el derecho castellano</h3>\n    <p>Justicia · segunda mitad del siglo XIII: Bajo el impulso de Alfonso X el Sabio se redactan y reelaboran los textos que conocemos como <em>Las Siete Partidas</em>. Su séptima parte trata de acusaciones, delitos, homicidios y castigos, integrando elementos del derecho romano, canónico y castellano. La cronología exacta de las distintas versiones sigue siendo debatida, por lo que esta tarjeta utiliza una fecha aproximada y no afirma que la obra se promulgara en 1275. Su posterior influencia jurídica en España y América será enorme.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1275\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:25px\">1275</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Las Siete Partidas: el homicidio y los delitos en el derecho castellano</h3>\n    <p>Justicia · segunda mitad del siglo XIII: Bajo el impulso de Alfonso X el Sabio se redactan y reelaboran los textos que conocemos como <em>Las Siete Partidas</em>. Su séptima parte trata de acusaciones, delitos, homicidios y castigos, integrando elementos del derecho romano, canónico y castellano. La cronología exacta de las distintas versiones sigue siendo debatida, por lo que esta tarjeta utiliza una fecha aproximada y no afirma que la obra se promulgara en 1275. Su posterior influencia jurídica en España y América será enorme. Distinguir la elaboración medieval de su vigencia jurídica posterior evita atribuir al año elegido una promulgación exacta que la historiografía no confirma.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cervantesvirtual.com/obra/las-siete-partidas-del-sabio-rey-don-alonso-el-nono-1036398/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1374
   },
@@ -4762,7 +4784,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "El Estatuto de los Coroners exige examinar y medir las heridas",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1276\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1276</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Estatuto de los Coroners exige examinar y medir las heridas</h3>\n    <p>Medicina legal · 1276: El Parlamento inglés precisa las obligaciones de los <em>coroners</em> en la investigación de fallecimientos sospechosos. Deben inspeccionar los cuerpos, examinar las lesiones y registrar características como la localización y dimensiones de las heridas, junto con las circunstancias del hallazgo. Es un antecedente concreto de la documentación sistemática de indicios corporales en una pesquisa judicial, siglos antes de la medicina forense de laboratorio.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1276\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1276</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Estatuto de los Coroners exige examinar y medir las heridas</h3>\n    <p>Medicina legal · 1276: El Parlamento inglés precisa las obligaciones de los <em>coroners</em> en la investigación de fallecimientos sospechosos. Deben inspeccionar los cuerpos, examinar las lesiones y registrar características como la localización y dimensiones de las heridas, junto con las circunstancias del hallazgo. Es un antecedente concreto de la documentación sistemática de indicios corporales en una pesquisa judicial, siglos antes de la medicina forense de laboratorio. La inspección de lesiones introduce una documentación material más precisa que la sola identificación de personas sospechosas.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1375
@@ -4772,8 +4794,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Bolonia: una autopsia judicial investiga un presunto envenenamiento",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1302\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1302</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Bolonia: una autopsia judicial investiga un presunto envenenamiento</h3>\n    <p>Medicina legal · 1 de marzo: Tras la muerte sospechosa de Azzolino degli Onesti, las autoridades de Bolonia encargan un examen anatómico a un equipo de médicos y cirujanos dirigido por Bartolomeo da Varignana. El informe escrito, considerado uno de los testimonios más antiguos de autopsia judicial conservados, rechaza la hipótesis de envenenamiento. La importancia histórica reside tanto en el examen del cadáver como en la formalización de una opinión médica destinada al proceso judicial.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1302\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1302</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Bolonia: una autopsia judicial investiga un presunto envenenamiento</h3>\n    <p>Medicina legal · 1 de marzo: Tras la muerte sospechosa de Azzolino degli Onesti, las autoridades de Bolonia encargan un examen anatómico a un equipo de médicos y cirujanos dirigido por Bartolomeo da Varignana. El informe escrito, considerado uno de los testimonios más antiguos de autopsia judicial conservados, rechaza la hipótesis de envenenamiento. La importancia histórica reside tanto en el examen del cadáver como en la formalización de una opinión médica destinada al proceso judicial. Su valor es precisamente que el examen contradice la sospecha inicial; la medicina también puede descartar un delito.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.treccani.it/enciclopedia/bartolomeo-da-varignana_%28Dizionario-Biografico%29/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1376
   },
@@ -4782,8 +4806,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "La Santa Hermandad: una organización perseguirá a los delincuentes en Castilla",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1476\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1476</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Santa Hermandad: una organización perseguirá a los delincuentes en Castilla</h3>\n    <p>Historia policial · 1476: Los Reyes Católicos reorganizan en las Cortes de Madrigal la Santa Hermandad, heredera de anteriores asociaciones locales de defensa y vigilancia. Sus cuadrillas armadas persiguen a malhechores, protegen caminos y contribuyen a reforzar la autoridad de la monarquía en amplias zonas de Castilla. No es una policía judicial moderna, pero constituye uno de los antecedentes esenciales de la organización territorial de la seguridad y la persecución del delito en España.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1476\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1476</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Santa Hermandad: una organización perseguirá a los delincuentes en Castilla</h3>\n    <p>Historia policial · 1476: Los Reyes Católicos reorganizan en las Cortes de Madrigal la Santa Hermandad, heredera de anteriores asociaciones locales de defensa y vigilancia. Sus cuadrillas armadas persiguen a malhechores, protegen caminos y contribuyen a reforzar la autoridad de la monarquía en amplias zonas de Castilla. No es una policía judicial moderna, pero constituye uno de los antecedentes esenciales de la organización territorial de la seguridad y la persecución del delito en España. La persecución de salteadores en caminos representa una línea de organización policial distinta de la medicina legal y la prueba pericial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/101778"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1377
   },
@@ -4792,8 +4818,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Malleus Maleficarum: un manual alimenta la persecución por brujería",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1487\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1487</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Malleus Maleficarum: un manual alimenta la persecución por brujería</h3>\n    <p>Justicia y superstición · 1487: Se imprime el <em>Malleus Maleficarum</em> (<em>Martillo de las brujas</em>), asociado principalmente al inquisidor Heinrich Kramer. El tratado sistematiza acusaciones, creencias y procedimientos para perseguir supuesta brujería; su autoridad jurídica real varió según los territorios. Se convertirá en una obra influyente de la caza de brujas europea. Su interés criminalístico es también negativo: muestra cómo una teoría carente de pruebas verificables pudo legitimarse mediante prácticas procesales.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1487\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1487</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Malleus Maleficarum: un manual alimenta la persecución por brujería</h3>\n    <p>Justicia y superstición · 1487: Se imprime el <em>Malleus Maleficarum</em> (<em>Martillo de las brujas</em>), asociado principalmente al inquisidor Heinrich Kramer. El tratado sistematiza acusaciones, creencias y procedimientos para perseguir supuesta brujería; su autoridad jurídica real varió según los territorios. Se convertirá en una obra influyente de la caza de brujas europea. Su interés criminalístico es también negativo: muestra cómo una teoría carente de pruebas verificables pudo legitimarse mediante prácticas procesales. Este episodio muestra un retroceso epistemológico: ordenar procedimientos no garantiza que las acusaciones respondan a hechos comprobables.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pdxscholar.library.pdx.edu/mmft_malleus/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1378
   },
@@ -4802,7 +4830,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "La Carolina: el Sacro Imperio sistematiza el procedimiento penal",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1532\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1532</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Carolina: el Sacro Imperio sistematiza el procedimiento penal</h3>\n    <p>Justicia · 1532: Carlos V promulga la <em>Constitutio Criminalis Carolina</em>, ordenamiento que regula en el Sacro Imperio cuestiones de delitos, penas, indicios e interrogatorios. Incluye condiciones para recurrir a la tortura, práctica hoy incompatible con las garantías fundamentales, pero también procedimientos formales y reglas para valorar sospechas. La Carolina se convierte en uno de los textos más importantes de la historia del proceso penal europeo.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1532\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1532</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Carolina: el Sacro Imperio sistematiza el procedimiento penal</h3>\n    <p>Justicia · 1532: Carlos V promulga la <em>Constitutio Criminalis Carolina</em>, ordenamiento que regula en el Sacro Imperio cuestiones de delitos, penas, indicios e interrogatorios. Incluye condiciones para recurrir a la tortura, práctica hoy incompatible con las garantías fundamentales, pero también procedimientos formales y reglas para valorar sospechas. La Carolina se convierte en uno de los textos más importantes de la historia del proceso penal europeo. La formalización del proceso convivió con interrogatorios coercitivos, de modo que no cabe presentar esta etapa como un avance lineal hacia pruebas fiables.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1379
@@ -4832,7 +4860,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Salazar y Frías: la Inquisición española exige pruebas frente a la brujería",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1614\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1614</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Salazar y Frías: la Inquisición española exige pruebas frente a la brujería</h3>\n    <p>Justicia · 1614: Tras investigar personalmente las acusaciones surgidas en Navarra, Alonso de Salazar y Frías contribuye a que la Suprema dicte nuevas instrucciones sobre los procesos por brujería. Su revisión pone de relieve contradicciones, confesiones inducidas y ausencia de demostraciones materiales de los supuestos actos sobrenaturales. El episodio destaca en la historia de la investigación por su defensa de comprobar las denuncias antes de condenar y por mostrar cómo una institución podía rectificar criterios ante pruebas insuficientes.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1614\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1614</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Salazar y Frías: la Inquisición española exige pruebas frente a la brujería</h3>\n    <p>Justicia · 1614: Tras investigar personalmente las acusaciones surgidas en Navarra, Alonso de Salazar y Frías contribuye a que la Suprema dicte nuevas instrucciones sobre los procesos por brujería. Su revisión pone de relieve contradicciones, confesiones inducidas y ausencia de demostraciones materiales de los supuestos actos sobrenaturales. El episodio destaca en la historia de la investigación por su defensa de comprobar las denuncias antes de condenar y por mostrar cómo una institución podía rectificar criterios ante pruebas insuficientes. Su trabajo puede leerse junto a Zugarramurdi y, en contraste, con los procesos de Pendle y Salem: testimonios numerosos no equivalen a pruebas verificadas.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1387
@@ -5032,7 +5060,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Nicolas de La Reynie: París reorganiza su policía bajo una autoridad central",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1667\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1667</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nicolas de La Reynie: París reorganiza su policía bajo una autoridad central</h3>\n    <p>Historia policial · Marzo: Luis XIV establece en París la figura de teniente general de policía, ejercida inicialmente por Nicolas de La Reynie. Bajo su autoridad se reorganizan comisarios y funciones de vigilancia, seguridad, orden urbano e investigación de actividades ilícitas. La institución no equivale a los cuerpos policiales actuales, pero contribuye a consolidar una estructura estable de actuación pública frente a la delincuencia en una gran capital europea.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1667\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1667</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nicolas de La Reynie: París reorganiza su policía bajo una autoridad central</h3>\n    <p>Historia policial · Marzo: Luis XIV establece en París la figura de teniente general de policía, ejercida inicialmente por Nicolas de La Reynie. Bajo su autoridad se reorganizan comisarios y funciones de vigilancia, seguridad, orden urbano e investigación de actividades ilícitas. La institución no equivale a los cuerpos policiales actuales, pero contribuye a consolidar una estructura estable de actuación pública frente a la delincuencia en una gran capital europea. La creación de una dirección policial estable precede a la investigación más organizada de Bow Street y permite leer conjuntamente policía urbana y casos como el asunto de los venenos.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1423
@@ -5052,8 +5080,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Atenas: el testimonio de un médico ayuda a probar una agresión",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-341\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 341<br/>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Atenas: el testimonio de un médico ayuda a probar una agresión</h3>\n    <p><strong>Medicina legal · Hacia 341 a. C.:</strong> En el discurso judicial <em>Contra Conón</em>, atribuido a Demóstenes, el ciudadano Aristón relata una violenta agresión y pide que se lea ante el tribunal el testimonio del médico que lo atendió. El facultativo había examinado sus heridas y valorado la gravedad de las complicaciones posteriores. Se trata de uno de los testimonios más claros conservados de la intervención de un médico en un juicio ateniense. Su papel anticipa el uso procesal del conocimiento clínico, aunque no equivalía todavía a la figura institucional del perito médico moderno.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-341\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">341<br/>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Atenas: el testimonio de un médico ayuda a probar una agresión</h3>\n    <p><strong>Medicina legal · Hacia 341 a. C.:</strong> En el discurso judicial <em>Contra Conón</em>, atribuido a Demóstenes, el ciudadano Aristón relata una violenta agresión y pide que se lea ante el tribunal el testimonio del médico que lo atendió. El facultativo había examinado sus heridas y valorado la gravedad de las complicaciones posteriores. Se trata de uno de los testimonios más claros conservados de la intervención de un médico en un juicio ateniense. Su papel anticipa el uso procesal del conocimiento clínico, aunque no equivalía todavía a la figura institucional del perito médico moderno. Su aportación es probatoria: un tribunal puede escuchar a quien observó directamente las lesiones, aunque su valoración no equivalga a una pericia moderna.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://academic.oup.com/edited-volume/28328/chapter/215077614"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1430
   },
@@ -5062,8 +5092,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Herófilo y Erasístrato: las primeras grandes disecciones humanas documentadas",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-300\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 300<br/>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Herófilo y Erasístrato: las primeras grandes disecciones humanas documentadas</h3>\n    <p><strong>Anatomía · Primera mitad del siglo III a. C.:</strong> En Alejandría, capital del Egipto ptolemaico, los médicos griegos Herófilo de Calcedonia y Erasístrato de Ceos realizan disecciones sistemáticas de cadáveres humanos, una práctica excepcional en el mundo antiguo. Sus investigaciones permiten describir con mayor precisión órganos, nervios y estructuras internas. Aunque se trata de estudios anatómicos y no de autopsias judiciales, constituyen un precedente decisivo del conocimiento del cuerpo humano sobre el que se desarrollará siglos después la medicina legal.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-300\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">300<br/>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Herófilo y Erasístrato: las primeras grandes disecciones humanas documentadas</h3>\n    <p><strong>Anatomía · Primera mitad del siglo III a. C.:</strong> En Alejandría, capital del Egipto ptolemaico, los médicos griegos Herófilo de Calcedonia y Erasístrato de Ceos realizan disecciones sistemáticas de cadáveres humanos, una práctica excepcional en el mundo antiguo. Sus investigaciones permiten describir con mayor precisión órganos, nervios y estructuras internas. Aunque se trata de estudios anatómicos y no de autopsias judiciales, constituyen un precedente decisivo del conocimiento del cuerpo humano sobre el que se desarrollará siglos después la medicina legal. La observación anatómica amplía el conocimiento del cuerpo, pero no debe confundirse con una autopsia solicitada por un juez.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582158/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1431
   },
@@ -5072,8 +5104,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Egipto romano: los médicos redactan informes para la justicia",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"100\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">c. 100<br/>d. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Egipto romano: los médicos redactan informes para la justicia</h3>\n    <p><strong>Medicina legal · Desde finales del siglo I d. C.:</strong> Papiros griegos conservados en Egipto documentan reconocimientos de personas lesionadas, a menudo víctimas de agresiones, encargados a médicos y otros examinadores. Algunos procedimientos incluyen una denuncia, una orden de inspección y un informe médico que puede incorporarse a un litigio. Estos documentos ofrecen testimonios tempranos de una práctica pericial organizada: describir hallazgos clínicos para que una autoridad valore los hechos. Los informes conservados abarcan principalmente época romana y bizantina.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"100\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">100<br/>d. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Egipto romano: los médicos redactan informes para la justicia</h3>\n    <p><strong>Medicina legal · Desde finales del siglo I d. C.:</strong> Papiros griegos conservados en Egipto documentan reconocimientos de personas lesionadas, a menudo víctimas de agresiones, encargados a médicos y otros examinadores. Algunos procedimientos incluyen una denuncia, una orden de inspección y un informe médico que puede incorporarse a un litigio. Estos documentos ofrecen testimonios tempranos de una práctica pericial organizada: describir hallazgos clínicos para que una autoridad valore los hechos. Los informes conservados abarcan principalmente época romana y bizantina. Estos documentos permiten seguir una tradición administrativa de reconocimiento médico de lesiones distinta de la que se desarrollará en la Europa medieval.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://revistas.ucm.es/index.php/CFCG/en/article/view/CFCG0404110183A"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1432
   },
@@ -5392,8 +5426,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Primeras pruebas químicas para detectar arsénico",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1773\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1773</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Primeras pruebas químicas para detectar arsénico</h3>\n    <p><strong>Forense:</strong> Carl Wilhelm Scheele desarrolla métodos químicos tempranos para identificar arsénico, abriendo el camino a la toxicología aplicada a investigaciones criminales. La detección química no identifica automáticamente al autor de un envenenamiento: sirve para demostrar la presencia de una sustancia sospechosa. Estas primeras reacciones preceden a los procedimientos de Marsh y Reinsch.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1773\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1773</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Primeras pruebas químicas para detectar arsénico</h3>\n    <p><strong>Forense:</strong> Carl Wilhelm Scheele desarrolla métodos químicos tempranos para identificar arsénico, abriendo el camino a la toxicología aplicada a investigaciones criminales. La detección química no identifica automáticamente al autor de un envenenamiento: sirve para demostrar la presencia de una sustancia sospechosa. Estas primeras reacciones preceden a los procedimientos de Marsh y Reinsch. Es un antecedente analítico de los procedimientos más sensibles del siglo XIX; detectar una sustancia no permite deducir por sí solo quién la administró.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8710564/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1623
   },
@@ -5402,8 +5438,10 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "El caso John Toms",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1784\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1784</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El caso John Toms</h3>\n    <p><strong>Criminalística:</strong> Un fragmento de papel usado como taco de pistola coincide con otro hallado en posesión del sospechoso, convirtiéndose en un ejemplo temprano de comparación física de evidencias. La concordancia entre los bordes del papel recuperado y los restos asociados al sospechoso es el aspecto fundamental del caso. Se cita como un antecedente de la comparación de indicios materiales antes del desarrollo de los laboratorios modernos.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1784\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1784</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El caso John Toms</h3>\n    <p><strong>Criminalística:</strong> Un fragmento de papel usado como taco de pistola coincide con otro hallado en posesión del sospechoso, convirtiéndose en un ejemplo temprano de comparación física de evidencias. La concordancia entre los bordes del papel recuperado y los restos asociados al sospechoso es el aspecto fundamental del caso. Se cita como un antecedente de la comparación de indicios materiales antes del desarrollo de los laboratorios modernos. La concordancia entre los dos fragmentos introduce una idea central de la criminalística: vincular materialmente un indicio del escenario con un objeto asociado al sospechoso.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://www.guinnessworldrecords.es/world-records/118957-first-person-convicted-using-forensic-material-matching"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1624
   },
@@ -6024,7 +6062,7 @@
     "tipo": "policia-cientifica",
     "fecha": "1800-02-17",
     "titulo": "Nace la Prefectura de Policía de París",
-    "html": "<article class=\"item-evento\" data-fecha=\"1800-02-17\" data-tipo=\"policia-cientifica\" data-yr=\"1800\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1800</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace la Prefectura de Policía de París</h3>\n    <p><strong>Policía · 17 de febrero:</strong> Una ley del Consulado de Napoleón Bonaparte crea la Prefectura de Policía de París, que centraliza funciones de seguridad, investigación criminal y vigilancia política. Su organización constituye un hito en el desarrollo de los cuerpos policiales modernos.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-fecha=\"1800-02-17\" data-tipo=\"policia-cientifica\" data-yr=\"1800\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1800</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace la Prefectura de Policía de París</h3>\n    <p><strong>Policía · 17 de febrero:</strong> Una ley del Consulado de Napoleón Bonaparte crea la Prefectura de Policía de París, que centraliza funciones de seguridad, investigación criminal y vigilancia política. Su organización constituye un hito en el desarrollo de los cuerpos policiales modernos. El cambio institucional prepara una policía más centralizada en el París del siglo XIX y debe distinguirse de la brigada de investigación de Vidocq, fundada después.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1971
@@ -6054,7 +6092,7 @@
     "tipo": "policia-cientifica",
     "fecha": "1752-03-26",
     "titulo": "La Murder Act endurece el castigo por asesinato",
-    "html": "<article class=\"item-evento\" data-fecha=\"1752-03-26\" data-tipo=\"policia-cientifica\" data-yr=\"1752\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1752</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Murder Act endurece el castigo por asesinato</h3>\n    <p><strong>Justicia · 26 de marzo:</strong> El Parlamento británico aprueba una ley que agrava las consecuencias de las condenas por asesinato, imponiendo la disección del cadáver o su exhibición pública encadenado. La norma refleja la relación entre castigo, disuasión y utilización de cuerpos de condenados para la enseñanza anatómica.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-fecha=\"1752-03-26\" data-tipo=\"policia-cientifica\" data-yr=\"1752\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1752</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Murder Act endurece el castigo por asesinato</h3>\n    <p><strong>Justicia · 26 de marzo:</strong> El Parlamento británico aprueba una ley que agrava las consecuencias de las condenas por asesinato, imponiendo la disección del cadáver o su exhibición pública encadenado. La norma refleja la relación entre castigo, disuasión y utilización de cuerpos de condenados para la enseñanza anatómica. Esta legislación modifica la severidad del castigo, no los métodos para averiguar quién cometió un asesinato.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 2010
@@ -6062,12 +6100,18 @@
   {
     "yr": 1798,
     "tipo": "policia-cientifica",
-    "fecha": "1798-07-02",
-    "titulo": "Nace la Policía Fluvial de Londres",
-    "html": "<article class=\"item-evento\" data-fecha=\"1798-07-02\" data-tipo=\"policia-cientifica\" data-yr=\"1798\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1798</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace la Policía Fluvial de Londres</h3>\n    <p><strong>Policía · 2 de julio:</strong> Comienza a funcionar la <em>Marine Police Office</em> en el Támesis, impulsada por Patrick Colquhoun y John Harriott para combatir los robos de mercancías en los muelles. Su organización y sus patrullas permanentes representan un importante antecedente de la policía preventiva moderna.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fecha": "",
+    "titulo": "Policía del Támesis: una vigilancia permanente contra el robo portuario",
+    "html": "<article class=\"item-evento\" data-fecha=\"1798-07-02\" data-tipo=\"policia-cientifica\" data-yr=\"1798\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1798</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Policía del Támesis: una vigilancia permanente contra el robo portuario</h3>\n    <p><strong>Policía portuaria e investigación preventiva · Londres · julio de 1798:</strong> Patrick Colquhoun y John Harriott ponen en funcionamiento la <em>Marine Police Office</em>, con el apoyo financiero de comerciantes vinculados al tráfico atlántico. Agentes y patrullas vigilan las cargas y las embarcaciones del Támesis para combatir redes de sustracción y receptación en los muelles. El dispositivo busca prevenir robos y documentar infracciones de forma continuada, en lugar de limitarse a responder a cada denuncia. La experiencia se institucionalizará en 1800. Es un antecedente de policía preventiva distinto de las pesquisas de los <em>Bow Street Runners</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://old.londonlives.org/static/Policing.jsp",
+      "https://thamesfestivaltrust.org/heritage-programme/working-river/working-river-wapping/",
+      "https://www.middletemple.org.uk/library/library-exhibitions/watchmen-charlies-peelers-story-policing",
+      "https://discovery.ucl.ac.uk/id/eprint/10055084/13/Bentham_Preventive%20Police.pdf"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
-    "orden": 2014
+    "orden": 2014,
+    "tema": "HISTORIA DE LA INVESTIGACIÓN CRIMINAL"
   },
   {
     "yr": 1894,
@@ -6182,7 +6226,7 @@
     "tipo": "policia-cientifica",
     "fecha": "",
     "titulo": "Newton asume la vigilancia de la Casa de la Moneda inglesa",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1696\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1696</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Newton asume la vigilancia de la Casa de la Moneda inglesa</h3>\n    <p><strong>Investigación monetaria · Londres · 1696:</strong> Isaac Newton es nombrado responsable de vigilancia de la Royal Mint y comienza a intervenir en la persecución de falsificadores y recortadores de monedas. El cargo no se limitaba al trabajo técnico de acuñación: también implicaba recoger testimonios e impulsar diligencias contra redes que afectaban a la credibilidad del dinero inglés. Su actividad desembocará, entre otras causas, en el proceso contra William Chaloner de 1699, que tiene una tarjeta propia. Aquí el acontecimiento es la incorporación de un responsable especializado a un dispositivo institucional de investigación monetaria.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1696\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1696</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Newton asume la vigilancia de la Casa de la Moneda inglesa</h3>\n    <p><strong>Investigación monetaria · Londres · 1696:</strong> Isaac Newton es nombrado responsable de vigilancia de la Royal Mint y comienza a intervenir en la persecución de falsificadores y recortadores de monedas. El cargo no se limitaba al trabajo técnico de acuñación: también implicaba recoger testimonios e impulsar diligencias contra redes que afectaban a la credibilidad del dinero inglés. Su actividad desembocará, entre otras causas, en el proceso contra William Chaloner de 1699, que tiene una tarjeta propia. Aquí el acontecimiento es la incorporación de un responsable especializado a un dispositivo institucional de investigación monetaria. La persecución de falsificadores como William Chaloner, ejecutado en 1699, une esta ficha con un caso real de True Crime.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.hrp.org.uk/tower-of-london/whats-on/the-towers-mint/surprising-stories-of-the-mint/",
       "https://www.rba.gov.au/publications/bulletin/2019/sep/a-brief-history-of-currency-counterfeiting.html"
@@ -7883,21 +7927,6 @@
     "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
   },
   {
-    "yr": 1798,
-    "tipo": "policia-cientifica",
-    "fecha": "",
-    "titulo": "La Policía del Támesis combate el robo organizado de mercancías en los muelles",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1798\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1798</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Policía del Támesis combate el robo organizado de mercancías en los muelles</h3>\n    <p><strong>Vigilancia preventiva de redes de robo · Londres · julio de 1798:</strong> Patrick Colquhoun, John Harriott y comerciantes vinculados al tráfico de las Indias Occidentales impulsan la <em>Marine Police</em> para vigilar los buques, las lanchas y los almacenes del puerto de Londres. La iniciativa busca frenar redes de apropiación y receptación de mercancías que aprovechaban el trasiego del río. Patrullas, controles de carga y actuaciones judiciales coordinadas dan continuidad a la vigilancia, frente a la persecución ocasional de ladrones. Su institucionalización llegaría en 1800. Se trata de un hito concreto de investigación preventiva del robo organizado, no de la creación de toda la policía moderna.</p>\n  </div>\n</article>",
-    "fuentes": [
-      "https://old.londonlives.org/static/Policing.jsp",
-      "https://thamesfestivaltrust.org/heritage-programme/working-river/working-river-wapping/",
-      "https://www.middletemple.org.uk/library/library-exhibitions/watchmen-charlies-peelers-story-policing"
-    ],
-    "procedencia": "Conexiones crimen organizado histórico · crime scene · 18 noviembre 2026",
-    "orden": 65047,
-    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
-  },
-  {
     "yr": 1812,
     "tipo": "policia-cientifica",
     "fecha": "",
@@ -7958,5 +7987,19 @@
     "orden": 65051,
     "tema": "CRIMEN ORGANIZADO HISTÓRICO",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1742,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "China oficializa una versión revisada del manual de investigación de muertes de Song Ci",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1742\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1742</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>China oficializa una versión revisada del manual de investigación de muertes de Song Ci</h3>\n    <p><strong>Estandarización de inspecciones forenses · China Qing · hacia 1742:</strong> La administración imperial difunde una edición oficial revisada del <em>Xi yuan lu</em>, tradición de examen de cadáveres derivada de la obra compuesta por Song Ci en 1247. Reordena descripciones de lesiones, diagramas e indicaciones de inspección que los magistrados debían emplear al documentar muertes sospechosas. Las investigaciones históricas sitúan su preparación y publicación en torno a 1741–1742, por lo que el año de la ficha es orientativo. Demuestra que la práctica médico-legal evolucionaba también mediante una tradición administrativa china propia, y no solo a través de los tratados europeos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://lsc.chineselegalculture.org/Documents/E-Library/Magistrates_handbooks?ID=395",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4620851/"
+    ],
+    "procedencia": "Revisión editorial etapa anterior a 1801 · 18 noviembre 2026",
+    "orden": 65052,
+    "tema": "HISTORIA DE LA INVESTIGACIÓN CRIMINAL"
   }
 ]
