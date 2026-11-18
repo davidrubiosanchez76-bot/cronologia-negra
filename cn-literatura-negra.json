@@ -7660,5 +7660,33 @@
     "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
     "orden": 61225,
     "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 1984,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Tarántula — Thierry Jonquet",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Tarántula — Thierry Jonquet</h3>\n    <p><strong>Novela negra y experimentación criminal:</strong> Thierry Jonquet publica <em>Mygale</em>, conocida en español como <em>Tarántula</em>, un relato de secuestro, venganza y manipulación médica. La historia enfrenta el poder de un cirujano con la indefensión de una persona sometida a intervenciones sin consentimiento. Su importancia radica en convertir la práctica clínica clandestina en un instrumento de dominación y violencia, lejos de la figura tradicional del médico protector. La novela serviría como principal punto de partida de <em>La piel que habito</em> (2011), aunque la película transforma notablemente sus perspectivas y su sentido.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://dialnet.unirioja.es/servlet/articulo?codigo=7692260",
+      "https://www.rtve.es/noticias/los-goya/la-piel-que-habito/"
+    ],
+    "procedencia": "Conexiones crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 61226,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2013,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "El ángel de la muerte — Charles Graeber",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2013\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El ángel de la muerte — Charles Graeber</h3>\n    <p><strong>Investigación periodística de un asesino sanitario:</strong> Charles Graeber publica <em>The Good Nurse</em>, libro de no ficción editado en España en 2022 como <em>El ángel de la muerte</em>. Reconstruye los asesinatos cometidos por el enfermero Charles Cullen, las pesquisas de los detectives y la colaboración de una compañera que ayudó a descubrirlos. A partir de entrevistas y documentación policial, la obra examina por qué varias instituciones sanitarias no lograron detener las muertes. Es una aportación relevante al <em>true crime</em> narrativo por su combinación de pesquisa, reconstrucción documental y crítica del encubrimiento institucional, y dio origen a la película de 2022.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hachettebookgroup.com/titles/charles-graeber/the-good-nurse/9781455506125/",
+      "https://www.planetadelibros.com/libro-el-angel-de-la-muerte/354313"
+    ],
+    "procedencia": "Conexiones crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 61227,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
   }
 ]
