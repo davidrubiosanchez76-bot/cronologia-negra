@@ -777,9 +777,10 @@
     "tipo": "crimen",
     "fecha": "",
     "titulo": "Jane Toppan: una enfermera confiesa múltiples envenenamientos",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jane Toppan: una enfermera confiesa múltiples envenenamientos</h3>\n    <p><strong>Muertes clínicas · Massachusetts:</strong> La enfermera Jane Toppan queda bajo custodia psiquiátrica después de reconocer múltiples envenenamientos, algunos cometidos en el entorno de pacientes y personas que confiaban en ella. Afirmó haber causado la muerte de 31 personas, cifra procedente de su confesión y no de 31 condenas individuales. El caso abrió una reflexión temprana sobre la dificultad de descubrir homicidios repetidos cuando el autor tiene acceso a medicamentos y las muertes parecen complicaciones médicas.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jane Toppan: una enfermera confiesa múltiples envenenamientos</h3>\n    <p><strong>Muertes bajo cuidado sanitario · Massachusetts · junio de 1902:</strong> La enfermera Jane Toppan, acusada de envenenar a personas que cuidaba y a otras de su entorno, admite haber provocado numerosas muertes. El 23 de junio de 1902, un jurado la declara no culpable por razón de enfermedad mental y queda internada en una institución psiquiátrica. La cifra de 31 víctimas procede de sus confesiones y no equivale a 31 condenas. El caso revela la dificultad temprana de detectar intoxicaciones deliberadas cometidas por personas con acceso a medicamentos y pacientes vulnerables.</p>\n  </div>\n</article>",
     "fuentes": [
-      "de contraste: https://jamanetwork.com/journals/jama/article-abstract/465836"
+      "https://oregonnews.uoregon.edu/lccn/sn83025138/1902-06-24/ed-1/seq-5/",
+      "https://www.cambridge.org/core/books/just-as-deadly/lives-of-female-serial-killers/79BD23AD536E239B14C053E7019D5065"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 116
@@ -828,7 +829,7 @@
     "titulo": "Marcel Petiot: condenado el médico que asesinaba en el París ocupado",
     "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1946\" data-fecha=\"1946-04-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1946</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Marcel Petiot: condenado el médico que asesinaba en el París ocupado</h3>\n    <p><strong>Juicio y condena · Francia · 4 de abril:</strong> Un tribunal francés condena a muerte al doctor Marcel Petiot por el asesinato premeditado de 24 personas. En 1944 se habían descubierto restos humanos y pertenencias de víctimas en su domicilio parisino. Según la investigación, prometía facilitar la huida a personas perseguidas durante la ocupación alemana, para después matarlas y robarles. Petiot intentó presentarse como resistente que ejecutaba colaboradores. Las autoridades judiciales rechazaron esa defensa; fue ejecutado en mayo.</p>\n  </div>\n</article>",
     "fuentes": [
-      "de contraste: https://www.justice.gouv.fr/actualites/actualite/laffaire-marcel-petiot-tueur-serie-loccupation"
+      "https://www.justice.gouv.fr/actualites/actualite/laffaire-marcel-petiot-tueur-serie-loccupation"
     ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 122
@@ -6869,8 +6870,11 @@
     "tipo": "crimen",
     "fecha": "2000-01-31",
     "titulo": "Harold Shipman: el médico que asesinaba a sus pacientes",
-    "html": "<article class=\"item-evento\" data-fecha=\"2000-01-31\" data-tipo=\"crimen\" data-yr=\"2000\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Harold Shipman: el médico que asesinaba a sus pacientes</h3>\n    <p><strong>Condena · 31 de enero:</strong> Un tribunal británico declara culpable al médico Harold Shipman del asesinato de quince pacientes y de falsificar el testamento de una de sus víctimas. Shipman utilizaba su posición de confianza para administrar dosis letales de medicamentos sin levantar sospechas inmediatas. Las investigaciones posteriores revelarán que el número de víctimas fue mucho mayor. El caso desencadena una profunda revisión de los controles médicos, la certificación de defunciones y los mecanismos de detección de muertes sospechosas.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"2000-01-31\" data-tipo=\"crimen\" data-yr=\"2000\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Harold Shipman: el médico que asesinaba a sus pacientes</h3>\n    <p><strong>Condena · 31 de enero:</strong> Un tribunal británico declara culpable al médico Harold Shipman del asesinato de quince pacientes y de falsificar el testamento de una de sus víctimas. Shipman utilizaba su posición de confianza para administrar dosis letales de medicamentos sin levantar sospechas inmediatas. La investigación pública de 2002 atribuirá al médico al menos 215 asesinatos, conclusión distinta de las quince condenas penales. El caso desencadena una profunda revisión de los controles médicos, la certificación de defunciones y los mecanismos de detección de muertes sospechosas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.the-shipman-inquiry.org.uk/backgroundinfo.asp",
+      "https://www.the-shipman-inquiry.org.uk/firstreport.asp"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1796
   },
