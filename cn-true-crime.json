@@ -11866,5 +11866,411 @@
     "orden": 64031,
     "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL",
     "precision_fecha": "día"
+  },
+  {
+    "yr": 1988,
+    "tipo": "crimen",
+    "fecha": "1988-11-02",
+    "titulo": "El gusano Morris paraliza miles de ordenadores de la primera Internet",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1988\" data-fecha=\"1988-11-02\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1988</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El gusano Morris paraliza miles de ordenadores de la primera Internet</h3>\n    <p><strong>Intrusión y propagación de malware · Estados Unidos · 2 de noviembre de 1988.</strong> Robert Tappan Morris libera un programa que se replica aprovechando fallos de seguridad y termina saturando miles de sistemas conectados a la Internet académica. Lo que pretendía medir el tamaño de la red se convierte en una interrupción masiva y una investigación federal. El episodio marca un antes y un después en la persecución del acceso no autorizado y la seguridad de redes; su posterior condena se documenta de forma diferenciada en Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/morris-worm"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64032,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1989,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "El troyano AIDS: el ransomware nace en un disquete",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1989\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>El troyano AIDS: el ransomware nace en un disquete</h3>\n    <p><strong>Extorsión informática · Reino Unido y otros países · 1989.</strong> Joseph Popp distribuye disquetes de información sobre el sida con código que, tras cierto número de arranques, impide el uso normal del ordenador y exige un pago para recuperar el acceso. Conocido como <em>AIDS Trojan</em> o <em>PC Cyborg</em>, anticipa la extorsión mediante bloqueo de sistemas, aunque todavía no utiliza los métodos de cifrado de los ataques modernos. La figura del supuesto autor y su situación judicial deben distinguirse de los mecanismos del programa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hhs.gov/sites/default/files/2021-retrospective-and-2022-look-ahead-tlpwhite.pdf"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64033,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 1994,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Citibank: Vladimir Levin y uno de los primeros grandes robos bancarios en línea",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1994\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1994</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Citibank: Vladimir Levin y uno de los primeros grandes robos bancarios en línea</h3>\n    <p><strong>Fraude bancario informático · Estados Unidos y Rusia · 1994.</strong> Una investigación del FBI detecta transferencias no autorizadas desde el sistema de Citibank hacia cuentas de colaboradores repartidas por varios países. Las autoridades vinculan el entramado con Vladimir Levin, detenido en 1995. Los atacantes intentaron mover más de diez millones de dólares, cifra que no debe confundirse con lo finalmente sustraído o recuperado. El caso revela cómo el delito bancario empieza a operar a escala internacional sin entrar físicamente en una sucursal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/news/stories/a-byte-out-of-history-10-million-hack",
+      "https://clintonwhitehouse3.archives.gov/WH/EOP/NSC/html/documents/iccsviii.html"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64034,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2000,
+    "tipo": "crimen",
+    "fecha": "2000-05-04",
+    "titulo": "ILOVEYOU: un correo amoroso desencadena una epidemia informática mundial",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2000\" data-fecha=\"2000-05-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>ILOVEYOU: un correo amoroso desencadena una epidemia informática mundial</h3>\n    <p><strong>Gusano de correo electrónico · Filipinas y alcance internacional · 4 de mayo de 2000.</strong> Millones de usuarios reciben un mensaje con el asunto <em>ILOVEYOU</em> y un archivo adjunto que, al ejecutarse, modifica ficheros y se reenvía a contactos de la víctima. La difusión del código desde Filipinas provoca interrupciones de empresas y administraciones. El caso evidencia cómo la ingeniería social puede multiplicar un ataque sin necesidad de una infraestructura criminal compleja.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.history.com/articles/i-love-you-computer-worm"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64035,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2000,
+    "tipo": "crimen",
+    "fecha": "2000-02-07",
+    "titulo": "Mafiaboy: un adolescente bloquea grandes portales mediante ataques distribuidos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2000\" data-fecha=\"2000-02-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Mafiaboy: un adolescente bloquea grandes portales mediante ataques distribuidos</h3>\n    <p><strong>Denegación de servicio · Canadá y Estados Unidos · 7 de febrero de 2000.</strong> Un ataque coordinado deja temporalmente inaccesibles servicios como Yahoo, eBay y otros sitios de gran tráfico. La investigación identifica a un menor canadiense conocido como <em>Mafiaboy</em>. Más allá de su autoría, el hito es demostrar que sistemas ajenos podían convertirse en recursos para saturar plataformas comerciales enteras y causar daños económicos sin robar datos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.wired.com/2012/02/feb-7-2000-mafiaboys-moment/"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64036,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2003,
+    "tipo": "crimen",
+    "fecha": "2003-01-25",
+    "titulo": "SQL Slammer: un gusano provoca una congestión global en cuestión de minutos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2003\" data-fecha=\"2003-01-25\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2003</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>SQL Slammer: un gusano provoca una congestión global en cuestión de minutos</h3>\n    <p><strong>Software malicioso · expansión mundial · 25 de enero de 2003.</strong> El gusano conocido como <em>Slammer</em> o <em>Sapphire</em> explota una vulnerabilidad de servidores Microsoft SQL y se replica a velocidad excepcional. Redes empresariales y determinados servicios conectados sufren caídas o graves demoras. La autoría no quedó aclarada: la relevancia criminal está en la propagación no autorizada y en la posibilidad de afectar servicios esenciales mediante programas de tamaño reducido.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://news.microsoft.com/source/2003/01/25/microsoft-statement-on-the-slammer-worm-attack/"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64037,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2007,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "TJX: roban datos de pago de millones de clientes mediante una red comercial",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2007\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2007</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>TJX: roban datos de pago de millones de clientes mediante una red comercial</h3>\n    <p><strong>Intrusión y robo de datos bancarios · Estados Unidos · 2007.</strong> La empresa matriz de cadenas comerciales como T.J. Maxx informa de la exposición de millones de registros de tarjetas de pago después de intrusiones iniciadas años antes. La causa penal identifica a Albert Gonzalez y otros participantes en una red dedicada a penetrar sistemas de comercios, copiar números y comercializarlos. El caso consolida la magnitud industrial del robo de datos de tarjetas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/international-hacker-pleads-guilty-massive-hacks-us-retail-networks",
+      "https://www.justice.gov/archives/opa/pr/leader-hacking-ring-sentenced-massive-identity-thefts-payment-processor-and-us-retail"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64038,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2008,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Conficker: el gusano que recluta ordenadores para una botnet mundial",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2008\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2008</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Conficker: el gusano que recluta ordenadores para una botnet mundial</h3>\n    <p><strong>Propagación de malware · noviembre de 2008.</strong> Aparece un gusano que explota vulnerabilidades de Windows y puede extenderse por redes y dispositivos extraíbles. La red de equipos comprometidos preocupa a autoridades y empresas por su capacidad para recibir instrucciones remotas. Su aparición conduce a una de las respuestas coordinadas más notables entre investigadores privados, académicos y organismos públicos, registrada como hito de Crime Scene en 2009.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Win32%2FConficker",
+      "https://news.microsoft.com/source/2009/02/12/microsoft-collaborates-with-industry-to-disrupt-conficker-worm/"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64039,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2011,
+    "tipo": "crimen",
+    "fecha": "2011-04-26",
+    "titulo": "PlayStation Network: el robo de cuentas afecta a millones de jugadores",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2011\" data-fecha=\"2011-04-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>PlayStation Network: el robo de cuentas afecta a millones de jugadores</h3>\n    <p><strong>Intrusión y datos personales · Japón/Estados Unidos · abril de 2011.</strong> Sony detecta accesos ilícitos a PlayStation Network y comunica que los datos asociados a aproximadamente 77 millones de cuentas podrían haber quedado comprometidos. El servicio permanece suspendido durante semanas mientras se investiga el alcance de la intrusión. El episodio convierte una plataforma de ocio en un caso emblemático de seguridad de grandes bases de datos y comunicación con usuarios afectados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://blog.playstation.com/2011/04/26/update-on-playstation-network-and-qriocity/",
+      "https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/sony-playstation-network-qriocity-own-motion-investigation-report"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64040,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2013,
+    "tipo": "crimen",
+    "fecha": "2013-12-19",
+    "titulo": "Target: una intrusión en las cajas expone decenas de millones de tarjetas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2013\" data-fecha=\"2013-12-19\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Target: una intrusión en las cajas expone decenas de millones de tarjetas</h3>\n    <p><strong>Robo de datos de pago · Estados Unidos · diciembre de 2013.</strong> Target confirma que atacantes instalaron software malicioso en sistemas de punto de venta y obtuvieron datos de hasta unos cuarenta millones de cuentas de tarjetas utilizadas durante la campaña navideña. El origen del ataque y el acceso a redes de proveedores impulsan investigaciones sobre la cadena de seguridad comercial. Es un ejemplo clásico de delito que transforma la caja de una tienda en puerta de entrada digital.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://corporate.target.com/press/release/2013/12/target-confirms-unauthorized-access-to-payment-card-data-in-u-s-stores",
+      "https://www.sec.gov/Archives/edgar/data/27419/000002741915000018/tgt-20150502x10xq.htm"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64041,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2013,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "CryptoLocker: el cifrado de archivos se convierte en un negocio de extorsión",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2013\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>CryptoLocker: el cifrado de archivos se convierte en un negocio de extorsión</h3>\n    <p><strong>Ransomware · expansión internacional · 2013.</strong> <em>CryptoLocker</em> comienza a difundirse mediante campañas de infección que cifran los ficheros de víctimas y exigen pagos para recuperar su acceso. A diferencia del troyano AIDS de 1989, el uso de criptografía y el cobro digital dan lugar a una actividad delictiva repetible y muy rentable. Las operaciones para desmantelar su infraestructura figuran por separado en Crime Scene en 2014.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-wdpa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64042,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2014,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Mt. Gox: el colapso de un intercambio de bitcoin revela enormes sustracciones",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2014\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Mt. Gox: el colapso de un intercambio de bitcoin revela enormes sustracciones</h3>\n    <p><strong>Robo de criptoactivos · Japón · febrero de 2014.</strong> La plataforma Mt. Gox interrumpe operaciones y acaba en insolvencia tras pérdidas de bitcoin asociadas a intrusiones y desvíos prolongados. La acusación estadounidense de 2023 describe robos que se remontan a 2011 y señala a sospechosos concretos, sin que ello equivalga a una condena definitiva. El hundimiento muestra las dificultades para custodiar activos digitales y seguir fondos robados por redes transnacionales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-ndca/pr/russian-nationals-charged-hacking-one-cryptocurrency-exchange-and-illicitly-operating",
+      "https://www.justice.gov/usao-sdny/pr/russian-nationals-charged-hacking-one-cryptocurrency-exchange-and-illicitly-operating"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64043,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2014,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Sony Pictures: correos robados, filtraciones y destrucción de sistemas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2014\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Sony Pictures: correos robados, filtraciones y destrucción de sistemas</h3>\n    <p><strong>Intrusión y sabotaje informático · Estados Unidos · noviembre de 2014.</strong> Un ataque contra Sony Pictures causa interrupciones y la publicación no autorizada de mensajes y documentos internos. El Departamento de Justicia estadounidense atribuye posteriormente a participantes vinculados al grupo Lazarus y al régimen norcoreano varias operaciones, incluida esta. La ficha describe una intrusión atribuida a actores estatales, no un caso ordinario de fraude lucrativo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64044,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2016,
+    "tipo": "crimen",
+    "fecha": "2016-02-04",
+    "titulo": "Bangladesh Bank: órdenes SWIFT fraudulentas desvían 81 millones de dólares",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2016\" data-fecha=\"2016-02-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Bangladesh Bank: órdenes SWIFT fraudulentas desvían 81 millones de dólares</h3>\n    <p><strong>Robo bancario digital · Bangladesh, Estados Unidos y Filipinas · febrero de 2016.</strong> Intrusos acceden al entorno informático del banco central de Bangladesh y emiten órdenes de transferencia aparentando ser operaciones autorizadas hacia la Reserva Federal de Nueva York. Se desvían 81 millones de dólares a cuentas en Filipinas; otras órdenes no llegan a completarse. Las investigaciones estadounidenses vinculan la operación con agentes norcoreanos. El caso revela que comprometer terminales bancarios puede bastar para falsear instrucciones legítimas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and",
+      "https://www.justice.gov/usao-cdca/press-release/file/1091951/dl"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64045,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2016,
+    "tipo": "crimen",
+    "fecha": "2016-10-21",
+    "titulo": "Mirai y Dyn: dispositivos domésticos bloquean grandes servicios de Internet",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2016\" data-fecha=\"2016-10-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Mirai y Dyn: dispositivos domésticos bloquean grandes servicios de Internet</h3>\n    <p><strong>Botnet y denegación de servicio · Estados Unidos · 21 de octubre de 2016.</strong> Una red de aparatos conectados comprometidos interviene en ataques contra Dyn, proveedor de servicios DNS, y provoca dificultades de acceso a conocidas plataformas de Internet. Las investigaciones penales posteriores vinculan los hechos con autores identificados y variantes de Mirai. El caso muestra cómo cámaras, routers y otros equipos con configuraciones débiles pueden convertirse en una infraestructura de agresión distribuida.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/individual-pleads-guilty-participating-internet-of-things-cyberattack-2016"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64046,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "crimen",
+    "fecha": "2017-05-12",
+    "titulo": "WannaCry: un ransomware paraliza sistemas sanitarios y empresas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2017\" data-fecha=\"2017-05-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>WannaCry: un ransomware paraliza sistemas sanitarios y empresas</h3>\n    <p><strong>Ransomware de propagación masiva · alcance mundial · 12 de mayo de 2017.</strong> El programa WannaCry cifra archivos en redes vulnerables y afecta a miles de organizaciones, con interrupciones especialmente graves en el servicio sanitario británico. La investigación estadounidense atribuye su desarrollo a una conspiración vinculada con Corea del Norte. La velocidad de expansión transforma el ransomware en un problema de seguridad pública, no solo de ordenadores particulares.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64047,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2017,
+    "tipo": "crimen",
+    "fecha": "2017-06-27",
+    "titulo": "NotPetya: un falso ransomware destruye sistemas dentro y fuera de Ucrania",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2017\" data-fecha=\"2017-06-27\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>NotPetya: un falso ransomware destruye sistemas dentro y fuera de Ucrania</h3>\n    <p><strong>Sabotaje informático · Ucrania y expansión internacional · 27 de junio de 2017.</strong> Un malware inicialmente presentado como ransomware paraliza compañías y organismos mediante destrucción de datos, en lugar de un mecanismo recuperable de extorsión ordinaria. Reino Unido atribuye el ataque al ejército ruso. Se incorpora como hito de intrusión y daño a sistemas, indicando expresamente su contexto de operación estatal: no debe confundirse con una banda que busca cobrar rescates.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gov.uk/government/news/foreign-office-minister-condemns-russia-for-notpetya-attacks"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64048,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2018,
+    "tipo": "crimen",
+    "fecha": "2018-11-28",
+    "titulo": "SamSam: ataques de extorsión contra hospitales y administraciones",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2018\" data-fecha=\"2018-11-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>SamSam: ataques de extorsión contra hospitales y administraciones</h3>\n    <p><strong>Ransomware dirigido · Estados Unidos y otros países · 2018.</strong> La justicia estadounidense acusa a dos hombres de operar desde Irán una campaña SamSam que cifra equipos de hospitales, municipios y entidades públicas para exigir pagos en bitcoin. Los ataques se habían producido desde años anteriores; 2018 es el año de la imputación pública. La selección de víctimas muestra la transición desde campañas indiscriminadas a extorsiones centradas en servicios esenciales. Las acusaciones no equivalen a condenas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-nj/pr/two-iranian-men-indicted-deploying-ransomware-extort-hospitals-municipalities-and-public",
+      "https://www.fbi.gov/news/stories/iranian-ransomware-suspects-indicted-112818"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64049,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2019,
+    "tipo": "crimen",
+    "fecha": "2019-07-29",
+    "titulo": "Capital One: intrusión en la nube y datos de cien millones de personas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-07-29\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Capital One: intrusión en la nube y datos de cien millones de personas</h3>\n    <p><strong>Robo de datos personales · Estados Unidos · julio de 2019.</strong> Capital One comunica una intrusión que expone información de solicitudes de crédito y otros datos. El FBI identifica a Paige Thompson y el caso termina en una causa penal sobre acceso no autorizado a infraestructuras en la nube. El episodio demuestra que centralizar grandes repositorios de información no elimina el riesgo de intrusiones ni la necesidad de reconstruir trazas técnicas y permisos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/usao-wdwa/united-states-v-paige-thompson"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64050,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2021,
+    "tipo": "crimen",
+    "fecha": "2021-05-07",
+    "titulo": "Colonial Pipeline: DarkSide interrumpe el suministro de combustible",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2021\" data-fecha=\"2021-05-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Colonial Pipeline: DarkSide interrumpe el suministro de combustible</h3>\n    <p><strong>Ransomware y extorsión · Estados Unidos · 7 de mayo de 2021.</strong> Un ataque atribuido por el FBI al grupo criminal DarkSide compromete sistemas informáticos de Colonial Pipeline y obliga a detener temporalmente la actividad de uno de los principales oleoductos estadounidenses. La empresa paga un rescate en bitcoin. La posterior recuperación de parte del dinero constituye un hito independiente de rastreo financiero y se recoge en Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/news/press-releases/fbi-statement-on-network-disruption-at-colonial-pipeline",
+      "https://www.justice.gov/archives/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64051,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2021,
+    "tipo": "crimen",
+    "fecha": "2021-07-02",
+    "titulo": "Kaseya: REvil utiliza la cadena de proveedores para extender el ransomware",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2021\" data-fecha=\"2021-07-02\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Kaseya: REvil utiliza la cadena de proveedores para extender el ransomware</h3>\n    <p><strong>Ransomware de cadena de suministro · Estados Unidos y alcance internacional · 2 de julio de 2021.</strong> Una intrusión en herramientas de administración remota de Kaseya distribuye software malicioso a clientes de proveedores informáticos y a empresas que dependen de ellos. Las autoridades atribuyen la campaña a operadores de REvil/Sodinokibi e identifican a varios sospechosos. El caso demuestra cómo un único punto de confianza técnica puede multiplicar las víctimas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.justice.gov/archives/opa/speech/attorney-general-merrick-b-garland-deputy-attorney-general-lisa-o-monaco-and-fbi-director"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64052,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2022,
+    "tipo": "crimen",
+    "fecha": "2022-04-18",
+    "titulo": "Costa Rica: Conti ataca los sistemas del Ministerio de Hacienda",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2022\" data-fecha=\"2022-04-18\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Costa Rica: Conti ataca los sistemas del Ministerio de Hacienda</h3>\n    <p><strong>Extorsión informática contra un Estado · Costa Rica · 18 de abril de 2022.</strong> La organización criminal Conti ataca los servicios informáticos del Ministerio de Hacienda costarricense, que suspende sistemas para contener el incidente. La paralización afecta a procedimientos tributarios y aduaneros y se acompaña de exigencias económicas. El episodio evidencia hasta qué punto una organización dedicada al ransomware puede trastornar funciones básicas de una administración nacional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hacienda.go.cr/docs/CostaRicaNov2023OC.PDF"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64053,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2023,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "MOVEit: Cl0p aprovecha una vulnerabilidad para sustraer datos a gran escala",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>MOVEit: Cl0p aprovecha una vulnerabilidad para sustraer datos a gran escala</h3>\n    <p><strong>Robo masivo de información · internacional · mayo-junio de 2023.</strong> El grupo criminal Cl0p explota una vulnerabilidad hasta entonces desconocida en MOVEit Transfer, herramienta utilizada por numerosas empresas y organismos para intercambiar archivos. Las intrusiones permiten extraer datos de múltiples organizaciones, incluidos clientes indirectos, y presionarlas con posibles filtraciones. El caso ejemplifica un modelo de extorsión que puede basarse en el robo de información sin necesidad de cifrar sistemas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://content.govdelivery.com/accounts/USDHSCISA/bulletins/35ecb08"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64054,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2023,
+    "tipo": "crimen",
+    "fecha": "2023-09-12",
+    "titulo": "MGM Resorts: un ciberataque interrumpe hoteles y casinos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2023\" data-fecha=\"2023-09-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>MGM Resorts: un ciberataque interrumpe hoteles y casinos</h3>\n    <p><strong>Intrusión y robo de datos · Estados Unidos · septiembre de 2023.</strong> MGM Resorts anuncia accesos no autorizados a determinados sistemas y sufre importantes interrupciones operativas en sus establecimientos. La compañía confirma posteriormente la extracción de información personal de ciertos clientes. La investigación muestra la exposición de un sector donde los sistemas de reservas, cobros y atención al público forman una red interdependiente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.sec.gov/Archives/edgar/data/789570/000078957023000024/mgm-20230930.htm"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64055,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2024,
+    "tipo": "crimen",
+    "fecha": "2024-02-21",
+    "titulo": "Change Healthcare: ransomware contra la infraestructura sanitaria estadounidense",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2024\" data-fecha=\"2024-02-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Change Healthcare: ransomware contra la infraestructura sanitaria estadounidense</h3>\n    <p><strong>Extorsión y datos clínicos · Estados Unidos · 21 de febrero de 2024.</strong> Un ataque atribuido al grupo ALPHV/BlackCat inutiliza servicios esenciales de Change Healthcare, empresa que procesa pagos y operaciones administrativas para buena parte de la sanidad estadounidense. La interrupción afecta a farmacias, hospitales y pacientes, y posteriormente se documenta una grave exposición de información protegida. Es un caso de impacto sistémico: el objetivo digital repercute sobre la atención sanitaria real.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.aha.org/change-healthcare-cyberattack-underscores-urgent-need-strengthen-cyber-preparedness-individual-health-care-organizations-and",
+      "https://www.hhs.gov/hipaa/for-professionals/special-topics/change-healthcare-cybersecurity-incident-frequently-asked-questions/index.html"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64056,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2024,
+    "tipo": "crimen",
+    "fecha": "2024-06-20",
+    "titulo": "Indonesia: un ransomware paraliza el centro nacional de datos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2024\" data-fecha=\"2024-06-20\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Indonesia: un ransomware paraliza el centro nacional de datos</h3>\n    <p><strong>Ataque a sistemas de la Administración · Indonesia · 20 de junio de 2024.</strong> Una intrusión con ransomware afecta al centro nacional de datos temporal en Surabaya y compromete numerosos servicios públicos, entre ellos trámites de inmigración. Las autoridades identifican una variante conocida como Brain Cipher y reconocen la extensión del incidente a bases de datos gubernamentales. El ataque ilustra los riesgos de concentración tecnológica y dependencia de infraestructuras centrales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.thejakartapost.com/indonesia/2024/06/26/public-service-disruptions-continue-as-cyberattack-recovery-falters"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64057,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2024,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Cuentas de Snowflake: intrusiones coordinadas exponen datos de grandes empresas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2024\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Cuentas de Snowflake: intrusiones coordinadas exponen datos de grandes empresas</h3>\n    <p><strong>Robo de datos en servicios de nube · internacional · 2024.</strong> Diversas empresas que almacenan información en entornos Snowflake sufren intrusiones relacionadas con cuentas y credenciales comprometidas. Entre las afectadas figuran clientes de grandes firmas de telecomunicaciones y venta de entradas. El hito no consiste en afirmar que toda la plataforma fuera vulnerada: las investigaciones examinan accesos a cuentas concretas y la responsabilidad compartida en su protección.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.mtd.uscourts.gov/node/628"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64058,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2025,
+    "tipo": "crimen",
+    "fecha": "2025-02-21",
+    "titulo": "Bybit: un robo de criptoactivos supera los 1.500 millones de dólares",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2025\" data-fecha=\"2025-02-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2025</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Bybit: un robo de criptoactivos supera los 1.500 millones de dólares</h3>\n    <p><strong>Sustracción de criptomonedas · Emiratos Árabes Unidos y alcance internacional · 21 de febrero de 2025.</strong> Una transferencia fraudulenta compromete activos digitales custodiados por Bybit. El FBI atribuye el ataque a actores vinculados a Corea del Norte y advierte de la dispersión de los fondos mediante múltiples direcciones y conversiones de criptoactivos. Es uno de los mayores robos conocidos de criptomonedas y evidencia que el seguimiento de operaciones en blockchain no evita por sí solo la sustracción.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/investigate/cyber/alerts/2025/north-korea-responsible-for-1-5-billion-bybit-hack"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64059,
+    "tema": "CIBERDELINCUENCIA",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2025,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Jaguar Land Rover: un ciberataque detiene fábricas y afecta a proveedores",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2025\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2025</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jaguar Land Rover: un ciberataque detiene fábricas y afecta a proveedores</h3>\n    <p><strong>Interrupción industrial · Reino Unido · septiembre de 2025.</strong> Un ciberincidente obliga a Jaguar Land Rover a suspender temporalmente producción en sus fábricas británicas mientras colabora con autoridades y especialistas para recuperar sistemas. La paralización repercute en trabajadores y en la cadena de suministro. Se recoge como ataque grave contra una empresa industrial, sin adjudicar la autoría a una organización concreta que no esté respaldada por una conclusión pública verificable.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://static-assets.tatamotors.com/Production/www-tatamotors-com-NEW/wp-content/uploads/2025/09/NSEBSEJLRUPDATE-290925.pdf"
+    ],
+    "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
+    "orden": 64060,
+    "tema": "CIBERDELINCUENCIA"
   }
 ]
