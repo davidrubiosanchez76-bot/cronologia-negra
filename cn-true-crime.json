@@ -7635,8 +7635,11 @@
     "tipo": "crimen",
     "fecha": "1725-05-24",
     "titulo": "Jonathan Wild, el criminal que perseguía criminales",
-    "html": "<article class=\"item-evento\" data-fecha=\"1725-05-24\" data-tipo=\"crimen\" data-yr=\"1725\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1725</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jonathan Wild, el criminal que perseguía criminales</h3>\n    <p><strong>Ejecución · 24 de mayo:</strong> Jonathan Wild, conocido como el «Thief-Taker General», es ahorcado en Tyburn. Tras su reputación de perseguidor de ladrones escondía una organización dedicada al robo, la receptación y la manipulación de detenciones. Su historia inspirará numerosas obras sobre corrupción y delincuencia.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-fecha=\"1725-05-24\" data-tipo=\"crimen\" data-yr=\"1725\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1725</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Jonathan Wild, el criminal que perseguía criminales</h3>\n    <p><strong>Ejecución · 24 de mayo:</strong> Jonathan Wild, conocido como el «Thief-Taker General», es ahorcado en Tyburn. El supuesto perseguidor de ladrones dirigía en realidad una red que robaba bienes, gestionaba su devolución mediante recompensas y entregaba a la justicia a miembros que no le obedecían. Recurrió a informantes, receptadores y al control de la información policial, hasta que su propio sistema fue investigado. Su trayectoria muestra una de las primeras estructuras de delincuencia organizada urbana documentadas en Londres, y no debe confundirse con una mera carrera individual de ladrón.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nationalarchives.gov.uk/explore-the-collection/stories/sir-john-fielding/",
+      "https://www.smithsonianmag.com/history/digitizing-the-hanging-court-150729037/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 2007
   },
@@ -12549,6 +12552,253 @@
     "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
     "orden": 64079,
     "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1554,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Los wokou asaltan Songjiang: piratería y contrabando en la China Ming",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1554\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1554</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Los wokou asaltan Songjiang: piratería y contrabando en la China Ming</h3>\n    <p><strong>Piratería transnacional · litoral de China · 1554:</strong> Durante una ofensiva de bandas marítimas, Songjiang es atacada y muere su magistrado; en los meses siguientes se registran operaciones contra otras poblaciones del delta del Yangtsé. Los llamados <em>wokou</em> no constituían una única organización ni eran exclusivamente japoneses: entre sus miembros y apoyos había comerciantes y marineros chinos, japoneses y de otras procedencias. Las restricciones al comercio marítimo alimentaron una economía clandestina que mezclaba contrabando, ataques armados y protección local. La crisis es un antecedente documentado del crimen marítimo organizado en Asia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/human-trafficking-and-piracy-in-early-modern-east-asia-maritime-challenges-to-the-ming-dynasty-economy-13701565/66168BBD7316DB0403C5BD7529A049AC",
+      "https://www.cambridge.org/core/journals/journal-of-economic-history/article/autarky-and-the-rise-and-fall-of-piracy-in-ming-china/DFA290E2C6550AF9F29E24039B3314AC"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64080,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1627,
+    "tipo": "crimen",
+    "fecha": "1627-07-16",
+    "titulo": "Los corsarios de Argel atacan las islas Vestman y secuestran a sus habitantes",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1627\" data-fecha=\"1627-07-16\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1627</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Los corsarios de Argel atacan las islas Vestman y secuestran a sus habitantes</h3>\n    <p><strong>Asalto marítimo y cautiverio · Islandia · 16 de julio:</strong> Una expedición procedente de Argel llega a las islas Vestman, saquea asentamientos y captura habitantes destinados a la esclavitud en el norte de África. Forma parte de las incursiones de 1627 conocidas en Islandia como <em>Tyrkjaránið</em>, en las que participaron asimismo corsarios de Salé, Marruecos. El episodio muestra redes de navegación, saqueo, transporte y venta de cautivos que operaban a gran distancia. Debe distinguirse la actividad corsaria, amparada en ocasiones por autoridades políticas, de la piratería independiente: la situación jurídica de los participantes no era idéntica.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://landsbokasafn.is/en/olafur-egilsson-turkish-raid/",
+      "https://saga.sogufelag.is/english/saga-greinar/hverjir-voru-tyrkjaransmenn/"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64081,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1695,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Henry Every saquea el Ganj-i-Sawai y provoca una crisis con el Imperio mogol",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1695\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1695</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Henry Every saquea el Ganj-i-Sawai y provoca una crisis con el Imperio mogol</h3>\n    <p><strong>Piratería en el océano Índico · 1695:</strong> Henry Every y su tripulación atacan el <em>Ganj-i-Sawai</em>, un navío mogol que transportaba peregrinos y bienes de regreso de La Meca hacia Surat. El saqueo, acompañado de violencia contra los ocupantes, desencadena protestas del poder mogol y pone en dificultades a los comerciantes de la Compañía Inglesa de las Indias Orientales, señalados por las autoridades locales. La persecución posterior de los piratas evidencia la dimensión internacional de una banda capaz de alterar relaciones diplomáticas y rutas comerciales mucho más allá de su botín.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://digitalcommons.memphis.edu/facpubs/3929/"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64082,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1718,
+    "tipo": "crimen",
+    "fecha": "1718-07-26",
+    "titulo": "La llegada de Woodes Rogers a Nassau pone fin al principal refugio pirata del Caribe",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1718\" data-fecha=\"1718-07-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1718</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La llegada de Woodes Rogers a Nassau pone fin al principal refugio pirata del Caribe</h3>\n    <p><strong>Desarticulación de una base pirata · Bahamas · 26 de julio:</strong> Woodes Rogers llega a Nueva Providencia con barcos, tropas y autoridad para restablecer el gobierno colonial. Nassau llevaba años sirviendo como refugio y punto de operaciones de capitanes y tripulaciones piratas; algunos aceptan el perdón ofrecido y otros, como Charles Vane, huyen. La recuperación de la isla no elimina inmediatamente la piratería atlántica, pero debilita una infraestructura esencial de abastecimiento, reclutamiento y refugio. No existía allí una «república» con la estructura institucional homogénea que suele sugerir la leyenda.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cambridge.org/core/books/abs/suppressing-piracy-in-the-early-eighteenth-century/woodes-rogers-and-private-enterprise-in-new-providence/261417D327F28381E829F4387C645E32",
+      "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64083,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1755,
+    "tipo": "crimen",
+    "fecha": "1755-05-26",
+    "titulo": "Louis Mandrin es ejecutado: el contrabando organizado desafía a la Francia del Antiguo Régimen",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1755\" data-fecha=\"1755-05-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1755</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Louis Mandrin es ejecutado: el contrabando organizado desafía a la Francia del Antiguo Régimen</h3>\n    <p><strong>Contrabando armado · Francia · 26 de mayo:</strong> Louis Mandrin es ejecutado en Valence tras dirigir una red de contrabandistas que introducía y comercializaba tabaco y otros productos sujetos a impuestos y monopolios. Sus partidas armadas atravesaban provincias y fronteras, desafiaban a los agentes de la recaudación y recurrían a una logística que iba mucho más allá del pequeño fraude individual. El personaje fue convertido en héroe popular contra la fiscalidad, aunque sus operaciones también incluían intimidación y violencia. Los archivos judiciales y militares permiten distinguir la organización real de su posterior leyenda.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://catalogue.bnf.fr/ark:/12148/cb33685174h",
+      "https://patrimoine.bm-grenoble.fr/focus-sur-mandrin.aspx",
+      "https://www.servicehistorique.sga.defense.gouv.fr/ark/1147307"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64084,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1810,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Zheng Yi Sao negocia la rendición de una gran confederación pirata china",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1810\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1810</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Zheng Yi Sao negocia la rendición de una gran confederación pirata china</h3>\n    <p><strong>Confederación pirata · Guangdong · 1810:</strong> Zheng Yi Sao, viuda del dirigente Zheng Yi, acepta una amnistía de las autoridades Qing tras dirigir, junto con Zhang Bao, una confederación de flotas que extorsionaba el tráfico y las comunidades costeras del sur de China. Su organización coordinaba embarcaciones, tripulaciones, cobros y disciplina y llegó a desafiar a fuerzas oficiales. La negociación de 1810 permite a parte de sus integrantes reinsertarse o integrarse en cuerpos de la administración. Es uno de los ejemplos más relevantes de organización pirata a gran escala ajena al Caribe.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://artsandculture.google.com/asset/pacifying-the-south-china-sea-part-1/YwEzljGT6KkGyQ?hl=en",
+      "https://www.worldhistory.org/trans/es/1-20208/zheng-yi-sao/"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64085,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1833,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Muere José María el Tempranillo: el bandolerismo andaluz entre la realidad y el mito",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1833\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1833</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Muere José María el Tempranillo: el bandolerismo andaluz entre la realidad y el mito</h3>\n    <p><strong>Bandolerismo · Andalucía · septiembre de 1833:</strong> José María Hinojosa, conocido como el Tempranillo, muere tras resultar herido en un enfrentamiento con otros bandoleros en la zona de Alameda, Málaga. Había organizado cuadrillas que imponían pagos y controlaban rutas de viajeros, antes de recibir un indulto y colaborar en tareas de vigilancia. Su historia ejemplifica las conexiones cambiantes entre robos, protección de caminos, clientelas locales y poder político. La literatura de viajes y la tradición romántica magnificaron su figura de «bandido generoso», imagen que no debe sustituir la documentación de sus actividades.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.biografiasyvidas.com/biografia/t/tempranillo.htm",
+      "https://elpais.com/diario/1985/07/14/ultima/490140001_850215.html"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64086,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1835,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "La campaña contra los thuggee convierte el bandolerismo en asunto de policía colonial",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1835\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1835</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La campaña contra los thuggee convierte el bandolerismo en asunto de policía colonial</h3>\n    <p><strong>Bandas de salteadores e investigación · India británica · 1835:</strong> William Henry Sleeman pasa a dirigir operaciones sistemáticas contra grupos acusados de robos y asesinatos de viajeros, en una campaña que terminará vinculada al aparato de represión de <em>thuggee</em> y <em>dacoity</em>. Las autoridades reúnen declaraciones de detenidos, informantes y relaciones entre sospechosos para perseguir redes extendidas por distintas regiones. La historiografía moderna advierte que la imagen colonial de una única secta secreta y homicida fue exagerada y sirvió también para legitimar mecanismos excepcionales de control. La tarjeta documenta una campaña policial real, no valida sin reservas su relato propagandístico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://southasia.ucla.edu/history-politics/british-india/criminality-colonial-anthropology/",
+      "https://academic.oup.com/bjc/article-abstract/42/1/77/395063",
+      "https://www.nature.com/articles/s41599-020-0458-8"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64087,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1837,
+    "tipo": "crimen",
+    "fecha": "1837-11-06",
+    "titulo": "Luis Candelas es ejecutado: disfraces, cómplices y robos en el Madrid decimonónico",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1837\" data-fecha=\"1837-11-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1837</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Luis Candelas es ejecutado: disfraces, cómplices y robos en el Madrid decimonónico</h3>\n    <p><strong>Delincuencia en cuadrilla · Madrid · 6 de noviembre:</strong> Luis Candelas es ejecutado tras su última detención y condena por una carrera de robos y asaltos en Madrid y sus caminos. El bandolero empleaba nombres falsos, disfraces y colaboradores, entre ellos Francisco Villena, y explotaba la posibilidad de moverse entre ambientes populares y establecimientos acomodados. Sus huidas y los golpes atribuidos a la cuadrilla alimentaron una imagen de delincuente elegante y no sanguinario. La documentación histórica permite reconocer la existencia de la banda sin aceptar como hechos todas las anécdotas construidas alrededor del personaje.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cervantesvirtual.com/obra-visor/el-bandolerismo-en-la-provincia-de-madrid-s-xviiixix/html/?indice=1"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64088,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1863,
+    "tipo": "crimen",
+    "fecha": "1863-08-15",
+    "titulo": "La ley Pica militariza la persecución del brigantaggio en el sur de Italia",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1863\" data-fecha=\"1863-08-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1863</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La ley Pica militariza la persecución del brigantaggio en el sur de Italia</h3>\n    <p><strong>Bandolerismo y represión extraordinaria · Italia · 15 de agosto:</strong> El nuevo Estado italiano promulga la ley Pica para combatir el <em>brigantaggio</em> en varias provincias meridionales. Autoriza procedimientos ante tribunales militares y medidas excepcionales de seguridad, en un contexto de bandas armadas, asaltos, resistencias borbónicas y conflictos sociales posteriores a la unificación. No todos los grupos perseguidos tenían el mismo propósito ni cabe reducir la resistencia política a delincuencia común. La ley constituye un hito para entender cómo la persecución de organizaciones violentas se entremezcló con la construcción del Estado y el control territorial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://acs.cultura.gov.it/legge-pica-la-sicurezza-dellunita-e-il-lungo-divario-tra-il-nord-e-il-sud/",
+      "https://www.senato.it/legislature/regno/italia/8/resoconti-elenco-cronologico?session=2"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64089,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1880,
+    "tipo": "crimen",
+    "fecha": "1880-06-28",
+    "titulo": "Glenrowan: el asedio policial acaba con la banda de Ned Kelly",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1880\" data-fecha=\"1880-06-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1880</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Glenrowan: el asedio policial acaba con la banda de Ned Kelly</h3>\n    <p><strong>Bushrangers · Australia · 28 de junio:</strong> La policía de Victoria rodea el hotel de Glenrowan, donde la banda de Ned Kelly prepara una emboscada vinculada a un plan de sabotaje ferroviario. Tras el tiroteo, Kelly es capturado y los demás integrantes mueren. La cuadrilla había cometido atracos y matado policías; su dirigente, convertido más tarde en icono popular, denunciaba también abusos de las autoridades coloniales. La historia reúne crimen en grupo, persecución y un conflicto social que hace insuficiente el estereotipo del forajido heroico o del simple ladrón de caminos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nma.gov.au/exhibitions/not-just-ned/bushrangers",
+      "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/glenrowan"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64090,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1892,
+    "tipo": "crimen",
+    "fecha": "1892-10-05",
+    "titulo": "Coffeyville: fracasa el doble asalto bancario de la banda Dalton",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1892\" data-fecha=\"1892-10-05\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1892</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Coffeyville: fracasa el doble asalto bancario de la banda Dalton</h3>\n    <p><strong>Banda de forajidos · Kansas · 5 de octubre:</strong> Cinco miembros de la banda Dalton intentan robar simultáneamente dos bancos de Coffeyville, pero vecinos armados se enfrentan a ellos. Cuatro asaltantes mueren y Emmett Dalton sobrevive herido y es encarcelado. La operación, preparada como un gran golpe, liquida prácticamente a una cuadrilla que antes había protagonizado robos en el territorio fronterizo estadounidense. El suceso ayuda a entender el paso del bandolerismo ecuestre y ferroviario a formas de delincuencia urbana organizada, sin confundir el resultado con las versiones mitificadas del wéstern.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.kansashistory.gov/archives/723",
+      "https://www.coffeyville.com/316/Dalton-Museum"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64091,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1902,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Casque d’Or y los apaches: la guerra de bandas en el París de la Belle Époque",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1902\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1902</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Casque d’Or y los apaches: la guerra de bandas en el París de la Belle Époque</h3>\n    <p><strong>Bandas urbanas · París · enero de 1902:</strong> El enfrentamiento entre las bandas de Joseph Pleigneur, «Manda», y François Leca, relacionado con la figura de Amélie Élie, «Casque d’Or», desemboca en ataques con arma blanca y un gran escándalo de prensa. El episodio convierte a los llamados <em>apaches</em> en símbolo del miedo a la delincuencia juvenil de los barrios populares. No existió una sola «mafia apache»: el término agrupó de manera sensacionalista a bandas, ladrones y jóvenes muy distintos. La reconstrucción histórica ha de separar los enfrentamientos concretos de la caricatura difundida por los periódicos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://gallica.bnf.fr/accueil/fr/html/casque-dor-et-les-apaches",
+      "https://www.leparisien.fr/paris-75/joseph-pleigneur-alias-l-homme-09-10-2004-2005359139.php"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64092,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1923,
+    "tipo": "crimen",
+    "fecha": "1923-11-15",
+    "titulo": "La captura del Tomoka revela la organización del contrabando marítimo durante la Ley Seca",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1923\" data-fecha=\"1923-11-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1923</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La captura del Tomoka revela la organización del contrabando marítimo durante la Ley Seca</h3>\n    <p><strong>Contrabando marítimo · Estados Unidos · noviembre:</strong> La Guardia Costera ordena intervenir contra el <em>Tomoka</em>, barco asociado a William «Bill» McCoy, uno de los contrabandistas más notorios de la Ley Seca. El comercio clandestino se articulaba mediante cargueros situados mar adentro, lanchas rápidas de enlace, compradores y redes de distribución en tierra. La llamada <em>Rum Row</em> fue también escenario de robos entre traficantes y violencia por el control de cargamentos. Este episodio ilustra una organización logística ilícita que no debe atribuirse automáticamente a una gran familia mafiosa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2400683/seneca-1908/",
+      "https://www.archives.gov/publications/prologue/2011/fall/smugglers-bootleggers-scofflaws"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64093,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1927,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Forty Elephants: una banda femenina ejecuta una oleada de robos en Londres",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1927\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1927</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Forty Elephants: una banda femenina ejecuta una oleada de robos en Londres</h3>\n    <p><strong>Robos coordinados y receptación · Londres · diciembre de 1927:</strong> La banda de mujeres conocida como <em>Forty Elephants</em>, vinculada al barrio de Elephant and Castle, protagoniza una gran operación de hurtos en establecimientos londinenses poco antes de Navidad, desde Holborn hasta tiendas de Oxford Street y Paddington. La organización asignaba zonas a pequeños grupos, utilizaba métodos de distracción y entregaba los artículos a receptadores. Aunque algunas dirigentes, como Alice Diamond, se hicieron célebres, la banda funcionó durante generaciones. El caso aporta un modelo de delincuencia organizada comercial y femenina que suele quedar eclipsado por las mafias y bandas masculinas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.londonmuseum.org.uk/collections/london-stories/forty-elephants-south-londons-supreme-shoplifters/"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64094,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1938,
+    "tipo": "crimen",
+    "fecha": "1938-07-28",
+    "titulo": "Angico: una emboscada acaba con Lampião y su principal banda de cangaceiros",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1938\" data-fecha=\"1938-07-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1938</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Angico: una emboscada acaba con Lampião y su principal banda de cangaceiros</h3>\n    <p><strong>Bandolerismo rural · Sergipe, Brasil · 28 de julio:</strong> Una fuerza policial sorprende en la zona de Angico al grupo de Virgulino Ferreira da Silva, «Lampião», figura central del <em>cangaço</em> del nordeste brasileño. Mueren el jefe y varios integrantes, incluida Maria Bonita, y las autoridades exhiben sus cabezas como escarmiento. Las cuadrillas de cangaceiros mezclaban robo, secuestro, cobro de protección y alianzas con poderes locales en un territorio marcado por profundas desigualdades. El episodio simboliza el declive de ese bandolerismo organizado, aunque no puso fin inmediato a todos sus grupos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://acervos.ims.com.br/index.php/Detail/objects/533586",
+      "https://www12.senado.leg.br/noticias/especiais/arquivo-s/combate-a-lampiao-quase-entrou-na-constituicao-de-34/combate-a-lampiao-quase-entrou-na-constituicao-de-34"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64095,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1983,
+    "tipo": "crimen",
+    "fecha": "1983-02-12",
+    "titulo": "Phoolan Devi se entrega: el fin de una cuadrilla de dacoits en la India",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1983\" data-fecha=\"1983-02-12\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1983</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Phoolan Devi se entrega: el fin de una cuadrilla de dacoits en la India</h3>\n    <p><strong>Bandolerismo y rendición · Madhya Pradesh, India · 12 de febrero:</strong> Phoolan Devi, conocida como la «reina de los bandidos», se entrega públicamente junto a integrantes de su grupo tras años de violencia, persecución y negociaciones con las autoridades. Las bandas de <em>dacoits</em> que actuaban en los barrancos del Chambal combinaban robos armados, secuestros y represalias dentro de una sociedad atravesada por desigualdades de casta y género. Las versiones de los delitos atribuidos a Devi y de su liderazgo fueron controvertidas; no deben aceptarse sin crítica las simplificaciones que la presentan únicamente como heroína o como responsable probada de todos los hechos imputados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.washingtonpost.com/archive/politics/1983/02/13/a-bandit-queen-surrenders-in-india/b3f4b533-7a4c-4dee-baad-8fd234d1aac1/",
+      "https://www.indiatoday.in/magazine/special-report/story/19830228-dacoit-queen-phoolan-devi-surrenders-many-myths-lay-shattered-in-the-dust-771284-2013-08-22"
+    ],
+    "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
+    "orden": 64096,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
     "precision_fecha": "día"
   }
 ]
