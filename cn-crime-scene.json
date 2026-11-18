@@ -7881,5 +7881,82 @@
     "procedencia": "Conexiones crímenes médicos y sanitarios · 18 noviembre 2026",
     "orden": 65046,
     "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1798,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "La Policía del Támesis combate el robo organizado de mercancías en los muelles",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1798\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1798</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Policía del Támesis combate el robo organizado de mercancías en los muelles</h3>\n    <p><strong>Vigilancia preventiva de redes de robo · Londres · julio de 1798:</strong> Patrick Colquhoun, John Harriott y comerciantes vinculados al tráfico de las Indias Occidentales impulsan la <em>Marine Police</em> para vigilar los buques, las lanchas y los almacenes del puerto de Londres. La iniciativa busca frenar redes de apropiación y receptación de mercancías que aprovechaban el trasiego del río. Patrullas, controles de carga y actuaciones judiciales coordinadas dan continuidad a la vigilancia, frente a la persecución ocasional de ladrones. Su institucionalización llegaría en 1800. Se trata de un hito concreto de investigación preventiva del robo organizado, no de la creación de toda la policía moderna.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://old.londonlives.org/static/Policing.jsp",
+      "https://thamesfestivaltrust.org/heritage-programme/working-river/working-river-wapping/",
+      "https://www.middletemple.org.uk/library/library-exhibitions/watchmen-charlies-peelers-story-policing"
+    ],
+    "procedencia": "Conexiones crimen organizado histórico · crime scene · 18 noviembre 2026",
+    "orden": 65047,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1812,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Vidocq organiza la Brigade de Sûreté para infiltrarse en redes criminales",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1812\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1812</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Vidocq organiza la Brigade de Sûreté para infiltrarse en redes criminales</h3>\n    <p><strong>Policías de paisano e infiltración · París · 1812:</strong> François-Eugène Vidocq, antiguo delincuente convertido en colaborador policial, dirige una pequeña brigada de seguridad especializada en reconocer delincuentes, utilizar identidades encubiertas e introducir informantes en ambientes delictivos. La unidad irá creciendo y constituye un antecedente de la policía de investigación francesa. Su experiencia previa facilita comprender los códigos del hampa, pero las prácticas de agentes y confidentes también plantean riesgos de provocación y abusos. La aportación relevante es el empleo organizado de conocimiento del medio criminal e infiltración, más que la leyenda autobiográfica de Vidocq.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.napoleon.org/en/history-of-the-two-empires/biographies/vidocq-francois-eugene/",
+      "https://publishing.cdlib.org/ucpressebooks/public/book/crescendo-of-the-virtuoso-spectacle-skill-and-self-promotion-in-paris-during-the-age-of-revolution.html",
+      "https://fr.wikisource.org/wiki/M%C3%A9moires_(Vidocq)/Chapitre_30"
+    ],
+    "procedencia": "Conexiones crimen organizado histórico · crime scene · 18 noviembre 2026",
+    "orden": 65048,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO"
+  },
+  {
+    "yr": 1875,
+    "tipo": "policia-cientifica",
+    "fecha": "1875-01-24",
+    "titulo": "McParland infiltra a los Molly Maguires: pruebas encubiertas y conflicto social",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1875\" data-fecha=\"1875-01-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1875</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>McParland infiltra a los Molly Maguires: pruebas encubiertas y conflicto social</h3>\n    <p><strong>Infiltración documentada · Pensilvania · 24 de enero:</strong> Un informe conservado por la Biblioteca del Congreso estadounidense describe los movimientos del detective de Pinkerton James McParland, introducido en el ambiente de los mineros irlandeses acusados de pertenecer a los Molly Maguires. Sus notas y testimonios se convierten en pruebas de procesos que conducirán a ejecuciones desde 1877. La operación ejemplifica el valor y los límites del agente encubierto en grupos cerrados: los hechos investigados se desenvolvieron en un conflicto laboral y étnico que sigue generando debates sobre la selección de sospechosos, el interés de la compañía contratante y la imparcialidad de los juicios.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://guides.loc.gov/pinkerton-papers/highlights",
+      "https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/molly-maguires",
+      "https://guides.loc.gov/chronicling-america-pinkertons"
+    ],
+    "procedencia": "Conexiones crimen organizado histórico · crime scene · 18 noviembre 2026",
+    "orden": 65049,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1907,
+    "tipo": "policia-cientifica",
+    "fecha": "1907-12-30",
+    "titulo": "Las brigadas móviles francesas permiten perseguir bandas entre regiones",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1907\" data-fecha=\"1907-12-30\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1907</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Las brigadas móviles francesas permiten perseguir bandas entre regiones</h3>\n    <p><strong>Coordinación de la policía judicial · Francia · 30 de diciembre:</strong> Un decreto impulsa doce brigadas regionales de policía móvil, conocidas posteriormente como <em>brigades du Tigre</em> por Georges Clemenceau. Su misión consiste en investigar delincuentes que actúan en varias jurisdicciones y compartir información más allá de cada comisaría local. El modelo responde al crecimiento de bandas itinerantes y al uso de nuevos transportes, y tendrá que enfrentarse poco después a la banda de Bonnot. Su importancia reside en la organización territorial de las pesquisas y la movilidad de los investigadores; no debe confundirse con una invención de la policía científica ni atribuir a esas unidades todos los métodos de identificación existentes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.police-nationale.interieur.gouv.fr/dossiers/police-nationale-protection-de-population-depuis-des-siecles/police-de-iiie-republique-0",
+      "https://archives.landes.fr/loisirs-et-culture/expositions-et-publications-virtuelles/aux-origines-de-la-police-scientifique-2"
+    ],
+    "procedencia": "Conexiones crimen organizado histórico · crime scene · 18 noviembre 2026",
+    "orden": 65050,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1912,
+    "tipo": "policia-cientifica",
+    "fecha": "1912-04-28",
+    "titulo": "Choisy-le-Roi: el cerco a Bonnot expone los límites de la persecución policial",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1912\" data-fecha=\"1912-04-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1912</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Choisy-le-Roi: el cerco a Bonnot expone los límites de la persecución policial</h3>\n    <p><strong>Localización de fugitivos y asedio policial · Francia · 28 de abril:</strong> Tras varios meses de investigación de asaltos cometidos con automóviles, la policía identifica el refugio de Jules Bonnot en Choisy-le-Roi. Un despliegue de agentes, gendarmes y otras fuerzas cerca el inmueble; el enfrentamiento termina con el uso de explosivos y la muerte de Bonnot. El episodio pone de relieve las dificultades para detener a una banda armada que se desplazaba con medios superiores a los de muchas unidades policiales y la necesidad de coordinar información, recursos y tácticas. La tarjeta se centra en la respuesta operativa de la investigación de 1912, no repite el primer robo automovilístico registrado en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gendarmerie.interieur.gouv.fr/gendinfo/histoire/la-bande-a-bonnot-assiegee-par-les-gendarmes-et-les-policiers",
+      "https://www.archives.puteaux.fr/fonds-et-collections/episode-5-la-bande-a-bonnot/",
+      "https://www.leparisien.fr/val-de-marne-94/choisy-le-roi-94600/les-grands-faits-divers-avril-1912-jules-bonnot-arrete-a-choisy-le-roi-09-08-2015-4999947.php"
+    ],
+    "procedencia": "Conexiones crimen organizado histórico · crime scene · 18 noviembre 2026",
+    "orden": 65051,
+    "tema": "CRIMEN ORGANIZADO HISTÓRICO",
+    "precision_fecha": "día"
   }
 ]
