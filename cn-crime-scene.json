@@ -27,7 +27,9 @@
     "fecha": "",
     "titulo": "John Fielding convierte Bow Street en un centro de información criminal",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1754\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1754</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>John Fielding convierte Bow Street en un centro de información criminal</h3>\n    <p><strong>Confidentes y avisos · 1754:</strong> Al asumir la magistratura de Bow Street, John Fielding impulsa la recopilación de noticias sobre delitos, sospechosos, objetos robados y receptadores, además de coordinar agentes que pueden desplazarse fuera de Londres. La información suministrada por víctimas, testigos y colaboradores se convierte en recurso operativo para investigar hechos conectados.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.nationalarchives.gov.uk/explore-the-collection/stories/sir-john-fielding/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 2
   },
@@ -3330,7 +3332,9 @@
     "fecha": "",
     "titulo": "Beccaria publica De los delitos y las penas: nace la escuela clásica",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1764\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1764</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Beccaria publica De los delitos y las penas: nace la escuela clásica</h3>\n    <p><strong>Criminología · 1764:</strong> Cesare Beccaria publica <em>De los delitos y las penas</em> (<em>Dei delitti e delle pene</em>), una obra fundamental de la Ilustración penal. Se opone a la tortura y a las penas arbitrarias, defiende la proporcionalidad de los castigos y plantea que la certeza de la sanción resulta más eficaz que su crueldad. Su concepción de las decisiones humanas como susceptibles de disuasión inaugura la llamada escuela clásica, antecedente decisivo de la criminología y de las reformas penales modernas. La crítica de las penas arbitrarias y desproporcionadas abre otra línea de evolución: la legitimidad del sistema penal, diferente de sus técnicas de investigación.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://liberliber.it/autori/autori-b/cesare-beccaria/dei-delitti-e-delle-pene-edizione-1764/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1165
   },
@@ -3340,7 +3344,9 @@
     "fecha": "",
     "titulo": "Jeremy Bentham: el delito como cálculo de costes y beneficios",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1789\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1789</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Jeremy Bentham: el delito como cálculo de costes y beneficios</h3>\n    <p><strong>Teoría criminológica · 1789:</strong> Jeremy Bentham publica <em>Una introducción a los principios de la moral y la legislación</em> (<em>An Introduction to the Principles of Morals and Legislation</em>). Aplica su filosofía utilitarista al delito y al castigo: las personas pueden ponderar los beneficios esperados de una conducta frente a sus consecuencias. Sus planteamientos influyen en las teorías de la disuasión y la elección racional. Aunque la conducta delictiva no puede reducirse a un cálculo consciente, esta perspectiva tendrá una influencia duradera en la política criminal. La reflexión sobre prevención y disuasión pertenece a la criminología y la política penal; no es un método de identificación de delincuentes.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://wellcomecollection.org/works/u2ctu354"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1166
   },
@@ -4705,7 +4711,9 @@
     "fecha": "",
     "titulo": "Las Doce Tablas: Roma publica sus primeras reglas jurídicas fundamentales",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"-450\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\" style=\"font-size:18px;white-space:normal;line-height:1.15\">450<br>a. C.</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Las Doce Tablas: Roma publica sus primeras reglas jurídicas fundamentales</h3>\n    <p>Justicia · hacia 451–450 a. C.: La República romana pone por escrito las llamadas Leyes de las Doce Tablas. Incluyen reglas procesales, obligaciones de testigos, sanciones por robo, lesiones y falsos testimonios, así como supuestos de muerte causados sin intención. Publicarlas constituye un paso fundamental para limitar la dependencia exclusiva de tradiciones jurídicas controladas por las élites. Sus normas reflejan una sociedad desigual y muchas penas hoy inaceptables, pero serán una referencia básica del derecho romano. La publicidad de las normas es relevante para el control del poder de juzgar, pero no supone todavía una investigación criminal científica.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://sourcebooks.fordham.edu/ancient/12tables.asp"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1366
   },
@@ -4751,7 +4759,9 @@
     "fecha": "",
     "titulo": "La Carta Magna limita la detención arbitraria de los hombres libres",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1215\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1215</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Carta Magna limita la detención arbitraria de los hombres libres</h3>\n    <p>Justicia · 15 de junio: El rey Juan de Inglaterra sella la Carta Magna en Runnymede. Entre sus cláusulas figura una garantía frente a la privación de libertad de los hombres libres sin juicio legal o fundamento en la ley del reino. No constituye una declaración universal de derechos ni implanta por sí sola el proceso penal contemporáneo, pero será un antecedente simbólico fundamental de los límites al poder punitivo y de las posteriores garantías procesales.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1372
   },
@@ -4785,7 +4795,9 @@
     "fecha": "",
     "titulo": "El Estatuto de los Coroners exige examinar y medir las heridas",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1276\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1276</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Estatuto de los Coroners exige examinar y medir las heridas</h3>\n    <p>Medicina legal · 1276: El Parlamento inglés precisa las obligaciones de los <em>coroners</em> en la investigación de fallecimientos sospechosos. Deben inspeccionar los cuerpos, examinar las lesiones y registrar características como la localización y dimensiones de las heridas, junto con las circunstancias del hallazgo. Es un antecedente concreto de la documentación sistemática de indicios corporales en una pesquisa judicial, siglos antes de la medicina forense de laboratorio. La inspección de lesiones introduce una documentación material más precisa que la sola identificación de personas sospechosas.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/death-dying/dying-and-death/investigatingdeath/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1375
   },
@@ -4831,7 +4843,9 @@
     "fecha": "",
     "titulo": "La Carolina: el Sacro Imperio sistematiza el procedimiento penal",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1532\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1532</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Carolina: el Sacro Imperio sistematiza el procedimiento penal</h3>\n    <p>Justicia · 1532: Carlos V promulga la <em>Constitutio Criminalis Carolina</em>, ordenamiento que regula en el Sacro Imperio cuestiones de delitos, penas, indicios e interrogatorios. Incluye condiciones para recurrir a la tortura, práctica hoy incompatible con las garantías fundamentales, pero también procedimientos formales y reglas para valorar sospechas. La Carolina se convierte en uno de los textos más importantes de la historia del proceso penal europeo. La formalización del proceso convivió con interrogatorios coercitivos, de modo que no cabe presentar esta etapa como un avance lineal hacia pruebas fiables.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.uni-regensburg.de/en/law/faculty/chairs-and-professorships/chair-held-by-prof-dr-katrin-gierhake-llm-nottingham/team/pd-dr-martin-heuser/antiquarian-library"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1379
   },
@@ -4841,7 +4855,9 @@
     "fecha": "",
     "titulo": "Johann Weyer cuestiona las acusaciones y los juicios por brujería",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1563\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1563</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Johann Weyer cuestiona las acusaciones y los juicios por brujería</h3>\n    <p>Historia de las ideas · 1563: El médico Johann Weyer publica <em>De praestigiis daemonum</em>, una obra que discute numerosas imputaciones de brujería y critica la persecución de personas acusadas de hechos sobrenaturales. Aunque sus explicaciones están condicionadas por las creencias de la época, introduce argumentos contra las condenas basadas en supersticiones, rumores y testimonios poco fiables. Es un antecedente histórico de la revisión crítica de las hipótesis utilizadas para atribuir conductas criminales.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://bmgn-lchr.nl/article/view/URN%3ANBN%3ANL%3AUI%3A10-1-110058"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1381
   },
@@ -4851,7 +4867,9 @@
     "fecha": "",
     "titulo": "Fortunato Fedele publica un tratado sistemático de medicina legal",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1602\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1602</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Fortunato Fedele publica un tratado sistemático de medicina legal</h3>\n    <p>Medicina legal · 1602: El médico siciliano Fortunato Fedele publica en Palermo <em>De relationibus medicorum</em>, obra dedicada a los informes que los profesionales sanitarios debían realizar para los tribunales y otras autoridades. Reúne cuestiones médicas aplicadas a disputas y causas judiciales, y se considera uno de los primeros tratados sistemáticos de la especialidad. Es un puente fundamental entre observación clínica, examen de lesiones y prueba pericial.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://wellcomecollection.org/works/snvh4gbu"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1384
   },
@@ -4861,7 +4879,9 @@
     "fecha": "",
     "titulo": "Salazar y Frías: la Inquisición española exige pruebas frente a la brujería",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1614\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1614</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Salazar y Frías: la Inquisición española exige pruebas frente a la brujería</h3>\n    <p>Justicia · 1614: Tras investigar personalmente las acusaciones surgidas en Navarra, Alonso de Salazar y Frías contribuye a que la Suprema dicte nuevas instrucciones sobre los procesos por brujería. Su revisión pone de relieve contradicciones, confesiones inducidas y ausencia de demostraciones materiales de los supuestos actos sobrenaturales. El episodio destaca en la historia de la investigación por su defensa de comprobar las denuncias antes de condenar y por mostrar cómo una institución podía rectificar criterios ante pruebas insuficientes. Su trabajo puede leerse junto a Zugarramurdi y, en contraste, con los procesos de Pendle y Salem: testimonios numerosos no equivalen a pruebas verificadas.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://revista-hsj-historia.unavarra.es/es/article/view/3181"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1387
   },
@@ -4871,7 +4891,9 @@
     "fecha": "",
     "titulo": "Paolo Zacchia inicia una obra fundamental de medicina legal",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1621\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1621</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Paolo Zacchia inicia una obra fundamental de medicina legal</h3>\n    <p>Medicina legal · 1621: El médico italiano Paolo Zacchia publica el primer volumen de <em>Quaestiones medico-legales</em>, una obra ampliada durante las décadas siguientes. Aborda muertes sospechosas, heridas, intoxicaciones, salud mental y otros problemas en los que un tribunal precisa conocimientos médicos. Su influencia en la sistematización de la especialidad será extraordinaria, aunque algunas ideas reflejen las limitaciones científicas de su tiempo.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://wellcomecollection.org/works/q3zwttqg"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1388
   },
@@ -5061,7 +5083,9 @@
     "fecha": "",
     "titulo": "Nicolas de La Reynie: París reorganiza su policía bajo una autoridad central",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1667\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1667</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nicolas de La Reynie: París reorganiza su policía bajo una autoridad central</h3>\n    <p>Historia policial · Marzo: Luis XIV establece en París la figura de teniente general de policía, ejercida inicialmente por Nicolas de La Reynie. Bajo su autoridad se reorganizan comisarios y funciones de vigilancia, seguridad, orden urbano e investigación de actividades ilícitas. La institución no equivale a los cuerpos policiales actuales, pero contribuye a consolidar una estructura estable de actuación pública frente a la delincuencia en una gran capital europea. La creación de una dirección policial estable precede a la investigación más organizada de Bow Street y permite leer conjuntamente policía urbana y casos como el asunto de los venenos.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.police-nationale.interieur.gouv.fr/dossiers/police-nationale-protection-de-population-depuis-des-siecles/structuration-progressive-xiiie-siecle-xviiie-siecle"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1423
   },
@@ -5071,7 +5095,9 @@
     "fecha": "",
     "titulo": "Nehemiah Grew describe las crestas de los dedos",
     "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1684\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1684</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nehemiah Grew describe las crestas de los dedos</h3>\n    <p>Identificación · 20 de mayo: El médico inglés Nehemiah Grew publica en <em>Philosophical Transactions</em> una descripción de las crestas de fricción de la piel de las manos y los pies y de sus poros. Acompaña el estudio con ilustraciones de los dibujos cutáneos. No propone todavía un sistema de identificación criminal, pero aporta uno de los precedentes científicos europeos de la futura dactiloscopia.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://archives.lib.wvu.edu/repositories/2/archival_objects/43722"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1428
   },
@@ -5437,8 +5463,8 @@
     "yr": 1784,
     "tipo": "policia-cientifica",
     "fecha": "",
-    "titulo": "El caso John Toms",
-    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1784\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1784</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El caso John Toms</h3>\n    <p><strong>Criminalística:</strong> Un fragmento de papel usado como taco de pistola coincide con otro hallado en posesión del sospechoso, convirtiéndose en un ejemplo temprano de comparación física de evidencias. La concordancia entre los bordes del papel recuperado y los restos asociados al sospechoso es el aspecto fundamental del caso. Se cita como un antecedente de la comparación de indicios materiales antes del desarrollo de los laboratorios modernos. La concordancia entre los dos fragmentos introduce una idea central de la criminalística: vincular materialmente un indicio del escenario con un objeto asociado al sospechoso.</p>\n    \n  </div>\n</article>",
+    "titulo": "John Toms: un fragmento de papel vincula al sospechoso con el disparo",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1784\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1784</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>John Toms: un fragmento de papel vincula al sospechoso con el disparo</h3>\n    <p><strong>Criminalística:</strong> Un fragmento de papel usado como taco de pistola coincide con otro hallado en posesión del sospechoso, convirtiéndose en un ejemplo temprano de comparación física de evidencias. La concordancia entre los bordes del papel recuperado y los restos asociados al sospechoso es el aspecto fundamental del caso. Se cita como un antecedente de la comparación de indicios materiales antes del desarrollo de los laboratorios modernos. La concordancia entre los dos fragmentos introduce una idea central de la criminalística: vincular materialmente un indicio del escenario con un objeto asociado al sospechoso.</p>\n    \n  </div>\n</article>",
     "fuentes": [
       "https://www.guinnessworldrecords.es/world-records/118957-first-person-convicted-using-forensic-material-matching"
     ],
@@ -6063,7 +6089,9 @@
     "fecha": "1800-02-17",
     "titulo": "Nace la Prefectura de Policía de París",
     "html": "<article class=\"item-evento\" data-fecha=\"1800-02-17\" data-tipo=\"policia-cientifica\" data-yr=\"1800\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1800</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Nace la Prefectura de Policía de París</h3>\n    <p><strong>Policía · 17 de febrero:</strong> Una ley del Consulado de Napoleón Bonaparte crea la Prefectura de Policía de París, que centraliza funciones de seguridad, investigación criminal y vigilancia política. Su organización constituye un hito en el desarrollo de los cuerpos policiales modernos. El cambio institucional prepara una policía más centralizada en el París del siglo XIX y debe distinguirse de la brigada de investigación de Vidocq, fundada después.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.police-nationale.interieur.gouv.fr/dossiers/police-nationale-protection-de-population-depuis-des-siecles/police-imperiale-et-police-monarchique-1799-1829"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1971
   },
@@ -6093,7 +6121,9 @@
     "fecha": "1752-03-26",
     "titulo": "La Murder Act endurece el castigo por asesinato",
     "html": "<article class=\"item-evento\" data-fecha=\"1752-03-26\" data-tipo=\"policia-cientifica\" data-yr=\"1752\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1752</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>La Murder Act endurece el castigo por asesinato</h3>\n    <p><strong>Justicia · 26 de marzo:</strong> El Parlamento británico aprueba una ley que agrava las consecuencias de las condenas por asesinato, imponiendo la disección del cadáver o su exhibición pública encadenado. La norma refleja la relación entre castigo, disuasión y utilización de cuerpos de condenados para la enseñanza anatómica. Esta legislación modifica la severidad del castigo, no los métodos para averiguar quién cometió un asesinato.</p>\n  </div>\n</article>",
-    "fuentes": [],
+    "fuentes": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/death-dying/dying-and-death/bodysnatching/"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 2010
   },
