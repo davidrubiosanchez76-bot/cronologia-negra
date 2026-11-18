@@ -3749,8 +3749,10 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Los hombres que no amaban a las mujeres",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los hombres que no amaban a las mujeres</h3>\n    <p><strong>Novela:</strong> Stieg Larsson impulsa el fenómeno global del Nordic Noir, mezclando investigación periodística, hacking y secretos criminales. La investigación de Mikael Blomkvist y Lisbeth Salander combina secretos familiares, violencia contra las mujeres y uso de archivos digitales. El éxito de la trilogía amplía la proyección internacional del noir sueco.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Los hombres que no amaban a las mujeres</h3>\n    <p><strong>Novela:</strong> Stieg Larsson impulsa el fenómeno global del Nordic Noir, mezclando investigación periodística, hacking y secretos criminales. La investigación de Mikael Blomkvist y Lisbeth Salander combina secretos familiares, violencia contra las mujeres y uso de archivos digitales. El éxito de la trilogía amplía la proyección internacional del noir sueco. La obtención y contraste de información en archivos digitales, junto con los accesos ilícitos a equipos, aportan una dimensión informática al procedimiento de investigación, aunque la intriga principal siga siendo una desaparición familiar.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://www.casadellibro.com/libro-los-hombres-que-no-amaban-a-las-mujeres/9788423342723/1700613"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1895
   },
@@ -7575,5 +7577,88 @@
     "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
     "orden": 61219,
     "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1998,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "La fortaleza digital: crímenes y secretos en torno a la criptografía",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1998\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1998</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La fortaleza digital: crímenes y secretos en torno a la criptografía</h3>\n    <p><strong>Dan Brown · Estados Unidos · novela de 1998.</strong> La criptógrafa Susan Fletcher descubre una amenaza ligada a un código que el sistema de la NSA no consigue descifrar. Investigación, conspiración y muertes giran alrededor del acceso a información y del poder de las agencias de inteligencia. Es un tecnothriller de espionaje, no una descripción documental de los procedimientos reales de la NSA; sirve de puente entre el policial tradicional y la ficción de intrusión informática.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.planetadelibros.com/libro-fortaleza-digital/253899",
+      "https://www.casadellibro.com/libro-la-fortaleza-digital/9788489367012/1065976"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
+    "orden": 61220,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2011,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Reamde: un ransomware alcanza a la mafia rusa",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2011\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Reamde: un ransomware alcanza a la mafia rusa</h3>\n    <p><strong>Neal Stephenson · Estados Unidos · novela de 2011.</strong> Un virus informático que cifra ficheros vinculados a un videojuego en línea provoca una cadena criminal cuando afecta a integrantes de la mafia rusa. El delito digital desencadena secuestros y persecuciones internacionales, entrelazando delincuencia organizada, economías virtuales y extorsión informática. Se mantiene el título original <em>Reamde</em>, también utilizado en la edición española; la obra se sitúa entre el tecnothriller y el noir de organizaciones criminales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nealstephenson.com/reamde.html",
+      "https://www.penguinlibros.com/es/novela-negra-misterio-y-thriller/10534-libro-reamde-9788466647687"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
+    "orden": 61221,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2011,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Zero Day: una investigación sobre malware destructivo",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2011\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2011</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Zero Day: una investigación sobre malware destructivo</h3>\n    <p><strong>Mark Russinovich · Estados Unidos · novela de 2011.</strong> Un experto en seguridad investiga incidentes informáticos aparentemente desconectados que apuntan a un sabotaje mucho más amplio. La trama utiliza la reconstrucción de infecciones, el análisis de código y la coordinación entre investigadores como elementos centrales del suspense. <em>Zero Day</em> no es un caso real ni un manual técnico: es una ficción sobre ataques contra sistemas y sus consecuencias.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://techcommunity.microsoft.com/blog/sysinternals-blog/announcing-zero-day-a-novel-by-mark-russinovich/725941/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
+    "orden": 61222,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2012,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Blackout (El apagón): una intrusión digital deja Europa a oscuras",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2012\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Blackout (El apagón): una intrusión digital deja Europa a oscuras</h3>\n    <p><strong>Marc Elsberg · Austria · novela de 2012.</strong> Un ciberataque coordinado interrumpe el suministro eléctrico europeo y obliga a las autoridades a buscar su causa mientras los servicios esenciales comienzan a fallar. Un antiguo especialista informático ayuda a reconstruir el sabotaje. Aunque desarrolla un escenario de crisis a gran escala, su motor narrativo es una investigación sobre intrusión y daño a infraestructuras, no un apagón accidental. Inspirará la miniserie alemana <em>Blackout</em> de 2021.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.duomoediciones.com/cont/associatedContent/docsPot/LEER_blackout.pdf",
+      "https://marcelsberg.com/en/screen-adaptation"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
+    "orden": 61223,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2015,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "Lo que no te mata te hace más fuerte: robo de secretos y hackers en Millennium",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2015\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Lo que no te mata te hace más fuerte: robo de secretos y hackers en Millennium</h3>\n    <p><strong>David Lagercrantz · Suecia · novela de 2015.</strong> La cuarta entrega de <em>Millennium</em> combina la investigación periodística de Mikael Blomkvist con las habilidades informáticas de Lisbeth Salander. La muerte de un investigador relacionado con tecnología avanzada y la circulación ilícita de información confidencial llevan la trama hacia las redes de hackers y el espionaje. Se distingue expresamente de las tres novelas originales escritas por Stieg Larsson.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.todoliteratura.es/noticia/8519/novela-negra/avance-en-exclusiva-de-la-trama-portada-y-booktrailer-de-lo-que-no-te-mata-te-hace-mas-fuerte.html",
+      "https://www1.traficantes.net/libros/lo-que-no-te-mata-te-hace-mas-fuerte"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
+    "orden": 61224,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2016,
+    "tipo": "ficcion",
+    "fecha": "",
+    "titulo": "The Steel Kiss: el asesino que convierte aparatos conectados en armas",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2016\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Steel Kiss: el asesino que convierte aparatos conectados en armas</h3>\n    <p><strong>Jeffery Deaver · Estados Unidos · novela de 2016.</strong> Lincoln Rhyme y Amelia Sachs investigan una sucesión de muertes que parecían accidentes domésticos o industriales. Los investigadores sospechan que alguien manipula a distancia sistemas y aparatos conectados. La novela incorpora el Internet de las cosas al procedimiento policial y relaciona la prueba tecnológica con la reconstrucción tradicional de escenas del crimen. Se conserva el título original al no confirmar una denominación española editorial consolidada.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.jefferydeaver.com/novel/the-steel-kiss/",
+      "https://www.jefferydeaver.com/extra/page/9/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · literatura negra · 18 noviembre 2026",
+    "orden": 61225,
+    "tema": "CIBERDELINCUENCIA"
   }
 ]
