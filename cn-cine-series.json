@@ -3940,8 +3940,10 @@
     "tipo": "audiovisual",
     "fecha": "",
     "titulo": "Perdición",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Perdición</h3>\n    <p><strong>Cine:</strong> Billy Wilder adapta a James M. Cain y consolida el arquetipo de la femme fatale en el cine negro clásico. Billy Wilder convierte la novela de James M. Cain en un clásico del film noir. El asesinato por beneficio económico, la complicidad amorosa y la voz en off refuerzan su fatalismo.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1944\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1944</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Perdición</h3>\n    <p><strong>Película · Billy Wilder · Estados Unidos · 1944.</strong> La adaptación de la novela de James M. Cain (1936) muestra a un empleado de seguros y una mujer casada que planean un asesinato para cobrar una indemnización. La investigación del siniestro, las cláusulas de la póliza, el móvil económico y las sospechas de un experto de la aseguradora convierten el fraude en un mecanismo de suspense. Un clásico del noir donde la empresa de seguros no es decorado, sino parte esencial del crimen.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://catalog.afi.com/Film/23907-DOUBLE-INDEMNITY"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1812
   },
@@ -5926,9 +5928,10 @@
     "tipo": "audiovisual",
     "fecha": "",
     "titulo": "La fuerza del mal: corrupción financiera y fraternidad destruida",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1948\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1948</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La fuerza del mal: corrupción financiera y fraternidad destruida</h3>\n    <p><strong>Película · Abraham Polonsky · 1948.</strong> Un abogado trabaja para los intereses de una gran operación clandestina de apuestas mientras su hermano dirige un pequeño negocio. La película transforma el delito económico en crítica del poder del capital y de la corrupción sistémica.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1948\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1948</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>La fuerza del mal: corrupción financiera y fraternidad destruida</h3>\n    <p><strong>Película · Abraham Polonsky · 1948.</strong> Un abogado trabaja para los intereses de una gran operación clandestina de apuestas mientras su hermano dirige un pequeño negocio. La película transforma el delito económico en crítica del poder del capital y de la corrupción sistémica.</p>\n    <p><strong>Conexión literaria:</strong> Adapta <em>Tucker's People</em> (Ira Wolfert, 1943), también recogida en Literatura Negra. La manipulación de los números de una lotería clandestina revela cómo un negocio ilícito puede organizarse como un monopolio financiero que devora a sus competidores.</p>\n  </div>\n</article>",
     "fuentes": [
-      "https://www.bfi.org.uk/lists/10-great-new-york-noirs"
+      "https://www.bfi.org.uk/lists/10-great-new-york-noirs",
+      "https://catalog.afi.com/Film/25543-FORCE-OF-EVIL"
     ],
     "procedencia": "Revisión panorámica Cine y Series · clásicos y orígenes · 17 noviembre 2026",
     "orden": 62038,
@@ -7243,5 +7246,196 @@
     "procedencia": "Revisión panorámica Cine y Series · historia del policial televisivo · 17 noviembre 2026",
     "orden": 62138,
     "tema": "HITOS DE LAS SERIES POLICIALES"
+  },
+  {
+    "yr": 1973,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El golpe: la gran estafa se convierte en espectáculo criminal",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1973\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1973</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El golpe: la gran estafa se convierte en espectáculo criminal</h3>\n    <p><strong>Película · George Roy Hill · Estados Unidos · 1973.</strong> Dos timadores, interpretados por Paul Newman y Robert Redford, montan una compleja operación de engaño contra un poderoso gánster en el Chicago de la Gran Depresión. La planificación, los cómplices y las falsas apariencias construyen un mecanismo de suspense basado en la estafa de confianza. Uno de los grandes referentes cinematográficos para entender el <em>long con</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.universalpicturesathome.com/movies/the-sting",
+      "https://catalog.afi.com/Film/54391-THE-STING"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62139,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1987,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Casa de juegos: David Mamet explora la psicología del timador",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Casa de juegos: David Mamet explora la psicología del timador</h3>\n    <p><strong>Película · David Mamet · Estados Unidos · 1987.</strong> Una psiquiatra entra en contacto con un grupo de profesionales de la estafa y acaba dudando de su capacidad para distinguir lo verdadero de lo fingido. <em>House of Games</em> traslada el noir a la manipulación psicológica: el éxito del delito depende tanto de la puesta en escena como del deseo de la víctima de creer una historia.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.criterion.com/films/831-house-of-games",
+      "https://www.bfi.org.uk/film/6b457046-9ba1-5777-a34a-fe5cdb44c684/house-of-games"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62140,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1987,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Wall Street: información privilegiada y delito de cuello blanco",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Wall Street: información privilegiada y delito de cuello blanco</h3>\n    <p><strong>Película · Oliver Stone · Estados Unidos · 1987.</strong> La relación entre el joven agente Bud Fox y el magnate Gordon Gekko introduce al espectador en un mercado donde la ambición facilita operaciones con información privilegiada y espionaje empresarial. La película convierte un delito financiero difícil de visualizar en conflicto dramático reconocible; las transacciones ilegales forman el núcleo del relato, no una mera crítica genérica del capitalismo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.20thcenturystudios.com/movies/wall-street",
+      "https://catalog.afi.com/Film/57877-WALL-STREET"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62141,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1999,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Rogue Trader: operaciones ocultas y caída del banco Barings",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1999\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1999</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Rogue Trader: operaciones ocultas y caída del banco Barings</h3>\n    <p><strong>Película · James Dearden · Reino Unido · 1999.</strong> Ewan McGregor interpreta al operador Nick Leeson en una dramatización del escándalo que acabó con Barings Bank. Las pérdidas de derivados, el encubrimiento de operaciones y los fallos de supervisión convierten la contabilidad y el control de riesgos en elementos de intriga. La película debe distinguirse del propio caso real, registrado por separado en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.nickleeson.com/rogue-trader/",
+      "https://filmsandfestivals.britishcouncil.org/projects/rogue-trader"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62142,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2000,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Boiler Room: vender acciones fraudulentas desde un falso éxito financiero",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2000\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Boiler Room: vender acciones fraudulentas desde un falso éxito financiero</h3>\n    <p><strong>Película · Ben Younger · Estados Unidos · 2000.</strong> Una firma de intermediación bursátil recluta a jóvenes vendedores para colocar inversiones mediante promesas engañosas y técnicas de presión. <em>Boiler Room</em> representa el fraude de valores desde el centro de llamadas y la cultura de ventas: los guiones comerciales, las comisiones y la manipulación de compradores sustituyen al atraco clásico.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://catalog.afi.com/Catalog/MovieDetails/61060"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62143,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2005,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Enron: The Smartest Guys in the Room documenta un fraude corporativo",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Enron: The Smartest Guys in the Room documenta un fraude corporativo</h3>\n    <p><strong>Documental · Alex Gibney · Estados Unidos · 2005.</strong> Mediante entrevistas, archivos y registros de la compañía, la película reconstruye cómo el falseamiento de resultados, las prácticas contables y los incentivos de los directivos sostuvieron el auge y la caída de Enron. Conecta directamente con el caso real de True Crime y con la reacción regulatoria que dio lugar a Sarbanes-Oxley, recogida en Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://catalog.afi.com/Catalog/moviedetails/63400",
+      "https://www.jigsawprods.com/work/enron-the-smartest-guys-in-the-room/"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62144,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2013,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El lobo de Wall Street: la estafa bursátil de Jordan Belfort",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2013\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El lobo de Wall Street: la estafa bursátil de Jordan Belfort</h3>\n    <p><strong>Película · Martin Scorsese · Estados Unidos · 2013.</strong> La ficción biográfica sigue el crecimiento de Stratton Oakmont y las prácticas de venta manipuladora asociadas a Jordan Belfort. El relato mezcla sátira del lujo con técnicas de fraude de inversión y presión comercial. No sustituye a la documentación judicial del caso, pero muestra cómo el cine popular convirtió el engaño financiero en una historia central del crimen contemporáneo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.paramountpictures.com/movies/the-wolf-of-wall-street",
+      "https://catalog.afi.com/Catalog/moviedetails/69901"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62145,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2017,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "The Wizard of Lies: el fraude de Madoff visto desde su entorno familiar",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Wizard of Lies: el fraude de Madoff visto desde su entorno familiar</h3>\n    <p><strong>Telefilme · Barry Levinson · Estados Unidos · 2017.</strong> Robert De Niro interpreta a Bernard Madoff y Michelle Pfeiffer a Ruth Madoff. La dramatización se interesa por el coste familiar y social del esquema Ponzi, la confianza de los inversores y el derrumbe de una reputación. Es una conexión audiovisual con el fraude descubierto en 2008, distinta de su investigación en True Crime y de los fallos inspectores examinados en Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hbomax.com/es/es/movie/13efb2b7-0ac9-446b-8416-02c229969f10",
+      "https://tv.apple.com/es/movie/the-wizard-of-lies/umc.cmc.3yej4pkdkzlgkpef89c0s3wux"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62146,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2019,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "The Laundromat: Dinero sucio y el negocio de las sociedades opacas",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Laundromat: Dinero sucio y el negocio de las sociedades opacas</h3>\n    <p><strong>Película · Steven Soderbergh · Estados Unidos · 2019.</strong> Una reclamación de seguro lleva a una viuda a descubrir las redes de sociedades pantalla y asesoramiento financiero que se hicieron célebres tras los Papeles de Panamá. La sátira dramatiza mecanismos de ocultación patrimonial y sus víctimas; recuerda que constituir una sociedad extraterritorial no es, por sí solo, prueba de delito. La investigación documental de 2016 tiene ficha propia en Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/80994011"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62147,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "The Dropout: auge y caída de Elizabeth Holmes y Theranos",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>The Dropout: auge y caída de Elizabeth Holmes y Theranos</h3>\n    <p><strong>Miniserie · Estados Unidos · 2022.</strong> La dramatización narra cómo Elizabeth Holmes construyó la imagen de una empresa revolucionaria de análisis clínicos mientras se acumulaban contradicciones sobre su tecnología y las afirmaciones realizadas a inversores. <em>The Dropout</em> conecta el fraude corporativo con el periodismo de investigación y la presión por obtener pruebas; no debe confundirse con una reconstrucción judicial literal.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://press.hulu.com/shows/the-dropout/",
+      "https://www.justwatch.com/es/serie/the-dropout"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62148,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Inventando a Anna: una identidad falsa abre las puertas de la élite",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Inventando a Anna: una identidad falsa abre las puertas de la élite</h3>\n    <p><strong>Miniserie · Shonda Rhimes · Estados Unidos · 2022.</strong> Una periodista investiga a Anna Sorokin, que se presenta como una rica heredera europea y obtiene bienes, servicios y crédito mediante una elaborada impostura. La serie utiliza la estafa de confianza para explorar la imagen pública, la verificación de credenciales y los privilegios del dinero, diferenciando la dramatización de los hechos acreditados en el procedimiento real.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/us-es/title/81008305"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62149,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Skandal! Bringing Down Wirecard: periodistas frente a cuentas opacas",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Skandal! Bringing Down Wirecard: periodistas frente a cuentas opacas</h3>\n    <p><strong>Documental · Alemania/Reino Unido · 2022.</strong> Reconstruye el trabajo de periodistas y denunciantes que cuestionaron durante años la información financiera de Wirecard antes del hundimiento de la compañía. Permite conectar el fraude empresarial con la verificación documental, las alertas desatendidas y la posterior revisión de los supervisores, recogida separadamente en Crime Scene en 2020.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/title/81404807/"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62150,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2023,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "MADOFF: el monstruo de Wall Street reconstruye el esquema Ponzi",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>MADOFF: el monstruo de Wall Street reconstruye el esquema Ponzi</h3>\n    <p><strong>Miniserie documental · Estados Unidos · 2023.</strong> Combina testimonios e imágenes de archivo para explicar el funcionamiento y descubrimiento del fraude de Bernard Madoff. Frente a <em>The Wizard of Lies</em> (2017), centrado en la dramatización personal, esta serie destaca las señales de alarma, las víctimas y los fallos de control, complementando las tarjetas históricas de True Crime y Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/title/81466159"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62151,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 2024,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Bitconned: engaño a inversores en la fiebre de las criptomonedas",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2024\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Bitconned: engaño a inversores en la fiebre de las criptomonedas</h3>\n    <p><strong>Documental · Bryan Storkel · Estados Unidos · 2024.</strong> La historia de Centra Tech muestra cómo supuestas innovaciones financieras, presentaciones comerciales y credenciales dudosas se utilizaron para captar fondos durante el auge de las criptomonedas. La investigación periodística y la comprobación de identidades ayudan a desmontar una promesa de inversión. La ficha trata de la obra audiovisual; la trama real corresponde a True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://media.netflix.com/en/only-on-netflix/81507283",
+      "https://www.netflix.com/title/81507283"
+    ],
+    "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
+    "orden": 62152,
+    "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
   }
 ]
