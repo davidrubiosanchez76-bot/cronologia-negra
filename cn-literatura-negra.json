@@ -2615,7 +2615,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "El bobo Wilson — Mark Twain",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1894\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1894</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El bobo Wilson — Mark Twain</h3>\n    <p><strong>Mark Twain convierte las huellas dactilares en la prueba decisiva para resolver un asesinato y descubrir el intercambio de dos niños al nacer.</strong> Su relato anticipa narrativamente el poder de los identificadores biológicos permanentes, aunque no utiliza genética.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1894\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1894</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>El bobo Wilson — Mark Twain</h3>\n    <p><strong>Las huellas dactilares se convierten en una clave narrativa para resolver un enigma de identidad, anticipando el uso de identificadores físicos permanentes en la investigación criminal.</strong> Mark Twain convierte las huellas dactilares en la prueba decisiva para resolver un asesinato y descubrir el intercambio de dos niños al nacer. Su relato anticipa narrativamente el poder de los identificadores biológicos permanentes, aunque no utiliza genética.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1573
@@ -2625,7 +2625,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "The Blooding — Joseph Wambaugh",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1989\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Blooding — Joseph Wambaugh</h3>\n    <p><strong>Joseph Wambaugh publica una reconstrucción documental de los asesinatos de Narborough y de la investigación que permitió identificar a Colin Pitchfork mediante ADN.</strong> Una obra pionera en divulgar narrativamente la revolución genética forense.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1989\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1989</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Blooding — Joseph Wambaugh</h3>\n    <p><strong>La reconstrucción de Wambaugh ayuda a divulgar el papel decisivo del ADN en una investigación real de asesinatos y el cambio que supuso para la identificación de sospechosos.</strong> Joseph Wambaugh publica una reconstrucción documental de los asesinatos de Narborough y de la investigación que permitió identificar a Colin Pitchfork mediante ADN. Una obra pionera en divulgar narrativamente la revolución genética forense.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1574
@@ -2635,7 +2635,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Una investigación filosófica — Philip Kerr",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1992\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1992</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Una investigación filosófica — Philip Kerr</h3>\n    <p><strong>Philip Kerr imagina una sociedad futura donde el análisis genético y las bases de datos permiten identificar y vigilar a posibles criminales antes de delinquir.</strong> Un thriller policial que anticipa debates sobre genética, vigilancia y determinismo biológico.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"1992\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1992</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Una investigación filosófica — Philip Kerr</h3>\n    <p><strong>Kerr sitúa el análisis genético en el centro de una reflexión sobre prevención del delito, libertad individual y clasificación anticipada de posibles delincuentes.</strong> Philip Kerr imagina una sociedad futura donde el análisis genético y las bases de datos permiten identificar y vigilar a posibles criminales antes de delinquir. Un thriller policial que anticipa debates sobre genética, vigilancia y determinismo biológico.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1575
@@ -2645,7 +2645,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "ADN asesino — Patricia Cornwell",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>ADN asesino — Patricia Cornwell</h3>\n    <p><strong>la ciencia reabre un crimen antiguo.</strong> Patricia Cornwell sitúa una innovadora técnica de análisis genético en el centro de la investigación de un asesinato cometido veinte años atrás. La tecnología forense se convierte en instrumento policial y político.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>ADN asesino — Patricia Cornwell</h3>\n    <p><strong>La investigación de un asesinato antiguo permite examinar las posibilidades y consecuencias de aplicar nuevas herramientas genéticas a indicios conservados del pasado.</strong> la ciencia reabre un crimen antiguo. Patricia Cornwell sitúa una innovadora técnica de análisis genético en el centro de la investigación de un asesinato cometido veinte años atrás. La tecnología forense se convierte en instrumento policial y político.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1576
@@ -2655,7 +2655,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "Spider Bones — Kathy Reichs",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2010\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2010</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Spider Bones — Kathy Reichs</h3>\n    <p><strong>Kathy Reichs enfrenta a la antropóloga forense Temperance Brennan con varios restos humanos vinculados a un soldado supuestamente muerto en Vietnam.</strong> La identificación científica y las anomalías genéticas son fundamentales para desenredar el misterio.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2010\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2010</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>Spider Bones — Kathy Reichs</h3>\n    <p><strong>La antropología forense y la genética no son simples adornos científicos, sino procedimientos capaces de cuestionar la identidad inicialmente atribuida a restos humanos.</strong> Kathy Reichs enfrenta a la antropóloga forense Temperance Brennan con varios restos humanos vinculados a un soldado supuestamente muerto en Vietnam. La identificación científica y las anomalías genéticas son fundamentales para desenredar el misterio.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1577
@@ -2675,7 +2675,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "The Family Tree — Steph Mullin y Nicole Mabry",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Family Tree — Steph Mullin y Nicole Mabry</h3>\n    <p><strong>Steph Mullin y Nicole Mabry convierten una prueba comercial de ascendencia genética en el inicio de una investigación relacionada con un asesino en serie.</strong> Un thriller inspirado directamente en la identificación del Golden State Killer mediante genealogía genética.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>The Family Tree — Steph Mullin y Nicole Mabry</h3>\n    <p><strong>La novela traslada la genealogía genética de las bases de datos de consumo a la investigación de crímenes, conectándola con un caso real que popularizó esa técnica.</strong> Steph Mullin y Nicole Mabry convierten una prueba comercial de ascendencia genética en el inicio de una investigación relacionada con un asesino en serie. Un thriller inspirado directamente en la identificación del Golden State Killer mediante genealogía genética.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1579
@@ -2685,7 +2685,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La coincidencia — Harlan Coben",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La coincidencia — Harlan Coben</h3>\n    <p><strong>el ADN descubre una identidad oculta.</strong> Harlan Coben utiliza una base comercial de análisis genético para investigar los orígenes desconocidos de Wilde. Las coincidencias familiares reveladas por el ADN desencadenan una trama de desapariciones y secretos criminales.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La coincidencia — Harlan Coben</h3>\n    <p><strong>El thriller convierte una coincidencia genética privada en pista criminal y vincula la búsqueda de identidad personal con secretos familiares e investigaciones policiales.</strong> el ADN descubre una identidad oculta. Harlan Coben utiliza una base comercial de análisis genético para investigar los orígenes desconocidos de Wilde. Las coincidencias familiares reveladas por el ADN desencadenan una trama de desapariciones y secretos criminales.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1580
@@ -2695,7 +2695,7 @@
     "tipo": "ficcion",
     "fecha": "",
     "titulo": "La espera — Michael Connelly",
-    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2024\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La espera — Michael Connelly</h3>\n    <p><strong>Michael Connelly convierte una coincidencia de ADN entre un detenido y un asesino en serie desaparecido veinte años atrás en el eje de una investigación de Renée Ballard.</strong> La identificación genética familiar permite reabrir un caso olvidado.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"ficcion\" data-yr=\"2024\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">LITERATURA NEGRA</span>\n    <h3>La espera — Michael Connelly</h3>\n    <p><strong>La novela combina genealogía genética y pesquisa tradicional, trasladando al suspense un procedimiento capaz de reabrir investigaciones antiguas mediante las coincidencias entre familiares.</strong> Michael Connelly convierte una coincidencia de ADN entre un detenido y un asesino en serie desaparecido veinte años atrás en el eje de una investigación de Renée Ballard. La identificación genética familiar permite reabrir un caso olvidado.</p>\n  </div>\n</article>",
     "fuentes": [],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1581
