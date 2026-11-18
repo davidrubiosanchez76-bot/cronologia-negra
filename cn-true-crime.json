@@ -12746,12 +12746,13 @@
   {
     "yr": 1923,
     "tipo": "crimen",
-    "fecha": "1923-11-15",
+    "fecha": "1923-11-24",
     "titulo": "La captura del Tomoka revela la organización del contrabando marítimo durante la Ley Seca",
-    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1923\" data-fecha=\"1923-11-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1923</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La captura del Tomoka revela la organización del contrabando marítimo durante la Ley Seca</h3>\n    <p><strong>Contrabando marítimo · Estados Unidos · noviembre:</strong> La Guardia Costera ordena intervenir contra el <em>Tomoka</em>, barco asociado a William «Bill» McCoy, uno de los contrabandistas más notorios de la Ley Seca. El comercio clandestino se articulaba mediante cargueros situados mar adentro, lanchas rápidas de enlace, compradores y redes de distribución en tierra. La llamada <em>Rum Row</em> fue también escenario de robos entre traficantes y violencia por el control de cargamentos. Este episodio ilustra una organización logística ilícita que no debe atribuirse automáticamente a una gran familia mafiosa.</p>\n  </div>\n</article>",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1923\" data-fecha=\"1923-11-24\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1923</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>La captura del Tomoka revela la organización del contrabando marítimo durante la Ley Seca</h3>\n    <p><strong>Contrabando marítimo · Estados Unidos · 24 de noviembre:</strong> El guardacostas <em>Seneca</em> intercepta al <em>Tomoka</em>, barco de William «Bill» McCoy, uno de los contrabandistas más notorios de la Ley Seca. Tras una persecución y dificultades para abordarlo, el navío es capturado. El comercio clandestino se articulaba mediante cargueros situados mar adentro, lanchas rápidas de enlace, compradores y redes de distribución en tierra. La llamada <em>Rum Row</em> fue también escenario de robos entre traficantes y violencia por el control de cargamentos. Este episodio ilustra una organización logística ilícita que no debe atribuirse automáticamente a una gran familia mafiosa.</p>\n  </div>\n</article>",
     "fuentes": [
       "https://www.history.uscg.mil/Browse-by-Topic/Assets/Water/All/Article/2400683/seneca-1908/",
-      "https://www.archives.gov/publications/prologue/2011/fall/smugglers-bootleggers-scofflaws"
+      "https://www.archives.gov/publications/prologue/2011/fall/smugglers-bootleggers-scofflaws",
+      "https://seahistory.org/wp-content/uploads/Feature-article-Real-McCoy.pdf"
     ],
     "procedencia": "Ampliación temática crimen organizado histórico · 18 noviembre 2026",
     "orden": 64093,
