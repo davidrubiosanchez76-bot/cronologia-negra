@@ -12272,5 +12272,279 @@
     "procedencia": "Ampliación CIBERDELINCUENCIA · investigación histórica · 18 noviembre 2026",
     "orden": 64060,
     "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 1912,
+    "tipo": "crimen",
+    "fecha": "1912-02-07",
+    "titulo": "Linda Hazzard: la falsa terapia de ayuno que acabó con la vida de una paciente",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1912\" data-fecha=\"1912-02-07\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1912</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Linda Hazzard: la falsa terapia de ayuno que acabó con la vida de una paciente</h3>\n    <p><strong>Estados Unidos · homicidio imprudente por una terapeuta.</strong> Linda Burfield Hazzard, que se presentaba como médica pese a carecer de una formación reglada equivalente, sometió a Claire Williamson a un régimen extremo de privación de alimentos en el estado de Washington. Tras su muerte en 1911, Hazzard fue condenada por homicidio involuntario y sentenciada el 7 de febrero de 1912. No fue una condena por asesinato premeditado: el caso documenta cómo un supuesto tratamiento puede convertirse en un delito mortal contra una persona bajo cuidados.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://digitalarchives.wa.gov/Collections/TitleInfo/2508",
+      "https://www.mnhs.org/mnopedia/search/index/person/hazzard-linda-burfield-perry-1867-1938"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64061,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 1936,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Unidad 731: médicos militares japoneses experimentan con prisioneros",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1936\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1936</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Unidad 731: médicos militares japoneses experimentan con prisioneros</h3>\n    <p><strong>Manchuria ocupada, China · experimentación criminal y guerra biológica.</strong> La unidad dirigida por Shirō Ishii y otras dependencias del Ejército Imperial japonés desarrollaron experimentos sobre personas privadas de libertad: infecciones deliberadas, exposición al frío, vivisecciones y pruebas relacionadas con armas biológicas. La unidad adoptó su configuración histórica en la década de 1930 y continuó sus actividades durante la guerra. Las víctimas no eran voluntarias ni pacientes atendidos con fines terapéuticos. Los procesos judiciales y la recuperación documental posteriores forman un hito distinto en Crime Scene.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://apjjf.org/Tsuneishi-Keiichi/2194/article",
+      "https://www.cambridge.org/core/journals/medical-history/article/global-research-on-unit-731-medical-atrocities-from-the-1950s-to-the-2020s/B11CE475150A557A3244BBFE7577C785"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64062,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1939,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Aktion T4: el régimen nazi convierte la asistencia psiquiátrica en exterminio",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1939\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1939</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Aktion T4: el régimen nazi convierte la asistencia psiquiátrica en exterminio</h3>\n    <p><strong>Alemania y Austria · asesinato sistemático de personas institucionalizadas.</strong> El régimen nazi pone en marcha un programa de homicidios de personas con discapacidades, enfermedades mentales y pacientes considerados por los responsables como personas cuya vida carecía de valor. Médicos, enfermeros y administradores participaron en la selección y asesinato de víctimas mediante gas, sobredosis farmacológicas y privación de cuidados. La autorización de Hitler fue firmada en octubre de 1939 y fechada retroactivamente el 1 de septiembre. Entre 1940 y agosto de 1941 se asesinó a más de 70.000 personas en seis centros de gaseamiento; las muertes prosiguieron después.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/euthanasia-program",
+      "https://encyclopedia.ushmm.org/content/en/article/the-murder-of-people-with-disabilities"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64063,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1942,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Carl Clauberg: esterilizaciones forzosas mediante experimentación en Auschwitz",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1942\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1942</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Carl Clauberg: esterilizaciones forzosas mediante experimentación en Auschwitz</h3>\n    <p><strong>Polonia ocupada por Alemania · experimentación médica criminal.</strong> El ginecólogo nazi Carl Clauberg inicia en Auschwitz ensayos de esterilización masiva sobre mujeres prisioneras, especialmente judías. Introduce sustancias dañinas para provocar obstrucciones y lesiones reproductivas, con sufrimiento, daños irreversibles y muertes. Otros médicos, como Horst Schumann, ensayaron esterilizaciones forzosas mediante radiación. El objetivo no era atender médicamente a las víctimas, sino cumplir políticas de persecución racial mediante procedimientos coercitivos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/forced-sterilization-a-form-of-nazi-persecution",
+      "https://encyclopedia.ushmm.org/content/es/article/nazi-medical-experiments"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64064,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1943,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Josef Mengele: experimentos mortales con gemelos y prisioneros de Auschwitz",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1943\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1943</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Josef Mengele: experimentos mortales con gemelos y prisioneros de Auschwitz</h3>\n    <p><strong>Auschwitz · Polonia ocupada por Alemania · 1943-1945.</strong> El médico de las SS Josef Mengele realiza selecciones de deportados y experimentos forzosos con gemelos, niños judíos y romaníes y otros presos. Sus investigaciones pretendidamente biomédicas incluyeron procedimientos dañinos y asesinatos, en ocasiones seguidos de análisis de cuerpos y órganos. El régimen de terror y la ausencia completa de consentimiento invalidan cualquier consideración de investigación clínica legítima. Mengele escapó tras la guerra y murió en Brasil sin ser juzgado por estos crímenes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://encyclopedia.ushmm.org/content/en/article/josef-mengele",
+      "https://encyclopedia.ushmm.org/content/en/article/nazi-medical-experiments"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64065,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1946,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Guatemala: investigadores estadounidenses infectan deliberadamente a personas vulnerables",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1946\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1946</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Guatemala: investigadores estadounidenses infectan deliberadamente a personas vulnerables</h3>\n    <p><strong>Guatemala · experimentación sin consentimiento · 1946-1948.</strong> Investigadores vinculados al Servicio de Salud Pública estadounidense y a instituciones guatemaltecas desarrollan ensayos sobre infecciones de transmisión sexual en personas encarceladas, pacientes psiquiátricos y otros grupos vulnerables. Los protocolos incluyeron exposiciones o inoculaciones intencionadas sin consentimiento informado válido. Se trata de abusos graves demostrados documentalmente, pero no de condenas penales individuales por homicidio. Los hechos serían revelados públicamente en 2010, cuando Estados Unidos emitió una disculpa oficial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://2009-2017.state.gov/secretary/20092013clinton/rm/2010/10/148464.htm",
+      "https://2009-2017.state.gov/p/wha/rls/rm/2010/148546.htm"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64066,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1984,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Genene Jones: una enfermera condenada por matar a bebés a su cuidado",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1984\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1984</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Genene Jones: una enfermera condenada por matar a bebés a su cuidado</h3>\n    <p><strong>Texas, Estados Unidos · homicidios de pacientes pediátricos.</strong> Genene Jones, enfermera en servicios infantiles, fue condenada en 1984 por la muerte de Chelsea McClellan, a quien administró una sustancia perjudicial durante su atención. Los investigadores sospecharon de otras muertes infantiles, pero no todas llegaron a juicio ni pueden tratarse como hechos probados. En enero de 2020 admitió judicialmente otro homicidio, el del bebé Joshua Sawyer en 1981, y recibió una nueva condena. Se diferencian expresamente las víctimas acreditadas de las cifras atribuidas en la prensa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.propublica.org/article/texas-baby-killer-pleads-guilty-to-a-new-murder",
+      "https://www.ksat.com/news/local/2020/01/16/watch-killer-nurse-genene-jones-makes-plea-deal-in-court-hearing/"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64067,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1987,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Donald Harvey: el auxiliar sanitario que envenenaba a pacientes hospitalizados",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1987\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1987</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Donald Harvey: el auxiliar sanitario que envenenaba a pacientes hospitalizados</h3>\n    <p><strong>Ohio y Kentucky, Estados Unidos · asesinatos hospitalarios.</strong> Donald Harvey, empleado como auxiliar en distintos centros sanitarios, se declaró culpable en 1987 de una serie de homicidios de pacientes, varios de ellos enfermos graves. Utilizó distintas sustancias tóxicas y aprovechó su acceso a las habitaciones para actuar sin levantar sospechas inmediatas. Confesó más muertes de las que quedaron judicialmente acreditadas. Su caso demuestra que el riesgo no se limita a facultativos con capacidad de prescripción, sino también al personal que tiene acceso directo a pacientes vulnerables.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.latimes.com/archives/la-xpm-1987-08-19-mn-831-story.html",
+      "https://www.upi.com/Archives/1987/09/17/Harvey-says-he-was-mentally-ill/1434558849600/"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64068,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 1993,
+    "tipo": "crimen",
+    "fecha": "1993-05-28",
+    "titulo": "Beverley Allitt: condenada por cuatro asesinatos infantiles en un hospital inglés",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"1993\" data-fecha=\"1993-05-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Beverley Allitt: condenada por cuatro asesinatos infantiles en un hospital inglés</h3>\n    <p><strong>Grantham, Reino Unido · 28 de mayo de 1993.</strong> La enfermera Beverley Allitt es condenada por el asesinato de cuatro niños ingresados y otros delitos de tentativa de homicidio y lesiones graves en el servicio pediátrico del hospital Grantham and Kesteven. Entre las pruebas examinadas figuran episodios de deterioro repentino y administración indebida de fármacos. La investigación pone al descubierto la dificultad de distinguir a tiempo un ataque cometido por una profesional de una complicación médica espontánea.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bmj.com/content/bmj/306/6890/1431.full.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2270251/"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64069,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2000,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Michael Swango: un médico admite el envenenamiento deliberado de pacientes",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2000\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2000</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Michael Swango: un médico admite el envenenamiento deliberado de pacientes</h3>\n    <p><strong>Estados Unidos · 2000.</strong> Michael Swango, médico que había trabajado en diferentes centros sanitarios y falsificado datos de sus antecedentes profesionales, se declara culpable de haber matado a tres pacientes mediante la administración intencionada de sustancias tóxicas en un hospital de veteranos de Nueva York. El caso combina intoxicaciones, fallos de contratación y omisiones en la transmisión de alertas entre instituciones. La confesión judicial de tres asesinatos debe separarse de otras muertes sobre las que existieron sospechas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://abcnews.com/US/story?id=95870&page=1",
+      "https://www.govinfo.gov/content/pkg/CHRG-108hhrg97100/pdf/CHRG-108hhrg97100.pdf"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64070,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2007,
+    "tipo": "crimen",
+    "fecha": "2007-05-15",
+    "titulo": "Caso Maeso: 275 pacientes infectados por hepatitis C durante intervenciones",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2007\" data-fecha=\"2007-05-15\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2007</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Caso Maeso: 275 pacientes infectados por hepatitis C durante intervenciones</h3>\n    <p><strong>Valencia, España · 15 de mayo de 2007.</strong> La Audiencia Provincial de Valencia condena al anestesista Juan Maeso Vélez por 275 delitos de lesiones relacionados con contagios de hepatitis C en distintos hospitales entre 1988 y 1998. La sentencia consideró acreditado que utilizaba para sí fármacos y material antes de administrarlos a pacientes, transmitiéndoles el virus. La condena fue confirmada por el Tribunal Supremo en 2009. No se clasifican estos hechos como asesinatos intencionados: son graves delitos de lesiones contra pacientes cuya atribución se apoyó en pruebas virológicas y genéticas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20090217/el-tribunal-supremo-confirma-la-condena-al-anestesista-maeso-por-infectar-a-275-pacientes/233289.shtml",
+      "https://elpais.com/diario/2007/05/16/sociedad/1179266403_850215.html"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64071,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2018,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Larry Nassar: abusos sexuales encubiertos como tratamientos médicos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Larry Nassar: abusos sexuales encubiertos como tratamientos médicos</h3>\n    <p><strong>Michigan, Estados Unidos · enero de 2018.</strong> El antiguo médico de la selección estadounidense de gimnasia Larry Nassar recibe largas condenas por agresiones sexuales cometidas aprovechando el pretexto de exploraciones y tratamientos médicos. Numerosas víctimas eran menores o jóvenes deportistas. Los delitos habían continuado durante años pese a denuncias y alertas. Esta ficha se conecta también con Crímenes Sexuales, pero aquí subraya la instrumentalización de la confianza terapéutica y la investigación de fallos institucionales. No es un caso de asesinato de pacientes.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://oig.justice.gov/sites/default/files/reports/21-093.pdf",
+      "https://www.justice.gov/archives/opa/pr/justice-department-reaches-civil-settlement-victims-abused-lawrence-nassar"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64072,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2019,
+    "tipo": "crimen",
+    "fecha": "2019-06-06",
+    "titulo": "Niels Högel: un enfermero alemán condenado por 85 asesinatos de pacientes",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2019\" data-fecha=\"2019-06-06\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Niels Högel: un enfermero alemán condenado por 85 asesinatos de pacientes</h3>\n    <p><strong>Oldenburg, Alemania · 6 de junio de 2019.</strong> Un tribunal condena a cadena perpetua a Niels Högel por el asesinato de 85 pacientes, principalmente en hospitales donde había trabajado entre 2000 y 2005. Según las conclusiones judiciales, provocaba crisis cardiacas mediante medicamentos para intentar después reanimar a algunas víctimas. Las pesquisas incluyeron revisar historias clínicas, fallecimientos y exhumaciones. El número de víctimas judicialmente acreditadas no debe confundirse con otras muertes sospechosas investigadas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/85-Morde-Lebenslang-fuer-Ex-Krankenpfleger-Hoegel%2Choegel704.html",
+      "https://www.rtve.es/noticias/20190606/cadena-perpetua-para-enfermero-aleman-mato-a-85-pacientes/1952241.shtml"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64073,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2021,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Ayumi Kuboki: una enfermera japonesa condenada por envenenar sueros intravenosos",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Ayumi Kuboki: una enfermera japonesa condenada por envenenar sueros intravenosos</h3>\n    <p><strong>Yokohama, Japón · condena de 2021.</strong> Ayumi Kuboki es condenada a cadena perpetua por matar a tres pacientes de edad avanzada en el Hospital Oguchi en 2016 mediante la introducción de desinfectante en sus bolsas de suero. Los envenenamientos se produjeron en un contexto de cuidados hospitalarios, cuando las víctimas dependían de equipos y tratamientos administrados por profesionales. La condena fue confirmada posteriormente en apelación. No se atribuyen como hechos probados todos los fallecimientos que inicialmente se investigaron.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://japantoday.com/category/crime/high-court-upholds-life-prison-term-for-ex-nurse-who-killed-3-elderly-patients-at-yokohama-hospital",
+      "https://internationalpress.jp/2021/10/22/fiscalia-de-yokohama-pide-pena-de-muerte-para-enfermera-que-enveneno-a-3-pacientes/"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64074,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2021,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "William Davis: cuatro pacientes asesinados mediante embolias de aire provocadas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>William Davis: cuatro pacientes asesinados mediante embolias de aire provocadas</h3>\n    <p><strong>Texas, Estados Unidos · 2021.</strong> William George Davis, enfermero de un hospital cardiológico de Tyler, es condenado por el asesinato de cuatro pacientes tras provocarles embolias al introducir aire en sus vías arteriales después de intervenciones. La investigación médico-legal permitió relacionar lesiones cerebrales y fallos clínicos con intervenciones deliberadas. Recibió una condena de muerte en 2021; posteriores recursos judiciales no alteran el carácter de condena del suceso aquí documentado.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cbsnews.com/news/william-davis-nurse-death-sentence-killing-four-patients-texas-air-injection/",
+      "https://www.supremecourt.gov/DocketPDF/26/26A311/422846/20260902173431424_Appendix%20A%20-%20CCA%20opinion.pdf"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64075,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2023,
+    "tipo": "crimen",
+    "fecha": "",
+    "titulo": "Lucy Letby: condenas por muertes neonatales bajo revisión extraordinaria",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Lucy Letby: condenas por muertes neonatales bajo revisión extraordinaria</h3>\n    <p><strong>Chester, Reino Unido · condenas de 2023 y 2024.</strong> La enfermera neonatal Lucy Letby fue condenada en dos procesos por asesinar a siete bebés y por siete tentativas de asesinato relacionadas con hechos de 2015 y 2016. Las sentencias continúan vigentes en noviembre de 2026, pero un grupo de especialistas ha cuestionado públicamente la interpretación de las pruebas médicas y la Criminal Cases Review Commission está examinando solicitudes para revisar las condenas. Esta tarjeta describe el estado judicial y la controversia probatoria; no presenta las interpretaciones clínicas discutidas como hechos definitivamente resueltos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://ccrc.gov.uk/news/chairs-statement-on-lucy-letby-application-review/",
+      "https://www.bmj.com/content/388/bmj.r250",
+      "https://www.bmj.com/content/388/bmj.r300"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64076,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS"
+  },
+  {
+    "yr": 2024,
+    "tipo": "crimen",
+    "fecha": "2024-05-02",
+    "titulo": "Heather Pressdee: una enfermera admite asesinatos y tentativas con insulina",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2024\" data-fecha=\"2024-05-02\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2024</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Heather Pressdee: una enfermera admite asesinatos y tentativas con insulina</h3>\n    <p><strong>Pensilvania, Estados Unidos · 2 de mayo de 2024.</strong> La enfermera Heather Pressdee se declara culpable de tres asesinatos y diecinueve tentativas de asesinato en centros de cuidados de larga duración. Administró dosis letales o potencialmente letales de insulina a pacientes que se encontraban bajo su responsabilidad entre 2020 y 2023. El tribunal impone varias penas de cadena perpetua. La ficha separa los delitos que confesó y fueron objeto de condena de otras muertes relacionadas en las investigaciones o demandas civiles.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://apnews.com/article/f22d59cf1d092aea74042867a8e3595a",
+      "https://www.butlereagle.com/20240502/former-nurse-sentenced-to-life-in-prison-for-killing-harming-nursing-home-patients/"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64077,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2025,
+    "tipo": "crimen",
+    "fecha": "2025-05-28",
+    "titulo": "Joël Le Scouarnec: el cirujano condenado por abusar sexualmente de 299 víctimas",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2025\" data-fecha=\"2025-05-28\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2025</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Joël Le Scouarnec: el cirujano condenado por abusar sexualmente de 299 víctimas</h3>\n    <p><strong>Francia · 28 de mayo de 2025.</strong> Un tribunal francés condena al antiguo cirujano Joël Le Scouarnec a veinte años de prisión por violaciones y agresiones sexuales cometidas durante décadas, en gran parte contra menores atendidos en hospitales. El procedimiento examina 299 víctimas y pone de relieve la utilización de consultas, anestesia y relaciones de autoridad médica para cometer delitos. Las pruebas documentales conservadas por el autor y las oportunidades perdidas de intervención institucional suscitan una investigación pública. Esta ficha se conecta además con Crímenes Sexuales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bmj.com/content/389/bmj.r1109",
+      "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1687_rapport-information.pdf"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64078,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
+  },
+  {
+    "yr": 2025,
+    "tipo": "crimen",
+    "fecha": "2025-12-18",
+    "titulo": "Frédéric Péchier: un anestesista condenado por 30 envenenamientos hospitalarios",
+    "html": "<article class=\"item-evento\" data-tipo=\"crimen\" data-yr=\"2025\" data-fecha=\"2025-12-18\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2025</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">TRUE CRIME</span>\n    <h3>Frédéric Péchier: un anestesista condenado por 30 envenenamientos hospitalarios</h3>\n    <p><strong>Besançon, Francia · 18 de diciembre de 2025.</strong> Un tribunal condena a cadena perpetua al anestesista Frédéric Péchier por treinta envenenamientos de pacientes cometidos entre 2008 y 2017 en dos clínicas, de los cuales doce causaron la muerte y dieciocho constituyeron tentativas de asesinato. Los hechos se relacionan con la adulteración de productos utilizados durante la anestesia. Péchier niega ser culpable y recurrió el fallo, por lo que en noviembre de 2026 la condena de primera instancia todavía está pendiente de revisión en apelación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.rtve.es/noticias/20251218/anestesista-frances-condenado-a-cadena-perpetua-por-envenenamiento-30-pacientes-12-murieron/16864297.shtml",
+      "https://www.lemonde.fr/en/france/article/2025/12/19/french-anesthetist-sentenced-to-life-in-prison-we-cannot-bring-back-our-loved-ones-but-at-least-there-is-a-semblance-of-justice_6748670_7.html"
+    ],
+    "procedencia": "Ampliación temática de crímenes médicos y sanitarios · 18 noviembre 2026",
+    "orden": 64079,
+    "tema": "CRÍMENES MÉDICOS Y SANITARIOS",
+    "precision_fecha": "día"
   }
 ]
