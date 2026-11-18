@@ -8032,5 +8032,399 @@
     "procedencia": "Revisión editorial etapa anterior a 1801 · 18 noviembre 2026",
     "orden": 65052,
     "tema": "HISTORIA DE LA INVESTIGACIÓN CRIMINAL"
+  },
+  {
+    "yr": 1971,
+    "tipo": "policia-cientifica",
+    "fecha": "1971-11-21",
+    "titulo": "Graham Young: el veneno de las tazas delata al asesino",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1971\" data-fecha=\"1971-11-21\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1971</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Graham Young: el veneno de las tazas delata al asesino</h3>\n    <p><strong>Intoxicación por metales · Noviembre:</strong> Tras una sucesión de enfermedades inexplicadas entre trabajadores de una empresa británica, la investigación se orienta hacia una posible intoxicación por talio. Graham Frederick Young, empleado aficionado a estudiar sustancias tóxicas, despierta sospechas al demostrar un conocimiento inusual de los síntomas. La policía lo detiene el 21 de noviembre y encuentra sustancias peligrosas y anotaciones sobre sus efectos. En 1972 será condenado por dos asesinatos y otras intoxicaciones. El caso muestra la importancia de reconocer patrones clínicos y relacionarlos con análisis químicos, declaraciones y pruebas materiales; no basta con atribuir todos los malestares a un misterioso brote infeccioso.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.hertspastpolicing.org.uk/content/police-history/this-week-in-hertfordshire-police-history/notable-events-in-week-twentyfive",
+      "https://www.agathachristie.com/en/stories/the-pale-horse"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 446
+  },
+  {
+    "yr": 2009,
+    "tipo": "policia-cientifica",
+    "fecha": "2009-02-05",
+    "titulo": "Stacey Castor: el anticongelante desmiente una aparente muerte voluntaria",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2009\" data-fecha=\"2009-02-05\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Stacey Castor: el anticongelante desmiente una aparente muerte voluntaria</h3>\n    <p><strong>Intoxicación por etilenglicol · 2009:</strong> Stacey Castor es condenada en Nueva York por el asesinato de su segundo marido, David, fallecido en 2005. La escena había sido presentada como un suicidio por ingestión de anticongelante; sin embargo, los análisis y la reconstrucción de las circunstancias llevaron a los investigadores a una conclusión diferente. La exhumación de su primer marido, Michael Wallace, reveló asimismo una intoxicación por etilenglicol, aunque Castor no fue juzgada por aquella muerte. El caso muestra la necesidad de interpretar conjuntamente resultados toxicológicos, antecedentes médicos y evidencias de la escena, sin convertir una concentración química en una explicación automática de lo ocurrido.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.cbsnews.com/news/woman-who-poisoned-husband-with-antifreeze-dies-in-prison/",
+      "https://abcnews.com/2020/Story?id=7394363&page=2"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 451
+  },
+  {
+    "yr": 1986,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Clifford Stoll: una discrepancia de 75 centavos descubre espionaje informático",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1986\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1986</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Clifford Stoll: una discrepancia de 75 centavos descubre espionaje informático</h3>\n    <p><strong>Investigación digital · 1986:</strong> El astrónomo Clifford Stoll detecta en el Laboratorio Lawrence Berkeley una diferencia de 75 centavos en el registro de uso de sus ordenadores. En lugar de descartarla como un error contable, examina conexiones, horarios y accesos y empieza a seguir el rastro de un intruso. Durante los meses siguientes, su trabajo y la colaboración de diversas autoridades permiten investigar al hacker alemán Markus Hess y una red de espionaje vinculada a la Guerra Fría. El caso demuestra que los registros de actividad, aparentemente insignificantes, pueden convertirse en pruebas cruciales cuando se reconstruyen y correlacionan correctamente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.washingtonpost.com/archive/politics/1989/03/04/computer-detective-followed-trail-to-hacker-spy-suspect/53dc3e5a-a279-441d-98b5-e745645c547f/"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 973
+  },
+  {
+    "yr": 1999,
+    "tipo": "policia-cientifica",
+    "fecha": "1999-04-01",
+    "titulo": "El virus Melissa: un rastro electrónico conduce hasta su creador",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1999\" data-fecha=\"1999-04-01\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1999</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El virus Melissa: un rastro electrónico conduce hasta su creador</h3>\n    <p><strong>Delito informático · 1 de abril:</strong> La policía de Nueva Jersey y el FBI detienen a David L. Smith, responsable del virus Melissa, que se propagaba mediante documentos de Microsoft Word y correos electrónicos. La investigación examina cuentas utilizadas para distribuir el archivo, información conservada por proveedores y rastros electrónicos que permiten seguir el origen de la difusión. Su caso ilustra cómo la informática forense puede identificar al autor de un ataque incluso cuando utiliza cuentas ajenas y canales remotos. Smith admitirá los delitos y será condenado en 2002.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/melissa-virus",
+      "https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/melissaSent.htm"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 974
+  },
+  {
+    "yr": 2009,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El asesino de Craigslist: una dirección IP conduce a un sospechoso de homicidio",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El asesino de Craigslist: una dirección IP conduce a un sospechoso de homicidio</h3>\n    <p><strong>Rastreo de comunicaciones · Abril:</strong> Tras el asesinato de Julissa Brisman en un hotel de Boston, los investigadores analizan correos usados para concertar encuentros a través de Craigslist. La información facilitada por los servicios digitales y las direcciones IP, contrastadas con otros registros y vídeos de vigilancia, ayuda a identificar como sospechoso a Philip Markoff, estudiante de Medicina. Fue detenido, pero murió en prisión en 2010 antes de ser juzgado: por ello no debe presentarse como judicialmente condenado. El caso muestra la utilidad de vincular comunicaciones, equipos y ubicaciones sin confundir una dirección IP con la identificación automática de su usuario.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.computerworld.com/article/1596939/digital-trail-led-investigators-to-alleged-craigslist-killer.html"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 976
+  },
+  {
+    "yr": 2018,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Chris Watts: cámaras y mensajes contradicen el relato de una desaparición",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Chris Watts: cámaras y mensajes contradicen el relato de una desaparición</h3>\n    <p><strong>Prueba audiovisual y telefónica · Agosto:</strong> Shanann Watts y sus dos hijas desaparecen en Colorado. Los investigadores revisan imágenes de vigilancia de un vecino, registros telefónicos, mensajes y otros datos que permiten contrastar la versión ofrecida por Chris Watts con sus movimientos y comunicaciones. La combinación de estos indicios, de otras pesquisas y de su confesión conduce al esclarecimiento del asesinato de las tres víctimas. El caso ilustra la importancia de integrar imágenes de distintas fuentes con una cronología verificable: ningún mensaje o fragmento de vídeo, aislado de su contexto, constituye por sí solo una reconstrucción completa.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.aetv.com/articles/chris-watts"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 979
+  },
+  {
+    "yr": 2022,
+    "tipo": "policia-cientifica",
+    "fecha": "2022-11-13",
+    "titulo": "Los cuatro asesinatos de Idaho: móviles y cámaras reconstruyen desplazamientos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2022\" data-fecha=\"2022-11-13\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Los cuatro asesinatos de Idaho: móviles y cámaras reconstruyen desplazamientos</h3>\n    <p><strong>Investigación digital · 13 de noviembre:</strong> Cuatro estudiantes son asesinados en una vivienda de Moscow, Idaho. Los investigadores cotejan grabaciones de videovigilancia, movimientos de vehículos y registros de comunicaciones telefónicas para construir una secuencia de desplazamientos compatible con otras pruebas, incluida evidencia genética. La identificación de un teléfono o de un vehículo en un área no equivale a situar a su propietario con precisión dentro de una casa; las inferencias deben contrastarse. Bryan Kohberger se declara culpable en julio de 2025 y recibe cuatro condenas consecutivas a cadena perpetua. Es un ejemplo reciente de investigación multifuente, no de identificación basada en un único dato digital.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-commends-life-sentences-for-bryan-kohberger/",
+      "https://coi.isc.idaho.gov/docs/CR01-24-31665/2025/032425%2BSupplemental%2BReport%2B-%2BMowery.pdf"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 980
+  },
+  {
+    "yr": 1979,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "John Wayne Gacy: las fichas dentales devuelven el nombre a sus víctimas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1979\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1979</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>John Wayne Gacy: las fichas dentales devuelven el nombre a sus víctimas</h3>\n    <p><strong>Identificación de víctimas · 1979:</strong> Tras el hallazgo a finales de 1978 de numerosos cadáveres en la vivienda del asesino en serie John Wayne Gacy, en Chicago, los forenses comparan dientes, radiografías y tratamientos odontológicos con historiales de jóvenes desaparecidos. La identificación dental desempeña un papel principal para reconocer a decenas de víctimas; la falta de registros de algunos desaparecidos impide resolver todos los casos. Años después, el ADN y la genealogía genética permitirán identificar a otras personas. El episodio ejemplifica tanto la eficacia de los registros dentales como la importancia de conservarlos.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "(no visibles): https://www.cookcountysheriff.org/unknown-victim-of-john-wayne-gacy-is-identified/ | https://nij.ojp.gov/media/audio/just-identifying-gacys-victims-part1"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 992
+  },
+  {
+    "yr": 1979,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Wearside Jack: una grabación falsa desvía la caza del Destripador de Yorkshire",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1979\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1979</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Wearside Jack: una grabación falsa desvía la caza del Destripador de Yorkshire</h3>\n    <p><strong>Investigación · Junio:</strong> La policía recibe una cinta de voz y varias cartas de un hombre que se hace pasar por el asesino conocido como el Destripador de Yorkshire. La investigación concede un peso desmedido al acento del remitente, originario de Sunderland, y descarta pistas incompatibles con él. Peter Sutcliffe será detenido en 1981 por otros motivos; John Humble, autor de la impostura, no será identificado hasta 2005. Un ejemplo del peligro de interpretar como auténtica una comunicación no verificada.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1043
+  },
+  {
+    "yr": 1999,
+    "tipo": "policia-cientifica",
+    "fecha": "1999-03-10",
+    "titulo": "Comando Donosti: una policía infiltrada conduce a la detención de dos etarras",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1999\" data-fecha=\"1999-03-10\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1999</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Comando Donosti: una policía infiltrada conduce a la detención de dos etarras</h3>\n    <p><strong>Infiltración · 10 de marzo:</strong> Una agente de la Policía Nacional que había actuado durante años bajo identidad supuesta en el entorno de ETA lleva en su propio vehículo a dos integrantes del comando Donosti hasta la cita donde son detenidos. La operación, iniciada años antes, había incluido convivencia y transmisión clandestina de información. Es uno de los casos españoles más conocidos de infiltración prolongada. Su historia inspirará la película <em>La infiltrada</em> (2024).</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1048
+  },
+  {
+    "yr": 2013,
+    "tipo": "policia-cientifica",
+    "fecha": "2013-10-01",
+    "titulo": "Silk Road: compras encubiertas para investigar un mercado criminal digital",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2013\" data-fecha=\"2013-10-01\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2013</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Silk Road: compras encubiertas para investigar un mercado criminal digital</h3>\n    <p><strong>Investigación digital · 1 de octubre:</strong> El FBI detiene a Ross Ulbricht, creador del mercado clandestino Silk Road, tras una investigación internacional que combinó rastreo digital, cooperación policial y numerosas compras encubiertas de drogas realizadas en la plataforma. El operativo demuestra que la infiltración puede desarrollarse también mediante identidades en línea y pruebas de transacciones, sin presencia física de agentes. La causa acabará revelando además delitos cometidos por agentes de una de las unidades investigadoras.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1049
+  },
+  {
+    "yr": 1969,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El Zodiaco envía una camisa ensangrentada para acreditar un asesinato",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1969\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1969</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Zodiaco envía una camisa ensangrentada para acreditar un asesinato</h3>\n    <p><strong>Crimen e indicio material · Octubre:</strong> El taxista Paul Stine es asesinado el 11 de octubre en San Francisco. Dos días después, una carta enviada al periódico <em>San Francisco Chronicle</em> incluye un fragmento de su camisa manchada de sangre. El remitente, que se presenta como el asesino del Zodiaco, utiliza la prenda como prueba de su relación directa con el crimen. El tejido ayuda a vincular la comunicación con la víctima, aunque no identifica por sí solo al autor. El episodio enlaza el caso real del Zodiaco, ya presente en la cronología, con la investigación retratada en la película <em>Zodiac</em> (2007), de David Fincher.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1109
+  },
+  {
+    "yr": 2001,
+    "tipo": "policia-cientifica",
+    "fecha": "2001-12-09",
+    "titulo": "Kathleen Peterson: ¿caída accidental o agresión? La disputa por las manchas de sangre",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2001\" data-fecha=\"2001-12-09\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Kathleen Peterson: ¿caída accidental o agresión? La disputa por las manchas de sangre</h3>\n    <p><strong>Muerte sospechosa · 9 de diciembre:</strong> Kathleen Peterson aparece muerta al pie de una escalera de su casa en Durham, Carolina del Norte. Su marido, el escritor Michael Peterson, sostiene que sufrió una caída accidental, mientras la acusación interpreta determinadas lesiones y patrones de manchas como indicios de una agresión. Condenado por asesinato en 2003, obtiene un nuevo juicio en 2011 tras cuestionarse gravemente el testimonio de un analista de salpicaduras; en 2017 acepta una declaración judicial <em>Alford</em> por homicidio, sin admitir haber cometido los hechos. El caso se convierte en un ejemplo central de los límites y controversias del análisis de patrones sanguíneos.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1113
+  },
+  {
+    "yr": 2003,
+    "tipo": "policia-cientifica",
+    "fecha": "2003-02-03",
+    "titulo": "Lana Clarkson y Phil Spector: las salpicaduras de sangre ante el jurado",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2003\" data-fecha=\"2003-02-03\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2003</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Lana Clarkson y Phil Spector: las salpicaduras de sangre ante el jurado</h3>\n    <p><strong>Asesinato · 3 de febrero:</strong> La actriz Lana Clarkson muere de un disparo en la residencia del productor musical Phil Spector, en California. Durante el proceso judicial, acusación y defensa presentan interpretaciones enfrentadas sobre el origen y la distribución de la sangre hallada en la ropa del productor y en la escena. Los expertos discuten qué puede inferirse de las salpicaduras acerca de las posiciones y la distancia entre las personas implicadas. Tras un primer juicio sin veredicto, Spector es declarado culpable de asesinato en 2009. El caso ilustra cómo una misma evidencia física puede suscitar reconstrucciones periciales incompatibles.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1114
+  },
+  {
+    "yr": 1968,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El asesinato de Robert F. Kennedy: las heridas revelan la distancia y dirección del disparo",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1968\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1968</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El asesinato de Robert F. Kennedy: las heridas revelan la distancia y dirección del disparo</h3>\n    <p><strong>Asesinato · 5 de junio:</strong> El senador Robert F. Kennedy es tiroteado en el hotel Ambassador de Los Ángeles después de celebrar su victoria en las primarias de California. Fallece el día 6. Sirhan Sirhan es detenido en el lugar de los hechos y posteriormente condenado. La autopsia realizada por el doctor Thomas Noguchi describe heridas de bala, entre ellas la lesión mortal detrás de la oreja derecha, y aporta datos sobre la proximidad y dirección de los disparos. Estos hallazgos han generado controversias sobre la reconstrucción de la escena. Es un caso fundamental para distinguir entre los datos médico-forenses verificables y las interpretaciones o hipótesis sobre la mecánica de un atentado.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1153
+  },
+  {
+    "yr": 1976,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El Hijo de Sam: una pistola del calibre .44 conecta los tiroteos de Nueva York",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1976\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1976</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El Hijo de Sam: una pistola del calibre .44 conecta los tiroteos de Nueva York</h3>\n    <p><strong>Crímenes · 1976–1977:</strong> David Berkowitz comienza una serie de ataques con arma de fuego contra jóvenes en Nueva York, que causa seis muertos y varios heridos. Los investigadores observan la repetición de un revólver del calibre .44 y estudian proyectiles y circunstancias de los distintos tiroteos para relacionarlos. La investigación también depende de testimonios, cartas del asesino y una multa de tráfico que ayuda a identificarlo. Berkowitz es detenido el 10 de agosto de 1977. Apodado «el Hijo de Sam», el caso muestra cómo los indicios balísticos pueden contribuir a reconocer una serie criminal, aunque no sustituyen a las demás pruebas necesarias para localizar al responsable.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1155
+  },
+  {
+    "yr": 2002,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Los francotiradores de Washington: la comparación de proyectiles relaciona varios ataques",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2002\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2002</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Los francotiradores de Washington: la comparación de proyectiles relaciona varios ataques</h3>\n    <p><strong>Crímenes · Octubre:</strong> Durante veintitrés días, una serie de disparos contra víctimas escogidas aparentemente al azar causa diez muertos y varios heridos en el área de Washington D. C. La investigación del FBI y la ATF combina testimonios, huellas dactilares, pistas telefónicas y análisis balísticos de distintas escenas. Los responsables, John Allen Muhammad y Lee Boyd Malvo, son detenidos el 24 de octubre. En el maletero de su vehículo se encuentra un fusil Bushmaster del calibre .223 y una abertura preparada para disparar sin salir del coche. El caso demuestra el valor de relacionar sucesos separados por medio de las pruebas sobre armas y municiones, sin atribuir la resolución exclusivamente a la balística.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1161
+  },
+  {
+    "yr": 1991,
+    "tipo": "policia-cientifica",
+    "fecha": "1991-12-23",
+    "titulo": "Cameron Todd Willingham: las marcas del fuego se convierten en prueba de asesinato",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1991\" data-fecha=\"1991-12-23\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1991</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Cameron Todd Willingham: las marcas del fuego se convierten en prueba de asesinato</h3>\n    <p><strong>Incendio y controversia pericial · 23 de diciembre:</strong> Tres niñas mueren al incendiarse la casa familiar en Corsicana, Texas. Los investigadores interpretan distintos patrones del fuego como señales de que se utilizó un acelerante y acusan a su padre, Cameron Todd Willingham, de provocar el siniestro. Es condenado y ejecutado en 2004. Revisiones técnicas posteriores cuestionan seriamente los métodos empleados para concluir que el incendio fue intencionado. El caso es una referencia del debate sobre errores judiciales: patrones llamativos no equivalen, por sí solos, a una prueba de incendio provocado; tampoco existe una exoneración judicial definitiva.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.txcourts.gov/media/1445884/fr_willingham-willis-w-addendum-10312011.pdf",
+      "https://www.texastribune.org/2011/04/14/cameron-todd-willingham-a-timeline/"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1214
+  },
+  {
+    "yr": 1993,
+    "tipo": "policia-cientifica",
+    "fecha": "1993-02-26",
+    "titulo": "El atentado del World Trade Center: un número de chasis aparece entre los escombros",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1993\" data-fecha=\"1993-02-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El atentado del World Trade Center: un número de chasis aparece entre los escombros</h3>\n    <p><strong>Investigación de explosivos · 26 de febrero:</strong> Un artefacto colocado en una furgoneta explota en el aparcamiento subterráneo del World Trade Center de Nueva York y causa seis muertes. Entre los restos de la explosión, los investigadores recuperan una pieza con un número de identificación de vehículo parcialmente alterado. El rastro conduce a una furgoneta alquilada y declarada robada; su arrendatario es detenido cuando intenta recuperar la fianza. La investigación ejemplifica cómo los fragmentos de objetos destruidos pueden reconstruir la procedencia de un dispositivo explosivo y orientar las detenciones.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.fbi.gov/history/cases-and-criminals/world-trade-center-bombing-1993"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1215
+  },
+  {
+    "yr": 2016,
+    "tipo": "policia-cientifica",
+    "fecha": "2016-04-26",
+    "titulo": "Hillsborough: nuevas investigaciones rechazan la versión inicial de 96 muertes",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2016\" data-fecha=\"2016-04-26\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Hillsborough: nuevas investigaciones rechazan la versión inicial de 96 muertes</h3>\n    <p><strong>Asfixia y revisión médico-legal · 26 de abril:</strong> Tras décadas de reclamaciones familiares, un nuevo jurado de investigación concluye que las 96 víctimas mortales reconocidas entonces de la tragedia de Hillsborough, ocurrida en 1989, fueron objeto de muertes ilícitas. La revisión cuestiona el antiguo corte horario de las 15:15, que había restringido el examen de las posibilidades de supervivencia y de la asistencia posterior. La interpretación de la asfixia por compresión y de sus tiempos adquiere una importancia decisiva. En 2021 se reconocerá una víctima mortal número 97. El caso evidencia cómo una conclusión médico-legal puede afectar a toda una investigación institucional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.gov.uk/government/speeches/determinations-and-findings-of-the-hillsborough-inquests",
+      "https://www.gov.uk/government/publications/independent-review-of-forensic-pathology/independent-review-of-forensic-pathology-accessible"
+    ],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1249
+  },
+  {
+    "yr": 1957,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "George Metesky: el «Bombardero Loco» y el perfil que hizo historia",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1957\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1957</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>George Metesky: el «Bombardero Loco» y el perfil que hizo historia</h3>\n    <p><strong>Detención · 21 de enero:</strong> La policía detiene en Connecticut a George Metesky, responsable de una larga campaña de explosivos colocados en lugares públicos de Nueva York. El psiquiatra James Brussel había elaborado en 1956 un perfil del autor a partir de sus cartas y de los lugares atacados. La descripción ganó notoriedad por varias coincidencias con el detenido, aunque la investigación también se apoyó decisivamente en las cartas y los registros laborales de la compañía eléctrica contra la que Metesky guardaba resentimiento. El caso se convierte en uno de los antecedentes más citados de la perfilación criminal.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1287
+  },
+  {
+    "yr": 1979,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Los asesinatos de Atlanta: cuando el FBI buscó un patrón de conducta",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1979\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1979</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Los asesinatos de Atlanta: cuando el FBI buscó un patrón de conducta</h3>\n    <p><strong>Inicio de una serie criminal · 1979:</strong> Comienzan en Atlanta varias desapariciones y asesinatos de menores y jóvenes afroamericanos que causan una profunda conmoción social. El FBI participa en la investigación desde 1980, incluida su Unidad de Ciencias del Comportamiento, que elabora un perfil del posible responsable. Wayne Williams es detenido en 1981 y condenado en 1982 por el asesinato de dos adultos; no fue juzgado ni condenado por todos los crímenes infantiles atribuidos a la serie. El caso se convierte en un ejemplo histórico del uso policial de perfiles y de sus límites frente a las pruebas materiales y judiciales.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1295
+  },
+  {
+    "yr": 1986,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "John Duffy: el «asesino del ferrocarril» y la perfilación británica",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1986\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1986</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>John Duffy: el «asesino del ferrocarril» y la perfilación británica</h3>\n    <p><strong>Investigación y detención · 1986:</strong> La policía británica detiene a John Duffy, investigado por agresiones sexuales y asesinatos cometidos en las proximidades de líneas ferroviarias. El psicólogo David Canter había colaborado con los investigadores mediante el análisis de conductas, localizaciones y características de los ataques. Su trabajo se convierte en un referente temprano de la psicología investigativa aplicada por la policía británica. Duffy será condenado en 1988 por dos asesinatos y varios delitos sexuales. El perfil fue una herramienta de apoyo, no una prueba autónoma de culpabilidad ni la única vía que condujo a su identificación.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1296
+  },
+  {
+    "yr": 1990,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Andréi Chikatilo: el perfil psicológico entra en una caza criminal soviética",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1990\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1990</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Andréi Chikatilo: el perfil psicológico entra en una caza criminal soviética</h3>\n    <p><strong>Detención · Noviembre:</strong> La policía soviética arresta a Andréi Chikatilo tras una prolongada investigación sobre numerosos asesinatos de mujeres y menores en la región de Rostov. El psiquiatra Aleksandr Bujanovski había elaborado un perfil psicológico del agresor y posteriormente interviene en las entrevistas con el sospechoso ya detenido. El caso muestra la posible utilidad de la psicología para orientar investigaciones y facilitar interrogatorios, pero también los fallos policiales, las sospechas erróneas y los límites de las interpretaciones conductuales. Su historia inspirará la película <em>Ciudadano X</em> (1995).</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1297
+  },
+  {
+    "yr": 1922,
+    "tipo": "policia-cientifica",
+    "fecha": "1922-04-04",
+    "titulo": "Hinterkaifeck: los curiosos destruyen las huellas de seis asesinatos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1922\" data-fecha=\"1922-04-04\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1922</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Hinterkaifeck: los curiosos destruyen las huellas de seis asesinatos</h3>\n    <p><strong>Crimen · 4 de abril:</strong> Se descubren seis cadáveres en la aislada granja bávara de Hinterkaifeck, asesinados probablemente la noche del 31 de marzo. Vecinos y curiosos han entrado en el inmueble antes de que los investigadores puedan protegerlo, alterando o destruyendo numerosos rastros. El arma, una azada, no se localizará hasta el derribo de la casa en 1923. El caso permanece sin resolver y constituye un ejemplo histórico de las consecuencias de no preservar la escena. Inspirará la novela <em>Tannöd, el lugar del crimen</em> (2006), de Andrea Maria Schenkel.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1336
+  },
+  {
+    "yr": 1928,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Los asesinatos del gallinero de Wineville: excavar una granja para buscar a los desaparecidos",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1928\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1928</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Los asesinatos del gallinero de Wineville: excavar una granja para buscar a los desaparecidos</h3>\n    <p><strong>Investigación · Septiembre:</strong> Las declaraciones de Sanford Clark conducen a los investigadores hasta el rancho californiano de Gordon Stewart Northcott, sospechoso de secuestrar y asesinar a varios niños. La inspección y excavación del terreno permiten recuperar fragmentos óseos y objetos relacionados con algunas víctimas, aunque no esclarecen definitivamente el destino de todos los desaparecidos. El caso se entrelaza con la búsqueda de Walter Collins, cuya madre sufrió graves abusos institucionales. Clint Eastwood recreará parte de esta historia en <em>El intercambio</em> (2008).</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1337
+  },
+  {
+    "yr": 1975,
+    "tipo": "policia-cientifica",
+    "fecha": "1975-10-30",
+    "titulo": "Martha Moxley: un palo de golf roto se convierte en la prueba material del crimen",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1975\" data-fecha=\"1975-10-30\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1975</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Martha Moxley: un palo de golf roto se convierte en la prueba material del crimen</h3>\n    <p><strong>Asesinato · 30 de octubre:</strong> Martha Moxley, de quince años, es asesinada en Greenwich, Connecticut. En la inspección se recogen la cabeza y varios fragmentos de un palo de golf, mientras que la sección del mango nunca aparece. El estudio de los restos permite reconstruir aspectos de la agresión, pero la identidad del responsable continúa siendo objeto de un largo y complejo proceso judicial. Michael Skakel fue condenado en 2002, su condena se anuló en 2018 y la fiscalía renunció a juzgarlo de nuevo en 2020. El caso muestra que reconstruir el mecanismo no siempre resuelve la autoría.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1338
+  },
+  {
+    "yr": 2006,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Operación Ottawa: los indicios conservados reabren los asesinatos de Pembrokeshire",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Operación Ottawa: los indicios conservados reabren los asesinatos de Pembrokeshire</h3>\n    <p><strong>Investigación · 2006:</strong> La policía galesa vuelve a examinar dos dobles asesinatos perpetrados en 1985 y 1989 en Pembrokeshire. La revisión metódica de pruebas antiguas, fibras textiles, restos biológicos y objetos conservados permite establecer nuevas conexiones con John Cooper, un delincuente que ya había sido encarcelado por otros delitos. Detenido de nuevo en 2009, será condenado por los cuatro asesinatos en 2011. El caso demuestra cómo una correcta conservación de indicios puede resultar decisiva décadas después y servirá de base a la miniserie <em>Los crímenes de Pembrokeshire</em> (2021).</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1341
+  },
+  {
+    "yr": 2017,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Kim Wall: el mar se convierte en una escena del crimen",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2017\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2017</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Kim Wall: el mar se convierte en una escena del crimen</h3>\n    <p><strong>Investigación · Agosto:</strong> La periodista sueca Kim Wall desaparece tras embarcar en un submarino artesanal cerca de Copenhague. La investigación obliga a inspeccionar una embarcación hundida y organizar búsquedas y recuperaciones de restos humanos en el mar, un escenario cambiante y especialmente difícil de preservar. La cooperación entre policías, buzos y especialistas permite reconstruir el caso. Peter Madsen será condenado por su asesinato en 2018. La investigación inspirará la miniserie danesa <em>La investigación</em> (2020), centrada en la paciencia y el trabajo colectivo de los equipos policiales.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1343
+  },
+  {
+    "yr": 1972,
+    "tipo": "policia-cientifica",
+    "fecha": "1972-03-30",
+    "titulo": "Clifford Irving: una falsa autobiografía de Howard Hughes cae por las firmas",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1972\" data-fecha=\"1972-03-30\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1972</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Clifford Irving: una falsa autobiografía de Howard Hughes cae por las firmas</h3>\n    <p><strong>Fraude y escritura · 30 de marzo:</strong> El escritor Clifford Irving admite que había inventado una autobiografía autorizada del multimillonario Howard Hughes y falsificado correspondencia para convencer a la editorial McGraw-Hill. Algunas comprobaciones privadas habían considerado compatibles las supuestas cartas con la escritura de Hughes, pero los inspectores postales comparan también los hábitos gráficos de Irving y encuentran semejanzas significativas. El caso demuestra que un documento aparentemente convincente exige verificar su procedencia y examinar explicaciones alternativas. Irving será condenado por el fraude.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1406
+  },
+  {
+    "yr": 1993,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El supuesto diario de Jack el Destripador fracasa ante los examinadores",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1993\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1993</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El supuesto diario de Jack el Destripador fracasa ante los examinadores</h3>\n    <p><strong>Manuscritos cuestionados · Septiembre:</strong> Un volumen presentado como diario del comerciante James Maybrick pretende demostrar que fue Jack el Destripador. Antes de su lanzamiento estadounidense, varios especialistas cuestionan la escritura, las expresiones utilizadas y la historia material del cuaderno. Warner Books cancela su publicación en septiembre; la edición británica sigue adelante pese a las objeciones. El documento es ampliamente considerado una falsificación, pero no está establecida de forma concluyente la identidad de todos los implicados en su elaboración. El episodio ilustra las dificultades para fechar tintas y autenticar manuscritos de procedencia incierta.</p>\n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1409
+  },
+  {
+    "yr": 1995,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "El juicio de O. J. Simpson",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"1995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>El juicio de O. J. Simpson</h3>\n    <p>Juicio: El proceso penal contra O. J. Simpson se celebra en 1995, tras los asesinatos de 1994, y pone en primer plano la recogida, conservación y presentación de pruebas biológicas. El proceso se convirtió en un espectáculo mediático mundial. La presentación y la cadena de custodia de las pruebas biológicas fueron objeto de intensas discusiones entre acusación y defensa.</p>\n    \n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1881
+  },
+  {
+    "yr": 2005,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Detención de Dennis Rader",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2005\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2005</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Detención de Dennis Rader</h3>\n    <p>Detención: Dennis Rader, conocido como BTK, es detenido en febrero de 2005 después de que los metadatos de un disquete lo vinculen a una iglesia; la investigación incorpora además pruebas genéticas. El indicio digital permitió rastrear un archivo hasta la congregación asociada con Rader. El caso muestra que un delincuente puede dejar huellas informáticas incluso al intentar comunicarse de forma anónima.</p>\n    \n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1894
+  },
+  {
+    "yr": 2018,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Arresto del Golden State Killer",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Arresto del Golden State Killer</h3>\n    <p><strong>Detención:</strong> Joseph James DeAngelo es detenido tras décadas de investigación gracias al uso de genealogía genética forense, abriendo una nueva etapa en la resolución de casos fríos. Los investigadores combinaron indicios de ADN con búsquedas de parentesco en bases genealógicas y comprobaciones posteriores. El caso abrió un amplio debate sobre privacidad y uso policial de datos familiares.</p>\n    \n  </div>\n</article>",
+    "fuentes": [],
+    "procedencia": "Texto pegado(20261116-201329).txt",
+    "orden": 1908
+  },
+  {
+    "yr": 2001,
+    "tipo": "policia-cientifica",
+    "fecha": "",
+    "titulo": "Ötzi: las radiografías descubren una punta de flecha en la momia",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2001\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2001</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Ötzi: las radiografías descubren una punta de flecha en la momia</h3>\n    <p><strong>Una radiografía permite identificar la prueba decisiva de una muerte violenta ocurrida miles de años atrás.</strong> En 2001, el radiólogo Paul Gostner reconoce una punta de sílex alojada en el hombro izquierdo de Ötzi, cuyo cuerpo se había descubierto en los Alpes en 1991. El examen revela además una herida de entrada en la espalda y obliga a revisar la antigua interpretación de su muerte. La investigación posterior relaciona la lesión con una hemorragia grave. La fecha de esta tarjeta corresponde al hallazgo radiológico; la muerte prehistórica sigue recogida por separado en True Crime.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.iceman.it/en/the-research/milestones",
+      "https://www.iceman.it/en/oetzi/the-body"
+    ],
+    "procedencia": "Revisión editorial True Crime / Crime Scene, noviembre de 2026",
+    "orden": 65053
+  },
+  {
+    "yr": 2012,
+    "tipo": "policia-cientifica",
+    "fecha": "2012-12-17",
+    "titulo": "Ramsés III: una tomografía revela una herida mortal en la garganta",
+    "html": "<article class=\"item-evento\" data-tipo=\"policia-cientifica\" data-yr=\"2012\" data-fecha=\"2012-12-17\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2012</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CRIME SCENE</span>\n    <h3>Ramsés III: una tomografía revela una herida mortal en la garganta</h3>\n    <p><strong>El examen radiológico de una momia permite contrastar pruebas físicas modernas con un complot documentado en el antiguo Egipto.</strong> El 17 de diciembre de 2012, un equipo internacional publica en <em>BMJ</em> un estudio de la momia de Ramsés III. Las tomografías muestran una profunda herida en el cuello, compatible con una lesión letal causada por un arma cortante. Los hallazgos apoyan la hipótesis de que el faraón fue asesinado durante la llamada conspiración del harén, conocida por documentos judiciales de la época. La tarjeta histórica del atentado permanece en True Crime con su datación antigua.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.bmj.com/content/345/bmj.e8268",
+      "https://pubmed.ncbi.nlm.nih.gov/23247979/"
+    ],
+    "procedencia": "Revisión editorial True Crime / Crime Scene, noviembre de 2026",
+    "orden": 65054
   }
 ]
