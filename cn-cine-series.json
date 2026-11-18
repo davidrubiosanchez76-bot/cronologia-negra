@@ -4175,8 +4175,10 @@
     "tipo": "audiovisual",
     "fecha": "",
     "titulo": "Millennium: Los hombres que no amaban a las mujeres",
-    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Millennium: Los hombres que no amaban a las mujeres</h3>\n    <p><strong>Cine:</strong> La adaptación de la novela de Stieg Larsson lleva a Lisbeth Salander al imaginario audiovisual internacional y refuerza la expansión global del Nordic Noir. La película sueca dirigida por Niels Arden Oplev adapta el inicio de la trilogía Millennium. Su éxito internacional contribuyó al auge de las adaptaciones audiovisuales nórdicas.</p>\n    \n  </div>\n</article>",
-    "fuentes": [],
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2009\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2009</span></div>\n  <div class=\"cn-event-body\"><span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Millennium: Los hombres que no amaban a las mujeres</h3>\n    <p><strong>Cine:</strong> La adaptación de la novela de Stieg Larsson lleva a Lisbeth Salander al imaginario audiovisual internacional y refuerza la expansión global del Nordic Noir. La película sueca dirigida por Niels Arden Oplev adapta el inicio de la trilogía Millennium. Su éxito internacional contribuyó al auge de las adaptaciones audiovisuales nórdicas. Además de los crímenes familiares investigados, la película incorpora los accesos informáticos de Lisbeth Salander como parte de la obtención de información, lo que conecta el Nordic Noir audiovisual con la ciberdelincuencia.</p>\n    \n  </div>\n</article>",
+    "fuentes": [
+      "https://www.filmin.es/pelicula/millennium-los-hombres-que-no-amaban-a-las-mujeres"
+    ],
     "procedencia": "Texto pegado(20261116-201329).txt",
     "orden": 1898
   },
@@ -7438,5 +7440,239 @@
     "procedencia": "Conexiones con literatura, cine y Crime Scene · 18 noviembre 2026",
     "orden": 62152,
     "tema": "ESTAFAS Y CRIMEN ECONÓMICO Y EMPRESARIAL"
+  },
+  {
+    "yr": 1983,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Juegos de guerra: un acceso informático pone en alerta al sistema militar",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1983\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1983</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Juegos de guerra: un acceso informático pone en alerta al sistema militar</h3>\n    <p><strong>Película · John Badham · Estados Unidos · 1983.</strong> Un adolescente entra por accidente en un sistema militar mientras busca videojuegos y provoca una crisis internacional. El relato lleva al cine popular el acceso no autorizado, las contraseñas débiles y la necesidad de distinguir una simulación de una amenaza real. Es un thriller tecnológico de la Guerra Fría, no una reconstrucción exacta de los procedimientos de NORAD.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://catalog.afi.com/catalog/moviedetails/67139"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62153,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 1992,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Los fisgones: expertos en seguridad atrapados en un robo tecnológico",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1992\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1992</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Los fisgones: expertos en seguridad atrapados en un robo tecnológico</h3>\n    <p><strong>Película · Phil Alden Robinson · Estados Unidos · 1992.</strong> Un equipo especializado en comprobar la seguridad de empresas recibe un encargo para obtener una caja capaz de comprometer comunicaciones cifradas. El supuesto trabajo legal encubre una trama criminal; vigilancia, engaño, intrusión y criptografía organizan el suspense. <strong>Título original:</strong> <em>Sneakers</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?Pelicula=1693&q=true",
+      "https://www.filmin.es/pelicula/sneakers-los-fisgones"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62154,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 1995,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Hackers: piratas informáticos y una estafa empresarial en la red",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"1995\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">1995</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Hackers: piratas informáticos y una estafa empresarial en la red</h3>\n    <p><strong>Película · Iain Softley · Estados Unidos · 1995.</strong> Un grupo de jóvenes hackers queda implicado en la investigación de un programa informático utilizado para una estafa financiera y acaba enfrentándose a un experto de seguridad corrupto. La obra, estilizada y poco realista técnicamente, representa un momento cultural en que el hacker entra en la ficción criminal masiva. <strong>Título original:</strong> <em>Hackers</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.filmin.es/pelicula/hackers-piratas-informaticos",
+      "https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?Pelicula=42794"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62155,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2006,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Firewall: secuestro y robo bancario mediante sistemas informáticos",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2006\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2006</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Firewall: secuestro y robo bancario mediante sistemas informáticos</h3>\n    <p><strong>Película · Richard Loncraine · Estados Unidos · 2006.</strong> Un delincuente secuestra a la familia del responsable de seguridad de un banco y le exige aprovechar sus privilegios para transferir dinero. El thriller vincula el delito informático con la extorsión física y demuestra cómo las credenciales de un empleado autorizado pueden utilizarse para ordenar un robo aparentemente legítimo.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/70043938",
+      "https://www.rtve.es/play/noticias/20230714/harrison-ford-pelicula-accion-cine-gratis-rtve-play/2451806.shtml"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62156,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2014,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Who Am I: ningún sistema es seguro y Europol persigue a un grupo hacker",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2014\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2014</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Who Am I: ningún sistema es seguro y Europol persigue a un grupo hacker</h3>\n    <p><strong>Película · Baran bo Odar · Alemania · 2014.</strong> Benjamin entra en una agrupación de intrusos informáticos que intenta alcanzar notoriedad mediante operaciones ilegales. Sus acciones desencadenan una investigación policial alemana y europea. La suplantación, el anonimato digital y el juego de identidades articulan una intriga de engaño y persecución que conecta el thriller policial con la cultura hacker.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.filmin.es/pelicula/who-am-i-ningun-sistema-es-seguro",
+      "https://www.goethe.de/resources/files/pdf95/goethe-film-week-2016.pdf"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62157,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2015,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Blackhat: Amenaza en la red, un thriller policial sobre intrusiones transnacionales",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2015\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Blackhat: Amenaza en la red, un thriller policial sobre intrusiones transnacionales</h3>\n    <p><strong>Película · Michael Mann · Estados Unidos · 2015.</strong> Un hacker encarcelado colabora con investigadores de Estados Unidos y China para identificar a los autores de ataques informáticos con graves consecuencias en sistemas físicos y financieros. La pesquisa atraviesa varios continentes y convierte servidores, registros y operadores criminales en piezas de un procedural de alcance internacional.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.universalpicturesathome.com/movies/blackhat",
+      "https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?pelicula=141014"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62158,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2015,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Mr. Robot: intrusión masiva, activismo y crimen corporativo",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2015\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2015</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Mr. Robot: intrusión masiva, activismo y crimen corporativo</h3>\n    <p><strong>Serie de televisión · Sam Esmail · Estados Unidos · estreno 2015.</strong> Elliot Alderson trabaja como especialista en ciberseguridad y, al margen de su empleo, participa en actividades de intrusión de un grupo clandestino. La serie convierte el ataque a los sistemas financieros, la ingeniería social y la investigación de los hechos en el centro de un noir tecnológico sobre poder, responsabilidad y delitos digitales. El activismo de sus protagonistas no hace lícitos sus ataques.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://corporate.comcast.com/news-information/news-feed/usas-mr-robot-finally-cracks-the-cyber-drama-code",
+      "https://tv.apple.com/us/show/mr-robot/umc.cmc.306sepo05euzg2r68zzsa02up"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62159,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2016,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Cállate y baila (Black Mirror): extorsión con imágenes captadas por una cámara",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2016\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2016</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Cállate y baila (Black Mirror): extorsión con imágenes captadas por una cámara</h3>\n    <p><strong>Episodio de televisión · Black Mirror, temporada 3 · Reino Unido · 2016.</strong> Un joven recibe mensajes de desconocidos que le amenazan con divulgar imágenes obtenidas mediante el acceso a su cámara. El episodio plantea una cadena de chantajes que obliga a las víctimas a cometer actos cada vez más graves. Sin depender de tecnología futurista, dramatiza la sextorsión, el control remoto de dispositivos y el anonimato del extorsionador. <strong>Título original:</strong> <em>Shut Up and Dance</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.thewrap.com/black-mirror-fact-check-can-hackers-watch-you-through-your-camera/",
+      "https://www.netflix.com/es/title/70264888"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62160,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2018,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Hackerville: una pesquisa europea de delitos informáticos llega a Rumanía",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2018\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2018</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Hackerville: una pesquisa europea de delitos informáticos llega a Rumanía</h3>\n    <p><strong>Miniserie · Alemania y Rumanía · 2018.</strong> Tras el ataque a un banco alemán, una investigadora especializada en ciberdelincuencia viaja a Timișoara para colaborar con la policía local. La identificación de sospechosos y el análisis de vínculos técnicos convierten la cooperación judicial transfronteriza en la base del thriller, con una mirada menos estadounidense al delito digital.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://press.wbd.com/tw/media-release/hbo-europe-partners-germanys-tnt-serie-cyber-crime-drama-hackerville?language_content_entity=en",
+      "https://tv.apple.com/es/show/hackerville/umc.cmc.21kbpdcf01n9a0aw46er3aumw"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62161,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2019,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Cómo vender drogas online (a toda pastilla): narcotráfico desde un portal digital",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2019\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2019</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Cómo vender drogas online (a toda pastilla): narcotráfico desde un portal digital</h3>\n    <p><strong>Serie de televisión · Alemania · estreno 2019.</strong> Un adolescente convierte una web en un mercado de venta ilícita de drogas y termina envuelto en operaciones cada vez más complejas. La serie, concebida como comedia criminal, explica cómo el comercio en línea y el anonimato aparente pueden transformar una actividad de narcotráfico y atraer la atención policial. No se confunde con el caso real en que se inspiró libremente.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/80218448",
+      "https://europeanscreen.com/titles/how-to-sell-drugs-online-fast/"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62162,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2020,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Jamtara: Espera la llamada, una red de estafas telefónicas en India",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2020\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2020</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Jamtara: Espera la llamada, una red de estafas telefónicas en India</h3>\n    <p><strong>Serie de televisión · India · estreno 2020.</strong> Jóvenes de una localidad india se dedican a cometer fraudes mediante llamadas y engaños dirigidos a víctimas a distancia. La investigación policial se complica por la intervención de intereses políticos corruptos. Su interés para el género es mostrar la ciberdelincuencia como economía criminal organizada y no solamente como sofisticadas intrusiones de expertos informáticos. <strong>Título original:</strong> <em>Jamtara: Sabka Number Ayega</em>.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/81183491"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62163,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2021,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Silk Road: el mercado clandestino de internet llega al thriller policial",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Silk Road: el mercado clandestino de internet llega al thriller policial</h3>\n    <p><strong>Película · Tiller Russell · Estados Unidos · 2021.</strong> La ficción dramatiza el nacimiento y la investigación de Silk Road, un mercado de la red oscura donde se vendían drogas y otros bienes ilícitos. La persecución de Ross Ulbricht conecta identidad digital, pagos en bitcoin y métodos de investigación. Es una adaptación cinematográfica que simplifica hechos reales, no una reproducción exacta de la causa judicial.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://watch.afi.com/movie/silk-road-1",
+      "https://tv.apple.com/us/movie/silk-road/umc.cmc.6dsvnb5iim9arqtnwludaw9rw"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62164,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2021,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Blackout (Apagón): la investigación de un ciberataque eléctrico llega a la televisión",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2021\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2021</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Blackout (Apagón): la investigación de un ciberataque eléctrico llega a la televisión</h3>\n    <p><strong>Miniserie · Alemania · estreno 2021.</strong> Adaptación de la novela <em>Blackout</em> (2012) de Marc Elsberg. Tras un apagón generalizado en Europa, las autoridades investigan la posible manipulación maliciosa de infraestructuras energéticas y examinan el papel de un antiguo hacker. No debe confundirse con la serie española <em>Apagón</em> (2022), basada en una tormenta solar y ajena a un delito informático.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://marcelsberg.com/en/screen-adaptation",
+      "https://www.joyn.de/serien/blackout"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62165,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Ciberinfierno: La investigación que destapó el horror, delitos sexuales en salas de chat",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Ciberinfierno: La investigación que destapó el horror, delitos sexuales en salas de chat</h3>\n    <p><strong>Documental · Corea del Sur · 2022.</strong> Investigadoras, periodistas y policías persiguen a los responsables de una red que utilizaba salas de chat para explotar sexualmente y coaccionar a víctimas. El documental muestra cómo las identidades digitales y los registros de comunicaciones pueden orientar una investigación sobre delitos cometidos mediante redes. El vínculo es doble, con ciberdelincuencia y crímenes sexuales.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/81354041",
+      "https://media.netflix.com/en/only-on-netflix/81354041"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62166,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2022,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "El timador de Tinder: estafas afectivas facilitadas por plataformas digitales",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2022\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2022</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>El timador de Tinder: estafas afectivas facilitadas por plataformas digitales</h3>\n    <p><strong>Documental · Reino Unido · 2022.</strong> Varias mujeres relatan los engaños económicos de un hombre que utilizaba una aplicación de citas para construir identidades y vínculos de confianza. La reconstrucción utiliza testimonios, mensajes y movimientos de dinero. Su interés para la ciberdelincuencia reside en el fraude posibilitado por plataformas y redes sociales, no en la intrusión técnica en los servidores de la aplicación.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/81254340"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62167,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2023,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Cyberbunker: Un portal alemán a la dark web y la infraestructura del delito",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2023\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2023</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Cyberbunker: Un portal alemán a la dark web y la infraestructura del delito</h3>\n    <p><strong>Documental · Alemania · 2023.</strong> Reconstruye cómo un antiguo búnker se convierte en alojamiento de servicios vinculados a mercados y actividades criminales en internet. La investigación policial tiene que distinguir a los proveedores de infraestructura de las organizaciones que utilizan sus sistemas. La obra permite explicar que el delito digital incluye redes de apoyo y alojamiento técnico, además de quienes realizan la estafa o la extorsión final.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/81632983"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62168,
+    "tema": "CIBERDELINCUENCIA"
+  },
+  {
+    "yr": 2025,
+    "tipo": "audiovisual",
+    "fecha": "",
+    "titulo": "Día cero: una comisión busca a los responsables de un ciberataque devastador",
+    "html": "<article class=\"item-evento\" data-tipo=\"audiovisual\" data-yr=\"2025\">\n  <div class=\"cn-year-wrap\"><span class=\"cn-year\">2025</span></div>\n  <div class=\"cn-event-body\">\n    <span class=\"cn-event-category\">CINE Y SERIES</span>\n    <h3>Día cero: una comisión busca a los responsables de un ciberataque devastador</h3>\n    <p><strong>Miniserie · Estados Unidos · estreno 2025.</strong> Un expresidente estadounidense dirige una investigación para identificar a los autores de un ataque informático que ha provocado graves daños y numerosas muertes. <em>Zero Day</em> combina el thriller político con pruebas digitales, atribución de ataques, desinformación y sospechas sobre actores internos o extranjeros. Es ficción y no debe relacionarse con un hecho real concreto sin pruebas.</p>\n  </div>\n</article>",
+    "fuentes": [
+      "https://www.netflix.com/es/title/81598435",
+      "https://www.netflix.com/tudum/articles/zero-day-true-story-facts"
+    ],
+    "procedencia": "Conexiones CIBERDELINCUENCIA · cine y series · 18 noviembre 2026",
+    "orden": 62169,
+    "tema": "CIBERDELINCUENCIA"
   }
 ]
